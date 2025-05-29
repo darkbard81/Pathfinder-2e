@@ -1,5 +1,5 @@
 # Pathfinder 2e TRPG
->> Pathfinder 2e Core Rulebook (2019)
+> Pathfinder 2e Core Rulebook (2019)
 
 --- 
 
