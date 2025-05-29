@@ -7,7 +7,7 @@
   * 설정: Android + 실험 병기 콘셉트 기반 확장
 
 ## 아이템 구상:
-> 커스터마이즈 무기 이름: Modified Greatsword - Breaker Fang (제안)
+> **커스터마이즈 무기 이름** : <code>Modified Greatsword - Breaker Fang</code> *(제안)*
 
 | 속성         | 내용                                                       |
 | ---------- | -------------------------------------------------------- |
