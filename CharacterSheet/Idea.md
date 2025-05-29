@@ -7,15 +7,17 @@
   * 설정: Android + 실험 병기 콘셉트 기반 확장
 
 ### Custom Class Feats
+
 * **Protective Rage** *(라비아타 전용)*  
   - **Trigger**: 보호 지정 대상이 피해를 입을 때 (1라운드 1회 제한)  
   - **Reaction**: Will Save (DC 15)
     - 성공 시: 리액션으로 **즉시 Rage 발동**
-    - 실패 시: **다음 라운드 첫 행동**으로 강제 Rage 발동
+    - 실패 시: **다음 라운드 첫 행동**으로 강제 Rage 발동  
   - **Rage 발동 시 추가 효과**:  
     → 보호 지정 대상을 공격한 적에게 **즉시 접근**  
     → 반드시 **Step**, **Stride**, **Sudden Charge** 중 하나 사용  
-    ※ 공격은 강제 아님
+    ※ 공격은 강제 아님  
+  - **지정 룰**: 휴식 또는 유동 시간 중 **보호 대상 1명 선언**, 다음 휴식까지 변경 불가
 
 ## 아이템 구상:
 > **커스터마이즈 무기 이름** : <code>Modified Greatsword - Breaker Fang</code> *(제안)*
