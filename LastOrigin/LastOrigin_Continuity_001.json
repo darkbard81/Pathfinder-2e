@@ -1,0 +1,243 @@
+{
+  "campaign": "LastOrigin - 도둑맞은 땅의 프론티어 탐사기록",
+  "location": "무한의 프론티어 1층",
+  "party": {
+    "leader": "슬라몬",
+    "members": [
+      {
+        "name": "슬라몬",
+        "level": 3,
+        "gear": {
+          "weapon": "Rapier",
+          "armor": "Chain Shirt"
+        },
+        "spells": {
+          "1": {
+            "slots_total": 2,
+            "slots_used": 0,
+            "prepared": ["Shield", "Shocking Grasp"]
+          },
+          "2": {
+            "slots_total": 1,
+            "slots_used": 1,
+            "prepared": ["Mirror Image"]
+          },
+          "focus_points": 0
+        }
+      },
+      {
+        "name": "리산드라",
+        "level": 3,
+        "gear": {
+          "weapon": "Whip",
+          "armor": "Hide Armor"
+        },
+        "spells": {
+          "1": {
+            "slots_total": 3,
+            "slots_used": 0,
+            "prepared": ["Harm", "Bless", "Command"]
+          },
+          "2": {
+            "slots_total": 1,
+            "slots_used": 0,
+            "prepared": ["Spiritual Weapon"]
+          },
+          "focus_points": 1
+        }
+      },
+      {
+        "name": "키티",
+        "level": 3,
+        "gear": {
+          "weapon": "Dagger",
+          "armor": "Leather Armor"
+        },
+        "spells": {}
+      },
+      {
+        "name": "라비아타",
+        "level": 3,
+        "gear": {
+          "weapon": "Greatsword",
+          "armor": "Hide Armor"
+        },
+        "spells": {}
+      }
+    ]
+  },
+  "time": {
+    "current_day": 1,
+    "clock": "10:30",
+    "activity_hours": 4,
+    "utility_hours": 1,
+    "sleep_hours": 0,
+    "last_meal": "08:30",
+    "last_sleep": ""
+  },
+  "world_state": {
+    "dungeon_floor": 1,
+    "frontier_warp_marker": true,
+    "passport_events": [],
+    "last_checkpoint": "붕괴된 철제 다리 앞 도달",
+    "last_checkpoint_desc": "조각상을 통한 장치 해제를 마친 후, 파티는 진형을 유지한 채 붕괴된 바닥 위에 걸쳐진 철제 다리 앞에 도달하였다. 다리는 낡고 폭이 좁아 조심히 건너야 하며, 그 너머에는 아치형 석문과 푸른빛이 새어 나오는 통로가 기다리고 있다."
+  },
+  "relationships": {
+    "슬라몬": {
+      "키티": 1,
+      "리산드라": 1,
+      "라비아타": 1
+    }
+  },
+  "scene_log": [
+    {
+      "timestamp": "Day 1 - 08:00",
+      "location": "패스포트 - 길드 오브 프론티어즈",
+      "description": "4인 파티 정시 등록 및 워프마커 발급",
+      "time_spent": "1시간"
+    },
+    {
+      "timestamp": "Day 1 - 09:00",
+      "location": "푸크드르의 향기",
+      "description": "아침 식사 및 보급 구매",
+      "time_spent": "1.5시간"
+    },
+    {
+      "timestamp": "Day 1 - 10:30",
+      "location": "무한의 프론티어 1층",
+      "description": "던전 진입, 조우 및 전투 발생",
+      "time_spent": "2시간"
+    }
+  ],
+  "inventory": {
+    "shared_items": [
+      {"name": "Ration (1-day)", "quantity": 4},
+      {"name": "Healing Potion (Lesser)", "quantity": 2},
+      {"name": "Camping Kit (2-person)", "quantity": 1},
+      {"name": "Purified Water Pack (3 uses)", "quantity": 1},
+      {"name": "Scroll of Bless", "quantity": 1},
+      {"name": "Grave Token", "quantity": 1}
+    ],
+    "party_gold": 50,
+    "character_items": [
+      {"owner": "슬라몬", "name": "Spellbook", "quantity": 1},
+      {"owner": "슬라몬", "name": "Adventurer’s Pack", "quantity": 1},
+      {"owner": "슬라몬", "name": "Healing Potion", "quantity": 3},
+      {"owner": "리산드라", "name": "Adventurer’s Pack", "quantity": 1},
+      {"owner": "리산드라", "name": "Healing Potion", "quantity": 2},
+      {"owner": "리산드라", "name": "Holy Symbol (Calistria)", "quantity": 1},
+      {"owner": "리산드라", "name": "Makeup kit", "quantity": 1},
+      {"owner": "리산드라", "name": "costume tools", "quantity": 1},
+      {"owner": "키티", "name": "Adventurer’s Pack", "quantity": 1},
+      {"owner": "키티", "name": "Thieves’ Tools", "quantity": 1},
+      {"owner": "키티", "name": "Healing Potion", "quantity": 1},
+      {"owner": "키티", "name": "Grappling hook", "quantity": 1},
+      {"owner": "키티", "name": "Rope (50ft)", "quantity": 1},
+      {"owner": "키티", "name": "Small trinkets", "quantity": 1},
+      {"owner": "라비아타", "name": "Adventurer’s Pack", "quantity": 1},
+      {"owner": "라비아타", "name": "Repair Kit", "quantity": 1},
+      {"owner": "라비아타", "name": "Healing Potion", "quantity": 1},
+      {"owner": "라비아타", "name": "Weapon Polish", "quantity": 1},
+      {"owner": "라비아타", "name": "Torch", "quantity": 1},
+      {"owner": "라비아타", "name": "Rope (50 ft)", "quantity": 1},
+      {"owner": "라비아타", "name": "Chalk", "quantity": 1}
+    ]
+  },
+  "emotion_log": [
+    {
+      "log_id": 1,
+      "timestamp": "Day 1 - 08:00",
+      "scene_id": 1,
+      "from": "슬라몬",
+      "to": "키티",
+      "change": "+1",
+      "new_stage": 1,
+      "trigger": "설득을 통해 파티에 합류시킴",
+      "note": "키티가 슬라몬에게 최소한의 신뢰를 가지기 시작함"
+    },
+    {
+      "log_id": 2,
+      "timestamp": "Day 1 - 08:00",
+      "scene_id": 1,
+      "from": "슬라몬",
+      "to": "리산드라",
+      "change": "+1",
+      "new_stage": 1,
+      "trigger": "루미에르의 추천으로 파티에 합류",
+      "note": "리산드라가 슬라몬을 관찰 대상으로 인식함"
+    },
+    {
+      "log_id": 3,
+      "timestamp": "Day 1 - 08:00",
+      "scene_id": 1,
+      "from": "슬라몬",
+      "to": "라비아타",
+      "change": "+1",
+      "new_stage": 1,
+      "trigger": "혈액을 통해 각성하며 주인으로 인식",
+      "note": "라비아타가 본능적으로 보호대상으로 인식함"
+    }
+  ],
+  "levelup_log": [
+    {
+      "character": "슬라몬",
+      "level": 3,
+      "status": "confirmed",
+      "timestamp": "Day 1 - 08:00",
+      "changes": {
+        "hp_increase": 30,
+        "trained_skills_added": ["Diplomacy", "Arcana"],
+        "class_feat_gained": "Spell Parry",
+        "general_feat_gained": "Incredible Initiative",
+        "skill_increases": [],
+        "spells_added": ["Mirror Image"],
+        "notes": ""
+      }
+    },
+    {
+      "character": "키티",
+      "level": 3,
+      "status": "confirmed",
+      "timestamp": "Day 1 - 08:00",
+      "changes": {
+        "hp_increase": 24,
+        "trained_skills_added": ["Stealth", "Thievery"],
+        "class_feat_gained": "Dread Striker",
+        "general_feat_gained": "Cat Fall",
+        "skill_increases": [],
+        "spells_added": [],
+        "notes": ""
+      }
+    },
+    {
+      "character": "리산드라",
+      "level": 3,
+      "status": "confirmed",
+      "timestamp": "Day 1 - 08:00",
+      "changes": {
+        "hp_increase": 24,
+        "trained_skills_added": [],
+        "class_feat_gained": "Communal Healing",
+        "general_feat_gained": "Shield Block",
+        "skill_increases": [],
+        "spells_added": ["Spiritual Weapon"],
+        "notes": "성표를 새기된 헤어핀에 장착함"
+      }
+    },
+    {
+      "character": "라비아타",
+      "level": 3,
+      "status": "confirmed",
+      "timestamp": "Day 1 - 08:00",
+      "changes": {
+        "hp_increase": 30,
+        "trained_skills_added": ["Nature", "Intimidation"],
+        "class_feat_gained": "No Escape",
+        "general_feat_gained": "Diehard",
+        "skill_increases": [],
+        "spells_added": [],
+        "notes": ""
+      }
+    }
+  ]
+}
