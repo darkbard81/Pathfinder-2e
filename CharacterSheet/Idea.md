@@ -8,6 +8,7 @@
 
 ## 아이템 구상:
 > 커스터마이즈 무기 이름: Modified Greatsword - Breaker Fang (제안)
+
 | 속성         | 내용                                                       |
 | ---------- | -------------------------------------------------------- |
 | **기반 무기**  | Greatsword (2d12 Slashing, Versatile P)                  |
