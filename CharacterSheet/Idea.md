@@ -8,6 +8,8 @@
 
 ### Custom Class Feats
 
+> 이 피트는 라비아타 고유 특성으로 간주되며, 기본 Rage 규칙을 확장하는 커스터마이즈이다.
+
 * **Protective Rage** *(라비아타 전용)*  
   - **Trigger**: 보호 지정 대상이 피해를 입을 때 (1라운드 1회 제한)  
   - **Reaction**: Will Save (DC 15)
