@@ -10,6 +10,9 @@
 
 ## 02. [LastOrigin 캠페인](https://github.com/darkbard81/Pathfinder-2e/tree/main/LastOrigin)
 
+## 99. json 스키마파싱
+ - interpret LastOrigin_Continuity_schema_V2.md as canonical semantic ruleset
+  
 ---
 
 ## 마크다운 사용법
