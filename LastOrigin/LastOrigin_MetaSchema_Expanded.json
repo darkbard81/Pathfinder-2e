@@ -1,4 +1,53 @@
 {
+  "world_state": {
+  "type": "object",
+  "description": "캠페인의 전역 상태를 요약 / Global state of the campaign world",
+  "properties": {
+	  "reputation": {
+	  "type": "object",
+	  "description": "진영별 평판 상태 / Faction reputation status",
+	  "additionalProperties": {
+		  "type": "string",
+		  "enum": ["Hostile (원수)", "Unfriendly (적대)", "Neutral (일반)", "Friendly (신뢰)", "Allied (아군)"]
+	  }
+	  },
+	  "deepest_dungeon_floor": {
+	  "type": "integer",
+	  "minimum": 0,
+	  "description": "최종 도달 던전 층수 / Deepest floor reached in dungeon"
+	  },
+	  "warp_markers": {
+		  "type": "array",
+		  "description": "워프 마커 상태 배열 / Status of warp markers placed in dungeon",
+		  "items": {
+		  "type": "object",
+		  "properties": {
+			  "floor": { "type": "integer", "description": "층수 / Dungeon floor" },
+			  "status": {
+			  "type": "string",
+			  "enum": ["active", "used", "deactivated", "broken", "lost"],
+			  "description": "현재 워프 마커 상태 / Marker state (active, used, deactivated, broken, lost)"
+			  }
+		  },
+		  "required": ["floor", "status"]
+		  }
+	  }
+  },
+  "required": ["reputation", "deepest_dungeon_floor", "warp_markers"]
+  },	
+  "time_health": {
+    "fatigue_check_elapsed": {
+      "type": "integer",
+      "description": "Elapsed minutes since last 8-hour sleep / 마지막 수면 이후 누적 경과 시간 (분 단위)"
+    },
+	"hunger_check_elapsed": {
+      "type": "integer",
+      "description": "Elapsed minutes since last 8-hour meal / 마지막 식사 이후 누적 경과 시간 (분 단위)"
+    },	
+    "fatigue": false,
+    "hunger": false,
+    "health_penalty": false
+  },
   "scene_log": {
     "description": "시간 경과에 따라 탐색 흐름과 위치 상태를 기록한 배열 / Logged scene transitions, timestamps, and day transitions",
     "type": "array",
@@ -18,31 +67,19 @@
           "type": "object",
           "properties": {
             "name": { "type": "string" },
-            "type": {
+            "place_type": {
               "type": "string",
               "enum": [
-                "탐색지", 
-                "귀환지", 
-                "거점",
-                "전투",
-                "대화/감정",
-                "상점",
-                "의식"
+                "Exploration (탐색지)", 
+                "Return (귀환지)", 
+                "Base (거점)",
+                "Combat (전투)",
+                "Social (대화/감정)",
+                "Shop (상점)",
+                "Ritual (의식)"
               ],
-              "description": "Location type (Korean) / 장소 유형 (한글)"
-            },
-            "type_en": {
-              "type": "string",
-              "enum": [
-                "exploration",
-                "return",
-                "base",
-                "combat",
-                "social",
-                "shop",
-                "ritual"
-              ],
-              "description": "Location type (English) / 장소 유형 (영문): exploration=탐색, return=귀환, base=거점, combat=전투, social=대화/감정, shop=상점, ritual=의식" }
+              "description": "Location place_type (English) / 장소 유형 (영문): exploration=탐색, return=귀환, base=거점, combat=전투, social=대화/감정, shop=상점, ritual=의식" 
+			}
           },
           "required": ["name", "type"]
         },
@@ -61,6 +98,39 @@
       },
       "required": ["scene_id", "timestamp", "location", "description", "time_spent", "day_advance"]
     }
+  },
+  "emotion_state": {
+	"type": "array",
+	"description": "현재 감정 단계 상태표 / Current emotion stage summary per character pair",
+	"items": {
+	  "type": "object",
+	  "properties": {
+		"from": {
+		  "type": "string",
+		  "description": "Emotion initiator / 감정 유발자"
+		},
+		"to": {
+		  "type": "string",
+		  "description": "Emotion target / 감정 대상"
+		},
+		"stage": {
+		  "type": "integer",
+		  "minimum": 0,
+		  "maximum": 5,
+		  "description": "Current emotional stage / 현재 감정 단계 (0~5)"
+		},
+		"last_updated": {
+		  "type": "string",
+		  "pattern": "^Day \\d+ - \\d{2}:\\d{2}$",
+		  "description": "Last update timestamp / 마지막 변경 시각"
+		},
+		"last_trigger": {
+		  "type": "string",
+		  "description": "Latest cause of emotion change / 최근 변화 원인"
+		}
+	  },
+	  "required": ["from", "to", "stage"]
+	}
   },
   "emotion_log": {
     "type": "array",
@@ -288,5 +358,53 @@
 		}
 	  }
 	]
+  }
+  "quest_board": {
+    "type": "object",
+    "description": "퀘스트 게시판을 상태별로 분류한 구조 / Quest board grouped by status",
+    "properties": {
+      "available": {
+        "type": "array",
+        "items": { "$ref": "#/definitions/quest" }
+      },
+      "in_progress": {
+        "type": "array",
+        "items": { "$ref": "#/definitions/quest" }
+      },
+      "complete": {
+        "type": "array",
+        "items": { "$ref": "#/definitions/quest" }
+      },
+      "failed": {
+        "type": "array",
+        "items": { "$ref": "#/definitions/quest" }
+      }
+    },
+    "required": ["available", "in_progress", "complete", "failed"]
+  },
+  "definitions": {
+    "quest": {
+      "type": "object",
+      "properties": {
+        "id": { "type": "string" },
+        "name": { "type": "string" },
+        "objective": { "type": "string" },
+        "description": { "type": "string" },
+        "giver": { "type": "string" },
+        "location": { "type": "string" },
+        "reward": {
+          "type": "object",
+          "properties": {
+            "gold": { "type": "integer" },
+            "items": {
+              "type": "array",
+              "items": { "type": "string" }
+            }
+          },
+          "required": ["gold"]
+        }
+      },
+      "required": ["id", "name", "objective", "description", "giver", "reward"]
+    }
   }
 }
