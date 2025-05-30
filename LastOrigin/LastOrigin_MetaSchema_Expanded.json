@@ -1,0 +1,74 @@
+{
+  "scene_log": {
+    "description": "시간 경과에 따라 탐색 흐름과 위치 상태를 기록한 배열",
+    "entries": [
+      {
+        "timestamp": "Day N - HH:MM",
+        "location": {
+          "name": "string",
+          "type": "탐색지/귀환지/거점 중 하나"
+        },
+        "description": "string",
+        "time_spent": "string"
+      }
+    ]
+  },
+  "emotion_log": {
+    "description": "감정 관계의 변화를 시간순으로 기록한 배열",
+    "entries": [
+      {
+        "log_id": "number",
+        "timestamp": "Day N - HH:MM",
+        "scene_id": "number (연관된 scene_log 인덱스)",
+        "from": "string (감정 유발자)",
+        "to": "string (감정 대상)",
+        "change": "+1 / -1",
+        "new_stage": "number (0~5)",
+        "trigger": "string",
+        "note": "string"
+      }
+    ]
+  },
+  "inventory": {
+    "description": "파티 공유 아이템과 캐릭터별 소지품을 구분한 배열",
+    "shared_items": [
+      {
+        "name": "string",
+        "quantity": "number"
+      }
+    ],
+    "character_items": [
+      {
+        "owner": "string",
+        "name": "string",
+        "quantity": "number"
+      }
+    ]
+  },
+  "levelup_log": {
+    "description": "캐릭터의 레벨 상승과 그로 인한 변화 기록 배열",
+    "entries": [
+      {
+        "character": "string",
+        "level": "number",
+        "status": "confirmed / planned",
+        "timestamp": "Day N - HH:MM",
+        "changes": {
+          "hp_increase": "number",
+          "trained_skills_added": [
+            "string"
+          ],
+          "class_feat_gained": "string",
+          "general_feat_gained": "string",
+          "skill_increases": [
+            "string"
+          ],
+          "spells_added": [
+            "string"
+          ],
+          "notes": "string"
+        }
+      }
+    ]
+  }
+}
