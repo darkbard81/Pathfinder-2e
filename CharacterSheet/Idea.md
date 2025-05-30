@@ -10,16 +10,20 @@
 
 > 이 피트는 라비아타 고유 특성으로 간주되며, 기본 Rage 규칙을 확장하는 커스터마이즈이다.
 
-* **Protective Rage** *(라비아타 전용)*  
-  - **Trigger**: 보호 지정 대상이 피해를 입을 때 (1라운드 1회 제한)  
-  - **Reaction**: Will Save (DC 15)
-    - 성공 시: Reaction으로 **즉시 Rage 발동**
-    - 실패 시: **다음 라운드 첫 행동**으로 강제 Rage 발동, 추가 효과는 없음  
-  - **Rage 발동 시 추가 효과**:  
-    → 보호 지정 대상을 공격한 적에게 **즉시 접근**  
-    → 반드시 **Step**, **Stride**, **Sudden Charge** 중 하나 사용  
-    → **그 후, 다음 자신의 턴 시작 시 Slowed 1 (1라운드)**
-  - **지정 룰**: 휴식 또는 유동 시간 중 **보호 대상 1명 선언**, 다음 휴식까지 변경 불가
+#### Protective Rage *(라비아타 전용 피트)*
+**Feat 1** | Barbarian | Instinct: Giant | Reaction
+
+- **Trigger**: 보호 지정 대상이 피해를 입을 때 (1라운드 1회 제한)
+- **Reaction**: Will Save (DC 15)
+  - **성공 시**:
+    - 즉시 Rage를 발동한다.
+    - 이어서 보호 대상을 공격한 적에게 Step, Stride, 또는 Sudden Charge 중 하나로 접근한다.
+    - **다음 자신의 턴 시작 시, Slowed 1 상태가 된다 (1라운드 간).**
+  - **실패 시**:
+    - 즉시 Step, Stride, 또는 Sudden Charge 중 하나로 이동하여 해당 적에게 접근하고 무기 Strike 1회를 시도할 수 있다.
+    - Rage는 다음 자신의 턴 첫 번째 행동으로 강제 발동된다.
+- **지정 룰**: 휴식 또는 유동 시간 중 보호 대상 1명을 명확히 선언하며, 다음 휴식 전까지 변경할 수 없다.
+
 
 ## 아이템 구상:
 > **커스터마이즈 무기 이름** : <code>Modified Greatsword - Breaker Fang</code> *(제안)*
