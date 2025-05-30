@@ -586,24 +586,28 @@
 		"properties": {
 			"available": {
 				"type": "array",
+				"default": [],
 				"items": {
 					"$ref": "#/definitions/quest"
 				}
 			},
 			"in_progress": {
 				"type": "array",
+				"default": [],
 				"items": {
 					"$ref": "#/definitions/quest"
 				}
 			},
 			"complete": {
 				"type": "array",
+				"default": [],
 				"items": {
 					"$ref": "#/definitions/quest"
 				}
 			},
 			"failed": {
 				"type": "array",
+				"default": [],
 				"items": {
 					"$ref": "#/definitions/quest"
 				}
