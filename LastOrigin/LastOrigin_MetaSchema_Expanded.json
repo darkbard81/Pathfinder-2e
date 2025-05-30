@@ -70,5 +70,39 @@
         }
       }
     ]
+  },
+  "party": {
+    "description": "탐색 파티의 구성 및 각 캐릭터의 레벨, 장비, 주문 슬롯 등 전투 관련 정보",
+    "leader": {
+      "type": "string",
+      "description": "현재 파티 리더의 이름"
+    },
+    "members": [
+      {
+        "name": "string",
+        "level": "number",
+        "gear": {
+          "weapon": "string",
+          "armor": "string"
+        },
+        "spells": {
+          "1": {
+            "slots_total": "number",
+            "slots_used": "number",
+            "prepared": [
+              "string"
+            ]
+          },
+          "2": {
+            "slots_total": "number",
+            "slots_used": "number",
+            "prepared": [
+              "string"
+            ]
+          },
+          "focus_points": "number"
+        }
+      }
+    ]
   }
 }
