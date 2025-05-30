@@ -1,108 +1,292 @@
 {
   "scene_log": {
-    "description": "시간 경과에 따라 탐색 흐름과 위치 상태를 기록한 배열",
-    "entries": [
-      {
-        "timestamp": "Day N - HH:MM",
-        "location": {
-          "name": "string",
-          "type": "탐색지/귀환지/거점 중 하나"
+    "description": "시간 경과에 따라 탐색 흐름과 위치 상태를 기록한 배열 / Logged scene transitions, timestamps, and day transitions",
+    "type": "array",
+    "items": {
+      "type": "object",
+      "properties": {
+        "scene_id": {
+          "type": "integer",
+          "description": "Unique ID for the scene entry / 장면 고유 ID"
         },
-        "description": "string",
-        "time_spent": "string"
-      }
-    ]
+        "timestamp": {
+          "type": "string",
+          "pattern": "^Day \\d+ - \\d{2}:\\d{2}$",
+          "description": "Time and day of the scene (e.g., 'Day 1 - 09:00') / 장면의 시간 정보"
+        },
+        "location": {
+          "type": "object",
+          "properties": {
+            "name": { "type": "string" },
+            "type": {
+              "type": "string",
+              "enum": [
+                "탐색지", 
+                "귀환지", 
+                "거점",
+                "전투",
+                "대화/감정",
+                "상점",
+                "의식"
+              ],
+              "description": "Location type (Korean) / 장소 유형 (한글)"
+            },
+            "type_en": {
+              "type": "string",
+              "enum": [
+                "exploration",
+                "return",
+                "base",
+                "combat",
+                "social",
+                "shop",
+                "ritual"
+              ],
+              "description": "Location type (English) / 장소 유형 (영문): exploration=탐색, return=귀환, base=거점, combat=전투, social=대화/감정, shop=상점, ritual=의식" }
+          },
+          "required": ["name", "type"]
+        },
+        "description": {
+          "type": "string",
+          "description": "Scene description / 장면 설명"
+        },
+        "time_spent": {
+          "type": "integer",
+          "description": "Time consumed during this scene, in minutes / 장면에 소비된 시간 (분 단위)"
+        },
+        "day_advance": {
+          "type": "boolean",
+          "description": "Whether the day advanced after this scene / 장면 이후 날짜가 전환되었는지 여부"
+        }
+      },
+      "required": ["scene_id", "timestamp", "location", "description", "time_spent", "day_advance"]
+    }
   },
   "emotion_log": {
-    "description": "감정 관계의 변화를 시간순으로 기록한 배열",
-    "entries": [
-      {
-        "log_id": "number",
-        "timestamp": "Day N - HH:MM",
-        "scene_id": "number (연관된 scene_log 인덱스)",
-        "from": "string (감정 유발자)",
-        "to": "string (감정 대상)",
-        "change": "+1 / -1",
-        "new_stage": "number (0~5)",
-        "trigger": "string",
-        "note": "string"
-      }
-    ]
+    "type": "array",
+    "description": "감정 관계의 변화를 시간순으로 기록한 배열 / Emotion state changes related to this scene",
+    "items": {
+      "type": "object",
+      "properties": {
+        "log_id": { "type": "integer", "description": "Log ID / 로그 고유 번호" },
+        "timestamp": { "type": "string", "pattern": "^Day \\d+ - \\d{2}:\\d{2}$", "description": "Log time / 로그 시각" },
+        "scene_id": { "type": "integer", "description": "Linked scene ID / 연관된 scene_log의 ID" },
+        "from": { "type": "string", "description": "Emotion initiator / 감정 유발자" },
+        "to": { "type": "string", "description": "Emotion target / 감정 대상" },
+        "change": { "type": "string", "enum": ["+1", "-1"], "description": "Emotion change step / 감정 단계 변화 (+1 또는 -1)" },
+        "new_stage": { "type": "integer", "minimum": 0, "maximum": 5, "description": "New emotional stage / 새로운 감정 단계 (0~5)" },
+        "trigger": { "type": "string", "description": "Triggering cause / 변화 유발 요인" },
+        "note": { "type": "string", "description": "Optional note / 비고 또는 상황 설명" }
+      },
+      "required": ["log_id", "timestamp", "scene_id", "from", "to", "change", "new_stage"]
+    }
   },
   "inventory": {
-    "description": "파티 공유 아이템과 캐릭터별 소지품을 구분한 배열",
-    "shared_items": [
-      {
-        "name": "string",
-        "quantity": "number"
-      }
-    ],
-    "character_items": [
-      {
-        "owner": "string",
-        "name": "string",
-        "quantity": "number"
-      }
-    ]
-  },
-  "levelup_log": {
-    "description": "캐릭터의 레벨 상승과 그로 인한 변화 기록 배열",
-    "entries": [
-      {
-        "character": "string",
-        "level": "number",
-        "status": "confirmed / planned",
-        "timestamp": "Day N - HH:MM",
-        "changes": {
-          "hp_increase": "number",
-          "trained_skills_added": [
-            "string"
-          ],
-          "class_feat_gained": "string",
-          "general_feat_gained": "string",
-          "skill_increases": [
-            "string"
-          ],
-          "spells_added": [
-            "string"
-          ],
-          "notes": "string"
+    "description": "공용 소지품 관리 / Shared inventory tracking",
+    "type": "object",
+    "properties": {
+      "gold_pieces": {
+        "type": "integer",
+        "description": "Total gold pieces / 파티 보유 금화 총량 (gp 단위)"
+      },
+      "shared_items": {
+        "type": "array",
+        "description": "파티 공유 아이템 목록 / Items shared by the whole party",
+        "items": {
+          "type": "object",
+          "properties": {
+            "name": {
+              "type": "string",
+              "description": "Item name / 아이템 이름"
+            },
+            "quantity": {
+              "type": "integer",
+              "description": "Number of items / 수량"
+            },
+            "category": {
+              "type": "string",
+              "description": "Item category (e.g. consumable, tool, gear) / 아이템 종류"
+            },
+            "notes": {
+              "type": "string",
+              "description": "Additional info or usage / 비고 또는 사용 용도"
+            }
+          },
+          "required": ["name", "quantity"]
         }
       }
-    ]
+    },
+    "required": ["gold_pieces", "shared_items"]
+  },
+  "level_progression": {
+    "description": "Character changes per level (1~20), including HP, feats, spells, and abilities / 캐릭터가 1~20레벨에서 얻게 되는 HP, 특기, 주문, 능력치 변화 기록",
+    "type": "array",
+    "items": {
+  	"type": "object",
+  	"properties": {
+  	  "name": {
+  		"type": "string",
+  		"description": "Character name / 캐릭터 이름"
+  	  },
+  	  "level": {
+  		"type": "integer",
+  		"description": "Character level / 캐릭터 레벨"
+  	  },
+  	  "hp_increase": {
+  		"type": "integer",
+  		"description": "HP increase at this level / 해당 레벨에서 증가한 HP"
+  	  },
+  	  "ability_boosts": {
+  		"type": "array",
+  		"items": { "type": "string" },
+  		"description": "Ability scores boosted at this level / 이 레벨에서 상승한 능력치"
+  	  },
+  	  "class_feat": {
+  		"type": "array",
+  		"items": { "type": "string" },
+  		"description": "Class feat(s) gained / 획득한 클래스 특기 (복수일 수 있음)"
+  	  },
+  	  "skill_feat": {
+  		"type": "array",
+  		"items": { "type": "string" },
+  		"description": "Skill feat gained / 획득한 스킬 특기"
+  	  },
+  	  "general_feat": {
+  		"type": "array",
+  		"items": { "type": "string" },
+  		"description": "General feat gained / 획득한 일반 특기"
+  	  },
+  	  "skill_increases": {
+  		"type": "array",
+  		"items": { "type": "string" },
+  		"description": "Skills that were increased / 숙련도를 올린 스킬 목록"
+  	  },
+  	  "spells_gained": {
+  		"type": "array",
+  		"items": { "type": "string" },
+  		"description": "New spells learned at this level / 해당 레벨에서 배운 주문들"
+  	  },
+  	  "notes": {
+  		"type": "string",
+  		"description": "Additional context or choices made / 선택 경위나 비고"
+  	  }
+  	},
+  	"required": ["name", "level"]
+    }
   },
   "party": {
-    "description": "탐색 파티의 구성 및 각 캐릭터의 레벨, 장비, 주문 슬롯 등 전투 관련 정보",
-    "leader": {
-      "type": "string",
-      "description": "현재 파티 리더의 이름"
-    },
-    "members": [
-      {
-        "name": "string",
-        "level": "number",
-        "gear": {
-          "weapon": "string",
-          "armor": "string"
-        },
-        "spells": {
-          "1": {
-            "slots_total": "number",
-            "slots_used": "number",
-            "prepared": [
-              "string"
-            ]
-          },
-          "2": {
-            "slots_total": "number",
-            "slots_used": "number",
-            "prepared": [
-              "string"
-            ]
-          },
-          "focus_points": "number"
-        }
-      }
-    ]
+	"description": "탐색 파티의 구성 및 각 캐릭터의 레벨, 장비, 주문 슬롯 등 전투 관련 정보",
+	"leader": {
+	  "type": "string",
+	  "description": "현재 파티 리더의 이름"
+	},
+	"members": [
+	  {
+		"name": "string",
+		"level": "number",
+		"gear": {
+		  "head": "string",
+		  "eyes": "string",
+		  "neck": "string",
+		  "chest": "string",
+		  "back": "string",
+		  "hand": "string",
+		  "finger_left": "string",
+		  "finger_right": "string",
+		  "waist": "string",
+		  "feet": "string",
+		  "armor": "string",
+		  "shield": "string",
+		  "weapon": "string",
+		  "consumables": {
+		    "type": "array",
+		    "items": {
+		  	"type": ["object", "null"],
+		  	"properties": {
+		  	  "name": { "type": "string", "description": "Item name / 아이템 이름" },
+		  	  "quantity": { "type": "integer", "description": "Quantity of item / 수량" }
+		  	},
+		  	"required": ["name"]
+		    },
+		    "minItems": 5,
+		    "maxItems": 5,
+		    "description": "Combat-ready consumables / 전투 중 즉시 사용 가능한 소비품 슬롯 (최대 5개)"
+		  }
+		},
+		"spells": {
+		  "description": "혼합 시전자를 위한 주문 구조. prepared 캐스터와 spontaneous 캐스터를 구분하여 관리하며, 공통 포커스 주문도 포함함.",
+		  "type": "object",
+		  "properties": {
+			"prepared": {
+			  "type": "object",
+			  "description": "Prepared 방식 캐스터용 주문 목록 (클래스명을 포함함)",
+			  "properties": {
+				"classname": {
+				  "type": "string",
+				  "description": "Prepared 주문을 시전하는 클래스 이름 (예: Wizard, Cleric, Warpriest 등)"
+				},
+				"slots": {
+				  "type": "object",
+				  "patternProperties": {
+					"^\\d+$": {
+					  "type": "object",
+					  "properties": {
+						"slots_total": { "type": "integer" },
+						"slots_used": { "type": "integer" },
+						"prepared": {
+						  "type": "array",
+						  "items": { "type": "string" },
+						  "description": "해당 슬롯에 준비한 주문"
+						}
+					  },
+					  "required": ["slots_total", "slots_used", "prepared"]
+					}
+				  }
+				}
+			  },
+			  "required": ["classname", "slots"]
+			},
+			"spontaneous": {
+			  "type": "object",
+			  "description": "Spontaneous 방식 캐스터용 주문 목록 (클래스명을 포함함)",
+			  "properties": {
+				"classname": {
+				  "type": "string",
+				  "description": "Spontaneous 주문을 시전하는 클래스 이름 (예: Sorcerer, Oracle 등)"
+				},
+				"slots": {
+				  "type": "object",
+				  "patternProperties": {
+					"^\\d+$": {
+					  "type": "object",
+					  "properties": {
+						"slots_total": { "type": "integer" },
+						"slots_used": { "type": "integer" },
+						"available": {
+						  "type": "array",
+						  "items": { "type": "string" },
+						  "description": "해당 슬롯에서 즉흥적으로 선택 가능한 주문"
+						}
+					  },
+					  "required": ["slots_total", "slots_used", "available"]
+					}
+				  }
+				}
+			  },
+			  "required": ["classname", "slots"]
+			},
+			"focus_points": {
+			  "type": "integer",
+			  "description": "현재 Focus Point 수"
+			},
+			"focus_spells": {
+			  "type": "array",
+			  "items": { "type": "string" },
+			  "description": "모든 포커스 주문 목록"
+			}
+		  }
+		}
+	  }
+	]
   }
 }
