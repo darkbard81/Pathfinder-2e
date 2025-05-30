@@ -6,11 +6,11 @@
   * 상태: 비공식 / 먼치킨 캠페인 전용 서사 유닛
   * 설정: Android + 실험 병기 콘셉트 기반 확장
 
-### Custom Class Feats
+## Custom Class Feats
 
 > 이 피트는 라비아타 고유 특성으로 간주되며, 기본 Rage 규칙을 확장하는 커스터마이즈이다.
 
-#### Protective Rage *(라비아타 전용 피트)*
+### Protective Rage *(라비아타 전용 피트)*
 **Feat 1** | Barbarian | Instinct: Giant | Reaction
 
 - **Trigger**: 보호 지정 대상이 피해를 입을 때 (1라운드 1회 제한)
