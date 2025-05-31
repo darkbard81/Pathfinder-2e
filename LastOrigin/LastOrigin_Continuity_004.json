@@ -382,7 +382,7 @@
     "failed": []
   },
   "inventory": {
-    "gold_pieces": 160,
+    "gold_pieces": 385,
     "shared_items": [
       {
         "name": "Ration (1-day)",
@@ -500,6 +500,24 @@
       },
       {
         "name": "Chalk",
+        "quantity": 1,
+        "category": "tool",
+        "notes": ""
+      },
+      {
+        "name": "Scroll of Vampiric Touch",
+        "quantity": 1,
+        "category": "consumable",
+        "notes": ""
+      },
+      {
+        "name": "Rune Stone – Ghost Touch",
+        "quantity": 1,
+        "category": "tool",
+        "notes": ""
+      },
+      {
+        "name": "Rune Stone – Wounding",
         "quantity": 1,
         "category": "tool",
         "notes": ""
