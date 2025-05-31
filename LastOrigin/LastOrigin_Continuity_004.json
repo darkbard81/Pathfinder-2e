@@ -195,6 +195,14 @@
           "weapon": "Rapier",
           "consumables": [
             {
+              "name": "Adventurer’s Pack",
+              "quantity": 1
+            },
+            {
+              "name": "Healing Potion",
+              "quantity": 1
+            },
+            {
               "name": "Spellbook",
               "quantity": 1
             }
@@ -242,7 +250,20 @@
           "armor": "Hide Armor",
           "shield": null,
           "weapon": "Whip",
-          "consumables": []
+          "consumables": [
+            {
+              "name": "Adventurer’s Pack",
+              "quantity": 1
+            },
+            {
+              "name": "Healing Potion",
+              "quantity": 1
+            },
+            {
+              "name": "Holy Symbol (Calistria)",
+              "quantity": 1
+            }
+          ]
         },
         "spells": {
           "prepared": {
@@ -287,7 +308,24 @@
           "armor": "Leather Armor",
           "shield": null,
           "weapon": "Dagger",
-          "consumables": []
+          "consumables": [
+            {
+              "name": "Adventurer’s Pack",
+              "quantity": 1
+            },
+            {
+              "name": "Healing Potion",
+              "quantity": 1
+            },
+            {
+              "name": "Thieves’ Tools",
+              "quantity": 1
+            },
+            {
+              "name": "Grappling Hook",
+              "quantity": 1
+            }
+          ]
         },
         "spells": {
           "prepared": {
@@ -315,7 +353,16 @@
           "armor": "Hide Armor",
           "shield": null,
           "weapon": "Greatsword (Striking)",
-          "consumables": []
+          "consumables": [
+            {
+              "name": "Adventurer’s Pack",
+              "quantity": 1
+            },
+            {
+              "name": "Healing Potion",
+              "quantity": 1
+            }
+          ]
         },
         "spells": {
           "prepared": {
@@ -350,6 +397,12 @@
         "notes": ""
       },
       {
+        "name": "Healing Potion",
+        "quantity": 3,
+        "category": "consumable",
+        "notes": ""
+      },
+      {
         "name": "Camping Kit (2-person)",
         "quantity": 1,
         "category": "tool",
@@ -368,12 +421,6 @@
         "notes": ""
       },
       {
-        "name": "Grave Token",
-        "quantity": 1,
-        "category": "tool",
-        "notes": ""
-      },
-      {
         "name": "Moderate Healing Potion",
         "quantity": 1,
         "category": "consumable",
@@ -383,12 +430,6 @@
         "name": "Scroll of Invisibility",
         "quantity": 1,
         "category": "consumable",
-        "notes": ""
-      },
-      {
-        "name": "Smokestick",
-        "quantity": 2,
-        "category": "tool",
         "notes": ""
       },
       {
@@ -404,13 +445,19 @@
         "notes": ""
       },
       {
+        "name": "Smokestick",
+        "quantity": 2,
+        "category": "tool",
+        "notes": ""
+      },
+      {
         "name": "Elixir of Life (Moderate)",
         "quantity": 1,
         "category": "tool",
         "notes": ""
       },
       {
-        "name": "Handwraps of Mighty Blows +1",
+        "name": "Grave Token",
         "quantity": 1,
         "category": "tool",
         "notes": ""
@@ -422,118 +469,40 @@
         "notes": ""
       },
       {
-        "name": "Adventurer’s Pack",
+        "name": "Handwraps of Mighty Blows +1",
         "quantity": 1,
         "category": "tool",
-        "notes": "Owned by 슬라몬"
-      },
-      {
-        "name": "Healing Potion",
-        "quantity": 3,
-        "category": "consumable",
-        "notes": "Owned by 슬라몬"
-      },
-      {
-        "name": "Adventurer’s Pack",
-        "quantity": 1,
-        "category": "tool",
-        "notes": "Owned by 리산드라"
-      },
-      {
-        "name": "Healing Potion",
-        "quantity": 2,
-        "category": "consumable",
-        "notes": "Owned by 리산드라"
-      },
-      {
-        "name": "Holy Symbol (Calistria)",
-        "quantity": 1,
-        "category": "tool",
-        "notes": "Owned by 리산드라"
+        "notes": ""
       },
       {
         "name": "Makeup kit + costume",
         "quantity": 1,
         "category": "tool",
-        "notes": "Owned by 리산드라"
+        "notes": ""
       },
       {
-        "name": "Adventurer’s Pack",
+        "name": "Small Trinkets",
         "quantity": 1,
         "category": "tool",
-        "notes": "Owned by 키티"
-      },
-      {
-        "name": "Thieves’ Tools",
-        "quantity": 1,
-        "category": "tool",
-        "notes": "Owned by 키티"
-      },
-      {
-        "name": "Healing Potion",
-        "quantity": 1,
-        "category": "consumable",
-        "notes": "Owned by 키티"
-      },
-      {
-        "name": "Grappling hook",
-        "quantity": 1,
-        "category": "tool",
-        "notes": "Owned by 키티"
-      },
-      {
-        "name": "Rope (50ft)",
-        "quantity": 1,
-        "category": "tool",
-        "notes": "Owned by 키티"
-      },
-      {
-        "name": "Small trinkets",
-        "quantity": 1,
-        "category": "tool",
-        "notes": "Owned by 키티"
-      },
-      {
-        "name": "Adventurer’s Pack",
-        "quantity": 1,
-        "category": "tool",
-        "notes": "Owned by 라비아타"
+        "notes": ""
       },
       {
         "name": "Repair Kit",
         "quantity": 1,
         "category": "tool",
-        "notes": "Owned by 라비아타"
-      },
-      {
-        "name": "Healing Potion",
-        "quantity": 1,
-        "category": "consumable",
-        "notes": "Owned by 라비아타"
+        "notes": ""
       },
       {
         "name": "Weapon Polish",
         "quantity": 1,
         "category": "tool",
-        "notes": "Owned by 라비아타"
-      },
-      {
-        "name": "Torch",
-        "quantity": 1,
-        "category": "tool",
-        "notes": "Owned by 라비아타"
-      },
-      {
-        "name": "Rope (50 ft)",
-        "quantity": 1,
-        "category": "tool",
-        "notes": "Owned by 라비아타"
+        "notes": ""
       },
       {
         "name": "Chalk",
         "quantity": 1,
         "category": "tool",
-        "notes": "Owned by 라비아타"
+        "notes": ""
       }
     ]
   },
