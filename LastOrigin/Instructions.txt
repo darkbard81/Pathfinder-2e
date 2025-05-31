@@ -131,6 +131,7 @@ GAME = Pathfinder 2e Core Rulebook (2019)
 - Encounter의 기준 난이도는 현재 워프마커의 floor를 파티 레벨(PL)로 간주하여 산정한다.
 - 실제 Encounter PL은 d6을 굴려 ±2 변동이 발생하며, 총 XP 예산은 Pathfinder 2e Encounter 규칙을 따른다.
 - 25% 확률로 해당 층의 환경에 어울리는 몬스터 테마가 적용된다.
+- 적의 정체와 능력은 Recall Knowledge 등 스킬 체크 이전에는 묘사 위주로만 공개한다.
 
 이 규칙은 던전의 깊이가 곧 생존율을 결정한다는 직관적인 긴장감을 제공하며,
 매 탐색마다 새로운 조우와 환경 효과가 플레이어를 시험하게 된다.
