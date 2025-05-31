@@ -3,16 +3,16 @@
     "reputation": {},
     "deepest_dungeon_floor": 3,
     "warp_marker": {
-        "floor": 3,
-        "status": "active"
+      "floor": 3,
+      "status": "active"
     }
   },
   "time_health": {
-    "fatigue_check_elapsed": 2270,
-    "hunger_check_elapsed": 320,
-    "fatigue": true,
+    "fatigue_check_elapsed": 0,
+    "hunger_check_elapsed": 0,
+    "fatigue": false,
     "hunger": false,
-    "health_penalty": true
+    "health_penalty": false
   },
   "scene_log": [
     {
@@ -193,7 +193,12 @@
           "armor": "Chain Shirt",
           "shield": null,
           "weapon": "Rapier",
-          "consumables": []
+          "consumables": [
+            {
+              "name": "Spellbook",
+              "quantity": 1
+            }
+          ]
         },
         "spells": {
           "prepared": {
@@ -309,7 +314,7 @@
           "feet": null,
           "armor": "Hide Armor",
           "shield": null,
-          "weapon": "Greatsword",
+          "weapon": "Greatsword (Striking)",
           "consumables": []
         },
         "spells": {
@@ -330,7 +335,7 @@
     "failed": []
   },
   "inventory": {
-    "gold_pieces": 135,
+    "gold_pieces": 160,
     "shared_items": [
       {
         "name": "Ration (1-day)",
@@ -364,12 +369,6 @@
       },
       {
         "name": "Grave Token",
-        "quantity": 1,
-        "category": "tool",
-        "notes": ""
-      },
-      {
-        "name": "Striking Rune",
         "quantity": 1,
         "category": "tool",
         "notes": ""
@@ -423,12 +422,6 @@
         "notes": ""
       },
       {
-        "name": "Spellbook",
-        "quantity": 1,
-        "category": "tool",
-        "notes": "Owned by 슬라몬"
-      },
-      {
         "name": "Adventurer’s Pack",
         "quantity": 1,
         "category": "tool",
@@ -459,13 +452,7 @@
         "notes": "Owned by 리산드라"
       },
       {
-        "name": "Makeup kit",
-        "quantity": 1,
-        "category": "tool",
-        "notes": "Owned by 리산드라"
-      },
-      {
-        "name": "costume tools",
+        "name": "Makeup kit + costume",
         "quantity": 1,
         "category": "tool",
         "notes": "Owned by 리산드라"
@@ -595,7 +582,7 @@
       ],
       "skill_feat": [],
       "general_feat": [
-        "Shield Block"
+        "Intimidating Glare"
       ],
       "skill_increases": [],
       "spells_gained": [
