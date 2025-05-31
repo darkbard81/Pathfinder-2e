@@ -2,12 +2,10 @@
   "world_state": {
     "reputation": {},
     "deepest_dungeon_floor": 3,
-    "warp_markers": [
-      {
+    "warp_marker": {
         "floor": 3,
         "status": "active"
-      }
-    ]
+    }
   },
   "time_health": {
     "fatigue_check_elapsed": 2270,
