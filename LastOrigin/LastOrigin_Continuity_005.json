@@ -1,0 +1,642 @@
+{
+  "rule_profile": {
+    "consumable_slot_behavior": "preserve_then_append",
+    "consumable_personalization": true,
+    "rune_label_style": "standard_ordered",
+    "rune_sort_order": ["Potency", "Striking", "Resilient", "Property"],
+    "hp_display_mode": "current"
+  },
+  "world_state": {
+    "reputation": {},
+    "deepest_dungeon_floor": 3,
+    "warp_marker": {
+      "floor": 3,
+      "status": "active"
+    }
+  },
+  "time_health": {
+    "fatigue_check_elapsed": 0,
+    "hunger_check_elapsed": 0,
+    "fatigue": false,
+    "hunger": false,
+    "health_penalty": false
+  },
+  "scene_log": [
+    {
+      "scene_id": 1,
+      "timestamp": "Day 1 - 08:00",
+      "location": {
+        "name": "패스포트 - 길드 오브 프론티어즈",
+        "type": "Exploration (탐색지)"
+      },
+      "description": "4인 파티 정시 등록 및 워프마커 발급",
+      "time_spent": 60,
+      "day_advance": false
+    },
+    {
+      "scene_id": 2,
+      "timestamp": "Day 1 - 09:00",
+      "location": {
+        "name": "푸크드르의 향기",
+        "type": "Shop (상점)"
+      },
+      "description": "아침 식사 및 보급 구매",
+      "time_spent": 90,
+      "day_advance": false
+    },
+    {
+      "scene_id": 3,
+      "timestamp": "Day 1 - 10:30",
+      "location": {
+        "name": "무한의 프론티어 1층",
+        "type": "Exploration (탐색지)"
+      },
+      "description": "던전 진입, 조우 및 전투 발생",
+      "time_spent": 120,
+      "day_advance": false
+    },
+    {
+      "scene_id": 4,
+      "timestamp": "Day 2 - 12:40",
+      "location": {
+        "name": "무한의 프론티어 3층 내부구역",
+        "type": "Exploration (탐색지)"
+      },
+      "description": "광기석 유기체 처치, 보물상자 개봉 및 보상 획득 후 단기 휴식",
+      "time_spent": 20,
+      "day_advance": false
+    },
+    {
+      "scene_id": 5,
+      "timestamp": "Day 2 - 13:50",
+      "location": {
+        "name": "패스포트 임시숙소 전방 광장 – 워프 스테이션",
+        "type": "Base (거점)"
+      },
+      "description": "보상 정산 완료 / 탐색 종료",
+      "time_spent": 10,
+      "day_advance": false
+    },
+    {
+      "scene_id": 6,
+      "timestamp": "Day 3 - 10:00",
+      "location": {
+        "name": "패스포트 – 워프 스테이션 광장",
+        "type": "Base (거점)"
+      },
+      "description": "무한의 프론티어 4층 '거울전' 및 '심문 구획' 탐색 종료. 사전 정보 기반의 안정적인 대응으로 파티 전원 무피해 생존 귀환. 전리품 확보 후 추가 탐색 없이 조기 철수 결정.",
+      "time_spent": 30,
+      "day_advance": false
+    },
+    {
+      "scene_id": 7,
+      "timestamp": "Day 3 - 10:10",
+      "location": {
+        "name": "무한의 검제",
+        "type": "Shop (상점)"
+      },
+      "description": "룬 구조 확인 및 실험 무기 제안 거절, 정식 SRD 장비 견적 요청",
+      "time_spent": 10,
+      "day_advance": false
+    },
+    {
+      "scene_id": 8,
+      "timestamp": "Day 3 - 10:30",
+      "location": {
+        "name": "마녀의 유리병",
+        "type": "Shop (상점)"
+      },
+      "description": "마법 스크롤 상담 및 감정 기반 아이템 제안. Scroll of Mirror Image 구매",
+      "time_spent": 10,
+      "day_advance": false
+    },
+    {
+      "scene_id": 9,
+      "timestamp": "Day 3 - 10:40",
+      "location": {
+        "name": "푸크드르의 향기",
+        "type": "Shop (상점)"
+      },
+      "description": "점심 식사로 공복 해소",
+      "time_spent": 10,
+      "day_advance": false
+    },
+    {
+      "scene_id": 10,
+      "timestamp": "Day 3 - 10:50",
+      "location": {
+        "name": "패스포트 숙소",
+        "type": "Base (거점)"
+      },
+      "description": "8시간 수면 진행, 피로 상태 해소. 공복 경과 정지",
+      "time_spent": 480,
+      "day_advance": false
+    }
+  ],
+  "emotion_log": [
+    {
+      "log_id": 1,
+      "timestamp": "Day 1 - 08:00",
+      "scene_id": 1,
+      "from": "슬라몬",
+      "to": "키티",
+      "change": "+1",
+      "new_stage": 1,
+      "trigger": "설득을 통해 파티에 합류시킴",
+      "note": "키티가 슬라몬에게 최소한의 신뢰를 가지기 시작함"
+    },
+    {
+      "log_id": 2,
+      "timestamp": "Day 1 - 08:00",
+      "scene_id": 1,
+      "from": "슬라몬",
+      "to": "리산드라",
+      "change": "+1",
+      "new_stage": 1,
+      "trigger": "루미에르의 추천으로 파티에 합류",
+      "note": "리산드라가 슬라몬을 관찰 대상으로 인식함"
+    },
+    {
+      "log_id": 3,
+      "timestamp": "Day 1 - 08:00",
+      "scene_id": 1,
+      "from": "슬라몬",
+      "to": "라비아타",
+      "change": "+1",
+      "new_stage": 1,
+      "trigger": "혈액을 통해 각성하며 주인으로 인식",
+      "note": "라비아타가 본능적으로 보호대상으로 인식함"
+    },
+    {
+      "log_id": 4,
+      "timestamp": "Day 1 - 13:40",
+      "scene_id": 4,
+      "from": "슬라몬",
+      "to": "리산드라",
+      "change": "+1",
+      "new_stage": 2,
+      "trigger": "슬라몬이 리산드라의 얼굴을 감싸며 진정시킴",
+      "note": "기존 감정 단계 1 → 2 상승, 정신파 영향으로 넋이 나간 상태에서 회복."
+    },
+    {
+      "log_id": 5,
+      "timestamp": "Day 1 - 11:30",
+      "scene_id": 3,
+      "from": "슬라몬",
+      "to": "라비아타",
+      "change": "+1",
+      "new_stage": 2,
+      "trigger": "던전 진입 전 라비아타에게 고맙다고 진심을 전함",
+      "note": "기존 감정 단계 1 → 2 상승, 라비아타의 충성에 대해 감정 교감 발생"
+    },
+    {
+      "log_id": 6,
+      "timestamp": "Day 3 - 08:40",
+      "scene_id": null,
+      "from": "슬라몬",
+      "to": "라비아타",
+      "change": "+0",
+      "new_stage": 2,
+      "trigger": "의지 부족을 우려해 전면 배치를 거부하고 후열 보호를 요청",
+      "note": "슬라몬이 라비아타에게 처음으로 명확한 '지켜달라'는 신뢰 명령을 내림"
+    }
+  ],
+  "emotion_state": [
+    {
+      "from": "슬라몬",
+      "to": "키티",
+      "stage": 1,
+      "last_updated": "Day 1 - 08:00",
+      "last_trigger": "설득을 통해 파티에 합류시킴"
+    },
+    {
+      "from": "슬라몬",
+      "to": "리산드라",
+      "stage": 2,
+      "last_updated": "Day 1 - 13:40",
+      "last_trigger": "슬라몬이 리산드라의 얼굴을 감싸며 진정시킴"
+    },
+    {
+      "from": "슬라몬",
+      "to": "라비아타",
+      "stage": 2,
+      "last_updated": "Day 3 - 08:40",
+      "last_trigger": "의지 부족을 우려해 전면 배치를 거부하고 후열 보호를 요청"
+    }
+  ],
+  "party": {
+    "leader": "슬라몬",
+    "members": [
+      {
+        "name": "슬라몬",
+        "level": 3,
+        "gear": {
+          "head": null,
+          "eyes": null,
+          "neck": null,
+          "chest": null,
+          "back": null,
+          "hand": null,
+          "finger_left": null,
+          "finger_right": null,
+          "waist": null,
+          "feet": null,
+          "armor": "Chain Shirt",
+          "shield": null,
+          "weapon": "Rapier",
+          "consumables": [
+            {
+              "name": "Adventurer’s Pack",
+              "quantity": 1
+            },
+            {
+              "name": "Healing Potion",
+              "quantity": 1
+            },
+            {
+              "name": "Spellbook",
+              "quantity": 1
+            }
+          ]
+        },
+        "spells": {
+          "prepared": {
+            "classname": "Magus",
+            "slots": {
+              "1": {
+                "slots_total": 2,
+                "slots_used": 0,
+                "prepared": [
+                  "Shield",
+                  "Shocking Grasp"
+                ]
+              },
+              "2": {
+                "slots_total": 1,
+                "slots_used": 1,
+                "prepared": [
+                  "Mirror Image"
+                ]
+              }
+            }
+          },
+          "focus_points": 0,
+          "focus_spells": []
+        }
+      },
+      {
+        "name": "리산드라",
+        "level": 3,
+        "gear": {
+          "head": null,
+          "eyes": null,
+          "neck": null,
+          "chest": null,
+          "back": null,
+          "hand": null,
+          "finger_left": null,
+          "finger_right": null,
+          "waist": null,
+          "feet": null,
+          "armor": "Hide Armor",
+          "shield": null,
+          "weapon": "Whip",
+          "consumables": [
+            {
+              "name": "Adventurer’s Pack",
+              "quantity": 1
+            },
+            {
+              "name": "Healing Potion",
+              "quantity": 1
+            },
+            {
+              "name": "Holy Symbol (Calistria)",
+              "quantity": 1
+            }
+          ]
+        },
+        "spells": {
+          "prepared": {
+            "classname": "Warpriest",
+            "slots": {
+              "1": {
+                "slots_total": 3,
+                "slots_used": 0,
+                "prepared": [
+                  "Harm",
+                  "Bless",
+                  "Command"
+                ]
+              },
+              "2": {
+                "slots_total": 1,
+                "slots_used": 0,
+                "prepared": [
+                  "Spiritual Weapon"
+                ]
+              }
+            }
+          },
+          "focus_points": 1,
+          "focus_spells": []
+        }
+      },
+      {
+        "name": "키티",
+        "level": 3,
+        "gear": {
+          "head": null,
+          "eyes": null,
+          "neck": null,
+          "chest": null,
+          "back": null,
+          "hand": null,
+          "finger_left": null,
+          "finger_right": null,
+          "waist": null,
+          "feet": null,
+          "armor": "Leather Armor",
+          "shield": null,
+          "weapon": "Dagger",
+          "consumables": [
+            {
+              "name": "Adventurer’s Pack",
+              "quantity": 1
+            },
+            {
+              "name": "Healing Potion",
+              "quantity": 1
+            },
+            {
+              "name": "Thieves’ Tools",
+              "quantity": 1
+            },
+            {
+              "name": "Grappling Hook",
+              "quantity": 1
+            }
+          ]
+        },
+        "spells": {
+          "prepared": {
+            "classname": "None",
+            "slots": {}
+          },
+          "focus_points": 0,
+          "focus_spells": []
+        }
+      },
+      {
+        "name": "라비아타",
+        "level": 3,
+        "gear": {
+          "head": null,
+          "eyes": null,
+          "neck": null,
+          "chest": null,
+          "back": null,
+          "hand": null,
+          "finger_left": null,
+          "finger_right": null,
+          "waist": null,
+          "feet": null,
+          "armor": "Hide Armor",
+          "shield": null,
+          "weapon": "Greatsword (+1, Striking)",
+          "consumables": [
+            {
+              "name": "Adventurer’s Pack",
+              "quantity": 1
+            },
+            {
+              "name": "Healing Potion",
+              "quantity": 1
+            }
+          ]
+        },
+        "spells": {
+          "prepared": {
+            "classname": "None",
+            "slots": {}
+          },
+          "focus_points": 0,
+          "focus_spells": []
+        }
+      }
+    ]
+  },
+  "quest_board": {
+    "available": [],
+    "in_progress": [],
+    "complete": [],
+    "failed": []
+  },
+  "inventory": {
+    "gold_pieces": 483,
+    "shared_items": [
+      {
+        "name": "Ration (1-day)",
+        "quantity": 4,
+        "category": "tool",
+        "notes": ""
+      },
+      {
+        "name": "Healing Potion (Lesser)",
+        "quantity": 2,
+        "category": "consumable",
+        "notes": ""
+      },
+      {
+        "name": "Healing Potion",
+        "quantity": 3,
+        "category": "consumable",
+        "notes": ""
+      },
+      {
+        "name": "Camping Kit (2-person)",
+        "quantity": 1,
+        "category": "tool",
+        "notes": ""
+      },
+      {
+        "name": "Purified Water Pack (3 uses)",
+        "quantity": 1,
+        "category": "tool",
+        "notes": ""
+      },
+      {
+        "name": "Scroll of Bless",
+        "quantity": 1,
+        "category": "consumable",
+        "notes": ""
+      },
+      {
+        "name": "Moderate Healing Potion",
+        "quantity": 1,
+        "category": "consumable",
+        "notes": ""
+      },
+      {
+        "name": "Scroll of Invisibility",
+        "quantity": 1,
+        "category": "consumable",
+        "notes": ""
+      },
+      {
+        "name": "Scroll of Mirror Image",
+        "quantity": 1,
+        "category": "consumable",
+        "notes": ""
+      },
+      {
+        "name": "Potion of Invisibility (Moderate)",
+        "quantity": 1,
+        "category": "consumable",
+        "notes": ""
+      },
+      {
+        "name": "Smokestick",
+        "quantity": 2,
+        "category": "tool",
+        "notes": ""
+      },
+      {
+        "name": "Elixir of Life (Moderate)",
+        "quantity": 1,
+        "category": "tool",
+        "notes": ""
+      },
+      {
+        "name": "Grave Token",
+        "quantity": 1,
+        "category": "tool",
+        "notes": ""
+      },
+      {
+        "name": "Makeup kit + costume",
+        "quantity": 1,
+        "category": "tool",
+        "notes": ""
+      },
+      {
+        "name": "Small Trinkets",
+        "quantity": 1,
+        "category": "tool",
+        "notes": ""
+      },
+      {
+        "name": "Repair Kit",
+        "quantity": 1,
+        "category": "tool",
+        "notes": ""
+      },
+      {
+        "name": "Weapon Polish",
+        "quantity": 1,
+        "category": "tool",
+        "notes": ""
+      },
+      {
+        "name": "Chalk",
+        "quantity": 1,
+        "category": "tool",
+        "notes": ""
+      },
+      {
+        "name": "Scroll of Vampiric Touch",
+        "quantity": 1,
+        "category": "consumable",
+        "notes": ""
+      },
+      {
+        "name": "Rune Stone – Ghost Touch",
+        "quantity": 1,
+        "category": "tool",
+        "notes": ""
+      },
+      {
+        "name": "Rune Stone – Wounding",
+        "quantity": 1,
+        "category": "tool",
+        "notes": ""
+      },
+      {
+        "name": "Scroll of Mirror Image",
+        "quantity": 1,
+        "category": "consumable",
+        "notes": ""
+      }
+    ]
+  },
+  "level_progression": [
+    {
+      "name": "슬라몬",
+      "level": 3,
+      "hp_increase": 30,
+      "ability_boosts": [],
+      "class_feat": [
+        "Spell Parry"
+      ],
+      "skill_feat": [],
+      "general_feat": [
+        "Incredible Initiative"
+      ],
+      "skill_increases": [],
+      "spells_gained": [
+        "Mirror Image"
+      ],
+      "notes": ""
+    },
+    {
+      "name": "키티",
+      "level": 3,
+      "hp_increase": 24,
+      "ability_boosts": [],
+      "class_feat": [
+        "Dread Striker"
+      ],
+      "skill_feat": [],
+      "general_feat": [
+        "Cat Fall"
+      ],
+      "skill_increases": [],
+      "spells_gained": [],
+      "notes": ""
+    },
+    {
+      "name": "리산드라",
+      "level": 3,
+      "hp_increase": 24,
+      "ability_boosts": [],
+      "class_feat": [
+        "Communal Healing"
+      ],
+      "skill_feat": [],
+      "general_feat": [
+        "Intimidating Glare"
+      ],
+      "skill_increases": [],
+      "spells_gained": [
+        "Spiritual Weapon"
+      ],
+      "notes": "성표를 새기된 헤어핀에 장착함"
+    },
+    {
+      "name": "라비아타",
+      "level": 3,
+      "hp_increase": 30,
+      "ability_boosts": [],
+      "class_feat": [
+        "No Escape"
+      ],
+      "skill_feat": [],
+      "general_feat": [
+        "Diehard"
+      ],
+      "skill_increases": [],
+      "spells_gained": [],
+      "notes": ""
+    }
+  ]
+}
