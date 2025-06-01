@@ -7,9 +7,9 @@
           "type": "string",
           "enum": ["preserve_then_append", "overwrite", "manual"],
           "default": "preserve_then_append",
-          "description": "consumables 슬롯의 자동 갱신 방식. 
+          "description": "consumables 슬롯의 자동 갱신 방식.<br>
     - preserve_then_append: 기존 슬롯의 모든 항목을 유지하며, 새 아이템은 같은 이름이면 quantity만 증가시키고, 없으면 슬롯에 새로 추가합니다.<br>
-    - overwrite: 기존 슬롯을 전부 덮어씌웁니다. 
+    - overwrite: 기존 슬롯을 전부 덮어씌웁니다. <br>
     - manual: 시스템이 자동으로 갱신하지 않고, 수동으로만 편집됩니다."
         },
         "consumable_personalization": {
