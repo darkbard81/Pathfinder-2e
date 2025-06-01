@@ -1,4 +1,58 @@
 {
+    "rule_profile": {
+      "type": "object",
+      "description": "캠페인 전역에 적용되는 사용자 정의 규칙 세트입니다. 이 규칙들은 소비품 슬롯의 갱신 방식, 장비명 룬 표기 스타일과 순서, HP 출력 형식 등과 같이 시스템의 출력・자동화 처리 방식에 영향을 줍니다.",
+      "properties": {
+        "consumable_slot_behavior": {
+          "type": "string",
+          "enum": ["preserve_then_append", "overwrite", "manual"],
+          "default": "preserve_then_append",
+          "description": "consumables 슬롯의 자동 갱신 방식.\n\
+    - preserve_then_append: 기존 슬롯의 모든 항목을 유지하며, 새 아이템은 같은 이름이면 quantity만 증가시키고, 없으면 슬롯에 새로 추가합니다.\n\
+    - overwrite: 기존 슬롯을 전부 덮어씌웁니다.\n\
+    - manual: 시스템이 자동으로 갱신하지 않고, 수동으로만 편집됩니다."
+        },
+        "consumable_personalization": {
+          "type": "boolean",
+          "default": true,
+          "description": "공용 인벤토리(inventory.shared_items)에 있던 아이템이 캐릭터의 consumables 슬롯에 할당되는 순간, 해당 아이템은 전투 준비 장비로 간주되어 공유 자원에서 제거되고, 개인 자산으로 전환됩니다."
+        },
+        "rune_label_style": {
+          "type": "string",
+          "enum": ["standard_ordered", "freeform", "abbreviated"],
+          "default": "standard_ordered",
+          "description": "룬이 부착된 무기, 방어구, 방패 등의 이름에 룬을 어떤 스타일로 표시할지를 결정합니다.\n\
+    - standard_ordered: 정해진 룬 순서(rune_sort_order)를 따라 고정 형식으로 표기\n\
+    - freeform: 자유로운 서술 방식 허용\n\
+    - abbreviated: 약어 또는 축약 형태로 표시"
+        },
+        "rune_sort_order": {
+          "type": "array",
+          "items": {
+            "type": "string",
+            "enum": ["Potency", "Striking", "Resilient", "Property"]
+          },
+          "default": ["Potency", "Striking", "Resilient", "Property"],
+          "description": "장비명에 룬을 표시할 때 적용되는 정렬 순서입니다. 왼쪽에서 오른쪽 순으로 출력됩니다. 이 순서는 rune_label_style이 'standard_ordered'일 때만 적용되며, 일반 아이템(소모품, 도구 등)에는 영향을 주지 않습니다."
+        },
+        "hp_display_mode": {
+          "type": "string",
+          "enum": ["current", "max", "fractional", "both"],
+          "default": "current",
+          "description": "HP 출력 형식:\n\
+    - current: 현재값만 (예: 'HP: 17')\n\
+    - max: 최대값만 (예: 'Max HP: 22')\n\
+    - fractional: 현재/최대 (예: '17/22')\n\
+    - both: 최대값 뒤에 현재값 괄호 표기 (예: '22 (현재 17)')"
+        }
+      },
+      "required": [
+        "consumable_slot_behavior",
+        "consumable_personalization",
+        "rune_label_style",
+        "hp_display_mode"
+      ]
+    },
     "world_state": {
         "type": "object",
         "description": "캠페인의 전역 상태를 요약 / Global state of the campaign world",
