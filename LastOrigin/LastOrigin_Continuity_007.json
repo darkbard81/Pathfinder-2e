@@ -395,63 +395,8 @@
     }
   ],
   "inventory": {
-    "gold_pieces": 974.2,
+    "gold_pieces": 474.20000000000005,
     "shared_items": [
-      {
-        "name": "Healing Potion (Moderate)",
-        "quantity": 1,
-        "category": "consumable"
-      },
-      {
-        "name": "Healing Potion (Major)",
-        "quantity": 1,
-        "category": "consumable"
-      },
-      {
-        "name": "Potion of Invisibility (Moderate)",
-        "quantity": 2,
-        "category": "consumable"
-      },
-      {
-        "name": "Elixir of Life (Lesser)",
-        "quantity": 1,
-        "category": "consumable"
-      },
-      {
-        "name": "Elixir of Life (Moderate)",
-        "quantity": 1,
-        "category": "consumable"
-      },
-      {
-        "name": "Smokestick",
-        "quantity": 2,
-        "category": "consumable"
-      },
-      {
-        "name": "Scroll of Mirror Image",
-        "quantity": 1,
-        "category": "consumable"
-      },
-      {
-        "name": "Scroll of Vampiric Touch",
-        "quantity": 1,
-        "category": "consumable"
-      },
-      {
-        "name": "Scroll of Scorching Ray",
-        "quantity": 1,
-        "category": "consumable"
-      },
-      {
-        "name": "Scroll of See Invisibility",
-        "quantity": 1,
-        "category": "consumable"
-      },
-      {
-        "name": "Scroll of Invisibility",
-        "quantity": 1,
-        "category": "consumable"
-      },
       {
         "name": "Ration (1-day)",
         "quantity": 4,
@@ -471,16 +416,6 @@
         "name": "Unattached Striking Rune",
         "quantity": 1,
         "category": "tool"
-      },
-      {
-        "name": "Scroll of Fireball",
-        "quantity": 1,
-        "category": "consumable"
-      },
-      {
-        "name": "Potion of Barkskin (Moderate)",
-        "quantity": 1,
-        "category": "consumable"
       },
       {
         "name": "Unattached Wounding Rune",
@@ -557,6 +492,86 @@
       "skill_increases": [],
       "spells_gained": [],
       "notes": ""
+    },
+    {
+      "name": "슬라몬",
+      "level": 4,
+      "hp_increase": 6,
+      "ability_boosts": [],
+      "class_feat": [
+        "Expansive Spellstrike"
+      ],
+      "skill_feat": [
+        "Magical Crafting"
+      ],
+      "general_feat": [
+        "Toughness"
+      ],
+      "skill_increases": [
+        "Crafting"
+      ],
+      "spells_gained": [],
+      "notes": "Crafting → Expert, 마법 제작에 최적화"
+    },
+    {
+      "name": "키티",
+      "level": 4,
+      "hp_increase": 6,
+      "ability_boosts": [],
+      "class_feat": [
+        "Underhanded Assault"
+      ],
+      "skill_feat": [
+        "Trap Finder"
+      ],
+      "general_feat": [
+        "Toughness"
+      ],
+      "skill_increases": [
+        "Stealth"
+      ],
+      "spells_gained": [],
+      "notes": "Stealth → Expert, 기민한 함정 대응 및 숨어서 급습 특화"
+    },
+    {
+      "name": "라비아타",
+      "level": 4,
+      "hp_increase": 6,
+      "ability_boosts": [],
+      "class_feat": [
+        "Furious Finish"
+      ],
+      "skill_feat": [
+        "Titan Wrestler"
+      ],
+      "general_feat": [
+        "Toughness"
+      ],
+      "skill_increases": [
+        "Athletics"
+      ],
+      "spells_gained": [],
+      "notes": "Athletics → Expert, 근접 전투 생존성과 거대 대상 제압 강화"
+    },
+    {
+      "name": "리산드라",
+      "level": 4,
+      "hp_increase": 6,
+      "ability_boosts": [],
+      "class_feat": [
+        "Versatile Font"
+      ],
+      "skill_feat": [
+        "Battle Cry"
+      ],
+      "general_feat": [
+        "Incredible Initiative"
+      ],
+      "skill_increases": [
+        "Intimidation"
+      ],
+      "spells_gained": [],
+      "notes": "Intimidation → Expert, 개전 시 자동 위협 가능. 선제권 강화로 Battle Cry 발동 시너지 극대화"
     }
   ],
   "party": {
@@ -805,5 +820,83 @@
       }
     ],
     "failed": []
-  }
+  },
+  "personal_base": {
+    "name": "포리프 하우스",
+    "location": "패스포트 남동쪽 단독 주택가",
+    "description": "당신의 개인 거점이자 파티의 본거지로 등록된 2층짜리 단독주택. 구성과 인테리어는 Personal_Base.md를 따름.",
+    "vault": {
+      "stored_items": [
+        {
+          "name": "Healing Potion (Moderate)",
+          "quantity": 1,
+          "category": "consumable"
+        },
+        {
+          "name": "Healing Potion (Major)",
+          "quantity": 1,
+          "category": "consumable"
+        },
+        {
+          "name": "Potion of Invisibility (Moderate)",
+          "quantity": 2,
+          "category": "consumable"
+        },
+        {
+          "name": "Elixir of Life (Lesser)",
+          "quantity": 1,
+          "category": "consumable"
+        },
+        {
+          "name": "Elixir of Life (Moderate)",
+          "quantity": 1,
+          "category": "consumable"
+        },
+        {
+          "name": "Smokestick",
+          "quantity": 2,
+          "category": "consumable"
+        },
+        {
+          "name": "Scroll of Mirror Image",
+          "quantity": 1,
+          "category": "consumable"
+        },
+        {
+          "name": "Scroll of Vampiric Touch",
+          "quantity": 1,
+          "category": "consumable"
+        },
+        {
+          "name": "Scroll of Scorching Ray",
+          "quantity": 1,
+          "category": "consumable"
+        },
+        {
+          "name": "Scroll of See Invisibility",
+          "quantity": 1,
+          "category": "consumable"
+        },
+        {
+          "name": "Scroll of Invisibility",
+          "quantity": 1,
+          "category": "consumable"
+        },
+        {
+          "name": "Scroll of Fireball",
+          "quantity": 1,
+          "category": "consumable"
+        },
+        {
+          "name": "Potion of Barkskin (Moderate)",
+          "quantity": 1,
+          "category": "consumable"
+        }
+      ]
+    }
+  },
+  "party_goals": [
+    "무한의 프론티어 5층 도달",
+    "파티 자금 2000gp 달성"
+  ]
 }
