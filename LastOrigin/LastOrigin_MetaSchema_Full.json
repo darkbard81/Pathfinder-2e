@@ -571,8 +571,7 @@
 			    "required": ["1", "2", "3", "4", "5"],
 			    "additionalProperties": false,
 			    "description": "Combat-ready quickslots / 전투 중 즉시 사용 가능한 퀵슬롯 (1~5번 고정)"
-			}
-                  }
+		    }
                 },
                 "spells": {
                     "description": "혼합 시전자를 위한 주문 구조. prepared 캐스터와 spontaneous 캐스터를 구분하여 관리하며, 공통 포커스 주문도 포함함.",
@@ -684,10 +683,10 @@
                 }
             }
         ],
-		    "gold": {
-		      "type": "integer",
-		      "description": "파티의 실제 소지금 총량 (gp 단위) / Total party funds in gold pieces"
-		    }   
+        "gold": {
+	  "type": "integer",
+	  "description": "파티의 실제 소지금 총량 (gp 단위) / Total party funds in gold pieces"
+        }   
     },
     "personal_base": {
 		  "type": "object",
