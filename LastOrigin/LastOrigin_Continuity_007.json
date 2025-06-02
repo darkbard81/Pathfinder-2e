@@ -20,8 +20,8 @@
     }
   },
   "time_health": {
-    "fatigue_check_elapsed": 180,
-    "hunger_check_elapsed": 180,
+    "fatigue_check_elapsed": 120,
+    "hunger_check_elapsed": 65,
     "fatigue": false,
     "hunger": false,
     "health_penalty": false
@@ -290,6 +290,17 @@
       "description": "슬라몬 일행이 마녀의 유리병에서 Healing Potion (Lesser) 10개를 할인받아 구매하고, 각자의 소비품 슬롯에 장비를 정리함.",
       "time_spent": 20,
       "day_advance": false
+    },
+    {
+      "scene_id": 25,
+      "timestamp": "Day 5 - 10:05",
+      "location": {
+        "name": "패스포트 – 길드 오브 프론티어즈",
+        "type": "Base (거점)"
+      },
+      "description": "드레치 처리 및 회랑 탐색을 마친 슬라몬 일행이 귀환 후 길드에 도착. 거점 개설을 앞두고 정산과 정비를 준비하며 휴식을 취함.",
+      "time_spent": 20,
+      "day_advance": false
     }
   ],
   "emotion_log": [
@@ -384,7 +395,7 @@
     }
   ],
   "inventory": {
-    "gold_pieces": 894.8,
+    "gold_pieces": 974.2,
     "shared_items": [
       {
         "name": "Healing Potion (Moderate)",
@@ -458,6 +469,21 @@
       },
       {
         "name": "Unattached Striking Rune",
+        "quantity": 1,
+        "category": "tool"
+      },
+      {
+        "name": "Scroll of Fireball",
+        "quantity": 1,
+        "category": "consumable"
+      },
+      {
+        "name": "Potion of Barkskin (Moderate)",
+        "quantity": 1,
+        "category": "consumable"
+      },
+      {
+        "name": "Unattached Wounding Rune",
         "quantity": 1,
         "category": "tool"
       }
