@@ -513,7 +513,7 @@
 					    "description": "Quantity of item / 수량"
 					}
 				    },
-				    "required": ["name"]
+				    "required": ["name", "quantity"]
 				},
 				"2": {
 				    "type": ["object", "null"],
@@ -527,7 +527,7 @@
 					    "description": "Quantity of item / 수량"
 					}
 				    },
-				    "required": ["name"]
+				    "required": ["name", "quantity"]
 				},
 				"3": {
 				    "type": ["object", "null"],
@@ -541,7 +541,7 @@
 					    "description": "Quantity of item / 수량"
 					}
 				    },
-				    "required": ["name"]
+				    "required": ["name", "quantity"]
 				},
 				"4": {
 				    "type": ["object", "null"],
@@ -555,7 +555,7 @@
 					    "description": "Quantity of item / 수량"
 					}
 				    },
-				    "required": ["name"]
+				    "required": ["name", "quantity"]
 				},
 				"5": {
 				    "type": ["object", "null"],
@@ -569,7 +569,7 @@
 					    "description": "Quantity of item / 수량"
 					}
 				    },
-				    "required": ["name"]
+				    "required": ["name", "quantity"]
 				}
 			    },
 			    "required": ["1", "2", "3", "4", "5"],
