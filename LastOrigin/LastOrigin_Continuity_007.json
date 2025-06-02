@@ -20,8 +20,8 @@
     }
   },
   "time_health": {
-    "fatigue_check_elapsed": 120,
-    "hunger_check_elapsed": 65,
+    "fatigue_check_elapsed_minutes": 120,
+    "hunger_check_elapsed_minutes": 65,
     "fatigue": false,
     "hunger": false,
     "health_penalty": false
@@ -936,9 +936,5 @@
         }
       ]
     }
-  },
-  "party_goals": [
-    "무한의 프론티어 5층 도달",
-    "파티 자금 2000gp 달성"
-  ]
+  }
 }
