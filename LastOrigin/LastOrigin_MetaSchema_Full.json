@@ -300,10 +300,6 @@
         "description": "공용 소지품 관리 / Shared inventory tracking",
         "type": "object",
         "properties": {
-            "gold_pieces": {
-                "type": "integer",
-                "description": "Total gold pieces / 파티 보유 금화 총량 (gp 단위)"
-            },
             "shared_items": {
                 "type": "array",
                 "description": "파티 공유 아이템 목록 / Items shared by the whole party",
@@ -334,7 +330,6 @@
             }
         },
         "required": [
-            "gold_pieces",
             "shared_items"
         ]
     },
@@ -687,7 +682,11 @@
                     }
                 }
             }
-        ]
+        ],
+		    "gold": {
+		      "type": "integer",
+		      "description": "파티의 실제 소지금 총량 (gp 단위) / Total party funds in gold pieces"
+		    }   
     },
     "personal_base": {
 		  "type": "object",
