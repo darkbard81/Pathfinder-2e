@@ -109,11 +109,11 @@
         "type": "object",
         "description": "수면 및 식사 상태 추적용 상태 기록 / Fatigue and hunger status tracker",
         "properties": {
-            "fatigue_check_elapsed": {
+            "fatigue_check_elapsed_minutes": {
                 "type": "integer",
                 "description": "Elapsed minutes since last 8-hour sleep / 마지막 수면 이후 누적 경과 시간 (분 단위)"
             },
-            "hunger_check_elapsed": {
+            "hunger_check_elapsed_minutes": {
                 "type": "integer",
                 "description": "Elapsed minutes since last 8-hour meal / 마지막 식사 이후 누적 경과 시간 (분 단위)"
             },
@@ -320,6 +320,7 @@
                         },
                         "notes": {
                             "type": "string",
+		            "default": "",
                             "description": "Additional info or usage / 비고 또는 사용 용도"
                         }
                     },
