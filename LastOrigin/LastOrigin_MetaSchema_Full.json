@@ -689,6 +689,30 @@
             }
         ]
     },
+    "personal_base": {
+		  "type": "object",
+		  "description": "플레이어의 유일한 집과 창고. 이름, 위치, 저장 아이템만 관리.",
+		  "properties": {
+		    "owner": { "type": "string", "description": "소유자" },
+		    "house_name": { "type": "string", "description": "집 이름" },
+		    "location": { "type": "string", "description": "위치 (옵션)" },
+		    "storage": {
+		      "type": "array",
+		      "description": "창고 내 아이템",
+		      "items": {
+		        "type": "object",
+		        "properties": {
+		          "name": { "type": "string", "description": "아이템 이름" },
+		          "quantity": { "type": "integer", "description": "수량" },
+		          "category": { "type": "string", "description": "아이템 종류" },
+		          "notes": { "type": "string", "description": "비고", "default": "" }
+		        },
+		        "required": ["name", "quantity"]
+		      }
+		    }
+		  },
+		  "required": ["owner", "house_name", "storage"]
+    },	
     "quest_board": {
         "type": "object",
         "description": "퀘스트 게시판을 상태별로 분류한 구조 / Quest board grouped by status",
