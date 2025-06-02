@@ -102,7 +102,7 @@
         "required": [
             "reputation",
             "deepest_dungeon_floor",
-            "warp_markers"
+            "warp_marker"
         ]
     },
     "time_health": {
