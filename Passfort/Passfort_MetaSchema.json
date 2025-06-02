@@ -498,31 +498,84 @@
                             "null"
                         ]
                     },
-                    "consumables": {
-                        "type": "array",
-                        "items": {
-                            "type": [
-                                "object",
-                                "null"
-                            ],
-                            "properties": {
-                                "name": {
-                                    "type": "string",
-                                    "description": "Item name / 아이템 이름"
-                                },
-                                "quantity": {
-                                    "type": "integer",
-                                    "description": "Quantity of item / 수량"
-                                }
-                            },
-                            "required": [
-                                "name"
-                            ]
-                        },
-                        "minItems": 5,
-                        "maxItems": 5,
-                        "description": "Combat-ready consumables / 전투 중 즉시 사용 가능한 소비품 슬롯 (최대 5개)"
-                    }
+		    "quickslot": {
+			    "type": "object",
+			    "properties": {
+				"1": {
+				    "type": ["object", "null"],
+				    "properties": {
+					"name": {
+					    "type": "string",
+					    "description": "Item name / 아이템 이름"
+					},
+					"quantity": {
+					    "type": "integer",
+					    "description": "Quantity of item / 수량"
+					}
+				    },
+				    "required": ["name"]
+				},
+				"2": {
+				    "type": ["object", "null"],
+				    "properties": {
+					"name": {
+					    "type": "string",
+					    "description": "Item name / 아이템 이름"
+					},
+					"quantity": {
+					    "type": "integer",
+					    "description": "Quantity of item / 수량"
+					}
+				    },
+				    "required": ["name"]
+				},
+				"3": {
+				    "type": ["object", "null"],
+				    "properties": {
+					"name": {
+					    "type": "string",
+					    "description": "Item name / 아이템 이름"
+					},
+					"quantity": {
+					    "type": "integer",
+					    "description": "Quantity of item / 수량"
+					}
+				    },
+				    "required": ["name"]
+				},
+				"4": {
+				    "type": ["object", "null"],
+				    "properties": {
+					"name": {
+					    "type": "string",
+					    "description": "Item name / 아이템 이름"
+					},
+					"quantity": {
+					    "type": "integer",
+					    "description": "Quantity of item / 수량"
+					}
+				    },
+				    "required": ["name"]
+				},
+				"5": {
+				    "type": ["object", "null"],
+				    "properties": {
+					"name": {
+					    "type": "string",
+					    "description": "Item name / 아이템 이름"
+					},
+					"quantity": {
+					    "type": "integer",
+					    "description": "Quantity of item / 수량"
+					}
+				    },
+				    "required": ["name"]
+				}
+			    },
+			    "required": ["1", "2", "3", "4", "5"],
+			    "additionalProperties": false,
+			    "description": "Combat-ready quickslots / 전투 중 즉시 사용 가능한 퀵슬롯 (1~5번 고정)"
+			}
                 },
                 "spells": {
                     "description": "혼합 시전자를 위한 주문 구조. prepared 캐스터와 spontaneous 캐스터를 구분하여 관리하며, 공통 포커스 주문도 포함함.",
@@ -612,13 +665,13 @@
                                 "slots"
                             ]
                         }, 
-						"cantrips": {
+			"cantrips": {
                             "type": "array",
                             "items": {
                                 "type": "string"
                             },
                             "description": "모든 캔트립 주문 목록"
-						},	
+			},	
                         "focus_points": {
                             "type": "integer",
                             "description": "현재 Focus Point 수"
