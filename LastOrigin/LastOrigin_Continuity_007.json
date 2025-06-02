@@ -301,6 +301,13 @@
       "description": "드레치 처리 및 회랑 탐색을 마친 슬라몬 일행이 귀환 후 길드에 도착. 거점 개설을 앞두고 정산과 정비를 준비하며 휴식을 취함.",
       "time_spent": 20,
       "day_advance": false
+    },
+    {
+      "timestamp": "Day 6 - 08:35",
+      "location": "무한의 프론티어 4층 – 서쪽 하부 계단 진입부",
+      "description": "Gearsman 및 Rust Monster를 유도하여 처치. 세 번째 보물상자 확보 후 탐색 정지.",
+      "time_spent": 10,
+      "day_advance": false
     }
   ],
   "emotion_log": [
@@ -421,6 +428,46 @@
         "name": "Unattached Wounding Rune",
         "quantity": 1,
         "category": "tool"
+      },
+      {
+        "name": "Spell Scroll: Invisibility",
+        "quantity": 1,
+        "category": "scroll"
+      },
+      {
+        "name": "Lesser Striking Rune",
+        "quantity": 1,
+        "category": "tool"
+      },
+      {
+        "name": "Resilient Rune (+1)",
+        "quantity": 1,
+        "category": "tool"
+      },
+      {
+        "name": "Wand of Magic Missile (1st)",
+        "quantity": 1,
+        "category": "wand"
+      },
+      {
+        "name": "Elixir of Life (Moderate)",
+        "quantity": 1,
+        "category": "consumable"
+      },
+      {
+        "name": "Alchemist’s Fire (Lesser)",
+        "quantity": 1,
+        "category": "consumable"
+      },
+      {
+        "name": "Oil of Mending",
+        "quantity": 1,
+        "category": "consumable"
+      },
+      {
+        "name": "Conductive Talisman (1회용)",
+        "quantity": 1,
+        "category": "talisman"
       }
     ]
   },
@@ -593,7 +640,7 @@
           "feet": null,
           "armor": null,
           "shield": null,
-          "weapon": null,
+          "weapon": "Cold Iron Rapier (+1 Potency + Wounding) [메인], Silver Rapier (+1 Potency) [서브]",
           "consumables": {
             "1": {
               "name": "Adventurer’s Pack",
@@ -640,7 +687,8 @@
           ],
           "focus_points": 0,
           "focus_spells": []
-        }
+        },
+        "hp": "28/34"
       },
       {
         "name": "라비아타",
@@ -658,7 +706,7 @@
           "feet": null,
           "armor": "Hide Armor",
           "shield": null,
-          "weapon": "Greatsword (+1, Striking)",
+          "weapon": "Greatsword (+1, Lesser Striking)",
           "consumables": {
             "1": {
               "name": "Adventurer’s Pack",
@@ -682,14 +730,7 @@
             "slots": {}
           },
           "focus_points": 0,
-          "focus_spells": [],
-          "cantrips": [
-            "Detect Magic",
-            "Divine Lance",
-            "Shield",
-            "Light",
-            "Stabilize"
-          ]
+          "focus_spells": []
         }
       },
       {
@@ -770,7 +811,7 @@
           "feet": null,
           "armor": "Leather Armor",
           "shield": null,
-          "weapon": "Dagger",
+          "weapon": "Cold Iron Dagger (+1 Potency + Wounding) [메인], Silver Dagger (+1 Potency) [서브]",
           "consumables": {
             "1": {
               "name": "Adventurer’s Pack",
@@ -797,7 +838,8 @@
           "focus_spells": []
         }
       }
-    ]
+    ],
+    "gold": 320
   },
   "quest_board": {
     "available": [],
