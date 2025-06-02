@@ -279,6 +279,17 @@
       "description": "수레 귀환 / 퀘스트 보고 및 보상 정산 완료",
       "time_spent": 0,
       "day_advance": false
+    },
+    {
+      "scene_id": 24,
+      "timestamp": "Day 4 - 13:55",
+      "location": {
+        "name": "패스포트 – 마녀의 유리병",
+        "type": "Shop (상점)"
+      },
+      "description": "슬라몬 일행이 마녀의 유리병에서 Healing Potion (Lesser) 10개를 할인받아 구매하고, 각자의 소비품 슬롯에 장비를 정리함.",
+      "time_spent": 20,
+      "day_advance": false
     }
   ],
   "emotion_log": [
@@ -376,172 +387,79 @@
     "gold_pieces": 894.8,
     "shared_items": [
       {
-        "name": "Ration (1-day)",
-        "quantity": 4,
-        "category": "tool",
-        "notes": ""
+        "name": "Healing Potion (Moderate)",
+        "quantity": 1,
+        "category": "consumable"
       },
       {
-        "name": "Healing Potion (Lesser)",
+        "name": "Healing Potion (Major)",
         "quantity": 1,
-        "category": "consumable",
-        "notes": ""
-      },
-      {
-        "name": "Healing Potion",
-        "quantity": 1,
-        "category": "consumable",
-        "notes": ""
-      },
-      {
-        "name": "Camping Kit (2-person)",
-        "quantity": 1,
-        "category": "tool",
-        "notes": ""
-      },
-      {
-        "name": "Purified Water Pack (3 uses)",
-        "quantity": 1,
-        "category": "tool",
-        "notes": ""
-      },
-      {
-        "name": "Scroll of Bless",
-        "quantity": 1,
-        "category": "consumable",
-        "notes": ""
-      },
-      {
-        "name": "Moderate Healing Potion",
-        "quantity": 1,
-        "category": "consumable",
-        "notes": ""
-      },
-      {
-        "name": "Scroll of Invisibility",
-        "quantity": 1,
-        "category": "consumable",
-        "notes": ""
-      },
-      {
-        "name": "Scroll of Mirror Image",
-        "quantity": 1,
-        "category": "consumable",
-        "notes": ""
+        "category": "consumable"
       },
       {
         "name": "Potion of Invisibility (Moderate)",
-        "quantity": 1,
-        "category": "consumable",
-        "notes": ""
-      },
-      {
-        "name": "Smokestick",
         "quantity": 2,
-        "category": "tool",
-        "notes": ""
-      },
-      {
-        "name": "Elixir of Life (Moderate)",
-        "quantity": 1,
-        "category": "tool",
-        "notes": ""
-      },
-      {
-        "name": "Grave Token",
-        "quantity": 1,
-        "category": "tool",
-        "notes": ""
-      },
-      {
-        "name": "Makeup kit + costume",
-        "quantity": 1,
-        "category": "tool",
-        "notes": ""
-      },
-      {
-        "name": "Small Trinkets",
-        "quantity": 1,
-        "category": "tool",
-        "notes": ""
-      },
-      {
-        "name": "Repair Kit",
-        "quantity": 1,
-        "category": "tool",
-        "notes": ""
-      },
-      {
-        "name": "Weapon Polish",
-        "quantity": 1,
-        "category": "tool",
-        "notes": ""
-      },
-      {
-        "name": "Chalk",
-        "quantity": 1,
-        "category": "tool",
-        "notes": ""
-      },
-      {
-        "name": "Scroll of Vampiric Touch",
-        "quantity": 1,
-        "category": "consumable",
-        "notes": ""
-      },
-      {
-        "name": "Rune Stone – Ghost Touch",
-        "quantity": 1,
-        "category": "tool",
-        "notes": ""
-      },
-      {
-        "name": "Rune Stone – Wounding",
-        "quantity": 1,
-        "category": "tool",
-        "notes": ""
-      },
-      {
-        "name": "Scroll of Mirror Image",
-        "quantity": 1,
-        "category": "consumable",
-        "notes": ""
-      },
-      {
-        "name": "Striking Rune Stone",
-        "quantity": 1,
-        "category": "tool",
-        "notes": ""
-      },
-      {
-        "name": "Potion of Invisibility (Moderate)",
-        "quantity": 1,
-        "category": "consumable",
-        "notes": ""
-      },
-      {
-        "name": "Smokestick (Moderate)",
-        "quantity": 1,
-        "category": "tool",
-        "notes": ""
-      },
-      {
-        "name": "Scroll of Scorching Ray",
-        "quantity": 1,
-        "category": "consumable",
-        "notes": ""
-      },
-      {
-        "name": "Scroll of See Invisibility",
-        "quantity": 1,
-        "category": "consumable",
-        "notes": ""
+        "category": "consumable"
       },
       {
         "name": "Elixir of Life (Lesser)",
         "quantity": 1,
-        "category": "tool",
-        "notes": ""
+        "category": "consumable"
+      },
+      {
+        "name": "Elixir of Life (Moderate)",
+        "quantity": 1,
+        "category": "consumable"
+      },
+      {
+        "name": "Smokestick",
+        "quantity": 2,
+        "category": "consumable"
+      },
+      {
+        "name": "Scroll of Mirror Image",
+        "quantity": 1,
+        "category": "consumable"
+      },
+      {
+        "name": "Scroll of Vampiric Touch",
+        "quantity": 1,
+        "category": "consumable"
+      },
+      {
+        "name": "Scroll of Scorching Ray",
+        "quantity": 1,
+        "category": "consumable"
+      },
+      {
+        "name": "Scroll of See Invisibility",
+        "quantity": 1,
+        "category": "consumable"
+      },
+      {
+        "name": "Scroll of Invisibility",
+        "quantity": 1,
+        "category": "consumable"
+      },
+      {
+        "name": "Ration (1-day)",
+        "quantity": 4,
+        "category": "tool"
+      },
+      {
+        "name": "Unattached Ghost Touch Rune",
+        "quantity": 1,
+        "category": "tool"
+      },
+      {
+        "name": "Unattached Wounding Rune",
+        "quantity": 1,
+        "category": "tool"
+      },
+      {
+        "name": "Unattached Striking Rune",
+        "quantity": 1,
+        "category": "tool"
       }
     ]
   },
@@ -635,7 +553,22 @@
           "armor": null,
           "shield": null,
           "weapon": null,
-          "consumables": []
+          "consumables": {
+            "1": {
+              "name": "Adventurer’s Pack",
+              "quantity": 1
+            },
+            "2": {
+              "name": "Spellbook",
+              "quantity": 1
+            },
+            "3": {
+              "name": "Healing Potion (Lesser)",
+              "quantity": 3
+            },
+            "4": null,
+            "5": null
+          }
         },
         "spells": {
           "prepared": {
@@ -685,7 +618,22 @@
           "armor": "Hide Armor",
           "shield": null,
           "weapon": "Greatsword (+1, Striking)",
-          "consumables": []
+          "consumables": {
+            "1": {
+              "name": "Adventurer’s Pack",
+              "quantity": 1
+            },
+            "2": {
+              "name": "Holy Symbol",
+              "quantity": 1
+            },
+            "3": {
+              "name": "Healing Potion (Lesser)",
+              "quantity": 3
+            },
+            "4": null,
+            "5": null
+          }
         },
         "spells": {
           "prepared": {
@@ -693,7 +641,14 @@
             "slots": {}
           },
           "focus_points": 0,
-          "focus_spells": []
+          "focus_spells": [],
+          "cantrips": [
+            "Detect Magic",
+            "Divine Lance",
+            "Shield",
+            "Light",
+            "Stabilize"
+          ]
         }
       },
       {
@@ -713,7 +668,22 @@
           "armor": "Hide Armor",
           "shield": null,
           "weapon": "Whip",
-          "consumables": []
+          "consumables": {
+            "1": {
+              "name": "Adventurer’s Pack",
+              "quantity": 1
+            },
+            "2": {
+              "name": "Repair Kit",
+              "quantity": 1
+            },
+            "3": {
+              "name": "Healing Potion (Lesser)",
+              "quantity": 3
+            },
+            "4": null,
+            "5": null
+          }
         },
         "spells": {
           "prepared": {
@@ -760,12 +730,22 @@
           "armor": "Leather Armor",
           "shield": null,
           "weapon": "Dagger",
-          "consumables": [
-            {
-              "name": "Healing Potion (Lesser)",
+          "consumables": {
+            "1": {
+              "name": "Adventurer’s Pack",
               "quantity": 1
-            }
-          ]
+            },
+            "2": {
+              "name": "Smokestick",
+              "quantity": 1
+            },
+            "3": {
+              "name": "Healing Potion (Lesser)",
+              "quantity": 3
+            },
+            "4": null,
+            "5": null
+          }
         },
         "spells": {
           "prepared": {
