@@ -79,14 +79,14 @@
 
 ## 7. 주요 건물 일람
 
-### 푸크들의 요리솥
+### 푸크들의 요리솥 (The Cooking Pot of the Pooks)
 
 - 낮에는 식당식당으로 경영하고 저녁 이후에는 술집으로 운영한다.
 - 하플링 자매인 푸크미(Ranger)와 푸크유(Druid)가 근무하는 곳.
 - 모험가들이 자주 찾는 회식과 회의 장소
 - 건조식, 식수 정제 키트, 휴대용 조리도구, 보존 마법이 깃든 Ration등을 판매한다.
 
-### 마녀의 유리병
+### 마녀의 유리병 (Witch's Bottle)
 
 - 마법적 물품 상점
 - Changeling 여성 릴리샤(Oracle)가 운영한다.
@@ -94,7 +94,7 @@
 - 상점 주인이 특정 마법 아이템을 "선택"하게 할 수 있다.
 - 나른한 어조로 아기취급하는 말투
 
-### 무한의 검제
+### 무한의 검제 (Infinite Blade Works)
 
 - 여성 드워프 장인 쟈드니(Fighter)와 여성 엘프 릴라에(Inventor)가 운영한다.
 - 전통적인 강철 무기/방어구 위주
@@ -102,7 +102,7 @@
 - Rune 부여/전이/제거 제공
 - Crafting + Tools + Downtime 이용가능
 
-### 빛결의 정원
+### 빛결의 정원 (Garden of Light Stream)
 
 - 셰일린(Shelyn)을 모시는 신전
 - 여성 아시마르(Aasimar: Angelkin Lineage, Cleric) 주교 루미에르
