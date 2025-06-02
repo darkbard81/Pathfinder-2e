@@ -611,14 +611,14 @@
                                 "classname",
                                 "slots"
                             ]
-                        }, 
-						"cantrips": {
+                        },
+			"cantrips": {
                             "type": "array",
                             "items": {
                                 "type": "string"
                             },
-                            "description": "모든 캔트립 주문 목록"
-						},	
+                            "description": "모든 캔트립 주문 목록" 
+			},	
                         "focus_points": {
                             "type": "integer",
                             "description": "현재 Focus Point 수"
