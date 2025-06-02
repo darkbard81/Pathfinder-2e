@@ -3,19 +3,14 @@
       "type": "object",
       "description": "캠페인 전역에 적용되는 사용자 정의 규칙 세트입니다. 이 규칙들은 소비품 슬롯의 갱신 방식, 장비명 룬 표기 스타일과 순서, HP 출력 형식 등과 같이 시스템의 출력・자동화 처리 방식에 영향을 줍니다.",
       "properties": {
-        "consumable_slot_behavior": {
+        "quickslot_behavior": {
           "type": "string",
           "enum": ["preserve_then_append", "overwrite", "manual"],
           "default": "preserve_then_append",
-          "description": "consumables 슬롯의 자동 갱신 방식.\n\
+          "description": "quickslot의 자동 갱신 방식.\n\
     - preserve_then_append: 기존 슬롯의 모든 항목을 유지하며, 새 아이템은 같은 이름이면 quantity만 증가시키고, 없으면 슬롯에 새로 추가합니다.\n\
     - overwrite: 기존 슬롯을 전부 덮어씌웁니다.\n\
     - manual: 시스템이 자동으로 갱신하지 않고, 수동으로만 편집됩니다."
-        },
-        "consumable_personalization": {
-          "type": "boolean",
-          "default": true,
-          "description": "공용 인벤토리(inventory.shared_items)에 있던 아이템이 캐릭터의 consumables 슬롯에 할당되는 순간, 해당 아이템은 전투 준비 장비로 간주되어 공유 자원에서 제거되고, 개인 자산으로 전환됩니다."
         },
         "rune_label_style": {
           "type": "string",
@@ -47,8 +42,7 @@
         }
       },
       "required": [
-        "consumable_slot_behavior",
-        "consumable_personalization",
+        "quickslot_behavior",
         "rune_label_style",
         "hp_display_mode"
       ]
