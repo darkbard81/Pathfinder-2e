@@ -1,0 +1,138 @@
+{
+  "name": "Slamon",
+  "class": "Magus",
+  "level": 1,
+  "ancestry": "Human",
+  "heritage": "Versatile Heritage",
+  "background": "Scholar",
+  "alignment": "Neutral Good",
+  "size": "Medium",
+  "speed": "25 feet",
+  "languages": [
+    "Common",
+    "Draconic",
+    "Dwarven",
+    "Elven",
+    "Orcish",
+    "Undercommon"
+  ],
+  "deity": "",
+  "key_ability": "Intelligence",
+  "hp": {
+    "max": 17,
+    "current": 17
+  },
+  "perception": "Trained",
+  "saving_throws": {
+    "fortitude": "Expert",
+    "reflex": "Expert",
+    "will": "Trained"
+  },
+  "armor_proficiency": "Trained (unarmored, light armor)",
+  "weapon_proficiency": "Trained (simple weapons, magus weapon group)",
+  "spell_proficiency": "Trained (arcane, prepared)",
+  "adjusted_abilities": {
+    "STR": 10,
+    "DEX": 14,
+    "CON": 12,
+    "INT": 18,
+    "WIS": 10,
+    "CHA": 12
+  },
+  "class_features": [
+    "Spellstrike",
+    "Hybrid Study (Sparkling Targe)",
+    "Arcane Cascade",
+    "Magus Spellcasting"
+  ],
+  "feats": {
+    "ancestry_feat": [
+      "General Training"
+    ],
+    "background_feat": "Assurance (Arcana)",
+    "general_feats": [
+      "Incredible Initiative"
+    ],
+    "class_feats": [
+      "Magus’s Analysis"
+    ],
+    "skill_feats": [
+      "Assurance"
+    ]
+  },
+  "skills": {
+    "Arcana": "Trained",
+    "Crafting": "Trained",
+    "Occultism": "Trained",
+    "Athletics": "Trained",
+    "Society": "Trained",
+    "Diplomacy": "Trained"
+  },
+  "spells": {
+    "casting_type": "prepared",
+    "spellbook": {
+      "1st_level": [
+        "Shocking Grasp",
+        "Grease",
+        "Snowball",
+        "Burning Hands"
+      ]
+    },
+    "prepared": {
+      "1st_level": [
+        "Shocking Grasp"
+      ]
+    },
+    "known_spells": {},
+    "cantrips": [
+      "Detect Magic",
+      "Shield",
+      "Electric Arc"
+    ],
+    "focus_spells": [
+      "Shielding Strike"
+    ],
+    "innate_spells": {},
+    "rituals": []
+  },
+  "gear": {
+    "weapons": [
+      "Rapier"
+    ],
+    "armor": [
+      "Leather Armor"
+    ],
+    "worn_items": [],
+    "consumables": [
+      "Minor Healing Potion"
+    ],
+    "tools": [
+      "Spellbook",
+      "Writing Set"
+    ],
+    "coin_pouch": {
+      "gp": 10,
+      "sp": 0,
+      "cp": 0
+    },
+    "other": [
+      "Backpack",
+      "Rations (1 week)",
+      "Bedroll",
+      "Flint and Steel"
+    ]
+  },
+  "conditions": [],
+  "resource_tracking": {
+    "spell_slots_used": {
+      "1st_level": {
+        "max": 1,
+        "current": 1
+      }
+    },
+    "focus_points": {
+      "max": 1,
+      "current": 1
+    }
+  }
+}
