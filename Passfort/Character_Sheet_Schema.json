@@ -1,6 +1,6 @@
 {
   "$schema": "http://json-schema.org/draft-07/schema#",
-  "title": "Pathfinder 2e Universal Character Sheet",
+  "title": "Pathfinder 2e Universal Character Sheet (Session-Ready)",
   "type": "object",
   "properties": {
     "name": { "type": "string" },
@@ -135,37 +135,14 @@
       },
       "required": ["casting_type"]
     },
-    "focus": {
-      "type": "object",
-      "properties": {
-        "focus_points_max": { "type": "integer", "minimum": 0 },
-        "focus_points_current": { "type": "integer", "minimum": 0 }
-      },
-      "required": ["focus_points_max", "focus_points_current"]
-    },
     "gear": {
       "type": "object",
       "properties": {
-        "weapons": {
-          "type": "array",
-          "items": { "type": "string" }
-        },
-        "armor": {
-          "type": "array",
-          "items": { "type": "string" }
-        },
-        "worn_items": {
-          "type": "array",
-          "items": { "type": "string" }
-        },
-        "consumables": {
-          "type": "array",
-          "items": { "type": "string" }
-        },
-        "tools": {
-          "type": "array",
-          "items": { "type": "string" }
-        },
+        "weapons": { "type": "array", "items": { "type": "string" } },
+        "armor": { "type": "array", "items": { "type": "string" } },
+        "worn_items": { "type": "array", "items": { "type": "string" } },
+        "consumables": { "type": "array", "items": { "type": "string" } },
+        "tools": { "type": "array", "items": { "type": "string" } },
         "coin_pouch": {
           "type": "object",
           "properties": {
@@ -175,15 +152,58 @@
           },
           "required": ["gp", "sp", "cp"]
         },
-        "other": {
-          "type": "array",
-          "items": { "type": "string" }
+        "other": { "type": "array", "items": { "type": "string" } }
+      }
+    },
+    "conditions": {
+      "type": "array",
+      "items": { "type": "string" }
+    },
+    "resource_tracking": {
+      "type": "object",
+      "properties": {
+        "spell_slots_used": {
+          "type": "object",
+          "properties": {
+            "1st_level": {
+              "type": "object",
+              "properties": {
+                "max": { "type": "integer", "minimum": 0 },
+                "current": { "type": "integer", "minimum": 0 }
+              },
+              "required": ["max", "current"]
+            },
+            "2nd_level": {
+              "type": "object",
+              "properties": {
+                "max": { "type": "integer", "minimum": 0 },
+                "current": { "type": "integer", "minimum": 0 }
+              },
+              "required": ["max", "current"]
+            },
+            "3rd_level": {
+              "type": "object",
+              "properties": {
+                "max": { "type": "integer", "minimum": 0 },
+                "current": { "type": "integer", "minimum": 0 }
+              },
+              "required": ["max", "current"]
+            }
+          }
+        },
+        "focus_points": {
+          "type": "object",
+          "properties": {
+            "max": { "type": "integer", "minimum": 0 },
+            "current": { "type": "integer", "minimum": 0 }
+          },
+          "required": ["max", "current"]
         }
       }
     }
   },
   "required": [
-    "name", "class", "level", "adjusted_abilities", "class_features",
-    "spells", "hp"
+    "name", "class", "level", "adjusted_abilities",
+    "class_features", "spells", "hp"
   ]
 }
