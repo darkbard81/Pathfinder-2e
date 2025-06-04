@@ -1,0 +1,70 @@
+{
+  "name": "Lissandra",
+  "class": "Champion (Liberator)",
+  "level": 1,
+  "ancestry": "Kitsune",
+  "heritage": "Celestial Envoy",
+  "background": "Nomad",
+  "alignment": "Chaotic Good",
+  "size": "Medium",
+  "speed": "30 feet",
+  "languages": ["Common", "Sylvan"],
+  "deity": "Calistria",
+  "key_ability": "DEX",
+  "hp": { "max": 20, "current": 20 },
+  "perception": "Trained",
+  "saving_throws": {
+    "fortitude": "Expert",
+    "reflex": "Trained",
+    "will": "Expert"
+  },
+  "armor_proficiency": "All armor (trained)",
+  "weapon_proficiency": "Simple, martial, unarmed (trained)",
+  "spell_proficiency": "Divine spell attacks & DCs (trained)",
+  "adjusted_abilities": {
+    "STR": 14,
+    "DEX": 14,
+    "CON": 14,
+    "INT": 10,
+    "WIS": 12,
+    "CHA": 14
+  },
+  "class_features": [
+    "Champion’s Code",
+    "Deity & Cause (Liberator)",
+    "Deific Weapon (Whip, damage die ↑)",
+    "Champion’s Reaction – Liberating Step",
+    "Lay on Hands devotion spell",
+    "Shield Block (class-granted)"
+  ],
+  "feats": {
+    "ancestry_feat": ["Foxfire"],
+    "background_feat": ["Assurance (Survival)"],
+    "general_feats": [],
+    "class_feats": ["Deity’s Domain (Trickery)"],
+    "skill_feats": []
+  },
+  "skills": {
+    "Religion": "Trained",
+    "Deception": "Trained",
+    "Survival": "Trained",
+    "Acrobatics": "Trained",
+    "Society": "Trained",
+    "Forest Lore": "Trained"
+  },
+  "spells": {
+    "casting_type": "focus",
+    "focus_pool": { "max": 2, "current": 2 },
+    "focus_spells": ["Lay on Hands", "Sudden Shift"]
+  },
+  "equipment": {
+    "weapons": ["Whip", "Dagger"],
+    "armor": ["Breastplate", "Steel Shield"],
+    "tools": ["Adventurer’s Pack"],
+    "coin_pouch": { "gp": 6, "sp": 8, "cp": 0 }
+  },
+  "conditions": [],
+  "resource_tracking": {
+    "focus_points": { "max": 2, "current": 2 }
+  }
+}
