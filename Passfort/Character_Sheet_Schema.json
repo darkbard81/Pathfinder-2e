@@ -1,0 +1,189 @@
+{
+  "$schema": "http://json-schema.org/draft-07/schema#",
+  "title": "Pathfinder 2e Universal Character Sheet",
+  "type": "object",
+  "properties": {
+    "name": { "type": "string" },
+    "class": { "type": "string" },
+    "level": { "type": "integer", "minimum": 1 },
+    "ancestry": { "type": "string" },
+    "heritage": { "type": "string" },
+    "background": { "type": "string" },
+    "alignment": { "type": "string" },
+    "size": { "type": "string", "enum": ["Small", "Medium", "Large"] },
+    "speed": { "type": "string" },
+    "languages": {
+      "type": "array",
+      "items": { "type": "string" }
+    },
+    "deity": { "type": "string" },
+    "key_ability": { "type": "string" },
+    "hp": {
+      "type": "object",
+      "properties": {
+        "max": { "type": "integer", "minimum": 1 },
+        "current": { "type": "integer", "minimum": 0 }
+      },
+      "required": ["max", "current"]
+    },
+    "perception": { "type": "string" },
+    "saving_throws": {
+      "type": "object",
+      "properties": {
+        "fortitude": { "type": "string" },
+        "reflex": { "type": "string" },
+        "will": { "type": "string" }
+      },
+      "required": ["fortitude", "reflex", "will"]
+    },
+    "armor_proficiency": { "type": "string" },
+    "weapon_proficiency": { "type": "string" },
+    "spell_proficiency": { "type": "string" },
+    "adjusted_abilities": {
+      "type": "object",
+      "properties": {
+        "STR": { "type": "integer" },
+        "DEX": { "type": "integer" },
+        "CON": { "type": "integer" },
+        "INT": { "type": "integer" },
+        "WIS": { "type": "integer" },
+        "CHA": { "type": "integer" }
+      },
+      "required": ["STR", "DEX", "CON", "INT", "WIS", "CHA"]
+    },
+    "class_features": {
+      "type": "array",
+      "items": { "type": "string" }
+    },
+    "feats": {
+      "type": "object",
+      "properties": {
+        "ancestry_feat": {
+          "type": "array",
+          "items": { "type": "string" }
+        },
+        "background_feat": { "type": "string" },
+        "general_feats": {
+          "type": "array",
+          "items": { "type": "string" }
+        },
+        "class_feats": {
+          "type": "array",
+          "items": { "type": "string" }
+        },
+        "skill_feats": {
+          "type": "array",
+          "items": { "type": "string" }
+        }
+      },
+      "required": ["ancestry_feat", "background_feat"]
+    },
+    "skills": {
+      "type": "object",
+      "additionalProperties": { "type": "string" }
+    },
+    "spells": {
+      "type": "object",
+      "properties": {
+        "casting_type": {
+          "type": "string",
+          "enum": ["prepared", "spontaneous", "focus", "innate", "ritual", "none"]
+        },
+        "spellbook": {
+          "type": "object",
+          "properties": {
+            "1st_level": { "type": "array", "items": { "type": "string" } },
+            "2nd_level": { "type": "array", "items": { "type": "string" } },
+            "3rd_level": { "type": "array", "items": { "type": "string" } }
+          }
+        },
+        "prepared": {
+          "type": "object",
+          "properties": {
+            "1st_level": { "type": "array", "items": { "type": "string" } },
+            "2nd_level": { "type": "array", "items": { "type": "string" } },
+            "3rd_level": { "type": "array", "items": { "type": "string" } }
+          }
+        },
+        "known_spells": {
+          "type": "object",
+          "properties": {
+            "1st_level": { "type": "array", "items": { "type": "string" } },
+            "2nd_level": { "type": "array", "items": { "type": "string" } },
+            "3rd_level": { "type": "array", "items": { "type": "string" } }
+          }
+        },
+        "cantrips": {
+          "type": "array",
+          "items": { "type": "string" }
+        },
+        "focus_spells": {
+          "type": "array",
+          "items": { "type": "string" }
+        },
+        "innate_spells": {
+          "type": "object",
+          "properties": {
+            "1st_level": { "type": "array", "items": { "type": "string" } },
+            "2nd_level": { "type": "array", "items": { "type": "string" } }
+          }
+        },
+        "rituals": {
+          "type": "array",
+          "items": { "type": "string" }
+        }
+      },
+      "required": ["casting_type"]
+    },
+    "focus": {
+      "type": "object",
+      "properties": {
+        "focus_points_max": { "type": "integer", "minimum": 0 },
+        "focus_points_current": { "type": "integer", "minimum": 0 }
+      },
+      "required": ["focus_points_max", "focus_points_current"]
+    },
+    "gear": {
+      "type": "object",
+      "properties": {
+        "weapons": {
+          "type": "array",
+          "items": { "type": "string" }
+        },
+        "armor": {
+          "type": "array",
+          "items": { "type": "string" }
+        },
+        "worn_items": {
+          "type": "array",
+          "items": { "type": "string" }
+        },
+        "consumables": {
+          "type": "array",
+          "items": { "type": "string" }
+        },
+        "tools": {
+          "type": "array",
+          "items": { "type": "string" }
+        },
+        "coin_pouch": {
+          "type": "object",
+          "properties": {
+            "gp": { "type": "integer", "minimum": 0 },
+            "sp": { "type": "integer", "minimum": 0 },
+            "cp": { "type": "integer", "minimum": 0 }
+          },
+          "required": ["gp", "sp", "cp"]
+        },
+        "other": {
+          "type": "array",
+          "items": { "type": "string" }
+        }
+      }
+    }
+  },
+  "required": [
+    "name", "class", "level", "adjusted_abilities", "class_features",
+    "spells", "hp"
+  ]
+}
