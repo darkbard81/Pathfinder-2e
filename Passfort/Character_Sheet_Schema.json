@@ -1,209 +1,395 @@
 {
   "$schema": "http://json-schema.org/draft-07/schema#",
-  "title": "Pathfinder 2e Universal Character Sheet (Session-Ready)",
+  "title": "Pathfinder 2e Universal Character Sheet (Full)",
+  "description": "A comprehensive schema for Pathfinder 2e characters including stats, spells, gear, and session resources.",
   "type": "object",
   "properties": {
-    "name": { "type": "string" },
-    "class": { "type": "string" },
-    "level": { "type": "integer", "minimum": 1 },
-    "ancestry": { "type": "string" },
-    "heritage": { "type": "string" },
-    "background": { "type": "string" },
-    "alignment": { "type": "string" },
-    "size": { "type": "string", "enum": ["Small", "Medium", "Large"] },
-    "speed": { "type": "string" },
+    "name": {
+      "type": "string",
+      "description": "The full name of the character."
+    },
+    "class": {
+      "type": "string",
+      "description": "The character's class (e.g., Wizard, Magus)."
+    },
+    "level": {
+      "type": "integer",
+      "minimum": 1,
+      "description": "The character's current level."
+    },
+    "ancestry": {
+      "type": "string",
+      "description": "The character's ancestry (e.g., Elf, Human)."
+    },
+    "heritage": {
+      "type": "string",
+      "description": "The heritage selected within the ancestry."
+    },
+    "background": {
+      "type": "string",
+      "description": "The character's background (e.g., Scholar, Warrior)."
+    },
+    "alignment": {
+      "type": "string",
+      "description": "The character's alignment (e.g., Neutral Good)."
+    },
+    "size": {
+      "type": "string",
+      "enum": [
+        "Small",
+        "Medium",
+        "Large"
+      ],
+      "description": "The size category of the character."
+    },
+    "speed": {
+      "type": "string",
+      "description": "The movement speed of the character."
+    },
     "languages": {
       "type": "array",
-      "items": { "type": "string" }
+      "description": "Languages the character can speak or understand.",
+      "items": {
+        "type": "string"
+      }
     },
-    "deity": { "type": "string" },
-    "key_ability": { "type": "string" },
+    "deity": {
+      "type": "string",
+      "description": "The deity the character worships, if any."
+    },
+    "key_ability": {
+      "type": "string",
+      "description": "The primary ability score used by the class."
+    },
     "hp": {
       "type": "object",
+      "description": "Character's Hit Points (HP).",
       "properties": {
-        "max": { "type": "integer", "minimum": 1 },
-        "current": { "type": "integer", "minimum": 0 }
+        "max": {
+          "type": "integer",
+          "minimum": 1,
+          "description": "Maximum HP."
+        },
+        "current": {
+          "type": "integer",
+          "minimum": 0,
+          "description": "Current HP."
+        }
       },
-      "required": ["max", "current"]
+      "required": [
+        "max",
+        "current"
+      ]
     },
-    "perception": { "type": "string" },
+    "perception": {
+      "type": "string",
+      "description": "The character's perception proficiency."
+    },
     "saving_throws": {
       "type": "object",
+      "description": "Saving throw proficiencies.",
       "properties": {
-        "fortitude": { "type": "string" },
-        "reflex": { "type": "string" },
-        "will": { "type": "string" }
+        "fortitude": {
+          "type": "string"
+        },
+        "reflex": {
+          "type": "string"
+        },
+        "will": {
+          "type": "string"
+        }
       },
-      "required": ["fortitude", "reflex", "will"]
+      "required": [
+        "fortitude",
+        "reflex",
+        "will"
+      ]
     },
-    "armor_proficiency": { "type": "string" },
-    "weapon_proficiency": { "type": "string" },
-    "spell_proficiency": { "type": "string" },
+    "armor_proficiency": {
+      "type": "string",
+      "description": "Proficiency level in armor types."
+    },
+    "weapon_proficiency": {
+      "type": "string",
+      "description": "Proficiency level in weapon types."
+    },
+    "spell_proficiency": {
+      "type": "string",
+      "description": "Proficiency in spellcasting."
+    },
     "adjusted_abilities": {
       "type": "object",
+      "description": "Final ability scores after all boosts.",
       "properties": {
-        "STR": { "type": "integer" },
-        "DEX": { "type": "integer" },
-        "CON": { "type": "integer" },
-        "INT": { "type": "integer" },
-        "WIS": { "type": "integer" },
-        "CHA": { "type": "integer" }
+        "STR": {
+          "type": "integer",
+          "description": "Strength"
+        },
+        "DEX": {
+          "type": "integer",
+          "description": "Dexterity"
+        },
+        "CON": {
+          "type": "integer",
+          "description": "Constitution"
+        },
+        "INT": {
+          "type": "integer",
+          "description": "Intelligence"
+        },
+        "WIS": {
+          "type": "integer",
+          "description": "Wisdom"
+        },
+        "CHA": {
+          "type": "integer",
+          "description": "Charisma"
+        }
       },
-      "required": ["STR", "DEX", "CON", "INT", "WIS", "CHA"]
+      "required": [
+        "STR",
+        "DEX",
+        "CON",
+        "INT",
+        "WIS",
+        "CHA"
+      ]
     },
     "class_features": {
       "type": "array",
-      "items": { "type": "string" }
+      "description": "A list of class features.",
+      "items": {
+        "type": "string"
+      }
     },
     "feats": {
       "type": "object",
+      "description": "All character feats categorized by source.",
       "properties": {
         "ancestry_feat": {
           "type": "array",
-          "items": { "type": "string" }
+          "items": {
+            "type": "string"
+          }
         },
-        "background_feat": { "type": "string" },
+        "background_feat": {
+          "type": "string"
+        },
         "general_feats": {
           "type": "array",
-          "items": { "type": "string" }
+          "items": {
+            "type": "string"
+          }
         },
         "class_feats": {
           "type": "array",
-          "items": { "type": "string" }
+          "items": {
+            "type": "string"
+          }
         },
         "skill_feats": {
           "type": "array",
-          "items": { "type": "string" }
+          "items": {
+            "type": "string"
+          }
         }
       },
-      "required": ["ancestry_feat", "background_feat"]
+      "required": [
+        "ancestry_feat",
+        "background_feat"
+      ]
     },
     "skills": {
       "type": "object",
-      "additionalProperties": { "type": "string" }
+      "description": "Skill proficiencies, keyed by skill name.",
+      "additionalProperties": {
+        "type": "string"
+      }
     },
     "spells": {
       "type": "object",
+      "description": "Spellcasting structure and known spells.",
       "properties": {
         "casting_type": {
           "type": "string",
-          "enum": ["prepared", "spontaneous", "focus", "innate", "ritual", "none"]
+          "enum": [
+            "prepared",
+            "spontaneous",
+            "focus",
+            "innate",
+            "ritual",
+            "none"
+          ],
+          "description": "The method by which the character casts spells."
         },
         "spellbook": {
           "type": "object",
-          "properties": {
-            "1st_level": { "type": "array", "items": { "type": "string" } },
-            "2nd_level": { "type": "array", "items": { "type": "string" } },
-            "3rd_level": { "type": "array", "items": { "type": "string" } }
-          }
+          "description": "Spells recorded in a spellbook."
         },
         "prepared": {
           "type": "object",
-          "properties": {
-            "1st_level": { "type": "array", "items": { "type": "string" } },
-            "2nd_level": { "type": "array", "items": { "type": "string" } },
-            "3rd_level": { "type": "array", "items": { "type": "string" } }
-          }
+          "description": "Prepared spells for each level."
         },
         "known_spells": {
           "type": "object",
-          "properties": {
-            "1st_level": { "type": "array", "items": { "type": "string" } },
-            "2nd_level": { "type": "array", "items": { "type": "string" } },
-            "3rd_level": { "type": "array", "items": { "type": "string" } }
-          }
+          "description": "Known spells for spontaneous casters."
         },
         "cantrips": {
           "type": "array",
-          "items": { "type": "string" }
+          "items": {
+            "type": "string"
+          },
+          "description": "List of cantrips."
         },
         "focus_spells": {
           "type": "array",
-          "items": { "type": "string" }
+          "items": {
+            "type": "string"
+          },
+          "description": "Focus spells."
         },
         "innate_spells": {
           "type": "object",
-          "properties": {
-            "1st_level": { "type": "array", "items": { "type": "string" } },
-            "2nd_level": { "type": "array", "items": { "type": "string" } }
-          }
+          "description": "Innate magical spells."
         },
         "rituals": {
           "type": "array",
-          "items": { "type": "string" }
+          "items": {
+            "type": "string"
+          },
+          "description": "Ritual spells known."
         }
       },
-      "required": ["casting_type"]
+      "required": [
+        "casting_type"
+      ]
     },
     "gear": {
       "type": "object",
+      "description": "Items, weapons, armor, and gear carried by the character.",
       "properties": {
-        "weapons": { "type": "array", "items": { "type": "string" } },
-        "armor": { "type": "array", "items": { "type": "string" } },
-        "worn_items": { "type": "array", "items": { "type": "string" } },
-        "consumables": { "type": "array", "items": { "type": "string" } },
-        "tools": { "type": "array", "items": { "type": "string" } },
+        "weapons": {
+          "type": "array",
+          "items": {
+            "type": "string"
+          }
+        },
+        "armor": {
+          "type": "array",
+          "items": {
+            "type": "string"
+          }
+        },
+        "worn_items": {
+          "type": "array",
+          "items": {
+            "type": "string"
+          }
+        },
+        "consumables": {
+          "type": "array",
+          "items": {
+            "type": "string"
+          }
+        },
+        "tools": {
+          "type": "array",
+          "items": {
+            "type": "string"
+          }
+        },
         "coin_pouch": {
           "type": "object",
           "properties": {
-            "gp": { "type": "integer", "minimum": 0 },
-            "sp": { "type": "integer", "minimum": 0 },
-            "cp": { "type": "integer", "minimum": 0 }
+            "gp": {
+              "type": "integer",
+              "minimum": 0
+            },
+            "sp": {
+              "type": "integer",
+              "minimum": 0
+            },
+            "cp": {
+              "type": "integer",
+              "minimum": 0
+            }
           },
-          "required": ["gp", "sp", "cp"]
+          "required": [
+            "gp",
+            "sp",
+            "cp"
+          ]
         },
-        "other": { "type": "array", "items": { "type": "string" } }
+        "other": {
+          "type": "array",
+          "items": {
+            "type": "string"
+          }
+        }
       }
     },
     "conditions": {
       "type": "array",
-      "items": { "type": "string" }
+      "description": "Current status conditions affecting the character.",
+      "items": {
+        "type": "string"
+      }
     },
     "resource_tracking": {
       "type": "object",
+      "description": "Tracks limited-use character resources like spell slots and focus points.",
       "properties": {
         "spell_slots_used": {
           "type": "object",
+          "description": "Per-level spell slot usage.",
           "properties": {
             "1st_level": {
               "type": "object",
               "properties": {
-                "max": { "type": "integer", "minimum": 0 },
-                "current": { "type": "integer", "minimum": 0 }
+                "max": {
+                  "type": "integer",
+                  "description": "Total 1st-level slots available."
+                },
+                "current": {
+                  "type": "integer",
+                  "description": "Remaining 1st-level slots."
+                }
               },
-              "required": ["max", "current"]
-            },
-            "2nd_level": {
-              "type": "object",
-              "properties": {
-                "max": { "type": "integer", "minimum": 0 },
-                "current": { "type": "integer", "minimum": 0 }
-              },
-              "required": ["max", "current"]
-            },
-            "3rd_level": {
-              "type": "object",
-              "properties": {
-                "max": { "type": "integer", "minimum": 0 },
-                "current": { "type": "integer", "minimum": 0 }
-              },
-              "required": ["max", "current"]
+              "required": [
+                "max",
+                "current"
+              ]
             }
           }
         },
         "focus_points": {
           "type": "object",
+          "description": "Focus Point pool tracking.",
           "properties": {
-            "max": { "type": "integer", "minimum": 0 },
-            "current": { "type": "integer", "minimum": 0 }
+            "max": {
+              "type": "integer",
+              "description": "Maximum focus points."
+            },
+            "current": {
+              "type": "integer",
+              "description": "Current focus points available."
+            }
           },
-          "required": ["max", "current"]
+          "required": [
+            "max",
+            "current"
+          ]
         }
       }
     }
   },
   "required": [
-    "name", "class", "level", "adjusted_abilities",
-    "class_features", "spells", "hp"
+    "name",
+    "class",
+    "level",
+    "adjusted_abilities",
+    "class_features",
+    "spells",
+    "hp"
   ]
 }
