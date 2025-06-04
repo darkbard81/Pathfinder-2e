@@ -1,0 +1,75 @@
+{
+  "name": "Laviata",
+  "class": "Barbarian (Giant Instinct)",
+  "level": 1,
+  "ancestry": "Android",
+  "heritage": "Nanite Surge",
+  "background": "Bodyguard",
+  "alignment": "Lawful Good",
+  "size": "Medium",
+  "speed": "25 ft",
+  "languages": ["Common", "Androffan", "Jotun"],
+
+  /* ──── 능력치: 총 78 점 ──── */
+  "adjusted_abilities": {
+    "STR": 18,
+    "DEX": 12,
+    "CON": 14,
+    "INT": 12,
+    "WIS": 12,
+    "CHA": 10
+  },
+
+  "key_ability": "STR",
+  "hp": { "max": 22, "current": 22 },
+
+  /* ──── 숙련도 ──── */
+  "perception": "Trained",
+  "saving_throws": {
+    "fortitude": "Expert",
+    "reflex":    "Trained",
+    "will":      "Trained"   /* WIS 12 → 기본 보너스 +1 (총 +4) */
+  },
+  "armor_proficiency": "Light, Medium, Unarmored (Trained)",
+  "weapon_proficiency": "Simple, Martial, Unarmed (Trained)",
+  "spell_proficiency": "None",
+
+  /* ──── 클래스 특징 ──── */
+  "class_features": [
+    "Rage (Giant Instinct: d12 weapon damage, AC –2, Clumsy 1)",
+    "Titan Mauler – wield Large two-handed weapon",
+    "Sudden Charge"
+  ],
+
+  /* ──── 피트 ──── */
+  "feats": {
+    "ancestry_feat": ["Overdrive Mind"],
+    "background_feat": ["Bodyguard’s Defense"],
+    "class_feats": ["Sudden Charge"],
+    "skill_feats": ["Quick Repair"],
+    "general_feats": []
+  },
+
+  /* ──── 기술 ──── */
+  "skills": {
+    "Athletics":    "Trained",
+    "Intimidation": "Trained",
+    "Crafting":     "Trained",
+    "Perception":   "Trained",
+    "Society":      "Trained"
+  },
+
+  /* ──── 주문 / 집중 ──── */
+  "spells": { "casting_type": "none" },
+
+  /* ──── 장비 & 자금 ──── */
+  "equipment": {
+    "weapons": ["Greatsword (Large – Clumsy 1)"],
+    "armor":   ["Hide Armor"],
+    "tools":   ["Adventurer’s Pack", "Repair Kit"],
+    "coin_pouch": { "gp": 1, "sp": 0, "cp": 0 }
+  },
+
+  "conditions": [],
+  "resource_tracking": {}
+}
