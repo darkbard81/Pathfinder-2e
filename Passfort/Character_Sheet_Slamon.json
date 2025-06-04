@@ -1,5 +1,5 @@
 {
-  "name": "Slamon",
+  "name": "Example Magus",
   "class": "Magus",
   "level": 1,
   "ancestry": "Human",
@@ -66,7 +66,8 @@
     "Occultism": "Trained",
     "Athletics": "Trained",
     "Society": "Trained",
-    "Diplomacy": "Trained"
+    "Diplomacy": "Trained",
+    "Nature": "Trained"
   },
   "spells": {
     "casting_type": "prepared",
@@ -87,7 +88,9 @@
     "cantrips": [
       "Detect Magic",
       "Shield",
-      "Electric Arc"
+      "Electric Arc",
+      "Acid Splash",
+      "Light"
     ],
     "focus_spells": [
       "Shielding Strike"
