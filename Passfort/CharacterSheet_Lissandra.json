@@ -25,8 +25,11 @@
     "reflex": "Trained",
     "will": "Expert"
   },
-  "armor_proficiency": "Light Armor, Medium Armor, Shields",
-  "weapon_proficiency": "Simple Weapons, Divine Weapons",
+  "armor_proficiency": "Untrained",
+  "weapon_proficiency": [
+    "Simple Weapons (Trained)",
+    "Whip (Calistria Favored Weapon, Trained)"
+  ],
   "spell_proficiency": "Prepared Divine",
   "adjusted_abilities": {
     "STR": 10,
@@ -36,31 +39,31 @@
     "WIS": 18,
     "CHA": 16
   },
+  "ancestry_features": [
+    "Low-light Vision",
+    "Change Shape"
+  ],
+  "heritage_features": [
+    "Invoke Celestial Privilege"
+  ],
   "class_features": [
     "Doctrine: Cloistered Cleric",
     "Channel Energy (Heal)",
-    "Divine Spellcasting",
-    "Expert in Divine Spell DCs"
+    "Divine Spellcasting"
   ],
   "feats": {
-    "ancestry_feat": [
-      // Gain +2 circumstance bonus to saving throws when receiving a divine boon
-      "Invoke Celestial Privilege"
-    ],
-      // Use Intimidation as a single action on targets within 30 ft
+    "ancestry_feat": [],
     "background_feat": "Quick Coercion",
     "general_feats": [],
     "class_feats": [
-        // Gain one 1st-level Trickery domain spell and expand focus pool
       "Domain Initiate (Trickery)"
     ],
     "skill_feats": []
   },
   "skills": {
     "Religion": "Trained",
-    "Medicine": "Trained",
     "Deception": "Trained",
-    "Diplomacy": "Trained",
+    "Medicine": "Trained",
     "Intimidation": "Trained",
     "Warfare Lore": "Trained"
   },
@@ -92,7 +95,7 @@
       "Whip"
     ],
     "armor": [
-      "Breastplate"
+      "Robe"
     ],
     "worn_items": [],
     "consumables": [],
@@ -110,6 +113,12 @@
       "1st_level": {
         "max": 2,
         "current": 2
+      }
+    },
+    "divine_font_slots": {
+      "1st_level_heal": {
+        "max": 4,
+        "current": 4
       }
     },
     "focus_points": {
