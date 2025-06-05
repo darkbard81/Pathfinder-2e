@@ -52,7 +52,9 @@
     "Divine Spellcasting"
   ],
   "feats": {
-    "ancestry_feat": [],
+    "ancestry_feat": [
+      "Kitsune Spell Familiarity"
+    ],
     "background_feat": "Quick Coercion",
     "general_feats": [],
     "class_feats": [
@@ -87,7 +89,9 @@
     "focus_spells": [
       "Sudden Shift"
     ],
-    "innate_spells": {},
+    "innate_spells": [
+      "Daze"
+    ],
     "rituals": []
   },
   "gear": {
@@ -101,11 +105,11 @@
     "consumables": [],
     "tools": [],
     "coin_pouch": {
-      "gp": 10,
+      "gp": 20,
       "sp": 0,
       "cp": 0
     },
-    "other": [ "Adventurer’s Pack" ]
+    "other": []
   },
   "conditions": [],
   "resource_tracking": {
