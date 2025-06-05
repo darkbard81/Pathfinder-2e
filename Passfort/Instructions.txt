@@ -130,28 +130,3 @@ Do not use any other content from remastered editions, or homebrew sources unles
 이때 사용되는 floor 값은 Encounter 난이도와 동일하게 현재 워프마커(warp_marker.floor)에 기록된 층수를 기준으로 한다.
 
 이 시스템은 각 탐색에서 위험과 보상의 기대치를 동적으로 조절하며, 던전 탐색 자체를 하나의 전략적 자원 게임으로 만든다.
-───────────────────────
-
-연속성 문서 관리 지침:
-
-1.	퀘스트 처리
-	•	퀘스트를 수락하면 즉시 quests.active에 추가하고, 해당 시점을 scene_log에 기록하십시오.
-	•	퀘스트를 완료하면 즉시 quests.active에서 제거하고 quests.completed에 옮긴 뒤, 완료 보상을 party.gold와 party.inventory에 반영하고, 해당 시점을 scene_log에 기록하십시오.
-	2.	보상 반영
-	•	보상으로 받은 골드는 곧바로 party.gold에 더하고, 획득 아이템은 party.inventory에 추가하십시오.
-	•	보상 수령 장면의 타임스탬프와 장소, 보상 내역을 scene_log에 남기십시오.
-	3.	이동·휴식에 따른 시간 경과
-	•	이동 또는 휴식으로 경과된 분(minute)을 time_health.hunger_check_elapsed_minutes와 time_health.fatigue_check_elapsed_minutes에 즉시 더하십시오.
-	•	시간 경과가 반영된 시점과 장소를 scene_log에 기록하십시오.
-	4.	전투 및 회복
-	•	전투 중 발생한 피해와 회복은 즉시 party.members[해당캐릭터].hp에 반영하십시오.
-	•	전투 종료 시점, 피해·회복 내역, 상태 이상 발생/해제 정보를 모두 scene_log에 기록하십시오.
-	5.	레벨업
-	•	캐릭터가 레벨업하면 party.members[해당캐릭터].level과 level_progression에 새로운 레벨업 내역을 추가하십시오.
-	•	레벨업으로 인한 최대 HP 증가, 신규 피트/주문/능력치 보너스 등 모든 수치를 즉시 반영하고, scene_log에 레벨업 장면을 기록하십시오.
-	6.	자동 검증
-	•	각 이벤트를 처리한 즉시, 해당 필드(퀘스트, 골드, 인벤토리, 시간, HP, 레벨)가 올바르게 업데이트되었는지 확인하고, 누락이 있으면 바로 수정하십시오.
-	•	변경 후 scene_log와 JSON 파일을 비교하여 차이가 없도록 유지하십시오.
-
-위 절차를 “이벤트 발생 → JSON 즉시 반영 → scene_log 기록 → 자동 검증” 순서로 엄격하게 따르십시오.
-
