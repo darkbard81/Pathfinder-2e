@@ -1,0 +1,155 @@
+{
+  "name": "Slamon",
+  "class": "Magus",
+  "level": 4,
+  "ancestry": "Human",
+  "heritage": "Versatile Heritage",
+  "background": "Scholar",
+  "alignment": "Lawful Evil",
+  "size": "Medium",
+  "speed": "25 feet",
+  "languages": [
+    "Common",
+    "Draconic",
+    "Dwarven",
+    "Elven",
+    "Orcish",
+    "Undercommon"
+  ],
+  "deity": "",
+  "key_ability": "Dexterity",
+  "hp": {
+    "max": 41,
+    "current": 41
+  },
+  "perception": "Trained",
+  "saving_throws": {
+    "fortitude": "Expert",
+    "reflex": "Trained",
+    "will": "Expert"
+  },
+  "armor_proficiency": "Trained (unarmored, light armor, medium armor)",
+  "weapon_proficiency": "Trained (simple weapons, martial weapons, unarmed attacks)",
+  "spell_proficiency": "Trained (arcane, prepared)",
+  "adjusted_abilities": {
+    "STR": 10,
+    "DEX": 14,
+    "CON": 12,
+    "INT": 18,
+    "WIS": 12,
+    "CHA": 12
+  },
+  "class_features": [
+    "Spellstrike",
+    "Hybrid Study (Sparkling Targe)",
+    "Arcane Cascade",
+    "Magus Spellcasting"
+  ],
+  "feats": {
+    "ancestry_feat": [
+      "General Training",
+      "Natural Ambition"
+    ],
+    "background_feat": "Assurance (Arcana)",
+    "class_feats": [
+      "Magus’s Analysis",
+      "Expansive Spellstrike",
+      "Emergency Targe",
+      "Striking Spell"
+    ],
+    "general_feats": [
+      "Ancestral Paragon"
+    ],
+    "skill_feats": [
+      "Recognize Spell",
+      "Magical Crafting"
+    ]
+  },
+  "skills": {
+    "Arcana": "Trained",
+    "Crafting": "Expert",
+    "Occultism": "Trained",
+    "Athletics": "Trained",
+    "Society": "Trained",
+    "Diplomacy": "Trained",
+    "Nature": "Trained"
+  },
+  "spells": {
+    "casting_type": "prepared",
+    "spellbook": {
+      "1st_level": [
+        "Shocking Grasp",
+        "Grease",
+        "Snowball",
+        "Burning Hands"
+      ],
+      "2nd_level": [
+        "Acid Arrow",
+        "Mirror Image"
+      ]
+    },
+    "prepared": {
+      "1st_level": [
+        "Shocking Grasp"
+      ],
+      "2nd_level": []
+    },
+    "known_spells": {},
+    "cantrips": [
+      "Detect Magic",
+      "Shield",
+      "Electric Arc",
+      "Acid Splash",
+      "Light"
+    ],
+    "focus_spells": [
+      "Shielding Strike"
+    ],
+    "innate_spells": {},
+    "rituals": []
+  },
+  "gear": {
+    "weapons": [
+      "Rapier"
+    ],
+    "armor": [
+      "Leather Armor"
+    ],
+    "worn_items": [],
+    "consumables": [
+      "Minor Healing Potion"
+    ],
+    "tools": [
+      "Spellbook",
+      "Writing Set"
+    ],
+    "coin_pouch": {
+      "gp": 10,
+      "sp": 0,
+      "cp": 0
+    },
+    "other": [
+      "Backpack",
+      "Rations (1 week)",
+      "Bedroll",
+      "Flint and Steel"
+    ]
+  },
+  "conditions": [],
+  "resource_tracking": {
+    "spell_slots_used": {
+      "1st_level": {
+        "max": 2,
+        "current": 2
+      },
+      "2nd_level": {
+        "max": 2,
+        "current": 2
+      }
+    },
+    "focus_points": {
+      "max": 1,
+      "current": 1
+    }
+  }
+}
