@@ -101,11 +101,11 @@
     "consumables": [],
     "tools": [],
     "coin_pouch": {
-      "gp": 20,
+      "gp": 10,
       "sp": 0,
       "cp": 0
     },
-    "other": []
+    "other": [ "Adventurer’s Pack" ]
   },
   "conditions": [],
   "resource_tracking": {
