@@ -19,8 +19,8 @@
   "deity": "",
   "key_ability": "Dexterity",
   "hp": {
-    "max": 41,
-    "current": 41
+    "max": 44,
+    "current": 44
   },
   "perception": "Trained",
   "saving_throws": {
