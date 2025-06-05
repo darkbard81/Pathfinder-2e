@@ -8,18 +8,23 @@
   "alignment": "Chaotic Good",
   "size": "Medium",
   "speed": "25 ft",
-  "languages": ["Common", "Amurrun", "Sylvan", "Goblin"],
+  "languages": [
+    "Common",
+    "Amurrun",
+    "Sylvan",
+    "Goblin"
+  ],
   "deity": "",
   "key_ability": "DEX",
   "hp": {
     "max": 18,
     "current": 18
   },
-  "perception": "Expert",
+  "perception": "Trained",
   "saving_throws": {
     "fortitude": "Trained",
     "reflex": "Expert",
-    "will": "Expert"
+    "will": "Trained"
   },
   "armor_proficiency": "Light: Trained; Unarmored: Trained",
   "weapon_proficiency": "Simple Weapons: Trained; Rapier, Sap, Shortbow, Shortsword, Dagger, Unarmed: Trained",
@@ -39,43 +44,61 @@
     "Rogue Class DC (Trained)"
   ],
   "feats": {
-    "ancestry_feat": ["Cat’s Luck"],
+    "ancestry_feat": [
+      "Cat’s Luck"
+    ],
     "background_feat": "Survey Wildlife",
+    "class_feats": [
+      "Nimble Dodge"
+    ],
     "general_feats": [],
-    "class_feats": ["Nimble Dodge"],
-    "skill_feats": ["Cat Fall"]
+    "skill_feats": []
   },
   "skills": {
     "Acrobatics": "Trained",
+    "Stealth": "Trained",
+    "Thievery": "Trained",
     "Athletics": "Trained",
+    "Nature": "Trained",
+    "Survival": "Trained",
     "Deception": "Trained",
     "Diplomacy": "Trained",
-    "Intimidation": "Trained",
-    "Medicine": "Trained",
-    "Nature": "Trained",
-    "Performance": "Trained",
-    "Society": "Trained",
-    "Stealth": "Trained",
-    "Survival": "Trained",
-    "Thievery": "Trained",
-    "Tanning Lore": "Trained"
+    "Society": "Trained"
+  },
+  "spells": {
+    "casting_type": "none"
   },
   "gear": {
-    "weapons": ["Dagger", "Dagger", "Dagger"],
-    "armor": ["Leather Armor"],
+    "weapons": [
+      "Dagger",
+      "Dagger",
+      "Dagger"
+    ],
+    "armor": [
+      "Leather Armor"
+    ],
     "worn_items": [],
     "consumables": [],
-    "tools": ["Thieves’ Tools", "Climbing Kit"],
+    "tools": [
+      "Thieves’ Tools",
+      "Climbing Kit"
+    ],
     "coin_pouch": {
       "gp": 7,
       "sp": 4,
       "cp": 0
     },
-    "other": ["Adventurer’s Pack"]
-  },
-  "spells": {
-    "casting_type": "none"
+    "other": [
+      "Adventurer’s Pack"
+    ]
   },
   "conditions": [],
-  "resource_tracking": {}
+  "resource_tracking": {},
+  "ancestry_features": [
+    "Low-Light Vision",
+    "Land on Your Feet"
+  ],
+  "heritage_features": [
+    "Ignore difficult terrain from undergrowth; treat greater difficult terrain from undergrowth as normal difficult terrain"
+  ]
 }
