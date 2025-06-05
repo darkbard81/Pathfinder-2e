@@ -17,7 +17,7 @@
     "Undercommon"
   ],
   "deity": "",
-  "key_ability": "Intelligence",
+  "key_ability": "Dexterity",
   "hp": {
     "max": 17,
     "current": 17
@@ -25,11 +25,11 @@
   "perception": "Trained",
   "saving_throws": {
     "fortitude": "Expert",
-    "reflex": "Expert",
-    "will": "Trained"
+    "reflex": "Trained",
+    "will": "Expert"
   },
-  "armor_proficiency": "Trained (unarmored, light armor)",
-  "weapon_proficiency": "Trained (simple weapons, magus weapon group)",
+  "armor_proficiency": "Trained (unarmored, light armor, medium armor)",
+  "weapon_proficiency": "Trained (simple weapons, martial weapons, unarmed attacks)",
   "spell_proficiency": "Trained (arcane, prepared)",
   "adjusted_abilities": {
     "STR": 10,
@@ -50,15 +50,13 @@
       "General Training"
     ],
     "background_feat": "Assurance (Arcana)",
-    "general_feats": [
-      "Incredible Initiative"
-    ],
     "class_feats": [
       "Magus’s Analysis"
     ],
-    "skill_feats": [
-      "Assurance"
-    ]
+    "general_feats": [
+      "Incredible Initiative"
+    ],
+    "skill_feats": []
   },
   "skills": {
     "Arcana": "Trained",
