@@ -42,6 +42,13 @@
     "Surprise Attack",
     "Rogue’s Racket (Thief)",
     "Rogue Class DC (Trained)"
+  ],,
+  "ancestry_features": [
+    "Low-Light Vision",
+    "Land on Your Feet"
+  ],
+  "heritage_features": [
+    "Ignore difficult terrain from undergrowth; treat greater difficult terrain from undergrowth as normal difficult terrain"
   ],
   "feats": {
     "ancestry_feat": [
@@ -93,12 +100,5 @@
     ]
   },
   "conditions": [],
-  "resource_tracking": {},
-  "ancestry_features": [
-    "Low-Light Vision",
-    "Land on Your Feet"
-  ],
-  "heritage_features": [
-    "Ignore difficult terrain from undergrowth; treat greater difficult terrain from undergrowth as normal difficult terrain"
-  ]
+  "resource_tracking": {}
 }
