@@ -162,6 +162,20 @@
         "type": "string"
       }
     },
+    "ancestry_features": {
+      "type": "array",
+      "description": "A list of class features.",
+      "items": {
+        "type": "string"
+      }
+    },
+    "heritage_features": {
+      "type": "array",
+      "description": "A list of class features.",
+      "items": {
+        "type": "string"
+      }
+    },
     "feats": {
       "type": "object",
       "description": "All character feats categorized by source.",
