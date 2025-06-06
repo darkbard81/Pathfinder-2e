@@ -14,8 +14,8 @@
   "deity": "Calistria",
   "key_ability": "Wisdom",
   "hp": {
-    "max": 16,
-    "current": 16
+    "max": 17,
+    "current": 17
   },
   "perception": "Trained",
   "saving_throws": {
