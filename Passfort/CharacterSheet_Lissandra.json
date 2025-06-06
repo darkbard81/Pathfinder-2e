@@ -32,7 +32,10 @@
     "Simple Weapons (Trained)",
     "Whip (Calistria Favored Weapon, Trained)"
   ],
-  "spell_proficiency": "Prepared Divine",
+  "spell_proficiency": [
+    "Divine spell attacks (Trained)",
+    "Divine spell DCs (Trained)"
+  ],
   "adjusted_abilities": {
     "STR": 10,
     "DEX": 12,
