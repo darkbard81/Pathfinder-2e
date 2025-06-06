@@ -108,21 +108,21 @@
     "armor_proficiency": {
       "type": "array",
       "items": {
-        "description": "Proficiency level in armor types. Light Armor (Trained)"
+        "description": "Proficiency level in armor types. Light Armor (Trained)",
         "type": "string"
       }
     },
     "weapon_proficiency": {
       "type": "array",
       "items": {
-        "description": "Proficiency level in weapon types. Simple Weapons (Trained)"
+        "description": "Proficiency level in weapon types. Simple Weapons (Trained)",
         "type": "string"
       }
     },
     "spell_proficiency": {
       "type": "array",
       "items": {
-        "description": "Proficiency in spellcasting. Divine spell attacks (Trained)"
+        "description": "Proficiency in spellcasting. Divine spell attacks (Trained)",
         "type": "string"
       }
     },
