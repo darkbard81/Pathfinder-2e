@@ -55,7 +55,7 @@
   ],
   "feats": {
     "ancestry_feat": [
-      "Change Shape"
+      "Kitsune Spell Familiarity"
     ],
     "background_feat": "Battle Medicine",
     "general_feats": [],
@@ -90,7 +90,7 @@
     "focus_spells": [
       "Sudden Shift"
     ],
-    "innate_spells": {},
+    "innate_spells": {"Daze"},
     "rituals": []
   },
   "gear": {
