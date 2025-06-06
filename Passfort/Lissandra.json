@@ -1,0 +1,132 @@
+{
+  "name": "Lissandra",
+  "class": "Cleric",
+  "level": 1,
+  "ancestry": "Kitsune",
+  "heritage": "Celestial Envoy",
+  "background": "Field Medic",
+  "alignment": "Chaotic Neutral",
+  "size": "Medium",
+  "speed": "25 ft",
+  "languages": [
+    "Common",
+    "Sylvan",
+    "Kitsune"
+  ],
+  "deity": "Calistria",
+  "key_ability": "WIS",
+  "hp": {
+    "max": 16,
+    "current": 16
+  },
+  "perception": "Trained",
+  "saving_throws": {
+    "fortitude": "Trained",
+    "reflex": "Trained",
+    "will": "Expert"
+  },
+  "armor_proficiency": "Unarmored: Trained",
+  "weapon_proficiency": [
+    "Simple Weapons: Trained",
+    "Whip: Trained"
+  ],
+  "spell_proficiency": "Trained",
+  "adjusted_abilities": {
+    "STR": 10,
+    "DEX": 12,
+    "CON": 12,
+    "INT": 10,
+    "WIS": 18,
+    "CHA": 16
+  },
+  "class_features": [
+    "Divine Spellcasting",
+    "Healing Font",
+    "Cleric Doctrine: Cloistered",
+    "Channel Energy",
+    "Domain Initiate (Trickery)"
+  ],
+  "ancestry_features": [
+    "Low-Light Vision",
+    "Change Shape (Humanoid Form)"
+  ],
+  "heritage_features": [
+    "Celestial Resistance (+1 status bonus to saves vs. divine spells)"
+  ],
+  "feats": {
+    "ancestry_feat": [
+      "Change Shape"
+    ],
+    "background_feat": "Battle Medicine",
+    "general_feats": [],
+    "class_feats": [
+      "Domain Initiate (Trickery)"
+    ],
+    "skill_feats": []
+  },
+  "skills": {
+    "Religion": "Trained",
+    "Deception": "Trained",
+    "Medicine": "Trained",
+    "Warfare Lore": "Trained"
+  },
+  "spells": {
+    "casting_type": "prepared",
+    "spellbook": {},
+    "prepared": {
+      "1": [
+        "Heal",
+        "Bless"
+      ]
+    },
+    "known_spells": {},
+    "cantrips": [
+      "Guidance",
+      "Divine Lance",
+      "Light",
+      "Shield",
+      "Stabilize"
+    ],
+    "focus_spells": [
+      "Sudden Shift"
+    ],
+    "innate_spells": {},
+    "rituals": []
+  },
+  "gear": {
+    "weapons": [
+      "Whip"
+    ],
+    "armor": [
+      "Robe"
+    ],
+    "worn_items": [],
+    "consumables": [],
+    "tools": [],
+    "coin_pouch": {
+      "gp": 20,
+      "sp": 0,
+      "cp": 0
+    },
+    "other": []
+  },
+  "conditions": [],
+  "resource_tracking": {
+    "spell_slots_used": {
+      "1st_level": {
+        "max": 2,
+        "current": 2
+      }
+    },
+    "focus_points": {
+      "max": 1,
+      "current": 1
+    },
+    "divine_font_slots": {
+      "1st_level_heal": {
+        "max": 4,
+        "current": 4
+      }
+    }
+  }
+}
