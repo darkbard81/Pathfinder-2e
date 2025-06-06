@@ -13,7 +13,10 @@
     "Androffan",
     "Draconic"
   ],
-  "hp": 68,
+  "hp": {
+    "max": 68,
+    "current": 68
+  },
   "perception": "Expert",
   "saving_throws": {
     "fortitude": "Expert",
