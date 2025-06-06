@@ -272,7 +272,10 @@
           "description": "Focus spells."
         },
         "innate_spells": {
-          "type": "object",
+          "type": "array",
+          "items": {
+            "type": "string"
+          },
           "description": "Innate magical spells."
         },
         "rituals": {
