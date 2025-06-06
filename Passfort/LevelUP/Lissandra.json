@@ -1,0 +1,160 @@
+{
+  "name": "Lissandra",
+  "class": "Cleric (Cloistered Doctrine)",
+  "level": 4,
+  "ancestry": "Kitsune",
+  "heritage": "Celestial Envoy",
+  "background": "Field Medic",
+  "alignment": "Chaotic Neutral",
+  "size": "Medium",
+  "speed": "25 feet",
+  "languages": [
+    "Common"
+  ],
+  "deity": "Calistria",
+  "key_ability": "Wisdom",
+  "hp": {
+    "max": 44,
+    "current": 44
+  },
+  "perception": "Trained",
+  "saving_throws": {
+    "fortitude": "Trained",
+    "reflex": "Trained",
+    "will": "Expert"
+  },
+  "armor_proficiency": [
+    "Light Armor (Trained)",
+    "Medium Armor (Trained)",
+    "Unarmored Defense (Trained)"
+  ],
+  "weapon_proficiency": [
+    "Simple Weapons (Trained)",
+    "Whip (Calistria Favored Weapon, Trained)"
+  ],
+  "spell_proficiency": "Prepared Divine",
+  "adjusted_abilities": {
+    "STR": 10,
+    "DEX": 12,
+    "CON": 12,
+    "INT": 10,
+    "WIS": 18,
+    "CHA": 16
+  },
+  "ancestry_features": [
+    "Low-light Vision",
+    "Change Shape"
+  ],
+  "heritage_features": [
+    "Invoke Celestial Privilege"
+  ],
+  "class_features": [
+    "Doctrine: Cloistered Cleric",
+    "Channel Energy (Heal)",
+    "Divine Spellcasting",
+    "Versatile Font",
+    "Reach Spell"
+  ],
+  "feats": {
+    "ancestry_feat": [
+      "Kitsune Spell Familiarity"
+    ],
+    "background_feat": "Battle Medicine",
+    "general_feats": [
+      "Natural Ambition"
+    ],
+    "class_feats": [
+      "Domain Initiate (Trickery)",
+      "Domain Initiate (Pain)",
+      "Versatile Font",
+      "Reach Spell"
+    ],
+    "skill_feats": [
+      "Steady Spellcasting"
+    ]
+  },
+  "skills": {
+    "Religion": "Trained",
+    "Deception": "Trained",
+    "Medicine": "Trained",
+    "Intimidation": "Trained",
+    "Warfare Lore": "Trained"
+  },
+  "spells": {
+    "casting_type": "prepared",
+    "spellbook": {},
+    "prepared": {
+      "1": [
+        "Bless",
+        "Heal",
+        "Bane"
+      ],
+      "2": [
+        "Hold Person",
+        "Lesser Restoration",
+        "Spiritual Weapon"
+      ],
+      "3": []
+    },
+    "known_spells": {},
+    "cantrips": [
+      "Guidance",
+      "Divine Lance",
+      "Light",
+      "Shield",
+      "Stabilize"
+    ],
+    "focus_spells": [
+      "Sudden Shift",
+      "Savor the Sting"
+    ],
+    "innate_spells": [
+      "Daze"
+    ],
+    "rituals": []
+  },
+  "gear": {
+    "weapons": [
+      "Whip"
+    ],
+    "armor": [
+      "Robe"
+    ],
+    "worn_items": [],
+    "consumables": [],
+    "tools": [],
+    "coin_pouch": {
+      "gp": 20,
+      "sp": 0,
+      "cp": 0
+    },
+    "other": []
+  },
+  "conditions": [],
+  "resource_tracking": {
+    "spell_slots_used": {
+      "1st_level": {
+        "max": 3,
+        "current": 0
+      },
+      "2nd_level": {
+        "max": 3,
+        "current": 0
+      },
+      "3rd_level": {
+        "max": 0,
+        "current": 0
+      }
+    },
+    "divine_font_used": {
+      "2nd_level_heal": {
+        "max": 4,
+        "current": 0
+      }
+    },
+    "focus_points_used": {
+      "max": 1,
+      "current": 0
+    }
+  }
+}
