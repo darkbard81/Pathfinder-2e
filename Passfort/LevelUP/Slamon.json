@@ -28,9 +28,20 @@
     "reflex": "Trained",
     "will": "Expert"
   },
-  "armor_proficiency": "Trained (unarmored, light armor, medium armor)",
-  "weapon_proficiency": "Trained (simple weapons, martial weapons, unarmed attacks)",
-  "spell_proficiency": "Trained (arcane, prepared)",
+  "armor_proficiency": [
+    "Light Armor (Trained)",
+    "Medium Armor (Trained)",
+    "Unarmored Defense (Trained)"
+  ],
+  "weapon_proficiency": [
+    "Simple Weapons (Trained)",
+    "Martial Weapons (Trained)",
+    "Unarmed attacks (Trained)"
+  ],
+  "spell_proficiency": [
+    "Trained in arcane spell attacks",
+    "Trained in arcane spell DCs"
+  ],
   "adjusted_abilities": {
     "STR": 10,
     "DEX": 14,
