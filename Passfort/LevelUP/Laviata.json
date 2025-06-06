@@ -1,0 +1,96 @@
+{
+  "name": "Laviata",
+  "class": "Barbarian (Giant Instinct)",
+  "level": 4,
+  "ancestry": "Android",
+  "heritage": "Warrior Android",
+  "background": "Warrior",
+  "alignment": "Lawful Good",
+  "size": "Medium",
+  "speed": "25 feet",
+  "languages": [
+    "Common",
+    "Androffan",
+    "Draconic"
+  ],
+  "hp": 68,
+  "perception": "Expert",
+  "saving_throws": {
+    "fortitude": "Expert",
+    "reflex": "Trained",
+    "will": "Expert"
+  },
+  "armor_proficiency": [
+    "Light Armor (Trained)",
+    "Medium Armor (Trained)",
+    "Unarmored Defense (Trained)"
+  ],
+  "weapon_proficiency": [
+    "Simple Weapons (Trained)",
+    "Martial Weapons (Trained)",
+    "Large Greatsword (Trained)"
+  ],
+  "adjusted_abilities": {
+    "STR": 18,
+    "DEX": 14,
+    "CON": 14,
+    "INT": 12,
+    "WIS": 12,
+    "CHA": 8
+  },
+  "ancestry_features": [
+    "Constructed",
+    "Emotionally Unaware",
+    "Low-Light Vision"
+  ],
+  "heritage_features": [
+    "Warrior Android Heritage: Trained in Simple & Martial Weapons"
+  ],
+  "class_features": [
+    "Rage",
+    "Instinct: Giant",
+    "Titan Mauler",
+    "Deny Advantage"
+  ],
+  "feats": {
+    "ancestry_feat": [
+      "Emotionless"
+    ],
+    "background_feat": "Intimidating Glare",
+    "general_feats": [
+      "Toughness"
+    ],
+    "class_feats": [
+      "Sudden Charge",
+      "Second Wind",
+      "Swipe"
+    ],
+    "skill_feats": [
+      "Titan Wrestler",
+      "Quick Jump"
+    ]
+  },
+  "skills": {
+    "Athletics": "Trained",
+    "Intimidation": "Trained",
+    "Warfare Lore": "Trained",
+    "Acrobatics": "Trained"
+  },
+  "gear": {
+    "weapons": [
+      "Large Greatsword"
+    ],
+    "armor": [
+      "Studded Leather"
+    ],
+    "worn_items": [],
+    "consumables": [],
+    "tools": [],
+    "coin_pouch": {
+      "gp": 0,
+      "sp": 0,
+      "cp": 0
+    },
+    "other": []
+  }
+}
