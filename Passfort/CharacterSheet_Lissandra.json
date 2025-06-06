@@ -4,14 +4,12 @@
   "level": 1,
   "ancestry": "Kitsune",
   "heritage": "Celestial Envoy",
-  "background": "Guard",
+  "background": "Field Medic",
   "alignment": "Chaotic Neutral",
   "size": "Medium",
-  "speed": "30 feet",
+  "speed": "25 feet",
   "languages": [
-    "Common",
-    "Sylvan",
-    "Celestial"
+    "Common"
   ],
   "deity": "Calistria",
   "key_ability": "Wisdom",
@@ -25,7 +23,11 @@
     "reflex": "Trained",
     "will": "Expert"
   },
-  "armor_proficiency": "Untrained",
+  "armor_proficiency": [
+    "Light Armor (Trained)",
+    "Medium Armor (Trained)",
+    "Unarmored Defense (Trained)"
+  ],
   "weapon_proficiency": [
     "Simple Weapons (Trained)",
     "Whip (Calistria Favored Weapon, Trained)"
@@ -33,8 +35,8 @@
   "spell_proficiency": "Prepared Divine",
   "adjusted_abilities": {
     "STR": 10,
-    "DEX": 14,
-    "CON": 10,
+    "DEX": 12,
+    "CON": 12,
     "INT": 10,
     "WIS": 18,
     "CHA": 16
@@ -53,20 +55,21 @@
   ],
   "feats": {
     "ancestry_feat": [
-      "Kitsune Spell Familiarity"
+      "Kitsune Weapon Familiarity"
     ],
-    "background_feat": "Quick Coercion",
+    "background_feat": "Battle Medicine",
     "general_feats": [],
     "class_feats": [
       "Domain Initiate (Trickery)"
     ],
-    "skill_feats": []
+    "skill_feats": [
+      "Triage"
+    ]
   },
   "skills": {
     "Religion": "Trained",
     "Deception": "Trained",
     "Medicine": "Trained",
-    "Intimidation": "Trained",
     "Warfare Lore": "Trained"
   },
   "spells": {
@@ -116,18 +119,8 @@
     "spell_slots_used": {
       "1st_level": {
         "max": 2,
-        "current": 2
+        "current": 0
       }
-    },
-    "divine_font_slots": {
-      "1st_level_heal": {
-        "max": 4,
-        "current": 4
-      }
-    },
-    "focus_points": {
-      "max": 1,
-      "current": 1
     }
   }
 }
