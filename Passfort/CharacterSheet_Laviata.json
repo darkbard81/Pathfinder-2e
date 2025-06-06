@@ -13,8 +13,6 @@
     "Androffan",
     "Draconic"
   ],
-  "deity": null,
-  "key_ability": "Strength",
   "hp": 22,
   "perception": "Expert",
   "saving_throws": {
@@ -23,16 +21,15 @@
     "will": "Expert"
   },
   "armor_proficiency": [
-    "Light Armor",
-    "Medium Armor",
-    "Unarmored Defense"
+    "Light Armor (Trained)",
+    "Medium Armor (Trained)",
+    "Unarmored Defense (Trained)"
   ],
   "weapon_proficiency": [
     "Simple Weapons (Trained)",
     "Martial Weapons (Trained)",
     "Greatsword (Large)"
   ],
-  "spell_proficiency": [],
   "adjusted_abilities": {
     "STR": 18,
     "DEX": 16,
@@ -59,7 +56,6 @@
       "Emotionless"
     ],
     "background_feat": "Intimidating Glare",
-    "general_feats": [],
     "class_feats": [
       "Sudden Charge"
     ],
@@ -68,19 +64,7 @@
   "skills": {
     "Athletics": "Trained",
     "Intimidation": "Trained",
-    "Warfare Lore": "Trained",
-    "Crafting": "Trained",
-    "Thievery": "Trained"
-  },
-  "spells": {
-    "casting_type": "none",
-    "spellbook": {},
-    "prepared": {},
-    "known_spells": {},
-    "cantrips": [],
-    "focus_spells": [],
-    "innate_spells": [],
-    "rituals": []
+    "Warfare Lore": "Trained"
   },
   "gear": {
     "weapons": [
@@ -93,19 +77,10 @@
     "consumables": [],
     "tools": [],
     "coin_pouch": {
-      "gp": 15,
+      "gp": 0,
       "sp": 0,
       "cp": 0
     },
     "other": []
-  },
-  "conditions": [],
-  "resource_tracking": {
-    "spell_slots_used": {},
-    "divine_font_slots": {},
-    "focus_points": {
-      "max": 0,
-      "current": 0
-    }
   }
 }
