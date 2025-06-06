@@ -16,8 +16,8 @@
   "deity": "Calistria",
   "key_ability": "WIS",
   "hp": {
-    "max": 16,
-    "current": 16
+    "max": 10,
+    "current": 10
   },
   "perception": "Trained",
   "saving_throws": {
@@ -25,10 +25,11 @@
     "reflex": "Trained",
     "will": "Expert"
   },
-  "armor_proficiency": "Unarmored: Trained",
+  "armor_proficiency": "Unarmored, Light, Medium: Trained",
   "weapon_proficiency": [
     "Simple Weapons: Trained",
-    "Whip: Trained"
+    "Whip: Trained",
+    "Unarmed Attacks: Trained"
   ],
   "spell_proficiency": "Trained",
   "adjusted_abilities": {
@@ -42,8 +43,8 @@
   "class_features": [
     "Divine Spellcasting",
     "Healing Font",
-    "Cleric Doctrine: Cloistered",
     "Channel Energy",
+    "Cleric Doctrine: Cloistered",
     "Domain Initiate (Trickery)"
   ],
   "ancestry_features": [
@@ -62,7 +63,9 @@
     "class_feats": [
       "Domain Initiate (Trickery)"
     ],
-    "skill_feats": []
+    "skill_feats": [
+      "Medicine Lore"
+    ]
   },
   "skills": {
     "Religion": "Trained",
@@ -92,7 +95,7 @@
     ],
     "innate_spells": [
       "Daze"
-    ], 
+    ],
     "rituals": []
   },
   "gear": {
@@ -104,7 +107,9 @@
     ],
     "worn_items": [],
     "consumables": [],
-    "tools": [],
+    "tools": [
+      "Healer’s Tools"
+    ],
     "coin_pouch": {
       "gp": 20,
       "sp": 0,
