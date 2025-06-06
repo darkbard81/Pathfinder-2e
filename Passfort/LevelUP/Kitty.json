@@ -26,8 +26,14 @@
     "reflex": "Expert",
     "will": "Trained"
   },
-  "armor_proficiency": "Light: Trained; Unarmored: Trained",
-  "weapon_proficiency": "Simple Weapons: Trained; Rapier, Sap, Shortbow, Shortsword, Dagger, Unarmed: Trained",
+  "armor_proficiency": [
+    "Light Armor (Trained)",
+    "Unarmored Defense (Trained)"
+  ],
+  "weapon_proficiency": [
+    "Simple Weapons (Trained)",
+    "Unarmed attacks (Trained)"
+  ],
   "spell_proficiency": "None",
   "adjusted_abilities": {
     "STR": 10,
