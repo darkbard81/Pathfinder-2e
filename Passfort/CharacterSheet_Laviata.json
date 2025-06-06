@@ -1,6 +1,6 @@
 {
   "name": "Laviata",
-  "class_name": "Barbarian (Giant Instinct)",
+  "class": "Barbarian (Giant Instinct)",
   "level": 1,
   "ancestry": "Android",
   "heritage": "Warrior Android",
@@ -32,10 +32,10 @@
   ],
   "adjusted_abilities": {
     "STR": 18,
-    "DEX": 16,
+    "DEX": 14,
     "CON": 14,
     "INT": 12,
-    "WIS": 10,
+    "WIS": 12,
     "CHA": 8
   },
   "ancestry_features": [
