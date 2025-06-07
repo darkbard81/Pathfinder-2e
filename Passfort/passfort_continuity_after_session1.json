@@ -1,0 +1,83 @@
+{
+  "date_updated": "2025-06-07T17:06:03.952450",
+  "time_lapse": [
+    {
+      "timestamp": "Day 2 - 06:00",
+      "location": "Passfort Inn",
+      "description": "수면 및 마법 준비",
+      "time_spent": 480,
+      "day_advance": true
+    },
+    {
+      "timestamp": "Day 2 - 07:00",
+      "location": "Infinite Frontier - Entrance",
+      "description": "3층 워프마커 도달 및 초기 스캔",
+      "time_spent": 60,
+      "day_advance": false
+    },
+    {
+      "timestamp": "Day 2 - 08:00",
+      "location": "Infinite Frontier - Floor 3",
+      "description": "탐색, Mindslaver Mold 2기 조우 및 전투, 보물 상자 획득",
+      "time_spent": 90,
+      "day_advance": false
+    },
+    {
+      "timestamp": "Day 2 - 09:40",
+      "location": "Infinite Frontier - Floor 3",
+      "description": "Treat Wounds + 짧은 휴식",
+      "time_spent": 10,
+      "day_advance": false
+    },
+    {
+      "timestamp": "Day 2 - 09:50",
+      "location": "Returning",
+      "description": "귀환 경로 확보 및 복귀",
+      "time_spent": 60,
+      "day_advance": false
+    }
+  ],
+  "time_health": {
+    "fatigue_check_elapsed_minutes": 230,
+    "hunger_check_elapsed_minutes": 230,
+    "fatigue": false,
+    "hunger": false,
+    "health_penalty": false
+  },
+  "warp_marker": {
+    "floor": 3,
+    "traits": [
+      "Swamp",
+      "Mental",
+      "Amphibious"
+    ],
+    "status": "active"
+  },
+  "emotion_state": [],
+  "emotion_log": [],
+  "resource_tracking": {
+    "Slamon": {
+      "hp": 44
+    },
+    "Kitty": {
+      "hp": 47
+    },
+    "Laviata": {
+      "hp": 68
+    },
+    "Lissandra": {
+      "hp": 44,
+      "2nd_level_spells_used": 1
+    }
+  },
+  "inventory_log": [
+    {
+      "source": "3층 보물 상자",
+      "items": [
+        "Wand of Heal (1st level)",
+        "Potion of Invisibility (Lesser)",
+        "Scroll of Mirror Image"
+      ]
+    }
+  ]
+}
