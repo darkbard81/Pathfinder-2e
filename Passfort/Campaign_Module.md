@@ -53,10 +53,7 @@
 
 ---
 
-## 모듈 3 - 감정 단계 시스템 (emotion_state / emotion_log 연동 포함)
-
-이 시스템은 NPC와 플레이어 캐릭터 간의 감정 관계를 수치화하여 연애와 하렘 서사에 반영한다.  
-감정 단계는 시스템이 자동으로 추적하며, 장면, 대화, 선택, 이벤트 결과 등에 따라 변화한다.
+## 모듈 3 - Emotion Stage System v2 – Design Note (emotion_state / emotion_log 연동 포함)
 
 감정 상태는 메타스키마의 emotion_state 및 emotion_log 구조와 연동되며 다음을 포함한다:
 
@@ -65,24 +62,37 @@
 - emotion_state.step: 대상 NPC의 감정단계
 - emotion_log: 감정 변화 이력 (증감, 유발 원인, 관련 장면, 메모 등)
 
-### 단계 구분:
-- 무관심
-- 인지
-- 적대
-- 안정
-- 혼란
-- 불안
-- 호감
-- 애정
+The basic emotion stages in this system—**Indifference, Recognition, Hostility, Stability, Confusion, Anxiety, Affection, and Love**—do **not** represent a linear or hierarchical progression.
 
-### 애정 이후 고급 단계:
-- 집착
-- 과보호
-- 질투
-- 의존
-- 존경
+> **They are not a step-by-step emotional ladder.**
 
-이 구조는 모든 동료 NPC의 감정 상태 추적 및 반응 변화에 적용됩니다. 감정 단계 시스템 v2의 기본 단계(무관심, 인지, 적대, 안정, 혼란, 불안, 호감, 애정)는 상승식 구조가 아니라, 상황에 따라 비선형적으로 이동할 수 있는 상태들로 간주합니다. 감정 변화는 일방향이 아니며, 자극이나 관계 상황에 따라 상하, 반복, 점프 등 다양한 방식으로 이동 가능합니다.
+Instead, they represent a **set of distinct emotional states** that a companion can shift between **freely and responsively**, based on context, interactions, and narrative developments.
+
+### 🔄 Valid Transitions
+
+- A companion can move from *Affection* back to *Hostility*.
+- From *Indifference* directly to *Anxiety*.
+- Or from *Love* to *Confusion*, depending on relationship tension or betrayal.
+
+Emotion stage changes are **non-directional and dynamic**.
+
+### 🔸 Advanced Emotion Branches
+
+If a companion reaches **Love**, the emotion may evolve into one of several **advanced emotional forms**, based on personality and story context:
+
+- **Possessiveness**
+- **Overprotectiveness**
+- **Jealousy**
+- **Dependency**
+- **Reverence**
+
+These advanced stages **do not imply greater closeness**, but rather a **specialized transformation** of the bond.
+
+### ✅ Summary
+
+- Emotion stages are **not a ladder**.
+- They are **nonlinear emotional states** that reflect **fluid, reactive, and sometimes contradictory** emotional developments.
+- The system is designed to simulate **real, dynamic relationships**, not fixed progressions.
 
 ---
 
