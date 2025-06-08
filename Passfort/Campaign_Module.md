@@ -55,7 +55,7 @@
 
 ## 모듈 3 - Emotion Stage System v2 – Design Note (emotion_state / emotion_log 연동 포함)
 
-감정 상태는 메타스키마의 emotion_state 및 emotion_log 구조와 연동되며 다음을 포함한다:
+감정 상태는 연속성 문서의 emotion_state 및 emotion_log 구조와 연동되며 다음을 포함한다:
 
 - emotion_state: 캐릭터 간 현재 감정 단계 및 마지막 변경 시각
 - emotion_state.source: 대상 NPC
