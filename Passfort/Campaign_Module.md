@@ -55,7 +55,7 @@
 
 ## 모듈 3 - Emotion Stage System v2 – Design Note (emotion_state / emotion_log 연동 포함)
 
-감정 상태는 연속성 문서의 emotion_state 및 emotion_log 구조와 연동되며 다음을 포함한다:
+감정 상태는 연속성 문서의 emotion_state 및 emotion_log 구조와 연동되어 자동으로 추적되며, 다음 항목으로 구성된다:
 
 - emotion_state: 캐릭터 간 현재 감정 단계 및 마지막 변경 시각
 - emotion_state.source: 대상 NPC
@@ -100,6 +100,7 @@ These advanced stages **do not imply greater closeness**, but rather a **special
 
 ### Purpose
 To create immersive, emotionally engaging social/narrative scenes that feel alive, where the player experiences their companions and the world as autonomous, reactive entities.
+모듈3 Emotion Stage System v2의 emotion stages와 연동되어 참조한다.
 
 ### 1. Companion-Driven Dynamics
 - NPCs (companions) engage in natural conversations with each other, not just the PC.
