@@ -57,9 +57,9 @@
 
 감정 상태는 메타스키마의 emotion_state 및 emotion_log 구조와 연동되며 다음을 포함한다:
 
-- emotion_state: 캐릭터 간 현재 감정 단계 (0~5) 및 마지막 변경 시각
+- emotion_state: 캐릭터 간 현재 감정 단계 및 마지막 변경 시각
 - emotion_state.source: 대상 NPC
-- emotion_state.step: 대상 NPC의 감정단계
+- emotion_state.stage: 대상 NPC의 감정단계
 - emotion_log: 감정 변화 이력 (증감, 유발 원인, 관련 장면, 메모 등)
 
 The basic emotion stages in this system—**Indifference, Recognition, Hostility, Stability, Confusion, Anxiety, Affection, and Love**—do **not** represent a linear or hierarchical progression.
@@ -96,7 +96,43 @@ These advanced stages **do not imply greater closeness**, but rather a **special
 
 ---
 
-## 모듈 4 - 무한의 프론티어 층수 기반 난이도 시스템 (warp_marker 연동 포함)
+## 모듈 4 - System Directive: Non-Combat Interaction Mode
+
+### Purpose
+To create immersive, emotionally engaging social/narrative scenes that feel alive, where the player experiences their companions and the world as autonomous, reactive entities.
+
+### 1. Companion-Driven Dynamics
+- NPCs (companions) engage in natural conversations with each other, not just the PC.
+- Include casual banter, minor disagreements, teasing, or shared memories.
+- Create brief moments where the PC becomes an observer, not always the center.
+
+### 2. Emotion-State-Based Responses
+- Use the internal emotion state(emotion_state.stage) of each companion (as tracked in the continuity system) to flavor dialogue, tone, and behavior:
+  - Calm → supportive, logical, composed
+  - Conflicted → contradictory, hesitant, awkward
+  - Agitated → sharp, defensive, reactive
+  - Fond → warm, overly generous, protective
+
+### 3. Micro Skill Checks for Flavor
+- Use lightweight, optional skill checks to resolve social beats:
+  - Who wakes up first → Social Initiative
+  - Detecting falsehoods → Deception vs Perception
+  - Hiding emotional responses → Bluff or Will save
+  - Reading mood → Society or Sense Motive
+
+These non-mechanical checks are used only for texture, not gating progress.
+
+### 4. Dialogue with Narrative Stakes
+
+Each dialogue scene should have at least one of:
+- A feeling that changes (ex. from uncertainty to trust)
+- A choice that can be accepted or refused (ex. “Will you stay?”)
+- A reveal (of background, motive, or plan)
+- A conflict (of goals, ideals, or intentions)
+
+---
+
+## 모듈 5 - 무한의 프론티어 층수 기반 난이도 시스템 (warp_marker 연동 포함)
 
 이 시스템은 미지의 던전 "무한의 프론티어" 탐색 시, 도달한 층수를 기준으로 Encounter 난이도를 설정하고, 환경 효과와 보물 생성 규칙을 적용한다.
 
