@@ -1,5 +1,5 @@
 {
-  "date_updated": "2025-06-07T17:06:03.952450",
+  "date_updated": "2025-06-08T18:25:01.390864",
   "time_lapse": [
     {
       "timestamp": "Day 2 - 06:00",
@@ -35,11 +35,18 @@
       "description": "귀환 경로 확보 및 복귀",
       "time_spent": 60,
       "day_advance": false
+    },
+    {
+      "timestamp": "Day 2 - 18:50",
+      "location": "Passfort - 투박한 선술집",
+      "description": "귀환 및 휴식, 식사, 마법 준비 완료",
+      "time_spent": 480,
+      "day_advance": false
     }
   ],
   "time_health": {
-    "fatigue_check_elapsed_minutes": 230,
-    "hunger_check_elapsed_minutes": 230,
+    "fatigue_check_elapsed_minutes": 0,
+    "hunger_check_elapsed_minutes": 0,
     "fatigue": false,
     "hunger": false,
     "health_penalty": false
@@ -54,29 +61,56 @@
     "status": "active"
   },
   "emotion_state": [],
-  "emotion_log": [],
+  "emotion_log": [
+    {
+      "character": "Slamon",
+      "emotion": "안정",
+      "context": "식사 후 드루이드의 향신료 설명을 듣고"
+    }
+  ],
   "resource_tracking": {
     "Slamon": {
-      "hp": 44
+      "hp": 44,
+      "spell_slots_used": {
+        "1st_level": {
+          "max": 2,
+          "current": 0
+        },
+        "2nd_level": {
+          "max": 2,
+          "current": 0
+        }
+      },
+      "focus_points": {
+        "max": 1,
+        "current": 1
+      }
     },
     "Kitty": {
-      "hp": 47
+      "hp": 48
     },
     "Laviata": {
       "hp": 68
     },
     "Lissandra": {
       "hp": 44,
-      "2nd_level_spells_used": 1
+      "2nd_level_spells_used": 0,
+      "focus_points_used": {
+        "max": 1,
+        "current": 1
+      }
     }
   },
   "inventory_log": [
     {
       "source": "3층 보물 상자",
       "items": [
-        "Wand of Heal (1st level)",
-        "Potion of Invisibility (Lesser)",
-        "Scroll of Mirror Image"
+        "Potion of Invisibility (Lesser) [Kitty]",
+        "Scroll of Mirror Image [Slamon]",
+        "Scroll of Fireball (3rd Level) [Lissandra]",
+        "Lesser Bravo's Brew [Laviata]",
+        "Wayfinder [Slamon]",
+        "Wand of Heal (1st Level) [Slamon]"
       ]
     }
   ]
