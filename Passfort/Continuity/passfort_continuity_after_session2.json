@@ -85,7 +85,7 @@
   ],
   "emotion_log": [ 
     {
-	  "timestamp": "Day 1 - 09:00"
+	  "timestamp": "Day 1 - 09:00",
       "from": "Slamon",
       "to": "Kitty",
       "old_stage": "Indifference",
@@ -95,7 +95,7 @@
     },
 	{
     {
-	  "timestamp": "Day 1 - 09:00"
+	  "timestamp": "Day 1 - 09:00",
       "from": "Slamon",
       "to": "Lissandra",
       "old_stage": "Indifference",
@@ -104,7 +104,7 @@
       "context": "리산드라가 슬라몬에게 최소한의 신뢰를 가지기 시작함"
     },
 	{
-	  "timestamp": "Day 1 - 09:00"
+	  "timestamp": "Day 1 - 09:00",
       "from": "Slamon",
       "to": "Laviata",
       "old_stage": "Indifference",
