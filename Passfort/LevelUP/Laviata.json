@@ -87,7 +87,9 @@
       "Studded Leather"
     ],
     "worn_items": [],
-    "consumables": [],
+    "consumables": [
+      "Lesser Bravo's Brew"
+    ],
     "tools": [],
     "coin_pouch": {
       "gp": 0,
