@@ -58,8 +58,11 @@
 감정 상태는 연속성 문서의 emotion_state 및 emotion_log 구조와 연동되어 자동으로 추적되며, 다음 항목으로 구성된다:
 
 - emotion_state: 캐릭터 간 현재 감정 단계 및 마지막 변경 시각
-- emotion_state.source: 대상 NPC
+- emotion_state.from: 원인PC or NPC
+- emotion_state.to: 대상 NPC
 - emotion_state.stage: 대상 NPC의 감정단계
+- emotion_state.last_updated: 마지막 변경 날짜와 시각 (예: "Day 2 - 17:30")
+- emotion_state.last_trigger: 감정유발 트리거 원인
 - emotion_log: 감정 변화 이력 (증감, 유발 원인, 관련 장면, 메모 등)
 
 The basic emotion stages in this system—**Indifference, Recognition, Hostility, Stability, Confusion, Anxiety, Affection, and Love**—do **not** represent a linear or hierarchical progression.
@@ -87,6 +90,12 @@ If a companion reaches **Love**, the emotion may evolve into one of several **ad
 - **Reverence**
 
 These advanced stages **do not imply greater closeness**, but rather a **specialized transformation** of the bond.
+
+### Player Visibility Restrictions
+
+- Players may not systemically perceive emotional stage changes.
+- Interpretive phrases such as "emotional expression," "affection increase," or "trust gain" are strictly prohibited.
+- Only indirect cues such as NPC dialogue, body language, facial expressions, tone, and behavior are allowed
 
 ### ✅ Summary
 
