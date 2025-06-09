@@ -60,13 +60,58 @@
     ],
     "status": "active"
   },
-  "emotion_state": [],
-  "emotion_log": [
+  "emotion_state": [
+      {
+      "from": "Slamon",
+      "to": "Kitty",
+      "stage": "Stability",
+      "last_updated": "Day 1 - 09:00",
+      "last_trigger": "설득을 통해 파티에 합류시킴"
+    },
     {
-      "character": "Slamon",
-      "emotion": "안정",
-      "context": "식사 후 드루이드의 향신료 설명을 듣고"
+      "from": "Slamon",
+      "to": "Lissandra",
+      "stage": "Stability",
+      "last_updated": "Day 1 - 09:00",
+      "last_trigger": "설득을 통해 파티에 합류시킴"
+    },
+    {
+      "from": "Slamon",
+      "to": "Laviata",
+      "stage": "Stability",
+      "last_updated": "Day 1 - 09:00",
+      "last_trigger": "설득을 통해 파티에 합류시킴"
     }
+  ],
+  "emotion_log": [ 
+    {
+	  "timestamp": "Day 1 - 09:00"
+      "from": "Slamon",
+      "to": "Kitty",
+      "old_stage": "Indifference",
+      "new_stage": "Stability",
+      "trigger": "설득을 통해 파티에 합류시킴",
+      "context": "키티가 슬라몬에게 최소한의 신뢰를 가지기 시작함"
+    },
+	{
+    {
+	  "timestamp": "Day 1 - 09:00"
+      "from": "Slamon",
+      "to": "Lissandra",
+      "old_stage": "Indifference",
+      "new_stage": "Stability",
+      "trigger": "설득을 통해 파티에 합류시킴",
+      "context": "리산드라가 슬라몬에게 최소한의 신뢰를 가지기 시작함"
+    },
+	{
+	  "timestamp": "Day 1 - 09:00"
+      "from": "Slamon",
+      "to": "Laviata",
+      "old_stage": "Indifference",
+      "new_stage": "Stability",
+      "trigger": "설득을 통해 파티에 합류시킴",
+      "context": "라비아타가 슬라몬에게 최소한의 신뢰를 가지기 시작함"
+    },
   ],
   "resource_tracking": {
     "Slamon": {
