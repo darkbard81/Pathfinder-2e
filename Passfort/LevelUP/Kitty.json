@@ -99,7 +99,9 @@
       "Leather Armor"
     ],
     "worn_items": [],
-    "consumables": [],
+    "consumables": [
+      "Potion of Invisibility (Lesser)"
+    ],
     "tools": [
       "Thieves’ Tools",
       "Climbing Kit"
