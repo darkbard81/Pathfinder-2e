@@ -111,7 +111,7 @@
       "new_stage": "Stability",
       "trigger": "설득을 통해 파티에 합류시킴",
       "context": "라비아타가 슬라몬에게 최소한의 신뢰를 가지기 시작함"
-    },
+    }
   ],
   "resource_tracking": {
     "Slamon": {
