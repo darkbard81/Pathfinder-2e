@@ -146,9 +146,11 @@ Each dialogue scene should have at least one of:
 
 이 시스템은 미지의 던전 "무한의 프론티어" 탐색 시, 도달한 층수를 기준으로 Encounter 난이도를 설정하고, 환경 효과와 보물 생성 규칙을 적용한다.
 
-던전 관련 정보는 메타스키마의 world_state 및 warp_marker 구조와 연동되며, 다음 항목으로 구성된다:
+던전 관련 정보는 메타스키마의  warp_marker 구조와 연동되며, 다음 항목으로 구성된다:
 
-- warp_marker: 파티가 소지한 단일 워프마커 객체이며, floor(층수)와 status(상태)를 가진다. Encounter PL 계산의 기준은 현재 워프마커가 기록한 floor 값이다.
+- warp_marker.floor : 진입시 층수
+- warp_marker.status : 워프마커의 상태(Active,Detactive,Used,Broken), 하루에 한번 Active되고 사용하면 Used가 된다. 길드에서 탈퇴 시 Deactive. 파손인 경우 Broken
+- Encounter PL 계산의 기준은 현재 워프마커가 기록한 warp_marker.floor 값이다.
 
 1. Common Environment 규칙
 
