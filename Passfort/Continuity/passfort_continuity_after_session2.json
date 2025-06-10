@@ -1,92 +1,64 @@
 {
-  "date_updated": "2025-06-08T18:25:01.390864",
+  "date_updated": "2025-06-10T06:23:17.825151",
   "time_lapse": [
     {
-      "timestamp": "Day 2 - 06:00",
-      "location": "Passfort Inn",
-      "description": "수면 및 마법 준비",
-      "time_spent": 480,
-      "day_advance": true
-    },
-    {
-      "timestamp": "Day 2 - 07:00",
-      "location": "Infinite Frontier - Entrance",
-      "description": "3층 워프마커 도달 및 초기 스캔",
-      "time_spent": 60,
-      "day_advance": false
-    },
-    {
-      "timestamp": "Day 2 - 08:00",
-      "location": "Infinite Frontier - Floor 3",
-      "description": "탐색, Mindslaver Mold 2기 조우 및 전투, 보물 상자 획득",
-      "time_spent": 90,
-      "day_advance": false
-    },
-    {
-      "timestamp": "Day 2 - 09:40",
-      "location": "Infinite Frontier - Floor 3",
-      "description": "Treat Wounds + 짧은 휴식",
-      "time_spent": 10,
-      "day_advance": false
-    },
-    {
-      "timestamp": "Day 2 - 09:50",
-      "location": "Returning",
-      "description": "귀환 경로 확보 및 복귀",
-      "time_spent": 60,
-      "day_advance": false
-    },
-    {
-      "timestamp": "Day 2 - 18:50",
-      "location": "Passfort - 투박한 선술집",
-      "description": "귀환 및 휴식, 식사, 마법 준비 완료",
-      "time_spent": 480,
-      "day_advance": false
-    },
-    {
-      "timestamp": "Day 2 - 18:50",
-      "location": "Passfort - 푸크들의 요리솥 (회의실)",
-      "description": "슬라몬의 제안으로 회의가 시작되었고, 공동의 목표인 '우리 집 마련(1000gp)'에 대한 합의가 이루어짐. 파티원 모두 각자의 방식으로 기여 의사를 표명함.",
-      "time_spent": 60,
-      "day_advance": false
-    },
-    {
-      "timestamp": "Day 2 - 19:50",
-      "location": "Passfort - 숙소 (각자)",
-      "description": "회의 종료 후 파티원 전원 휴식에 들어감.",
-      "time_spent": 0,
-      "day_advance": false
-    },
-    {
-      "timestamp": "Day 3 - 08:00",
+      "timestamp": "Day 4 - 08:00",
       "location": "Passfort - 숙소 (각자)",
       "description": "8시간 이상 수면 완료. 피로 및 공복 상태 초기화됨. 새로운 하루 시작.",
-      "time_spent": 490,
+      "time_spent": 480,
       "day_advance": true
     },
     {
-      "timestamp": "Day 3 - 08:00 → 11:00",
-      "location": "무한의 프론티어 4층 → Passfort",
-      "description": "4층 탐색 및 전투 (Assassin Vine 2체), 전리품 획득 후 귀환 및 길드 보고",
-      "time_spent": 180,
+      "timestamp": "Day 4 - 09:00",
+      "location": "무한의 프론티어 4층",
+      "description": "워프마커를 사용해 신규 4층으로 진입, 안개 구간 탐색",
+      "time_spent": 60,
+      "day_advance": false
+    },
+    {
+      "timestamp": "Day 4 - 10:00",
+      "location": "무한의 프론티어 4층",
+      "description": "기계 정찰병 2체 기습 및 전투, 보물상자 해제",
+      "time_spent": 60,
+      "day_advance": false
+    },
+    {
+      "timestamp": "Day 4 - 11:00",
+      "location": "무한의 프론티어 4층",
+      "description": "거미형 기계체 조우 및 전투, 분석 후 격파",
+      "time_spent": 60,
+      "day_advance": false
+    },
+    {
+      "timestamp": "Day 4 - 12:00",
+      "location": "무한의 프론티어 → 패스포트",
+      "description": "워프마커를 통해 귀환 완료",
+      "time_spent": 30,
+      "day_advance": false
+    },
+    {
+      "timestamp": "Day 4 - 12:30",
+      "location": "패스포트 - 푸크들의 요리솥",
+      "description": "회복 및 식사, 감정 교류, 세션 종료",
+      "time_spent": 60,
       "day_advance": false
     }
   ],
   "time_health": {
-    "fatigue_check_elapsed_minutes": 180,
-    "hunger_check_elapsed_minutes": 0,
+    "fatigue_check_elapsed_minutes": 240,
+    "hunger_check_elapsed_minutes": 240,
     "fatigue": false,
     "hunger": false,
     "health_penalty": false
   },
   "warp_marker": {
-    "floor": 3,
+    "floor": 4,
     "traits": [
-      "Swamp",
-      "Mental",
-      "Amphibious"
+      "Underground",
+      "Clockwork",
+      "Fungus"
     ],
-    "status": "active"
+    "status": "used"
   },
   "emotion_state": [
     {
@@ -100,45 +72,18 @@
       "from": "Slamon",
       "to": "Lissandra",
       "stage": "Affection",
-      "last_updated": "Day 2 - 19:50",
-      "last_trigger": "슬라몬의 장기 동행 의지 선언"
+      "last_updated": "Day 4 - 12:30",
+      "last_trigger": "슬라몬의 손길과 정서적 배려"
     },
     {
       "from": "Slamon",
       "to": "Laviata",
       "stage": "Stability",
-      "last_updated": "Day 1 - 09:00",
-      "last_trigger": "설득을 통해 파티에 합류시킴"
+      "last_updated": "Day 4 - 11:30",
+      "last_trigger": "슬라몬의 부상 확인과 신뢰 표현"
     }
   ],
   "emotion_log": [
-    {
-      "timestamp": "Day 1 - 09:00",
-      "from": "Slamon",
-      "to": "Kitty",
-      "old_stage": "Indifference",
-      "new_stage": "Stability",
-      "trigger": "설득을 통해 파티에 합류시킴",
-      "context": "키티가 슬라몬에게 최소한의 신뢰를 가지기 시작함"
-    },
-    {
-      "timestamp": "Day 1 - 09:00",
-      "from": "Slamon",
-      "to": "Lissandra",
-      "old_stage": "Indifference",
-      "new_stage": "Stability",
-      "trigger": "설득을 통해 파티에 합류시킴",
-      "context": "리산드라가 슬라몬에게 최소한의 신뢰를 가지기 시작함"
-    },
-    {
-      "timestamp": "Day 1 - 09:00",
-      "from": "Slamon",
-      "to": "Laviata",
-      "old_stage": "Indifference",
-      "new_stage": "Stability",
-      "trigger": "설득을 통해 파티에 합류시킴",
-      "context": "라비아타가 슬라몬에게 최소한의 신뢰를 가지기 시작함"
-    },
     {
       "timestamp": "Day 2 - 19:50",
       "from": "Slamon",
@@ -156,11 +101,20 @@
       "new_stage": "Affection",
       "trigger": "슬라몬의 장기 동행 의지 선언",
       "context": "리산드라가 이를 '기다려온 말'이라 표현하며 감정적으로 따름"
+    },
+    {
+      "timestamp": "Day 4 - 12:30",
+      "from": "Slamon",
+      "to": "Lissandra",
+      "old_stage": "Affection",
+      "new_stage": "Affection",
+      "trigger": "슬라몬의 손길과 정서적 배려",
+      "context": "리산드라가 슬라몬의 접촉에 감정적으로 동요하며 따름"
     }
   ],
   "resource_tracking": {
     "Slamon": {
-      "hp": 26,
+      "hp": 44,
       "spell_slots_used": {
         "1st_level": {
           "max": 2,
@@ -168,14 +122,13 @@
         },
         "2nd_level": {
           "max": 2,
-          "current": 0
+          "current": 1
         }
       },
       "focus_points": {
         "max": 1,
-        "current": 1
-      },
-      "focus": 1
+        "current": 0
+      }
     },
     "Kitty": {
       "hp": 48
@@ -185,23 +138,41 @@
     },
     "Lissandra": {
       "hp": 44,
-      "2nd_level_spells_used": 0,
-      "focus_points_used": {
-        "max": 1,
-        "current": 1
+      "spell_slots_used": {
+        "1st_level": {
+          "max": 3,
+          "current": 0
+        },
+        "2nd_level": {
+          "max": 3,
+          "current": 1
+        },
+        "3rd_level": {
+          "max": 0,
+          "current": 0
+        }
       },
-      "focus": 1
+      "focus_points_used": {
+        "max": 2,
+        "current": 0
+      }
     }
   },
   "shared_inventory": {
-      "items": [
-        "Scroll of Fireball (3rd Level)",
-        "Lesser Healing Potion",
-        "Barkskin Potion"
-      ],
+    "items": [
+      "Scroll of Fireball (3rd Level)",
+      "Lesser Healing Potion",
+      "Barkskin Potion",
+      "Elixir of Life (Moderate)",
+      "Scroll of Resist Energy (3rd Level)",
+      "Cold Iron Dagger",
+      "Wounding Rune",
+      "Haste Potion (Moderate)",
+      "Scroll of Dispel Magic (3rd level)"
+    ],
     "coin_pouch": {
-      "gp": 17,
-      "sp": 4,
+      "gp": 50,
+      "sp": 18,
       "cp": 0
     }
   },
