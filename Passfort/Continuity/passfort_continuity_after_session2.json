@@ -193,23 +193,18 @@
       "focus": 1
     }
   },
-  "inventory_log": [
-    {
-	  "timestamp": "Day 2 - 08:00",
-      "location": "3층 보물 상자",
+  "shared_inventory": {
       "items": [
-        "Scroll of Fireball (3rd Level)"
-      ]
-    },
-    {
-      "timestamp": "Day 3 - 11:00",
-      "location": "무한의 프론티어 4층",
-      "items": [
+        "Scroll of Fireball (3rd Level)",
         "Lesser Healing Potion",
         "Barkskin Potion"
-      ]
+      ],
+    "coin_pouch": {
+      "gp": 17,
+      "sp": 4,
+      "cp": 0
     }
-  ],
+  },
   "party_goal": {
     "name": "우리 집 마련",
     "target_amount_gp": 1000,
