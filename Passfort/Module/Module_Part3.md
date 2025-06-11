@@ -39,8 +39,8 @@
 
 이 시스템은 각 탐색에서 위험과 보상의 기대치를 동적으로 조절하며, 던전 탐색 자체를 하나의 전략적 자원 게임으로 만든다.
 
-''1. 던전 진입 시 `Other Traits` 3개가 무작위로 생성된다. (예: Clockwork, Toxic, Mistbound 등)
-2. Encounter PL은 d6을 굴려 변동값을 적용한 후 확정된다. (PL = warp_marker.floor ± d6)
-3. 해당 PL에 맞는 공식 Bestiary 몬스터가 무작위 추출된다.
-4. 추출된 몬스터는 `Other Traits` 중 일부를 부여받고, Weak 또는 Elite 조정이 함께 적용된다.
-5. 몬스터의 이름은 해당 Trait 중 하나를 앞에 붙여 표기된다. (예: “Toxic Phase Spider”, “Mistbound Wight”)''
+>1. 던전 진입 시 `Other Traits` 3개가 무작위로 생성된다. (예: Clockwork, Toxic, Mistbound 등)
+>2. Encounter PL은 d6을 굴려 변동값을 적용한 후 확정된다. (PL = warp_marker.floor ± d6)
+>3. 해당 PL에 맞는 공식 Bestiary 몬스터가 무작위 추출된다.
+>4. 추출된 몬스터는 `Other Traits` 중 일부를 부여받고, Weak 또는 Elite 조정이 함께 적용된다.
+>5. 몬스터의 이름은 해당 Trait 중 하나를 앞에 붙여 표기된다. (예: “Toxic Phase Spider”, “Mistbound Wight”)''
