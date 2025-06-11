@@ -1,5 +1,5 @@
 {
-  "date_updated": "2025-06-10T06:23:17.825151",
+  "date_updated": "2025-06-11T06:48:23.681405",
   "time_lapse": [
     {
       "timestamp": "Day 4 - 08:00",
@@ -42,11 +42,46 @@
       "description": "회복 및 식사, 감정 교류, 세션 종료",
       "time_spent": 60,
       "day_advance": false
+    },
+    {
+      "timestamp": "Day 4 - 13:15",
+      "location": "패스포트 북구 창고지대",
+      "description": "접속자 요원과 조우 및 전투 발생",
+      "time_spent": 30,
+      "day_advance": false
+    },
+    {
+      "timestamp": "Day 4 - 13:50",
+      "location": "패스포트 북구 창고지대",
+      "description": "파편 수색 및 기억 단말 복구 시도",
+      "time_spent": 30,
+      "day_advance": false
+    },
+    {
+      "timestamp": "Day 4 - 14:20",
+      "location": "패스포트 길드 본부",
+      "description": "복구된 Echo Memory 길드에 제출, 정보 보류 처리",
+      "time_spent": 20,
+      "day_advance": false
+    },
+    {
+      "timestamp": "Day 4 - 14:40",
+      "location": "패스포트 길드 본부",
+      "description": "파티 내부 감정 대화, 슬라몬 리더십 재확인",
+      "time_spent": 10,
+      "day_advance": false
+    },
+    {
+      "timestamp": "Day 4 - 14:50",
+      "location": "패스포트 - 길드 숙소",
+      "description": "전원 긴 휴식, 회복 완료",
+      "time_spent": 790,
+      "day_advance": true
     }
   ],
   "time_health": {
-    "fatigue_check_elapsed_minutes": 240,
-    "hunger_check_elapsed_minutes": 240,
+    "fatigue_check_elapsed_minutes": 0,
+    "hunger_check_elapsed_minutes": 0,
     "fatigue": false,
     "hunger": false,
     "health_penalty": false
@@ -118,12 +153,12 @@
         },
         "2nd_level": {
           "max": 2,
-          "current": 1
+          "current": 0
         }
       },
       "focus_points": {
         "max": 1,
-        "current": 0
+        "current": 1
       }
     },
     "Kitty": {
@@ -141,7 +176,7 @@
         },
         "2nd_level": {
           "max": 3,
-          "current": 1
+          "current": 0
         },
         "3rd_level": {
           "max": 0,
@@ -165,9 +200,11 @@
       "Wounding Rune",
       "Haste Potion (Moderate)",
       "Scroll of Dispel Magic (3rd level)",
-	  "Scroll of Resist Energy",
-	  "Bracers of Armor (+1)",
-	  "Scroll of Mirror Image"
+      "Scroll of Resist Energy",
+      "Bracers of Armor (+1)",
+      "Scroll of Mirror Image",
+      "Disjunction Core Fragment",
+      "Magically Conductive Shard x2"
     ],
     "coin_pouch": {
       "gp": 50,
@@ -177,7 +214,7 @@
   },
   "emotion_event": {
     "last_event_check": "Day 4 - 08:00",
-    "event_check_elapsed_minutes": 240,
+    "event_check_elapsed_minutes": 1030,
     "npc_goals": [
       {
         "npc_name": "Lissandra",
@@ -201,5 +238,15 @@
     "target_amount_gp": 1000,
     "current_amount_gp": 0,
     "notes": "모든 던전 및 퀘스트 수익 중 판매 가능한 보상은 공동기금으로 전환하여 누적."
-  }
+  },
+	"special_flags": {
+	  "slamon_event_goal": "무한의 프론티어 20층에서 슬라몬을 주시하는 존재가 기다림",
+	  "slamon_event_history": [
+		{
+		  "timestamp": "Day 4 - 13:45",
+		  "summary": "접속자 요원과 조우, 슬라몬이 외부 기억 추적 대상임이 드러남. 자폭 후 Echo Memory 회수 및 길드 제출 완료.",
+		  "followup_hint": "5층 '검은 연단 교차점'에서 'Unit Omega'가 기다리고 있을 가능성 있음. 슬라몬은 표적이 되었고, 이 사건은 시작일 뿐이다."
+		}
+	  ]
+	}
 }
