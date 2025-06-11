@@ -183,7 +183,7 @@
     {
       "npc_name": "Lissandra",
       "encoding_type": "base64",
-      "final_goal_encoded": "QmFyZ2FpbiB3aXRoIHNoYWRvdyBzcGlyaXRz"
+      "final_goal_encoded": "SGFybmVzcyBvciByZWxlYXNlIHRoZSBwb3dlciBvZiBhbiBhbmNpZW50IHJlbGlj"
     },
     {
       "npc_name": "Laviata",
