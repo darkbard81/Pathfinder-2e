@@ -53,11 +53,7 @@
   },
   "warp_marker": {
     "floor": 4,
-    "traits": [
-      "Underground",
-      "Clockwork",
-      "Fungus"
-    ],
+    "traits": [],
     "status": "used"
   },
   "emotion_state": [
@@ -163,12 +159,15 @@
       "Scroll of Fireball (3rd Level)",
       "Lesser Healing Potion",
       "Barkskin Potion",
-      "Elixir of Life (Moderate)",
+      "Elixir of Life (Moderate) x2",
       "Scroll of Resist Energy (3rd Level)",
       "Cold Iron Dagger",
       "Wounding Rune",
       "Haste Potion (Moderate)",
-      "Scroll of Dispel Magic (3rd level)"
+      "Scroll of Dispel Magic (3rd level)",
+	  "Scroll of Resist Energy",
+	  "Bracers of Armor (+1)",
+	  "Scroll of Mirror Image"
     ],
     "coin_pouch": {
       "gp": 50,
@@ -177,26 +176,26 @@
     }
   },
   "emotion_event": {
-  "last_event_check": "Day 4 - 12:30",
-  "event_check_elapsed_minutes": 0,
-  "npc_goals": [
-    {
-      "npc_name": "Lissandra",
-      "encoding_type": "base64",
-      "final_goal_encoded": "SGFybmVzcyBvciByZWxlYXNlIHRoZSBwb3dlciBvZiBhbiBhbmNpZW50IHJlbGlj"
-    },
-    {
-      "npc_name": "Laviata",
-      "encoding_type": "base64",
-      "final_goal_encoded": "U3VibWxpbmUgb2YgdGhlIEVuY2hhbnQ="
-    },
-    {
-      "npc_name": "Kitty",
-      "encoding_type": "base64",
-      "final_goal_encoded": "Q29uZXF1ZXN0IG9mIHRoZSBTbGltb24="
-    }
-  ]
-},
+    "last_event_check": "Day 4 - 08:00",
+    "event_check_elapsed_minutes": 240,
+    "npc_goals": [
+      {
+        "npc_name": "Lissandra",
+        "encoding_type": "base64",
+        "final_goal_encoded": "SGFybmVzcyBvciByZWxlYXNlIHRoZSBwb3dlciBvZiBhbiBhbmNpZW50IHJlbGlj"
+      },
+      {
+        "npc_name": "Laviata",
+        "encoding_type": "base64",
+        "final_goal_encoded": "U3VibWxpbmUgb2YgdGhlIEVuY2hhbnQ="
+      },
+      {
+        "npc_name": "Kitty",
+        "encoding_type": "base64",
+        "final_goal_encoded": "Q29uZXF1ZXN0IG9mIHRoZSBTbGltb24="
+      }
+    ]
+  },
   "party_goal": {
     "name": "우리 집 마련",
     "target_amount_gp": 1000,
