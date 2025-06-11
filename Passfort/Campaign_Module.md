@@ -193,6 +193,7 @@ Module 6, **NPC Emotion Event**, extends the existing emotion system to implemen
 - Disallow direct emotional stage changes triggered by player or NPC daily interactions; such changes are logged but do not affect stages.
 - Ensure emotional stages cycle through all base states and enforce a return to Hostility in advanced emotional branches.
 - Maintain immersion by restricting player visibility of emotional goals and using indirect narrative cues for emotional changes.
+- When multiple NPCs qualify for an emotional event at the same time, only one NPC is randomly selected for the event to occur, preventing simultaneous multiple emotional events.
 
 ---
 
