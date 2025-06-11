@@ -177,3 +177,95 @@ Each dialogue scene should have at least one of:
 이때 사용되는 floor 값은 Encounter 난이도와 동일하게 현재 워프마커(warp_marker.floor)에 기록된 층수를 기준으로 한다.
 
 이 시스템은 각 탐색에서 위험과 보상의 기대치를 동적으로 조절하며, 던전 탐색 자체를 하나의 전략적 자원 게임으로 만든다.
+
+## Module 6 — NPC Emotion Event
+
+### Overview
+
+Module 6, **NPC Emotion Event**, extends the existing emotion system to implement periodic, goal-driven emotional stage changes for NPCs. This module integrates seamlessly with Module 3 (Emotion Stage System v2) and the campaign’s continuity structure.
+
+---
+
+### Design Objectives
+
+- Automate NPC emotional stage changes every 3 in-world days.
+- Base emotional shifts on each NPC’s encoded final goal, kept confidential from players.
+- Disallow direct emotional stage changes triggered by player or NPC daily interactions; such changes are logged but do not affect stages.
+- Ensure emotional stages cycle through all base states and enforce a return to Hostility in advanced emotional branches.
+- Maintain immersion by restricting player visibility of emotional goals and using indirect narrative cues for emotional changes.
+
+---
+
+### Data Structures
+
+#### Emotion Event Tracker
+
+```json
+"emotion_event": {
+  "last_event_check": "Day 4 - 12:30",
+  "event_check_elapsed_minutes": 4320,
+  "npc_goals": [
+    {
+      "npc_name": "Gabriel",
+      "encoding_type": "base64",
+      "final_goal_encoded": "QXNzYXNzaW5hdGUgUEM="
+    }
+  ]
+}
+```
+
+- **last_event_check**: Timestamp of the last emotion event.
+- **event_check_elapsed_minutes**: Minutes elapsed since the last emotional event (3 days = 4320 minutes triggers event).
+- **npc_goals**: Array of NPCs with their goals stored in Base64 encoding for confidentiality.
+
+---
+
+### Workflow
+
+1. **Time Tracking**  
+   The system increments `event_check_elapsed_minutes` based on in-world time passage.
+
+2. **Event Trigger**  
+   When `event_check_elapsed_minutes` reaches or exceeds 4320 (3 days), the system triggers an emotion event.
+
+3. **Seed Generation and Emotional Shift**  
+   The system dynamically generates emotional event seeds per NPC based on their current state and decoded goals.  
+   These seeds drive NPC emotional stage transitions within the predefined stages:  
+   - Indifference  
+   - Recognition  
+   - Hostility  
+   - Stability  
+   - Confusion  
+   - Anxiety  
+   - Affection  
+   - Love  
+
+4. **Hostility Return Clause**  
+   NPCs entering advanced emotional states must cycle back to Hostility at least once, ensuring realistic emotional conflict.
+
+5. **Logging and Concealment**  
+   All emotional changes triggered by this module update the `emotion_state` and append entries to `emotion_log`.  
+   Player-facing data exposes no direct goal information; only narrative cues are provided.
+
+6. **Player/NPC Daily Interactions**  
+   Changes in emotional tone or feeling from regular dialogue or actions are logged but do not alter emotional stages.
+
+---
+
+### Integration Notes
+
+- Fully compatible and designed as an extension to Module 3 (Emotion Stage System v2).
+- Works alongside continuity management structures such as `emotion_state` and `emotion_log`.
+- Encoded NPC goals maintain player secrecy while enabling GM-side decision making.
+- Supports immersive, nonlinear emotional storytelling aligned with ongoing campaign events.
+
+---
+
+### Benefits
+
+- Maintains narrative tension by regulating emotional shifts on a fixed schedule.
+- Empowers NPCs with meaningful, evolving motivations linked to clear goals.
+- Avoids meta-knowledge leaks by encoding sensitive emotional goals.
+- Enhances player immersion through indirect emotional cues and dynamic NPC behavior.
+
+---
