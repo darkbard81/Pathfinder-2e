@@ -176,6 +176,27 @@
       "cp": 0
     }
   },
+  "emotion_event": {
+  "last_event_check": "Day 4 - 12:30",
+  "event_check_elapsed_minutes": 0,
+  "npc_goals": [
+    {
+      "npc_name": "Lissandra",
+      "encoding_type": "base64",
+      "final_goal_encoded": "Q2FwdHVyZSB0aGUgRGFya25lc3MgRm9yY2U="
+    },
+    {
+      "npc_name": "Laviata",
+      "encoding_type": "base64",
+      "final_goal_encoded": "U3VibWxpbmUgb2YgdGhlIEVuY2hhbnQ="
+    },
+    {
+      "npc_name": "Kitty",
+      "encoding_type": "base64",
+      "final_goal_encoded": "Q29uZXF1ZXN0IG9mIHRoZSBTbGltb24="
+    }
+  ]
+},
   "party_goal": {
     "name": "우리 집 마련",
     "target_amount_gp": 1000,
