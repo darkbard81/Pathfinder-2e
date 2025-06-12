@@ -77,7 +77,7 @@
 - **Elite**: AC, 공격, DC +2 / HP +30%
 - **Weak**: AC, 공격, DC -2 / HP -30%
 
-#### ✅ Reskinning (외형 및 설명 변경) (필수)
+#### ✅ Reskinning (외형 및 설명 변경) (기능성 Trait아니면 필수)
 - 몬스터의 이름, 외형, 설명을 변경
 - **선택된 Other Traits 중 1개**를 반영하여 테마 수정
 
