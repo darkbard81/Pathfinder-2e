@@ -1,0 +1,293 @@
+[
+  {
+    "Creature": "Compsognathus",
+    "Level": "-1",
+    "Page": "80",
+    "Book": "Bestiary2"
+  },
+  {
+    "Creature": "Crawling hand",
+    "Level": "-1",
+    "Page": "56",
+    "Book": "Bestiary2"
+  },
+  {
+    "Creature": "Raven",
+    "Level": "-1",
+    "Page": "221",
+    "Book": "Bestiary2"
+  },
+  {
+    "Creature": "Snapping turtle",
+    "Level": "-1",
+    "Page": "269",
+    "Book": "Bestiary2"
+  },
+  {
+    "Creature": "Yellow musk thrall",
+    "Level": "-1",
+    "Page": "300",
+    "Book": "Bestiary2"
+  },
+  {
+    "Creature": "Badger",
+    "Level": "0",
+    "Page": "32",
+    "Book": "Bestiary2"
+  },
+  {
+    "Creature": "Blue?ringed octopus",
+    "Level": "0",
+    "Page": "187",
+    "Book": "Bestiary2"
+  },
+  {
+    "Creature": "Bottlenose dolphin",
+    "Level": "0",
+    "Page": "84",
+    "Book": "Bestiary2"
+  },
+  {
+    "Creature": "Dream spider",
+    "Level": "0",
+    "Page": "249",
+    "Book": "Bestiary2"
+  },
+  {
+    "Creature": "Giant maggot",
+    "Level": "0",
+    "Page": "120",
+    "Book": "Bestiary2"
+  },
+  {
+    "Creature": "Grindylow",
+    "Level": "0",
+    "Page": "138",
+    "Book": "Bestiary2"
+  },
+  {
+    "Creature": "Sea snake",
+    "Level": "0",
+    "Page": "245",
+    "Book": "Bestiary2"
+  },
+  {
+    "Creature": "Spear frog",
+    "Level": "0",
+    "Page": "121",
+    "Book": "Bestiary2"
+  },
+  {
+    "Creature": "Stingray",
+    "Level": "0",
+    "Page": "226",
+    "Book": "Bestiary2"
+  },
+  {
+    "Creature": "Vampire squid",
+    "Level": "0",
+    "Page": "254",
+    "Book": "Bestiary2"
+  },
+  {
+    "Creature": "Akata",
+    "Level": "1",
+    "Page": "13",
+    "Book": "Bestiary2"
+  },
+  {
+    "Creature": "Amoeba swarm",
+    "Level": "1",
+    "Page": "192",
+    "Book": "Bestiary2"
+  },
+  {
+    "Creature": "Augur",
+    "Level": "1",
+    "Page": "280",
+    "Book": "Bestiary2"
+  },
+  {
+    "Creature": "Brownie",
+    "Level": "1",
+    "Page": "44",
+    "Book": "Bestiary2"
+  },
+  {
+    "Creature": "Carbuncle",
+    "Level": "1",
+    "Page": "47",
+    "Book": "Bestiary2"
+  },
+  {
+    "Creature": "Cave scorpion",
+    "Level": "1",
+    "Page": "234",
+    "Book": "Bestiary2"
+  },
+  {
+    "Creature": "Cythnigot",
+    "Level": "1",
+    "Page": "212",
+    "Book": "Bestiary2"
+  },
+  {
+    "Creature": "Dust mephit",
+    "Level": "1",
+    "Page": "112",
+    "Book": "Bestiary2"
+  },
+  {
+    "Creature": "Fetchling scout",
+    "Level": "1",
+    "Page": "117",
+    "Book": "Bestiary2"
+  },
+  {
+    "Creature": "Giant amoeba",
+    "Level": "1",
+    "Page": "192",
+    "Book": "Bestiary2"
+  },
+  {
+    "Creature": "Giant cockroach",
+    "Level": "1",
+    "Page": "53",
+    "Book": "Bestiary2"
+  },
+  {
+    "Creature": "Giant fly",
+    "Level": "1",
+    "Page": "120",
+    "Book": "Bestiary2"
+  },
+  {
+    "Creature": "Giant frog",
+    "Level": "1",
+    "Page": "121",
+    "Book": "Bestiary2"
+  },
+  {
+    "Creature": "Giant solifugid",
+    "Level": "1",
+    "Page": "246",
+    "Book": "Bestiary2"
+  },
+  {
+    "Creature": "Giant tick",
+    "Level": "1",
+    "Page": "260",
+    "Book": "Bestiary2"
+  },
+  {
+    "Creature": "Grippli scout",
+    "Level": "1",
+    "Page": "139",
+    "Book": "Bestiary2"
+  },
+  {
+    "Creature": "Hippocampus",
+    "Level": "1",
+    "Page": "142",
+    "Book": "Bestiary2"
+  },
+  {
+    "Creature": "Ice mephit",
+    "Level": "1",
+    "Page": "112",
+    "Book": "Bestiary2"
+  },
+  {
+    "Creature": "Ifrit pyrochemist",
+    "Level": "1",
+    "Page": "200",
+    "Book": "Bestiary2"
+  },
+  {
+    "Creature": "Manta ray",
+    "Level": "1",
+    "Page": "226",
+    "Book": "Bestiary2"
+  },
+  {
+    "Creature": "Nixie",
+    "Level": "1",
+    "Page": "183",
+    "Book": "Bestiary2"
+  },
+  {
+    "Creature": "Ooze mephit",
+    "Level": "1",
+    "Page": "113",
+    "Book": "Bestiary2"
+  },
+  {
+    "Creature": "Oread guard",
+    "Level": "1",
+    "Page": "200",
+    "Book": "Bestiary2"
+  },
+  {
+    "Creature": "Petitioner",
+    "Level": "1",
+    "Page": "198",
+    "Book": "Bestiary2"
+  },
+  {
+    "Creature": "Reef octopus",
+    "Level": "1",
+    "Page": "187",
+    "Book": "Bestiary2"
+  },
+  {
+    "Creature": "Skulk",
+    "Level": "1",
+    "Page": "243",
+    "Book": "Bestiary2"
+  },
+  {
+    "Creature": "Steam mephit",
+    "Level": "1",
+    "Page": "113",
+    "Book": "Bestiary2"
+  },
+  {
+    "Creature": "Suli dune danger",
+    "Level": "1",
+    "Page": "201",
+    "Book": "Bestiary2"
+  },
+  {
+    "Creature": "Sun\u001fower leshy",
+    "Level": "1",
+    "Page": "160",
+    "Book": "Bestiary2"
+  },
+  {
+    "Creature": "Sylph sneak",
+    "Level": "1",
+    "Page": "202",
+    "Book": "Bestiary2"
+  },
+  {
+    "Creature": "Undine hydromancer",
+    "Level": "1",
+    "Page": "203",
+    "Book": "Bestiary2"
+  },
+  {
+    "Creature": "Vexgit",
+    "Level": "1",
+    "Page": "134",
+    "Book": "Bestiary2"
+  },
+  {
+    "Creature": "Void zombie",
+    "Level": "1",
+    "Page": "288",
+    "Book": "Bestiary2"
+  },
+  {
+    "Creature": "..."
+  }
+]
