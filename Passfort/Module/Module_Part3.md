@@ -31,6 +31,13 @@
 - Encounter 설계 시, XP 예산에 맞춰 이 풀 중 일부만 실제 등장시킨다
 - 잉여 개체는 이후 이벤트/재등장/서사용으로 보존할 수 있다.
 
+#### 📌 몬스터 능력치 검색 방법
+- 각 몬스터의 정식 능력치는 다음 형식으로 검색한다:
+  - *Monster Name*: Creatures by Level 목록에 나온 이름 그대로
+  - *X*: 해당 몬스터의 레벨 숫자
+
+예시: `"Tiger CREATURE 4"`, `"Shae CREATURE 4"`
+
 ### 4. XP 예산 정하기
 - **XP 예산 = Core Rulebook p.488 "Encounter Budget by Party Level" 표** 사용
 
