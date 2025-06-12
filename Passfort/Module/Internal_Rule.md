@@ -13,9 +13,7 @@
 - Transition into formal initiative thereafter.
 - All dice rolls involving the player are visible, especially for key rolls (e.g., Spellstrike, Arcana).
 
-### 3. Full Enforcement of Module 6 (Infinite Frontier)
-- Encounter PL and traits derived from `warp_marker.floor` and its assigned traits.
-- Loot maximum value calculated as: `floor × (10gp × floor)` → e.g., 4th floor = 160gp cap.
+### 3. Encounter Narrative
 - Enemy info disclosed only through Recall Knowledge; otherwise, via narrative-only clues.
 
 ### 4. Emotion Stage System (Module 3)
