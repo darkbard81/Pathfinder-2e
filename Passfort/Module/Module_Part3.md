@@ -25,6 +25,16 @@
 - d6은 진입 시점에 굴림
 - Encounter PL에 영향을 줌 (파티 평균 레벨 기준 조정)
 
+| 🎲 1d6 결과 | Encounter 변동치 (ΔEL) |
+| --------- | ------------------- |
+| 1         | –2                  |
+| 2         | –1                  |
+| 3         | ±0                  |
+| 4         | +1                  |
+| 5         | +2                  |
+| 6         | +3                  |
+
+
 ### 3. 몬스터 6개체 선택 (warp_makert.monsters_pool)
 - bestiary1_creatures.json, bestiary2_creatures.json, bestiary3_creatures.json 기반으로, 해당 PL에 맞는 몬스터 6개체 무작위 추출
 - 이 6개체는 **해당 층의 Encounter 풀(Pool)**로 등록된다.
@@ -40,6 +50,18 @@
 
 ### 4. XP 예산 정하기
 - **XP 예산 = Core Rulebook p.488 "Encounter Budget by Party Level" 표** 사용
+
+| EL – PL 차이 | Encounter 난이도 |
+| ---------- | ------------- |
+| –4 이하      | Trivial       |
+| –3         | Low           |
+| –2         | Low           |
+| –1         | Moderate      |
+| ±0         | Moderate      |
+| +1         | Severe        |
+| +2         | Severe        |
+| +3 이상      | Extreme       |
+
 
 | Encounter Level | XP Budget |
 |------------------|------------|
