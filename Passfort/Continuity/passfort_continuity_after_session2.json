@@ -1,198 +1,242 @@
 {
-   "date_updated":"2025-06-11T06:48:23.681405",
-   "time_lapse":[
+   "date_updated": "2025-06-12T08:00:46.383842",
+   "time_lapse": [
       {
-         "timestamp":"Day 4 - 08:00",
-         "location":"Passfort - 숙소 (각자)",
-         "description":"8시간 이상 수면 완료. 피로 및 공복 상태 초기화됨. 새로운 하루 시작.",
-         "time_spent":480,
-         "day_advance":true
+         "timestamp": "Day 4 - 08:00",
+         "location": "Passfort - 숙소 (각자)",
+         "description": "8시간 이상 수면 완료. 피로 및 공복 상태 초기화됨. 새로운 하루 시작.",
+         "time_spent": 480,
+         "day_advance": true
       },
       {
-         "timestamp":"Day 4 - 09:00",
-         "location":"무한의 프론티어 4층",
-         "description":"워프마커를 사용해 신규 4층으로 진입, 안개 구간 탐색",
-         "time_spent":60,
-         "day_advance":false
+         "timestamp": "Day 4 - 09:00",
+         "location": "무한의 프론티어 4층",
+         "description": "워프마커를 사용해 신규 4층으로 진입, 안개 구간 탐색",
+         "time_spent": 60,
+         "day_advance": false
       },
       {
-         "timestamp":"Day 4 - 10:00",
-         "location":"무한의 프론티어 4층",
-         "description":"기계 정찰병 2체 기습 및 전투, 보물상자 해제",
-         "time_spent":60,
-         "day_advance":false
+         "timestamp": "Day 4 - 10:00",
+         "location": "무한의 프론티어 4층",
+         "description": "기계 정찰병 2체 기습 및 전투, 보물상자 해제",
+         "time_spent": 60,
+         "day_advance": false
       },
       {
-         "timestamp":"Day 4 - 11:00",
-         "location":"무한의 프론티어 4층",
-         "description":"거미형 기계체 조우 및 전투, 분석 후 격파",
-         "time_spent":60,
-         "day_advance":false
+         "timestamp": "Day 4 - 11:00",
+         "location": "무한의 프론티어 4층",
+         "description": "거미형 기계체 조우 및 전투, 분석 후 격파",
+         "time_spent": 60,
+         "day_advance": false
       },
       {
-         "timestamp":"Day 4 - 12:00",
-         "location":"무한의 프론티어 → 패스포트",
-         "description":"워프마커를 통해 귀환 완료",
-         "time_spent":30,
-         "day_advance":false
+         "timestamp": "Day 4 - 12:00",
+         "location": "무한의 프론티어 → 패스포트",
+         "description": "워프마커를 통해 귀환 완료",
+         "time_spent": 30,
+         "day_advance": false
       },
       {
-         "timestamp":"Day 4 - 12:30",
-         "location":"패스포트 - 푸크들의 요리솥",
-         "description":"회복 및 식사, 감정 교류, 세션 종료",
-         "time_spent":60,
-         "day_advance":false
+         "timestamp": "Day 4 - 12:30",
+         "location": "패스포트 - 푸크들의 요리솥",
+         "description": "회복 및 식사, 감정 교류, 세션 종료",
+         "time_spent": 60,
+         "day_advance": false
       },
       {
-         "timestamp":"Day 4 - 13:15",
-         "location":"패스포트 북구 창고지대",
-         "description":"접속자 요원과 조우 및 전투 발생",
-         "time_spent":30,
-         "day_advance":false
+         "timestamp": "Day 4 - 13:15",
+         "location": "패스포트 북구 창고지대",
+         "description": "접속자 요원과 조우 및 전투 발생",
+         "time_spent": 30,
+         "day_advance": false
       },
       {
-         "timestamp":"Day 4 - 13:50",
-         "location":"패스포트 북구 창고지대",
-         "description":"파편 수색 및 기억 단말 복구 시도",
-         "time_spent":30,
-         "day_advance":false
+         "timestamp": "Day 4 - 13:50",
+         "location": "패스포트 북구 창고지대",
+         "description": "파편 수색 및 기억 단말 복구 시도",
+         "time_spent": 30,
+         "day_advance": false
       },
       {
-         "timestamp":"Day 4 - 14:20",
-         "location":"패스포트 길드 본부",
-         "description":"복구된 Echo Memory 길드에 제출, 정보 보류 처리",
-         "time_spent":20,
-         "day_advance":false
+         "timestamp": "Day 4 - 14:20",
+         "location": "패스포트 길드 본부",
+         "description": "복구된 Echo Memory 길드에 제출, 정보 보류 처리",
+         "time_spent": 20,
+         "day_advance": false
       },
       {
-         "timestamp":"Day 4 - 14:40",
-         "location":"패스포트 길드 본부",
-         "description":"파티 내부 감정 대화, 슬라몬 리더십 재확인",
-         "time_spent":10,
-         "day_advance":false
+         "timestamp": "Day 4 - 14:40",
+         "location": "패스포트 길드 본부",
+         "description": "파티 내부 감정 대화, 슬라몬 리더십 재확인",
+         "time_spent": 10,
+         "day_advance": false
       },
       {
-         "timestamp":"Day 4 - 14:50",
-         "location":"패스포트 - 길드 숙소",
-         "description":"전원 긴 휴식, 회복 완료",
-         "time_spent":790,
-         "day_advance":true
+         "timestamp": "Day 4 - 14:50",
+         "location": "패스포트 - 길드 숙소",
+         "description": "전원 긴 휴식, 회복 완료",
+         "time_spent": 790,
+         "day_advance": true
+      },
+      {
+         "timestamp": "Day 5 - 09:30",
+         "location": "패스포트 길드 본부",
+         "description": "4층 탐색 후 전투 및 보물 확보, 워프마커 귀환으로 본부 복귀 완료",
+         "time_spent": 15,
+         "day_advance": false
+      },
+      {
+         "timestamp": "Day 5 - 09:45",
+         "location": "무한의 프론티어 4층",
+         "description": "신규 4층 진입, Clockwork/Celestial 테마 구역 진입",
+         "time_spent": 15,
+         "day_advance": false
+      },
+      {
+         "timestamp": "Day 5 - 10:00",
+         "location": "무한의 프론티어 4층",
+         "description": "감시체 형태 개체 조우 및 전투 발생, 기습 개시",
+         "time_spent": 10,
+         "day_advance": false
+      },
+      {
+         "timestamp": "Day 5 - 10:10",
+         "location": "무한의 프론티어 4층",
+         "description": "보물상자 2개 획득 (4층 보상 + 9층 보정), 워프마커 귀환",
+         "time_spent": 10,
+         "day_advance": false
+      },
+      {
+         "timestamp": "Day 5 - 10:30",
+         "location": "패스포트 - 푸크들의 요리솥",
+         "description": "식사 및 감정 안정, 세션 종료",
+         "time_spent": 30,
+         "day_advance": false
       }
    ],
-   "time_health":{
-      "fatigue_check_elapsed_minutes":0,
-      "hunger_check_elapsed_minutes":0,
-      "fatigue":false,
-      "hunger":false,
-      "health_penalty":false
+   "time_health": {
+      "fatigue_check_elapsed_minutes": 65,
+      "hunger_check_elapsed_minutes": 0,
+      "fatigue": false,
+      "hunger": false,
+      "health_penalty": false
    },
-   "warp_marker":{
-      "floor":4,
-      "traits":[
-         
+   "warp_marker": {
+      "floor": 4,
+      "traits": [
+         "Incorporeal",
+         "Toxic",
+         "Plant"
       ],
-      "status":"used"
+      "status": "used",
+      "monsters_pool": [
+         "Black Pudding (Creature 6)",
+         "Drekavac (Creature 6)",
+         "Kuru Cannibal (Creature 6)",
+         "Frost Giant Youth (Creature 6)",
+         "Phase Spider (Creature 6)"
+      ]
    },
-   "emotion_state":[
+   "emotion_state": [
       {
-         "from":"Slamon",
-         "to":"Kitty",
-         "stage":"Affection",
-         "last_updated":"Day 2 - 19:50",
-         "last_trigger":"슬라몬의 감사 및 공동 목표 제안"
+         "from": "Slamon",
+         "to": "Kitty",
+         "stage": "Affection",
+         "last_updated": "Day 2 - 19:50",
+         "last_trigger": "슬라몬의 감사 및 공동 목표 제안"
       },
       {
-         "from":"Slamon",
-         "to":"Lissandra",
-         "stage":"Affection",
-         "last_updated":"Day 4 - 12:30",
-         "last_trigger":"슬라몬의 손길과 정서적 배려"
+         "from": "Slamon",
+         "to": "Lissandra",
+         "stage": "Affection",
+         "last_updated": "Day 4 - 12:30",
+         "last_trigger": "슬라몬의 손길과 정서적 배려"
       },
       {
-         "from":"Slamon",
-         "to":"Laviata",
-         "stage":"Stability",
-         "last_updated":"Day 4 - 11:30",
-         "last_trigger":"슬라몬의 부상 확인과 신뢰 표현"
+         "from": "Slamon",
+         "to": "Laviata",
+         "stage": "Stability",
+         "last_updated": "Day 4 - 11:30",
+         "last_trigger": "슬라몬의 부상 확인과 신뢰 표현"
       }
    ],
-   "emotion_log":[
+   "emotion_log": [
       {
-         "timestamp":"Day 2 - 19:50",
-         "from":"Slamon",
-         "to":"Kitty",
-         "old_stage":"Stability",
-         "new_stage":"Affection",
-         "trigger":"슬라몬의 감사 및 공동 목표 제안",
-         "context":"키티가 '우리 집' 목표에 감정적으로 반응하며 충성심을 드러냄"
+         "timestamp": "Day 2 - 19:50",
+         "from": "Slamon",
+         "to": "Kitty",
+         "old_stage": "Stability",
+         "new_stage": "Affection",
+         "trigger": "슬라몬의 감사 및 공동 목표 제안",
+         "context": "키티가 '우리 집' 목표에 감정적으로 반응하며 충성심을 드러냄"
       },
       {
-         "timestamp":"Day 2 - 19:50",
-         "from":"Slamon",
-         "to":"Lissandra",
-         "old_stage":"Stability",
-         "new_stage":"Affection",
-         "trigger":"슬라몬의 장기 동행 의지 선언",
-         "context":"리산드라가 이를 '기다려온 말'이라 표현하며 감정적으로 따름"
+         "timestamp": "Day 2 - 19:50",
+         "from": "Slamon",
+         "to": "Lissandra",
+         "old_stage": "Stability",
+         "new_stage": "Affection",
+         "trigger": "슬라몬의 장기 동행 의지 선언",
+         "context": "리산드라가 이를 '기다려온 말'이라 표현하며 감정적으로 따름"
       },
       {
-         "timestamp":"Day 4 - 12:30",
-         "from":"Slamon",
-         "to":"Lissandra",
-         "old_stage":"Affection",
-         "new_stage":"Affection",
-         "trigger":"슬라몬의 손길과 정서적 배려",
-         "context":"리산드라가 슬라몬의 접촉에 감정적으로 동요하며 따름"
+         "timestamp": "Day 4 - 12:30",
+         "from": "Slamon",
+         "to": "Lissandra",
+         "old_stage": "Affection",
+         "new_stage": "Affection",
+         "trigger": "슬라몬의 손길과 정서적 배려",
+         "context": "리산드라가 슬라몬의 접촉에 감정적으로 동요하며 따름"
       }
    ],
-   "resource_tracking":{
-      "Slamon":{
-         "hp":44,
-         "spell_slots_used":{
-            "1st_level":{
-               "max":2,
-               "current":0
+   "resource_tracking": {
+      "Slamon": {
+         "hp": 44,
+         "spell_slots_used": {
+            "1st_level": {
+               "max": 2,
+               "current": 0
             },
-            "2nd_level":{
-               "max":2,
-               "current":0
+            "2nd_level": {
+               "max": 2,
+               "current": 0
             }
          },
-         "focus_points":{
-            "max":1,
-            "current":1
+         "focus_points": {
+            "max": 1,
+            "current": 1
          }
       },
-      "Kitty":{
-         "hp":48
+      "Kitty": {
+         "hp": 48
       },
-      "Laviata":{
-         "hp":68
+      "Laviata": {
+         "hp": 29
       },
-      "Lissandra":{
-         "hp":44,
-         "spell_slots_used":{
-            "1st_level":{
-               "max":3,
-               "current":0
+      "Lissandra": {
+         "hp": 44,
+         "spell_slots_used": {
+            "1st_level": {
+               "max": 3,
+               "current": 0
             },
-            "2nd_level":{
-               "max":3,
-               "current":0
+            "2nd_level": {
+               "max": 3,
+               "current": 0
             },
-            "3rd_level":{
-               "max":0,
-               "current":0
+            "3rd_level": {
+               "max": 0,
+               "current": 0
             }
          },
-         "focus_points_used":{
-            "max":2,
-            "current":0
+         "focus_points_used": {
+            "max": 2,
+            "current": 0
          }
       }
    },
-   "shared_inventory":{
-      "items":[
+   "shared_inventory": {
+      "items": [
          "Scroll of Fireball (3rd Level)",
          "Lesser Healing Potion",
          "Barkskin Potion",
@@ -205,49 +249,59 @@
          "Scroll of Resist Energy",
          "Bracers of Armor (+1)",
          "Scroll of Mirror Image",
-         "Disjunction Core Fragment",
-         "Magically Conductive Shard x2"
+         "Disjunction Core Fragment (RP)",
+         "Magically Conductive Shard x2  (RP)",
+         "Elixir of Life (Moderate)",
+         "Scroll of Haste (3rd Level)",
+         "Bloodletting Needle",
+         "Scroll of Haste (3rd Level)",
+         "Greater Healing Potion",
+         "Cold Iron Dagger",
+         "Lesser Elemental Gem (Lightning)",
+         "Ring of Energy Resistance (Minor)",
+         "Cloak of Elvenkind",
+         "Elixir of Life (Greater)"
       ],
-      "coin_pouch":{
-         "gp":50,
-         "sp":18,
-         "cp":0
+      "coin_pouch": {
+         "gp": 56,
+         "sp": 18,
+         "cp": 0
       }
    },
-   "emotion_event":{
-      "last_event_check":"Day 4 - 08:00",
-      "event_check_elapsed_minutes":1030,
-      "npc_goals":[
+   "emotion_event": {
+      "last_event_check": "Day 4 - 08:00",
+      "event_check_elapsed_minutes": 1060,
+      "npc_goals": [
          {
-            "npc_name":"Lissandra",
-            "encoding_type":"base64",
-            "final_goal_encoded":"SGFybmVzcyBvciByZWxlYXNlIHRoZSBwb3dlciBvZiBhbiBhbmNpZW50IHJlbGlj"
+            "npc_name": "Lissandra",
+            "encoding_type": "base64",
+            "final_goal_encoded": "SGFybmVzcyBvciByZWxlYXNlIHRoZSBwb3dlciBvZiBhbiBhbmNpZW50IHJlbGlj"
          },
          {
-            "npc_name":"Laviata",
-            "encoding_type":"base64",
-            "final_goal_encoded":"U3VibWxpbmUgb2YgdGhlIEVuY2hhbnQ="
+            "npc_name": "Laviata",
+            "encoding_type": "base64",
+            "final_goal_encoded": "U3VibWxpbmUgb2YgdGhlIEVuY2hhbnQ="
          },
          {
-            "npc_name":"Kitty",
-            "encoding_type":"base64",
-            "final_goal_encoded":"Q29uZXF1ZXN0IG9mIHRoZSBTbGltb24="
+            "npc_name": "Kitty",
+            "encoding_type": "base64",
+            "final_goal_encoded": "Q29uZXF1ZXN0IG9mIHRoZSBTbGltb24="
          }
       ]
    },
-   "party_goal":{
-      "name":"우리 집 마련",
-      "target_amount_gp":1000,
-      "current_amount_gp":0,
-      "notes":"모든 던전 및 퀘스트 수익 중 판매 가능한 보상은 공동기금으로 전환하여 누적."
+   "party_goal": {
+      "name": "우리 집 마련",
+      "target_amount_gp": 1000,
+      "current_amount_gp": 0,
+      "notes": "모든 던전 및 퀘스트 수익 중 판매 가능한 보상은 공동기금으로 전환하여 누적."
    },
-   "special_flags":{
-      "slamon_event_goal":"무한의 프론티어 20층에서 슬라몬을 주시하는 존재가 기다림",
-      "slamon_event_history":[
+   "special_flags": {
+      "slamon_event_goal": "무한의 프론티어 20층에서 슬라몬을 주시하는 존재가 기다림",
+      "slamon_event_history": [
          {
-            "timestamp":"Day 4 - 13:45",
-            "summary":"접속자 요원과 조우, 슬라몬이 외부 기억 추적 대상임이 드러남. 자폭 후 Echo Memory 회수 및 길드 제출 완료.",
-            "followup_hint":"5층 '검은 연단 교차점'에서 'Unit Omega'가 기다리고 있을 가능성 있음. 슬라몬은 표적이 되었고, 이 사건은 시작일 뿐이다."
+            "timestamp": "Day 4 - 13:45",
+            "summary": "접속자 요원과 조우, 슬라몬이 외부 기억 추적 대상임이 드러남. 자폭 후 Echo Memory 회수 및 길드 제출 완료.",
+            "followup_hint": "5층 '검은 연단 교차점'에서 'Unit Omega'가 기다리고 있을 가능성 있음. 슬라몬은 표적이 되었고, 이 사건은 시작일 뿐이다."
          }
       ],
       "slamon_event_allowance": "이벤트 적은 룰의 경계를 벗어날 수 있는 단 하나의 존재다. 슬라몬이 허용한 유일한 예외다."
