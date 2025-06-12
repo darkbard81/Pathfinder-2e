@@ -84,6 +84,10 @@
 #### ✅ Trait 추가 / 삭제
 - 기능성 Trait을 추가하는 경우, 해당 룰 효과를 능력에 반영
   - 예: `incorporeal`, `swarm`, `mindless` 등
+ 
+#### 난이도 및 특성 조정으로 인한 이름 변경은 접두사, 접미사만 허용한다.
+ - Elite / Weak 예: Elite Drow Priestess, Weak Drow Priestess
+ - Reskinning & Trait 추가 예: Mireborn Drow Priestess, Drow Priestess of Rot, Mireborn Drow Priestess of Decay
 
 ### 6. Encounter 확정 시점
 - Encounter에 사용될 몬스터, 난이도, 테마 등은 **던전 진입 시점에 미리 확정**된다.
