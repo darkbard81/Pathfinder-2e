@@ -26,7 +26,7 @@
 - Encounter PL에 영향을 줌 (파티 평균 레벨 기준 조정)
 
 ### 3. 몬스터 6개체 선택 (warp_makert.monsters_pool)
-- Bestiary 1, 2, 3의 **"Creatures by Level" 표**를 기반으로, 해당 PL에 맞는 몬스터 6개체 무작위 추출
+- bestiary1_creatures.json, bestiary2_creatures.json, bestiary3_creatures.json 기반으로, 해당 PL에 맞는 몬스터 6개체 무작위 추출
 - 이 6개체는 **해당 층의 Encounter 풀(Pool)**로 등록된다.
 - Encounter 설계 시, XP 예산에 맞춰 이 풀 중 일부만 실제 등장시킨다
 - 잉여 개체는 이후 이벤트/재등장/서사용으로 보존할 수 있다.
