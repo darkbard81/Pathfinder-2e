@@ -73,15 +73,15 @@
 
 ### 5. 난이도 및 특성 조정
 
-#### ✅ Elite / Weak 템플릿 적용
+#### ✅ Elite / Weak 템플릿 적용 (필요시)
 - **Elite**: AC, 공격, DC +2 / HP +30%
 - **Weak**: AC, 공격, DC -2 / HP -30%
 
-#### ✅ Reskinning (외형 및 설명 변경)
+#### ✅ Reskinning (외형 및 설명 변경) (필수)
 - 몬스터의 이름, 외형, 설명을 변경
 - **선택된 Other Traits 중 1개**를 반영하여 테마 수정
 
-#### ✅ Trait 추가 / 삭제
+#### ✅ Trait 추가 / 삭제 (필요시)
 - 기능성 Trait을 추가하는 경우, 해당 룰 효과를 능력에 반영
   - 예: `incorporeal`, `swarm`, `mindless` 등
  
