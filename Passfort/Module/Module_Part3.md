@@ -9,33 +9,30 @@
 던전 관련 정보는 메타스키마의  warp_marker 구조와 연동되며, 다음 항목으로 구성되고 자동으로 추적된다:
 
 - warp_marker.floor : 진입시 층수
-- warp_marker.traits : 던전 진입시 랜덤갱신
+- warp_marker.environment : Aquatic, Arctic, Desert, Forest, Jungle, Mountain, Plains, Swamp, Underground, Urban, Dungeon 중 하나로 진입시 갱신
+- warp_marker.traits : 던전 진입시 몬스터에의해 갱신
 - warp_makert.monsters_pool : 던전 진입시 갱신된 몬스터 일람 (ex. Phase Spider (Creature 7, Elite, Traits: Spider, Toxic) )
 - warp_marker.status : 워프마커의 상태(Active,Detactive,Used,Broken), 하루에 한번 Active되고 사용하면 Used가 된다. 길드에서 탈퇴 시 Deactive. 파손인 경우 Broken
 
 ## 던전 진입시 시스템 절차
 
-### 1. Other Traits 무작위 생성 (warp_marker.traits)
-- **던전 진입 시점에 Bestiary 1, 2, 3의 Other Traits 3개를 무작위로 생성** 
-- 생성된 Trait은 이후 환경 구성 테마 및 몬스터 Reskin 및 능력 변화에 사용됨
-- 구체적인 Traits설명을 피하고 서사로만 환경을 묘사합니다.
-
-### 2. Encounter Level(EL) 설정
-- **Encounter Level = 현재 던전 층수(warp_marker.floor) ± 1d6**
-- d6은 진입 시점에 굴림
+### 1. Encounter Level(EL) 설정
+- **Encounter Level = 현재 던전 층수(warp_marker.floor) ± 2d4**
+- 2d4는 진입 시점에 굴림
 - Encounter PL에 영향을 줌 (파티 평균 레벨 기준 조정)
 
-| 🎲 1d6 결과 | Encounter 변동치 (ΔEL) |
+| 🎲 2d4 결과 | Encounter 변동치 (ΔEL) |
 | --------- | ------------------- |
-| 1         | –2                  |
-| 2         | –1                  |
-| 3         | ±0                  |
-| 4         | +1                  |
-| 5         | +2                  |
-| 6         | +3                  |
+| 2         | –3                  |
+| 3         | –2                  |
+| 4         | -1                  |
+| 5         | ±0                  |
+| 6         | +1                  |
+| 7         | +2                  |
+| 8         | +3                  |
 
 
-### 3. 몬스터 6개체 선택 (warp_makert.monsters_pool)
+### 2. 몬스터 6개체 선택 (warp_makert.monsters_pool)
 - **Encounter Level 기준으로 적합한 범위의 몬스터(Encounter Level ±1 또는 최대 ±2 이내)**만 선정합니다.
 - bestiary1_creatures.json, bestiary2_creatures.json, bestiary3_creatures.json 파일에서 Level항목을 참조하여 선정합니다.
 - 이 6개체는 **해당 층의 Encounter 풀(Pool)**로 등록된다.
@@ -49,6 +46,13 @@
 
 예시: `"Tiger CREATURE 4"`, `"Shae CREATURE 4"`
 
+### 3. 몬스터 Traits 무작위 추첨 (warp_marker.traits)
+- 2번에서 뽑은 6 마리의 Traits 필드를 모두 집계.
+- 중복 제거 후, 무작위 3개 선택, 필요시 Alignment·Size·Rarity 등 기본 분류 Trait는 제외하고 기능·환경·키워드 Trait만 남긴다.
+- 생성된 Trait은 이후 몬스터 능력 변화에 사용됨
+- 선택된 3 개를 warp_marker.traits 배열에 기록.
+
+  
 ### 4. XP 예산 정하기
 - **XP 예산 = Core Rulebook p.488 "Encounter Budget by Party Level" 표** 사용
 
@@ -78,17 +82,13 @@
 - **Elite**: AC, 공격, DC +2 / HP +30%
 - **Weak**: AC, 공격, DC -2 / HP -30%
 
-#### ✅ Reskinning (외형 및 설명 변경) (기능성 Trait아니면 필수)
-- 몬스터의 이름, 외형, 설명을 변경
-- **선택된 Other Traits 중 1개**를 반영하여 테마 수정
-
 #### ✅ Trait 추가 / 삭제 (필요시)
-- 기능성 Trait을 추가하는 경우, 해당 룰 효과를 능력에 반영
+- **warp_marker.traits**중 기능성 Trait을 추가하는 경우, 해당 룰 효과를 능력에 반영
   - 예: `incorporeal`, `swarm`, `mindless` 등
  
 #### 난이도 및 특성 조정으로 인한 이름 변경은 접두사, 접미사만 허용한다.
  - Elite / Weak 예: Elite Drow Priestess, Weak Drow Priestess
- - Reskinning & Trait 추가 예: Mireborn Drow Priestess, Drow Priestess of Rot, Mireborn Drow Priestess of Decay
+ - Trait 추가 예: Mireborn Drow Priestess, Drow Priestess of Rot, Mireborn Drow Priestess of Decay
 
 ### 6. Encounter 확정 시점
 - Encounter에 사용될 몬스터, 난이도, 테마 등은 **던전 진입 시점에 미리 확정**된다.
