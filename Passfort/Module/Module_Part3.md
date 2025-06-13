@@ -102,7 +102,7 @@
 
 ### 2. 보상 구성 규칙
 - 최대 가치: 현재 워프마커의 floor × (10gp × floor)
-- 형태: Pathfinder 2e 공식 SRD 내 장비, 소비품, 룬 등 실제 아이템만 포함
+- 형태: Treasure_Table.json 내 장비, 소비품, 룬 등 실제 아이템만 포함
 - 단일 고가 아이템 1개 또는 복수의 중저가 아이템으로 구성 가능.
 
 이때 사용되는 floor 값은 Encounter 난이도와 동일하게 현재 워프마커(warp_marker.floor)에 기록된 층수를 기준으로 한다.
