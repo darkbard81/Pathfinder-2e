@@ -36,7 +36,8 @@
 
 
 ### 3. 몬스터 6개체 선택 (warp_makert.monsters_pool)
-- bestiary1_creatures.json, bestiary2_creatures.json, bestiary3_creatures.json 기반으로, 해당 PL에 맞는 몬스터 6개체 무작위 추출
+- **Encounter Level 기준으로 적합한 범위의 몬스터(Encounter Level ±1 또는 최대 ±2 이내)**만 선정합니다.
+- bestiary1_creatures.json, bestiary2_creatures.json, bestiary3_creatures.json 파일에서 Level항목을 참조하여 선정합니다.
 - 이 6개체는 **해당 층의 Encounter 풀(Pool)**로 등록된다.
 - Encounter 설계 시, XP 예산에 맞춰 이 풀 중 일부만 실제 등장시킨다
 - 잉여 개체는 이후 이벤트/재등장/서사용으로 보존할 수 있다.
