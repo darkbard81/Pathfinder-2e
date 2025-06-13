@@ -1,0 +1,6473 @@
+[
+  {
+    "Level": 1,
+    "Type": "Consumables",
+    "Name": "Shining ammunition",
+    "Grade": "N",
+    "Category": "Ammunition",
+    "Price": "3 gp",
+    "Page": "560"
+  },
+  {
+    "Level": 1,
+    "Type": "Consumables",
+    "Name": "Acid flask, lesser",
+    "Grade": "N",
+    "Category": "Bomb",
+    "Price": "3 gp",
+    "Page": "544"
+  },
+  {
+    "Level": 1,
+    "Type": "Consumables",
+    "Name": "Alchemist’s fire, lesser",
+    "Grade": "N",
+    "Category": "Bomb",
+    "Price": "3 gp",
+    "Page": "545"
+  },
+  {
+    "Level": 1,
+    "Type": "Consumables",
+    "Name": "Bottled lightning, lesser",
+    "Grade": "N",
+    "Category": "Bomb",
+    "Price": "3 gp",
+    "Page": "545"
+  },
+  {
+    "Level": 1,
+    "Type": "Consumables",
+    "Name": "Frost vial, lesser",
+    "Grade": "N",
+    "Category": "Bomb",
+    "Price": "3 gp",
+    "Page": "545"
+  },
+  {
+    "Level": 1,
+    "Type": "Consumables",
+    "Name": "Tanglefoot bag, lesser",
+    "Grade": "N",
+    "Category": "Bomb",
+    "Price": "3 gp",
+    "Page": "545"
+  },
+  {
+    "Level": 1,
+    "Type": "Consumables",
+    "Name": "Thunderstone, lesser",
+    "Grade": "N",
+    "Category": "Bomb",
+    "Price": "3 gp",
+    "Page": "545"
+  },
+  {
+    "Level": 1,
+    "Type": "Consumables",
+    "Name": "Feather token, ladder",
+    "Grade": "N",
+    "Category": "Consumable",
+    "Price": "3 gp",
+    "Page": "570"
+  },
+  {
+    "Level": 1,
+    "Type": "Consumables",
+    "Name": "Holy water",
+    "Grade": "N",
+    "Category": "Consumable",
+    "Price": "3 gp",
+    "Page": "571"
+  },
+  {
+    "Level": 1,
+    "Type": "Consumables",
+    "Name": "Runestone",
+    "Grade": "N",
+    "Category": "Consumable",
+    "Price": "3 gp",
+    "Page": "571"
+  },
+  {
+    "Level": 1,
+    "Type": "Consumables",
+    "Name": "Unholy water",
+    "Grade": "N",
+    "Category": "Consumable",
+    "Price": "3 gp",
+    "Page": "571"
+  },
+  {
+    "Level": 1,
+    "Type": "Consumables",
+    "Name": "Antidote, lesser",
+    "Grade": "N",
+    "Category": "Elixir",
+    "Price": "3 gp",
+    "Page": "546"
+  },
+  {
+    "Level": 1,
+    "Type": "Consumables",
+    "Name": "Antiplague, lesser",
+    "Grade": "N",
+    "Category": "Elixir",
+    "Price": "3 gp",
+    "Page": "546"
+  },
+  {
+    "Level": 1,
+    "Type": "Consumables",
+    "Name": "Bestial mutagen, lesser",
+    "Grade": "N",
+    "Category": "Elixir",
+    "Price": "4 gp",
+    "Page": "546"
+  },
+  {
+    "Level": 1,
+    "Type": "Consumables",
+    "Name": "Cheetah’s elixir, lesser",
+    "Grade": "N",
+    "Category": "Elixir",
+    "Price": "3 gp",
+    "Page": "547"
+  },
+  {
+    "Level": 1,
+    "Type": "Consumables",
+    "Name": "Cognitive mutagen, lesser",
+    "Grade": "N",
+    "Category": "Elixir",
+    "Price": "4 gp",
+    "Page": "547"
+  },
+  {
+    "Level": 1,
+    "Type": "Consumables",
+    "Name": "Eagle-eye elixir, lesser",
+    "Grade": "N",
+    "Category": "Elixir",
+    "Price": "4 gp",
+    "Page": "548"
+  },
+  {
+    "Level": 1,
+    "Type": "Consumables",
+    "Name": "Elixir of life, minor",
+    "Grade": "N",
+    "Category": "Elixir",
+    "Price": "3 gp",
+    "Page": "548"
+  },
+  {
+    "Level": 1,
+    "Type": "Consumables",
+    "Name": "Juggernaut mutagen, lesser",
+    "Grade": "N",
+    "Category": "Elixir",
+    "Price": "4 gp",
+    "Page": "548"
+  },
+  {
+    "Level": 1,
+    "Type": "Consumables",
+    "Name": "Leaper’s elixir, lesser",
+    "Grade": "N",
+    "Category": "Elixir",
+    "Price": "3 gp",
+    "Page": "549"
+  },
+  {
+    "Level": 1,
+    "Type": "Consumables",
+    "Name": "Quicksilver mutagen, lesser",
+    "Grade": "N",
+    "Category": "Elixir",
+    "Price": "4 gp",
+    "Page": "549"
+  },
+  {
+    "Level": 1,
+    "Type": "Consumables",
+    "Name": "Serene mutagen, lesser",
+    "Grade": "N",
+    "Category": "Elixir",
+    "Price": "4 gp",
+    "Page": "549"
+  },
+  {
+    "Level": 1,
+    "Type": "Consumables",
+    "Name": "Silvertongue mutagen, lesser",
+    "Grade": "N",
+    "Category": "Elixir",
+    "Price": "4 gp",
+    "Page": "550"
+  },
+  {
+    "Level": 1,
+    "Type": "Consumables",
+    "Name": "Nectar of purification",
+    "Grade": "N",
+    "Category": "Oil",
+    "Price": "3 gp",
+    "Page": "561"
+  },
+  {
+    "Level": 1,
+    "Type": "Consumables",
+    "Name": "Arsenic",
+    "Grade": "N",
+    "Category": "Poison",
+    "Price": "3 gp",
+    "Page": "550"
+  },
+  {
+    "Level": 1,
+    "Type": "Consumables",
+    "Name": "Giant centipede venom",
+    "Grade": "N",
+    "Category": "Poison",
+    "Price": "4 gp",
+    "Page": "551"
+  },
+  {
+    "Level": 1,
+    "Type": "Consumables",
+    "Name": "Healing potion, minor",
+    "Grade": "N",
+    "Category": "Potion",
+    "Price": "4 gp",
+    "Page": "563"
+  },
+  {
+    "Level": 1,
+    "Type": "Consumables",
+    "Name": "Scroll of 1st-level spell",
+    "Grade": "N",
+    "Category": "Scroll",
+    "Price": "4 gp",
+    "Page": "565"
+  },
+  {
+    "Level": 1,
+    "Type": "Consumables",
+    "Name": "Alarm snare",
+    "Grade": "N",
+    "Category": "Snare",
+    "Price": "3 gp",
+    "Page": "589"
+  },
+  {
+    "Level": 1,
+    "Type": "Consumables",
+    "Name": "Caltrop snare",
+    "Grade": "N",
+    "Category": "Snare",
+    "Price": "3 gp",
+    "Page": "590"
+  },
+  {
+    "Level": 1,
+    "Type": "Consumables",
+    "Name": "Hampering snare",
+    "Grade": "N",
+    "Category": "Snare",
+    "Price": "3 gp",
+    "Page": "590"
+  },
+  {
+    "Level": 1,
+    "Type": "Consumables",
+    "Name": "Marking snare",
+    "Grade": "N",
+    "Category": "Snare",
+    "Price": "3 gp",
+    "Page": "590"
+  },
+  {
+    "Level": 1,
+    "Type": "Consumables",
+    "Name": "Signaling snare",
+    "Grade": "N",
+    "Category": "Snare",
+    "Price": "3 gp",
+    "Page": "591"
+  },
+  {
+    "Level": 1,
+    "Type": "Consumables",
+    "Name": "Spike snare",
+    "Grade": "N",
+    "Category": "Snare",
+    "Price": "3 gp",
+    "Page": "591"
+  },
+  {
+    "Level": 1,
+    "Type": "Consumables",
+    "Name": "Owlbear claw",
+    "Grade": "N",
+    "Category": "Talisman",
+    "Price": "3 gp",
+    "Page": "569"
+  },
+  {
+    "Level": 1,
+    "Type": "Consumables",
+    "Name": "Potency crystal",
+    "Grade": "N",
+    "Category": "Talisman",
+    "Price": "4 gp",
+    "Page": "569"
+  },
+  {
+    "Level": 1,
+    "Type": "Consumables",
+    "Name": "Wolf fang",
+    "Grade": "N",
+    "Category": "Talisman",
+    "Price": "4 gp",
+    "Page": "570"
+  },
+  {
+    "Level": 1,
+    "Type": "Consumables",
+    "Name": "Smokestick, lesser",
+    "Grade": "N",
+    "Category": "Tool",
+    "Price": "3 gp",
+    "Page": "554"
+  },
+  {
+    "Level": 1,
+    "Type": "Consumables",
+    "Name": "Snake oil",
+    "Grade": "N",
+    "Category": "Tool",
+    "Price": "2 gp",
+    "Page": "554"
+  },
+  {
+    "Level": 1,
+    "Type": "Consumables",
+    "Name": "Sunrod",
+    "Grade": "N",
+    "Category": "Tool",
+    "Price": "3 gp",
+    "Page": "554"
+  },
+  {
+    "Level": 1,
+    "Type": "Consumables",
+    "Name": "Tindertwig",
+    "Grade": "N",
+    "Category": "Tool",
+    "Price": "2 sp",
+    "Page": "554"
+  },
+  {
+    "Level": 1,
+    "Type": "Permanent Items",
+    "Name": "Half plate",
+    "Grade": "N",
+    "Category": "Armor",
+    "Price": "18 gp",
+    "Page": "276"
+  },
+  {
+    "Level": 1,
+    "Type": "Permanent Items",
+    "Name": "Splint mail",
+    "Grade": "N",
+    "Category": "Armor",
+    "Price": "13 gp",
+    "Page": "276"
+  },
+  {
+    "Level": 1,
+    "Type": "Permanent Items",
+    "Name": "Everburning torch",
+    "Grade": "N",
+    "Category": "Held",
+    "Price": "15 gp",
+    "Page": "573"
+  },
+  {
+    "Level": 1,
+    "Type": "Permanent Items",
+    "Name": "Aeon stone, dull gray",
+    "Grade": "U",
+    "Category": "Worn",
+    "Price": "9 gp",
+    "Page": "604"
+  },
+  {
+    "Level": 2,
+    "Type": "Consumables",
+    "Name": "Feather token, holly bush",
+    "Grade": "N",
+    "Category": "Consumable",
+    "Price": "6 gp",
+    "Page": "570"
+  },
+  {
+    "Level": 2,
+    "Type": "Consumables",
+    "Name": "Bravo’s brew, lesser",
+    "Grade": "N",
+    "Category": "Elixir",
+    "Price": "7 gp",
+    "Page": "547"
+  },
+  {
+    "Level": 2,
+    "Type": "Consumables",
+    "Name": "Cat’s eye elixir",
+    "Grade": "N",
+    "Category": "Elixir",
+    "Price": "7 gp",
+    "Page": "547"
+  },
+  {
+    "Level": 2,
+    "Type": "Consumables",
+    "Name": "Comprehension elixir, lesser",
+    "Grade": "N",
+    "Category": "Elixir",
+    "Price": "7 gp",
+    "Page": "547"
+  },
+  {
+    "Level": 2,
+    "Type": "Consumables",
+    "Name": "Darkvision elixir, lesser",
+    "Grade": "N",
+    "Category": "Elixir",
+    "Price": "6 gp",
+    "Page": "547"
+  },
+  {
+    "Level": 2,
+    "Type": "Consumables",
+    "Name": "Infiltrator’s elixir",
+    "Grade": "N",
+    "Category": "Elixir",
+    "Price": "6 gp",
+    "Page": "548"
+  },
+  {
+    "Level": 2,
+    "Type": "Consumables",
+    "Name": "Oil of potency",
+    "Grade": "N",
+    "Category": "Oil",
+    "Price": "7 gp",
+    "Page": "562"
+  },
+  {
+    "Level": 2,
+    "Type": "Consumables",
+    "Name": "Oil of weightlessness",
+    "Grade": "N",
+    "Category": "Oil",
+    "Price": "6 gp",
+    "Page": "562"
+  },
+  {
+    "Level": 2,
+    "Type": "Consumables",
+    "Name": "Belladonna",
+    "Grade": "N",
+    "Category": "Poison",
+    "Price": "5 gp",
+    "Page": "551"
+  },
+  {
+    "Level": 2,
+    "Type": "Consumables",
+    "Name": "Black adder venom",
+    "Grade": "N",
+    "Category": "Poison",
+    "Price": "6 gp",
+    "Page": "551"
+  },
+  {
+    "Level": 2,
+    "Type": "Consumables",
+    "Name": "Lethargy poison",
+    "Grade": "U",
+    "Category": "Poison",
+    "Price": "7 gp",
+    "Page": "552"
+  },
+  {
+    "Level": 2,
+    "Type": "Consumables",
+    "Name": "Bronze bull pendant",
+    "Grade": "N",
+    "Category": "Talisman",
+    "Price": "7 gp",
+    "Page": "566"
+  },
+  {
+    "Level": 2,
+    "Type": "Consumables",
+    "Name": "Crying angel pendant",
+    "Grade": "N",
+    "Category": "Talisman",
+    "Price": "7 gp",
+    "Page": "566"
+  },
+  {
+    "Level": 2,
+    "Type": "Consumables",
+    "Name": "Effervescent ampoule",
+    "Grade": "N",
+    "Category": "Talisman",
+    "Price": "7 gp",
+    "Page": "566"
+  },
+  {
+    "Level": 2,
+    "Type": "Consumables",
+    "Name": "Hunter’s bane",
+    "Grade": "N",
+    "Category": "Talisman",
+    "Price": "6 gp",
+    "Page": "567"
+  },
+  {
+    "Level": 2,
+    "Type": "Consumables",
+    "Name": "Jade cat",
+    "Grade": "N",
+    "Category": "Talisman",
+    "Price": "6 gp",
+    "Page": "568"
+  },
+  {
+    "Level": 2,
+    "Type": "Consumables",
+    "Name": "Mesmerizing opal",
+    "Grade": "N",
+    "Category": "Talisman",
+    "Price": "7 gp",
+    "Page": "568"
+  },
+  {
+    "Level": 2,
+    "Type": "Consumables",
+    "Name": "Monkey pin",
+    "Grade": "N",
+    "Category": "Talisman",
+    "Price": "6 gp",
+    "Page": "568"
+  },
+  {
+    "Level": 2,
+    "Type": "Consumables",
+    "Name": "Onyx panther",
+    "Grade": "N",
+    "Category": "Talisman",
+    "Price": "7 gp",
+    "Page": "569"
+  },
+  {
+    "Level": 2,
+    "Type": "Consumables",
+    "Name": "Savior spike",
+    "Grade": "N",
+    "Category": "Talisman",
+    "Price": "7 gp",
+    "Page": "569"
+  },
+  {
+    "Level": 2,
+    "Type": "Consumables",
+    "Name": "Silversheen",
+    "Grade": "N",
+    "Category": "Tool",
+    "Price": "6 gp",
+    "Page": "554"
+  },
+  {
+    "Level": 2,
+    "Type": "Permanent Items",
+    "Name": "Full plate",
+    "Grade": "N",
+    "Category": "Armor",
+    "Price": "30 gp",
+    "Page": "276"
+  },
+  {
+    "Level": 2,
+    "Type": "Permanent Items",
+    "Name": "Wondrous figurine, onyx dog",
+    "Grade": "N",
+    "Category": "Held",
+    "Price": "34 gp",
+    "Page": "576"
+  },
+  {
+    "Level": 2,
+    "Type": "Permanent Items",
+    "Name": "+1 weapon potency",
+    "Grade": "N",
+    "Category": "Rune",
+    "Price": "35 gp",
+    "Page": "581"
+  },
+  {
+    "Level": 2,
+    "Type": "Permanent Items",
+    "Name": "Cold iron buckler, low-grade",
+    "Grade": "N",
+    "Category": "Shield",
+    "Price": "30 gp",
+    "Page": "586"
+  },
+  {
+    "Level": 2,
+    "Type": "Permanent Items",
+    "Name": "Cold iron shield, low-grade",
+    "Grade": "N",
+    "Category": "Shield",
+    "Price": "34 gp",
+    "Page": "586"
+  },
+  {
+    "Level": 2,
+    "Type": "Permanent Items",
+    "Name": "Silver buckler, low-grade",
+    "Grade": "N",
+    "Category": "Shield",
+    "Price": "30 gp",
+    "Page": "587"
+  },
+  {
+    "Level": 2,
+    "Type": "Permanent Items",
+    "Name": "Silver shield, low-grade",
+    "Grade": "N",
+    "Category": "Shield",
+    "Price": "34 gp",
+    "Page": "587"
+  },
+  {
+    "Level": 2,
+    "Type": "Permanent Items",
+    "Name": "+1 weapon",
+    "Grade": "N",
+    "Category": "Weapon",
+    "Price": "35 gp",
+    "Page": "599"
+  },
+  {
+    "Level": 2,
+    "Type": "Permanent Items",
+    "Name": "Cold iron weapon, low-grade",
+    "Grade": "N",
+    "Category": "Weapon",
+    "Price": "40+ gp",
+    "Page": "599"
+  },
+  {
+    "Level": 2,
+    "Type": "Permanent Items",
+    "Name": "Silver weapon, low-grade",
+    "Grade": "N",
+    "Category": "Weapon",
+    "Price": "40+ gp",
+    "Page": "599"
+  },
+  {
+    "Level": 2,
+    "Type": "Permanent Items",
+    "Name": "+1 handwraps of mighty blows",
+    "Grade": "N",
+    "Category": "Worn",
+    "Price": "35 gp",
+    "Page": "611"
+  },
+  {
+    "Level": 2,
+    "Type": "Permanent Items",
+    "Name": "Brooch of shielding",
+    "Grade": "U",
+    "Category": "Worn",
+    "Price": "30 gp",
+    "Page": "607"
+  },
+  {
+    "Level": 2,
+    "Type": "Permanent Items",
+    "Name": "Hand of the mage",
+    "Grade": "N",
+    "Category": "Worn",
+    "Price": "30 gp",
+    "Page": "611"
+  },
+  {
+    "Level": 2,
+    "Type": "Permanent Items",
+    "Name": "Hat of disguise",
+    "Grade": "N",
+    "Category": "Worn",
+    "Price": "30 gp",
+    "Page": "611"
+  },
+  {
+    "Level": 2,
+    "Type": "Permanent Items",
+    "Name": "Wayfinder",
+    "Grade": "U",
+    "Category": "Worn",
+    "Price": "28 gp",
+    "Page": "617"
+  },
+  {
+    "Level": 3,
+    "Type": "Consumables",
+    "Name": "Beacon shot",
+    "Grade": "N",
+    "Category": "Ammunition",
+    "Price": "10 gp",
+    "Page": "559"
+  },
+  {
+    "Level": 3,
+    "Type": "Consumables",
+    "Name": "Sleep arrow",
+    "Grade": "N",
+    "Category": "Ammunition",
+    "Price": "11 gp",
+    "Page": "560"
+  },
+  {
+    "Level": 3,
+    "Type": "Consumables",
+    "Name": "Spellstrike ammunition 1st",
+    "Grade": "N",
+    "Category": "Ammunition",
+    "Price": "12 gp",
+    "Page": "560"
+  },
+  {
+    "Level": 3,
+    "Type": "Consumables",
+    "Name": "Vine arrow",
+    "Grade": "N",
+    "Category": "Ammunition",
+    "Price": "10 gp",
+    "Page": "560"
+  },
+  {
+    "Level": 3,
+    "Type": "Consumables",
+    "Name": "Acid flask, moderate",
+    "Grade": "N",
+    "Category": "Bomb",
+    "Price": "10 gp",
+    "Page": "544"
+  },
+  {
+    "Level": 3,
+    "Type": "Consumables",
+    "Name": "Alchemist’s fire, moderate",
+    "Grade": "N",
+    "Category": "Bomb",
+    "Price": "10 gp",
+    "Page": "545"
+  },
+  {
+    "Level": 3,
+    "Type": "Consumables",
+    "Name": "Bottled lightning, moderate",
+    "Grade": "N",
+    "Category": "Bomb",
+    "Price": "10 gp",
+    "Page": "545"
+  },
+  {
+    "Level": 3,
+    "Type": "Consumables",
+    "Name": "Frost vial, moderate",
+    "Grade": "N",
+    "Category": "Bomb",
+    "Price": "10 gp",
+    "Page": "545"
+  },
+  {
+    "Level": 3,
+    "Type": "Consumables",
+    "Name": "Tanglefoot bag, moderate",
+    "Grade": "N",
+    "Category": "Bomb",
+    "Price": "10 gp",
+    "Page": "545"
+  },
+  {
+    "Level": 3,
+    "Type": "Consumables",
+    "Name": "Thunderstone, moderate",
+    "Grade": "N",
+    "Category": "Bomb",
+    "Price": "10 gp",
+    "Page": "545"
+  },
+  {
+    "Level": 3,
+    "Type": "Consumables",
+    "Name": "Feather token, bird",
+    "Grade": "N",
+    "Category": "Consumable",
+    "Price": "8 gp",
+    "Page": "570"
+  },
+  {
+    "Level": 3,
+    "Type": "Consumables",
+    "Name": "Feather token, chest",
+    "Grade": "N",
+    "Category": "Consumable",
+    "Price": "10 gp",
+    "Page": "570"
+  },
+  {
+    "Level": 3,
+    "Type": "Consumables",
+    "Name": "Bestial mutagen, moderate",
+    "Grade": "N",
+    "Category": "Elixir",
+    "Price": "12 gp",
+    "Page": "546"
+  },
+  {
+    "Level": 3,
+    "Type": "Consumables",
+    "Name": "Cognitive mutagen, moderate",
+    "Grade": "N",
+    "Category": "Elixir",
+    "Price": "12 gp",
+    "Page": "547"
+  },
+  {
+    "Level": 3,
+    "Type": "Consumables",
+    "Name": "Juggernaut mutagen, moderate",
+    "Grade": "N",
+    "Category": "Elixir",
+    "Price": "12 gp",
+    "Page": "548"
+  },
+  {
+    "Level": 3,
+    "Type": "Consumables",
+    "Name": "Quicksilver mutagen, moderate",
+    "Grade": "N",
+    "Category": "Elixir",
+    "Price": "12 gp",
+    "Page": "549"
+  },
+  {
+    "Level": 3,
+    "Type": "Consumables",
+    "Name": "Serene mutagen, moderate",
+    "Grade": "N",
+    "Category": "Elixir",
+    "Price": "12 gp",
+    "Page": "549"
+  },
+  {
+    "Level": 3,
+    "Type": "Consumables",
+    "Name": "Silvertongue mutagen, moderate",
+    "Grade": "N",
+    "Category": "Elixir",
+    "Price": "12 gp",
+    "Page": "550"
+  },
+  {
+    "Level": 3,
+    "Type": "Consumables",
+    "Name": "Oil of mending",
+    "Grade": "N",
+    "Category": "Oil",
+    "Price": "9 gp",
+    "Page": "561"
+  },
+  {
+    "Level": 3,
+    "Type": "Consumables",
+    "Name": "Cytillesh oil",
+    "Grade": "N",
+    "Category": "Poison",
+    "Price": "10 gp",
+    "Page": "551"
+  },
+  {
+    "Level": 3,
+    "Type": "Consumables",
+    "Name": "Graveroot",
+    "Grade": "N",
+    "Category": "Poison",
+    "Price": "10 gp",
+    "Page": "552"
+  },
+  {
+    "Level": 3,
+    "Type": "Consumables",
+    "Name": "Healing potion, lesser",
+    "Grade": "N",
+    "Category": "Potion",
+    "Price": "12 gp",
+    "Page": "563"
+  },
+  {
+    "Level": 3,
+    "Type": "Consumables",
+    "Name": "Potion of water breathing",
+    "Grade": "N",
+    "Category": "Potion",
+    "Price": "11 gp",
+    "Page": "564"
+  },
+  {
+    "Level": 3,
+    "Type": "Consumables",
+    "Name": "Scroll of 2nd-level spell",
+    "Grade": "N",
+    "Category": "Scroll",
+    "Price": "12 gp",
+    "Page": "565"
+  },
+  {
+    "Level": 3,
+    "Type": "Consumables",
+    "Name": "Feather step stone",
+    "Grade": "N",
+    "Category": "Talisman",
+    "Price": "8 gp",
+    "Page": "567"
+  },
+  {
+    "Level": 3,
+    "Type": "Permanent Items",
+    "Name": "Maestro’s instrument, lesser",
+    "Grade": "N",
+    "Category": "Held",
+    "Price": "60 gp",
+    "Page": "574"
+  },
+  {
+    "Level": 3,
+    "Type": "Permanent Items",
+    "Name": "Thurible of revelation, lesser",
+    "Grade": "N",
+    "Category": "Held",
+    "Price": "55 gp",
+    "Page": "575"
+  },
+  {
+    "Level": 3,
+    "Type": "Permanent Items",
+    "Name": "Returning",
+    "Grade": "N",
+    "Category": "Rune",
+    "Price": "55 gp",
+    "Page": "584"
+  },
+  {
+    "Level": 3,
+    "Type": "Permanent Items",
+    "Name": "Staff of fire",
+    "Grade": "N",
+    "Category": "Staff",
+    "Price": "60 gp",
+    "Page": "594"
+  },
+  {
+    "Level": 3,
+    "Type": "Permanent Items",
+    "Name": "Wand of 1st-level spell",
+    "Grade": "N",
+    "Category": "Wand",
+    "Price": "60 gp",
+    "Page": "597"
+  },
+  {
+    "Level": 3,
+    "Type": "Permanent Items",
+    "Name": "Fighter’s fork",
+    "Grade": "N",
+    "Category": "Weapon",
+    "Price": "50 gp",
+    "Page": "600"
+  },
+  {
+    "Level": 3,
+    "Type": "Permanent Items",
+    "Name": "Retribution axe",
+    "Grade": "N",
+    "Category": "Weapon",
+    "Price": "60 gp",
+    "Page": "602"
+  },
+  {
+    "Level": 3,
+    "Type": "Permanent Items",
+    "Name": "Bracelet of dashing",
+    "Grade": "N",
+    "Category": "Worn",
+    "Price": "58 gp",
+    "Page": "607"
+  },
+  {
+    "Level": 3,
+    "Type": "Permanent Items",
+    "Name": "Bracers of missile deflection",
+    "Grade": "N",
+    "Category": "Worn",
+    "Price": "52 gp",
+    "Page": "607"
+  },
+  {
+    "Level": 3,
+    "Type": "Permanent Items",
+    "Name": "Channel protection amulet",
+    "Grade": "U",
+    "Category": "Worn",
+    "Price": "56 gp",
+    "Page": "608"
+  },
+  {
+    "Level": 3,
+    "Type": "Permanent Items",
+    "Name": "Coyote cloak",
+    "Grade": "N",
+    "Category": "Worn",
+    "Price": "60 gp",
+    "Page": "609"
+  },
+  {
+    "Level": 3,
+    "Type": "Permanent Items",
+    "Name": "Crafter’s eyepiece",
+    "Grade": "N",
+    "Category": "Worn",
+    "Price": "60 gp",
+    "Page": "609"
+  },
+  {
+    "Level": 3,
+    "Type": "Permanent Items",
+    "Name": "Dancing scarf",
+    "Grade": "N",
+    "Category": "Worn",
+    "Price": "60 gp",
+    "Page": "609"
+  },
+  {
+    "Level": 3,
+    "Type": "Permanent Items",
+    "Name": "Doubling rings",
+    "Grade": "N",
+    "Category": "Worn",
+    "Price": "50 gp",
+    "Page": "609"
+  },
+  {
+    "Level": 3,
+    "Type": "Permanent Items",
+    "Name": "Hat of the magi",
+    "Grade": "N",
+    "Category": "Worn",
+    "Price": "50 gp",
+    "Page": "611"
+  },
+  {
+    "Level": 3,
+    "Type": "Permanent Items",
+    "Name": "Pendant of the occult",
+    "Grade": "N",
+    "Category": "Worn",
+    "Price": "60 gp",
+    "Page": "613"
+  },
+  {
+    "Level": 3,
+    "Type": "Permanent Items",
+    "Name": "Persona mask",
+    "Grade": "N",
+    "Category": "Worn",
+    "Price": "50 gp",
+    "Page": "613"
+  },
+  {
+    "Level": 3,
+    "Type": "Permanent Items",
+    "Name": "Tracker’s goggles",
+    "Grade": "N",
+    "Category": "Worn",
+    "Price": "60 gp",
+    "Page": "616"
+  },
+  {
+    "Level": 3,
+    "Type": "Permanent Items",
+    "Name": "Ventriloquist’s ring",
+    "Grade": "N",
+    "Category": "Worn",
+    "Price": "60 gp",
+    "Page": "617"
+  },
+  {
+    "Level": 4,
+    "Type": "Consumables",
+    "Name": "Climbing bolt",
+    "Grade": "N",
+    "Category": "Ammunition",
+    "Price": "15 gp",
+    "Page": "559"
+  },
+  {
+    "Level": 4,
+    "Type": "Consumables",
+    "Name": "Viper arrow",
+    "Grade": "N",
+    "Category": "Ammunition",
+    "Price": "17 gp",
+    "Page": "561"
+  },
+  {
+    "Level": 4,
+    "Type": "Consumables",
+    "Name": "Feather token, fan",
+    "Grade": "N",
+    "Category": "Consumable",
+    "Price": "15 gp",
+    "Page": "570"
+  },
+  {
+    "Level": 4,
+    "Type": "Consumables",
+    "Name": "Bomber’s eye elixir, lesser",
+    "Grade": "N",
+    "Category": "Elixir",
+    "Price": "14 gp",
+    "Page": "547"
+  },
+  {
+    "Level": 4,
+    "Type": "Consumables",
+    "Name": "Darkvision elixir, moderate",
+    "Grade": "N",
+    "Category": "Elixir",
+    "Price": "11 gp",
+    "Page": "547"
+  },
+  {
+    "Level": 4,
+    "Type": "Consumables",
+    "Name": "Mistform elixir, lesser",
+    "Grade": "N",
+    "Category": "Elixir",
+    "Price": "18 gp",
+    "Page": "549"
+  },
+  {
+    "Level": 4,
+    "Type": "Consumables",
+    "Name": "Salamander elixir, lesser",
+    "Grade": "N",
+    "Category": "Elixir",
+    "Price": "15 gp",
+    "Page": "549"
+  },
+  {
+    "Level": 4,
+    "Type": "Consumables",
+    "Name": "Stone fist elixir",
+    "Grade": "N",
+    "Category": "Elixir",
+    "Price": "13 gp",
+    "Page": "550"
+  },
+  {
+    "Level": 4,
+    "Type": "Consumables",
+    "Name": "Winter wolf elixir, lesser",
+    "Grade": "N",
+    "Category": "Elixir",
+    "Price": "15 gp",
+    "Page": "550"
+  },
+  {
+    "Level": 4,
+    "Type": "Consumables",
+    "Name": "Barkskin potion",
+    "Grade": "N",
+    "Category": "Potion",
+    "Price": "15 gp",
+    "Page": "562"
+  },
+  {
+    "Level": 4,
+    "Type": "Consumables",
+    "Name": "Invisibility potion",
+    "Grade": "U",
+    "Category": "Potion",
+    "Price": "20 gp",
+    "Page": "563"
+  },
+  {
+    "Level": 4,
+    "Type": "Consumables",
+    "Name": "Shrinking potion",
+    "Grade": "N",
+    "Category": "Potion",
+    "Price": "15 gp",
+    "Page": "564"
+  },
+  {
+    "Level": 4,
+    "Type": "Consumables",
+    "Name": "Biting snare",
+    "Grade": "N",
+    "Category": "Snare",
+    "Price": "15 gp",
+    "Page": "589"
+  },
+  {
+    "Level": 4,
+    "Type": "Consumables",
+    "Name": "Hobbling snare",
+    "Grade": "U",
+    "Category": "Snare",
+    "Price": "15 gp",
+    "Page": "590"
+  },
+  {
+    "Level": 4,
+    "Type": "Consumables",
+    "Name": "Stalker bane snare",
+    "Grade": "U",
+    "Category": "Snare",
+    "Price": "15 gp",
+    "Page": "591"
+  },
+  {
+    "Level": 4,
+    "Type": "Consumables",
+    "Name": "Trip snare",
+    "Grade": "N",
+    "Category": "Snare",
+    "Price": "15 gp",
+    "Page": "591"
+  },
+  {
+    "Level": 4,
+    "Type": "Consumables",
+    "Name": "Warning snare",
+    "Grade": "N",
+    "Category": "Snare",
+    "Price": "15 gp",
+    "Page": "591"
+  },
+  {
+    "Level": 4,
+    "Type": "Consumables",
+    "Name": "Bloodseeker beak",
+    "Grade": "N",
+    "Category": "Talisman",
+    "Price": "20 gp",
+    "Page": "565"
+  },
+  {
+    "Level": 4,
+    "Type": "Consumables",
+    "Name": "Dragon turtle scale",
+    "Grade": "N",
+    "Category": "Talisman",
+    "Price": "13 gp",
+    "Page": "566"
+  },
+  {
+    "Level": 4,
+    "Type": "Consumables",
+    "Name": "Fear gem",
+    "Grade": "N",
+    "Category": "Talisman",
+    "Price": "20 gp",
+    "Page": "566"
+  },
+  {
+    "Level": 4,
+    "Type": "Permanent Items",
+    "Name": "Bag of holding type I",
+    "Grade": "N",
+    "Category": "Held",
+    "Price": "75 gp",
+    "Page": "572"
+  },
+  {
+    "Level": 4,
+    "Type": "Permanent Items",
+    "Name": "Ghost touch",
+    "Grade": "N",
+    "Category": "Rune",
+    "Price": "75 gp",
+    "Page": "584"
+  },
+  {
+    "Level": 4,
+    "Type": "Permanent Items",
+    "Name": "Striking",
+    "Grade": "N",
+    "Category": "Rune",
+    "Price": "65 gp",
+    "Page": "581"
+  },
+  {
+    "Level": 4,
+    "Type": "Permanent Items",
+    "Name": "Sturdy shield, minor",
+    "Grade": "N",
+    "Category": "Shield",
+    "Price": "100 gp",
+    "Page": "588"
+  },
+  {
+    "Level": 4,
+    "Type": "Permanent Items",
+    "Name": "Animal staff",
+    "Grade": "N",
+    "Category": "Staff",
+    "Price": "90 gp",
+    "Page": "592"
+  },
+  {
+    "Level": 4,
+    "Type": "Permanent Items",
+    "Name": "Mentalist’s staff",
+    "Grade": "N",
+    "Category": "Staff",
+    "Price": "90 gp",
+    "Page": "592"
+  },
+  {
+    "Level": 4,
+    "Type": "Permanent Items",
+    "Name": "Staff of healing",
+    "Grade": "N",
+    "Category": "Staff",
+    "Price": "90 gp",
+    "Page": "594"
+  },
+  {
+    "Level": 4,
+    "Type": "Permanent Items",
+    "Name": "Wand of widening 1st",
+    "Grade": "N",
+    "Category": "Wand",
+    "Price": "100 gp",
+    "Page": "598"
+  },
+  {
+    "Level": 4,
+    "Type": "Permanent Items",
+    "Name": "+1 striking weapon",
+    "Grade": "N",
+    "Category": "Weapon",
+    "Price": "100 gp",
+    "Page": "599"
+  },
+  {
+    "Level": 4,
+    "Type": "Permanent Items",
+    "Name": "Alchemist goggles",
+    "Grade": "N",
+    "Category": "Worn",
+    "Price": "100 gp",
+    "Page": "605"
+  },
+  {
+    "Level": 4,
+    "Type": "Permanent Items",
+    "Name": "+1 striking handwraps of mighty blows",
+    "Grade": "N",
+    "Category": "Worn",
+    "Price": "100 gp",
+    "Page": "611"
+  },
+  {
+    "Level": 4,
+    "Type": "Permanent Items",
+    "Name": "Demon mask",
+    "Grade": "N",
+    "Category": "Worn",
+    "Price": "85 gp",
+    "Page": "609"
+  },
+  {
+    "Level": 4,
+    "Type": "Permanent Items",
+    "Name": "Healer’s gloves",
+    "Grade": "N",
+    "Category": "Worn",
+    "Price": "80 gp",
+    "Page": "612"
+  },
+  {
+    "Level": 4,
+    "Type": "Permanent Items",
+    "Name": "Lifting belt",
+    "Grade": "N",
+    "Category": "Worn",
+    "Price": "80 gp",
+    "Page": "613"
+  },
+  {
+    "Level": 5,
+    "Type": "Consumables",
+    "Name": "Spellstrike ammunition 2nd",
+    "Grade": "N",
+    "Category": "Ammunition",
+    "Price": "30 gp",
+    "Page": "560"
+  },
+  {
+    "Level": 5,
+    "Type": "Consumables",
+    "Name": "Cheetah’s elixir, moderate",
+    "Grade": "N",
+    "Category": "Elixir",
+    "Price": "25 gp",
+    "Page": "547"
+  },
+  {
+    "Level": 5,
+    "Type": "Consumables",
+    "Name": "Eagle-eye elixir, moderate",
+    "Grade": "N",
+    "Category": "Elixir",
+    "Price": "27 gp",
+    "Page": "548"
+  },
+  {
+    "Level": 5,
+    "Type": "Consumables",
+    "Name": "Elixir of life, lesser",
+    "Grade": "N",
+    "Category": "Elixir",
+    "Price": "30 gp",
+    "Page": "548"
+  },
+  {
+    "Level": 5,
+    "Type": "Consumables",
+    "Name": "Sea touch elixir, lesser",
+    "Grade": "N",
+    "Category": "Elixir",
+    "Price": "22 gp",
+    "Page": "549"
+  },
+  {
+    "Level": 5,
+    "Type": "Consumables",
+    "Name": "Salve of slipperiness",
+    "Grade": "N",
+    "Category": "Oil",
+    "Price": "25 gp",
+    "Page": "562"
+  },
+  {
+    "Level": 5,
+    "Type": "Consumables",
+    "Name": "Hunting spider venom",
+    "Grade": "N",
+    "Category": "Poison",
+    "Price": "25 gp",
+    "Page": "552"
+  },
+  {
+    "Level": 5,
+    "Type": "Consumables",
+    "Name": "Potion of leaping",
+    "Grade": "N",
+    "Category": "Potion",
+    "Price": "21 gp",
+    "Page": "563"
+  },
+  {
+    "Level": 5,
+    "Type": "Consumables",
+    "Name": "Scroll of 3rd-level spell",
+    "Grade": "N",
+    "Category": "Scroll",
+    "Price": "30 gp",
+    "Page": "565"
+  },
+  {
+    "Level": 5,
+    "Type": "Consumables",
+    "Name": "Emerald grasshopper",
+    "Grade": "N",
+    "Category": "Talisman",
+    "Price": "30 gp",
+    "Page": "566"
+  },
+  {
+    "Level": 5,
+    "Type": "Consumables",
+    "Name": "Shark tooth charm",
+    "Grade": "N",
+    "Category": "Talisman",
+    "Price": "23 gp",
+    "Page": "569"
+  },
+  {
+    "Level": 5,
+    "Type": "Consumables",
+    "Name": "Sneaky key",
+    "Grade": "N",
+    "Category": "Talisman",
+    "Price": "22 gp",
+    "Page": "569"
+  },
+  {
+    "Level": 5,
+    "Type": "Consumables",
+    "Name": "Tiger menuki",
+    "Grade": "N",
+    "Category": "Talisman",
+    "Price": "30 gp",
+    "Page": "569"
+  },
+  {
+    "Level": 5,
+    "Type": "Permanent Items",
+    "Name": "+1 armor",
+    "Grade": "N",
+    "Category": "Armor",
+    "Price": "160 gp",
+    "Page": "556"
+  },
+  {
+    "Level": 5,
+    "Type": "Permanent Items",
+    "Name": "Cold iron armor, low-grade",
+    "Grade": "N",
+    "Category": "Armor",
+    "Price": "140+ gp",
+    "Page": "555"
+  },
+  {
+    "Level": 5,
+    "Type": "Permanent Items",
+    "Name": "Silver armor, low-grade",
+    "Grade": "N",
+    "Category": "Armor",
+    "Price": "140+ gp",
+    "Page": "556"
+  },
+  {
+    "Level": 5,
+    "Type": "Permanent Items",
+    "Name": "Holy prayer beads",
+    "Grade": "U",
+    "Category": "Held",
+    "Price": "160 gp",
+    "Page": "573"
+  },
+  {
+    "Level": 5,
+    "Type": "Permanent Items",
+    "Name": "Skeleton key",
+    "Grade": "N",
+    "Category": "Held",
+    "Price": "125 gp",
+    "Page": "575"
+  },
+  {
+    "Level": 5,
+    "Type": "Permanent Items",
+    "Name": "+1 armor potency",
+    "Grade": "N",
+    "Category": "Rune",
+    "Price": "160 gp",
+    "Page": "581"
+  },
+  {
+    "Level": 5,
+    "Type": "Permanent Items",
+    "Name": "Glamered",
+    "Grade": "N",
+    "Category": "Rune",
+    "Price": "140 gp",
+    "Page": "583"
+  },
+  {
+    "Level": 5,
+    "Type": "Permanent Items",
+    "Name": "Disrupting",
+    "Grade": "N",
+    "Category": "Rune",
+    "Price": "150 gp",
+    "Page": "584"
+  },
+  {
+    "Level": 5,
+    "Type": "Permanent Items",
+    "Name": "Shadow",
+    "Grade": "N",
+    "Category": "Rune",
+    "Price": "55 gp",
+    "Page": "583"
+  },
+  {
+    "Level": 5,
+    "Type": "Permanent Items",
+    "Name": "Slick",
+    "Grade": "N",
+    "Category": "Rune",
+    "Price": "45 gp",
+    "Page": "583"
+  },
+  {
+    "Level": 5,
+    "Type": "Permanent Items",
+    "Name": "Pocket stage",
+    "Grade": "N",
+    "Category": "Structure",
+    "Price": "138 gp",
+    "Page": "596"
+  },
+  {
+    "Level": 5,
+    "Type": "Permanent Items",
+    "Name": "Wand of 2nd-level spell",
+    "Grade": "N",
+    "Category": "Wand",
+    "Price": "160 gp",
+    "Page": "597"
+  },
+  {
+    "Level": 5,
+    "Type": "Permanent Items",
+    "Name": "Wand of continuation 1st",
+    "Grade": "N",
+    "Category": "Wand",
+    "Price": "160 gp",
+    "Page": "598"
+  },
+  {
+    "Level": 5,
+    "Type": "Permanent Items",
+    "Name": "Wand of manifold missiles 1st",
+    "Grade": "N",
+    "Category": "Wand",
+    "Price": "160 gp",
+    "Page": "598"
+  },
+  {
+    "Level": 5,
+    "Type": "Permanent Items",
+    "Name": "Caterwaul sling",
+    "Grade": "N",
+    "Category": "Weapon",
+    "Price": "155 gp",
+    "Page": "600"
+  },
+  {
+    "Level": 5,
+    "Type": "Permanent Items",
+    "Name": "Dagger of venom",
+    "Grade": "N",
+    "Category": "Weapon",
+    "Price": "150 gp",
+    "Page": "600"
+  },
+  {
+    "Level": 5,
+    "Type": "Permanent Items",
+    "Name": "Boots of elvenkind",
+    "Grade": "N",
+    "Category": "Worn",
+    "Price": "145 gp",
+    "Page": "606"
+  },
+  {
+    "Level": 5,
+    "Type": "Permanent Items",
+    "Name": "Diplomat’s badge",
+    "Grade": "N",
+    "Category": "Worn",
+    "Price": "125 gp",
+    "Page": "609"
+  },
+  {
+    "Level": 5,
+    "Type": "Permanent Items",
+    "Name": "Goggles of night",
+    "Grade": "N",
+    "Category": "Worn",
+    "Price": "150 gp",
+    "Page": "610"
+  },
+  {
+    "Level": 5,
+    "Type": "Permanent Items",
+    "Name": "Necklace of fireballs type I",
+    "Grade": "N",
+    "Category": "Worn",
+    "Price": "44 gp",
+    "Page": "613"
+  },
+  {
+    "Level": 6,
+    "Type": "Consumables",
+    "Name": "Dust of appearance",
+    "Grade": "N",
+    "Category": "Consumable",
+    "Price": "50 gp",
+    "Page": "570"
+  },
+  {
+    "Level": 6,
+    "Type": "Consumables",
+    "Name": "Feather token, tree",
+    "Grade": "N",
+    "Category": "Consumable",
+    "Price": "38 gp",
+    "Page": "570"
+  },
+  {
+    "Level": 6,
+    "Type": "Consumables",
+    "Name": "Antidote, moderate",
+    "Grade": "N",
+    "Category": "Elixir",
+    "Price": "35 gp",
+    "Page": "546"
+  },
+  {
+    "Level": 6,
+    "Type": "Consumables",
+    "Name": "Antiplague, moderate",
+    "Grade": "N",
+    "Category": "Elixir",
+    "Price": "35 gp",
+    "Page": "546"
+  },
+  {
+    "Level": 6,
+    "Type": "Consumables",
+    "Name": "Mistform elixir, moderate",
+    "Grade": "N",
+    "Category": "Elixir",
+    "Price": "56 gp",
+    "Page": "549"
+  },
+  {
+    "Level": 6,
+    "Type": "Consumables",
+    "Name": "Oil of weightlessness, greater",
+    "Grade": "N",
+    "Category": "Oil",
+    "Price": "36 gp",
+    "Page": "562"
+  },
+  {
+    "Level": 6,
+    "Type": "Consumables",
+    "Name": "Salve of antiparalysis",
+    "Grade": "N",
+    "Category": "Oil",
+    "Price": "40 gp",
+    "Page": "562"
+  },
+  {
+    "Level": 6,
+    "Type": "Consumables",
+    "Name": "Giant scorpion venom",
+    "Grade": "N",
+    "Category": "Poison",
+    "Price": "40 gp",
+    "Page": "551"
+  },
+  {
+    "Level": 6,
+    "Type": "Consumables",
+    "Name": "Healing potion, moderate",
+    "Grade": "N",
+    "Category": "Potion",
+    "Price": "50 gp",
+    "Page": "563"
+  },
+  {
+    "Level": 6,
+    "Type": "Consumables",
+    "Name": "Potion of resistance, lesser",
+    "Grade": "N",
+    "Category": "Potion",
+    "Price": "45 gp",
+    "Page": "563"
+  },
+  {
+    "Level": 6,
+    "Type": "Consumables",
+    "Name": "Potion of swimming",
+    "Grade": "N",
+    "Category": "Potion",
+    "Price": "50 gp",
+    "Page": "563"
+  },
+  {
+    "Level": 6,
+    "Type": "Consumables",
+    "Name": "Truth potion",
+    "Grade": "U",
+    "Category": "Potion",
+    "Price": "46 gp",
+    "Page": "564"
+  },
+  {
+    "Level": 6,
+    "Type": "Consumables",
+    "Name": "Iron cube",
+    "Grade": "N",
+    "Category": "Talisman",
+    "Price": "50 gp",
+    "Page": "567"
+  },
+  {
+    "Level": 6,
+    "Type": "Permanent Items",
+    "Name": "Ghoul hide",
+    "Grade": "U",
+    "Category": "Armor",
+    "Price": "220 gp",
+    "Page": "558"
+  },
+  {
+    "Level": 6,
+    "Type": "Permanent Items",
+    "Name": "Chime of opening",
+    "Grade": "U",
+    "Category": "Held",
+    "Price": "235 gp",
+    "Page": "572"
+  },
+  {
+    "Level": 6,
+    "Type": "Permanent Items",
+    "Name": "Horn of fog",
+    "Grade": "N",
+    "Category": "Held",
+    "Price": "230 gp",
+    "Page": "573"
+  },
+  {
+    "Level": 6,
+    "Type": "Permanent Items",
+    "Name": "Primeval mistletoe",
+    "Grade": "N",
+    "Category": "Held",
+    "Price": "230 gp",
+    "Page": "574"
+  },
+  {
+    "Level": 6,
+    "Type": "Permanent Items",
+    "Name": "Traveler’s any-tool",
+    "Grade": "N",
+    "Category": "Held",
+    "Price": "200 gp",
+    "Page": "576"
+  },
+  {
+    "Level": 6,
+    "Type": "Permanent Items",
+    "Name": "Shifting",
+    "Grade": "N",
+    "Category": "Rune",
+    "Price": "225 gp",
+    "Page": "585"
+  },
+  {
+    "Level": 6,
+    "Type": "Permanent Items",
+    "Name": "Lion’s shield",
+    "Grade": "N",
+    "Category": "Shield",
+    "Price": "245 gp",
+    "Page": "588"
+  },
+  {
+    "Level": 6,
+    "Type": "Permanent Items",
+    "Name": "Spellguard shield",
+    "Grade": "N",
+    "Category": "Shield",
+    "Price": "250 gp",
+    "Page": "588"
+  },
+  {
+    "Level": 6,
+    "Type": "Permanent Items",
+    "Name": "Staff of abjuration",
+    "Grade": "N",
+    "Category": "Staff",
+    "Price": "230 gp",
+    "Page": "593"
+  },
+  {
+    "Level": 6,
+    "Type": "Permanent Items",
+    "Name": "Staff of conjuration",
+    "Grade": "N",
+    "Category": "Staff",
+    "Price": "230 gp",
+    "Page": "593"
+  },
+  {
+    "Level": 6,
+    "Type": "Permanent Items",
+    "Name": "Staff of divination",
+    "Grade": "N",
+    "Category": "Staff",
+    "Price": "230 gp",
+    "Page": "593"
+  },
+  {
+    "Level": 6,
+    "Type": "Permanent Items",
+    "Name": "Staff of enchantment",
+    "Grade": "N",
+    "Category": "Staff",
+    "Price": "230 gp",
+    "Page": "593"
+  },
+  {
+    "Level": 6,
+    "Type": "Permanent Items",
+    "Name": "Staff of evocation",
+    "Grade": "N",
+    "Category": "Staff",
+    "Price": "230 gp",
+    "Page": "593"
+  },
+  {
+    "Level": 6,
+    "Type": "Permanent Items",
+    "Name": "Staff of illusion",
+    "Grade": "N",
+    "Category": "Staff",
+    "Price": "230 gp",
+    "Page": "594"
+  },
+  {
+    "Level": 6,
+    "Type": "Permanent Items",
+    "Name": "Staff of necromancy",
+    "Grade": "N",
+    "Category": "Staff",
+    "Price": "230 gp",
+    "Page": "594"
+  },
+  {
+    "Level": 6,
+    "Type": "Permanent Items",
+    "Name": "Staff of transmutation",
+    "Grade": "N",
+    "Category": "Staff",
+    "Price": "230 gp",
+    "Page": "595"
+  },
+  {
+    "Level": 6,
+    "Type": "Permanent Items",
+    "Name": "Verdant staff",
+    "Grade": "N",
+    "Category": "Staff",
+    "Price": "225 gp",
+    "Page": "595"
+  },
+  {
+    "Level": 6,
+    "Type": "Permanent Items",
+    "Name": "Wand of widening 2nd",
+    "Grade": "N",
+    "Category": "Wand",
+    "Price": "250 gp",
+    "Page": "598"
+  },
+  {
+    "Level": 6,
+    "Type": "Permanent Items",
+    "Name": "Bloodletting kukri",
+    "Grade": "U",
+    "Category": "Weapon",
+    "Price": "240 gp",
+    "Page": "600"
+  },
+  {
+    "Level": 6,
+    "Type": "Permanent Items",
+    "Name": "Twining staff",
+    "Grade": "N",
+    "Category": "Weapon",
+    "Price": "250 gp",
+    "Page": "602"
+  },
+  {
+    "Level": 6,
+    "Type": "Permanent Items",
+    "Name": "Aeon stone, gold nodule",
+    "Grade": "U",
+    "Category": "Worn",
+    "Price": "230 gp",
+    "Page": "604"
+  },
+  {
+    "Level": 6,
+    "Type": "Permanent Items",
+    "Name": "Choker of elocution",
+    "Grade": "N",
+    "Category": "Worn",
+    "Price": "200 gp",
+    "Page": "608"
+  },
+  {
+    "Level": 6,
+    "Type": "Permanent Items",
+    "Name": "Clandestine cloak",
+    "Grade": "U",
+    "Category": "Worn",
+    "Price": "230 gp",
+    "Page": "608"
+  },
+  {
+    "Level": 6,
+    "Type": "Permanent Items",
+    "Name": "Ring of energy resistance",
+    "Grade": "N",
+    "Category": "Worn",
+    "Price": "245 gp",
+    "Page": "614"
+  },
+  {
+    "Level": 6,
+    "Type": "Permanent Items",
+    "Name": "Ring of the ram",
+    "Grade": "N",
+    "Category": "Worn",
+    "Price": "220 gp",
+    "Page": "615"
+  },
+  {
+    "Level": 7,
+    "Type": "Consumables",
+    "Name": "Spellstrike ammunition 3rd",
+    "Grade": "N",
+    "Category": "Ammunition",
+    "Price": "70 gp",
+    "Page": "560"
+  },
+  {
+    "Level": 7,
+    "Type": "Consumables",
+    "Name": "Feather token, anchor",
+    "Grade": "N",
+    "Category": "Consumable",
+    "Price": "55 gp",
+    "Page": "570"
+  },
+  {
+    "Level": 7,
+    "Type": "Consumables",
+    "Name": "Comprehension elixir, greater",
+    "Grade": "N",
+    "Category": "Elixir",
+    "Price": "54 gp",
+    "Page": "547"
+  },
+  {
+    "Level": 7,
+    "Type": "Consumables",
+    "Name": "Leaper’s elixir, greater",
+    "Grade": "N",
+    "Category": "Elixir",
+    "Price": "55 gp",
+    "Page": "549"
+  },
+  {
+    "Level": 7,
+    "Type": "Consumables",
+    "Name": "Giant wasp venom",
+    "Grade": "N",
+    "Category": "Poison",
+    "Price": "55 gp",
+    "Page": "552"
+  },
+  {
+    "Level": 7,
+    "Type": "Consumables",
+    "Name": "Malyass root paste",
+    "Grade": "N",
+    "Category": "Poison",
+    "Price": "55 gp",
+    "Page": "552"
+  },
+  {
+    "Level": 7,
+    "Type": "Consumables",
+    "Name": "Dragon’s breath potion, young",
+    "Grade": "N",
+    "Category": "Potion",
+    "Price": "70 gp",
+    "Page": "562"
+  },
+  {
+    "Level": 7,
+    "Type": "Consumables",
+    "Name": "Serum of sex shift",
+    "Grade": "N",
+    "Category": "Potion",
+    "Price": "60 gp",
+    "Page": "564"
+  },
+  {
+    "Level": 7,
+    "Type": "Consumables",
+    "Name": "Scroll of 4th-level spell",
+    "Grade": "N",
+    "Category": "Scroll",
+    "Price": "70 gp",
+    "Page": "565"
+  },
+  {
+    "Level": 7,
+    "Type": "Consumables",
+    "Name": "Grim trophy",
+    "Grade": "N",
+    "Category": "Talisman",
+    "Price": "55 gp",
+    "Page": "567"
+  },
+  {
+    "Level": 7,
+    "Type": "Consumables",
+    "Name": "Murderer’s knot",
+    "Grade": "N",
+    "Category": "Talisman",
+    "Price": "66 gp",
+    "Page": "568"
+  },
+  {
+    "Level": 7,
+    "Type": "Consumables",
+    "Name": "Swift block cabochon",
+    "Grade": "U",
+    "Category": "Talisman",
+    "Price": "70 gp",
+    "Page": "569"
+  },
+  {
+    "Level": 7,
+    "Type": "Consumables",
+    "Name": "Smokestick, greater",
+    "Grade": "N",
+    "Category": "Tool",
+    "Price": "53 gp",
+    "Page": "554"
+  },
+  {
+    "Level": 7,
+    "Type": "Permanent Items",
+    "Name": "Moonlit chain",
+    "Grade": "N",
+    "Category": "Armor",
+    "Price": "360 gp",
+    "Page": "558"
+  },
+  {
+    "Level": 7,
+    "Type": "Permanent Items",
+    "Name": "Horseshoes of speed",
+    "Grade": "N",
+    "Category": "Companion",
+    "Price": "340 gp",
+    "Page": "604"
+  },
+  {
+    "Level": 7,
+    "Type": "Permanent Items",
+    "Name": "Bag of holding type II",
+    "Grade": "N",
+    "Category": "Held",
+    "Price": "300 gp",
+    "Page": "572"
+  },
+  {
+    "Level": 7,
+    "Type": "Permanent Items",
+    "Name": "Bottled air",
+    "Grade": "N",
+    "Category": "Held",
+    "Price": "320 gp",
+    "Page": "572"
+  },
+  {
+    "Level": 7,
+    "Type": "Permanent Items",
+    "Name": "Decanter of endless water",
+    "Grade": "N",
+    "Category": "Held",
+    "Price": "320 gp",
+    "Page": "573"
+  },
+  {
+    "Level": 7,
+    "Type": "Permanent Items",
+    "Name": "Wondrous figurine, jade serpent",
+    "Grade": "N",
+    "Category": "Held",
+    "Price": "340 gp",
+    "Page": "576"
+  },
+  {
+    "Level": 7,
+    "Type": "Permanent Items",
+    "Name": "Wounding",
+    "Grade": "N",
+    "Category": "Rune",
+    "Price": "340 gp",
+    "Page": "585"
+  },
+  {
+    "Level": 7,
+    "Type": "Permanent Items",
+    "Name": "Cold iron buckler, standard-grade",
+    "Grade": "N",
+    "Category": "Shield",
+    "Price": "300 gp",
+    "Page": "586"
+  },
+  {
+    "Level": 7,
+    "Type": "Permanent Items",
+    "Name": "Cold iron shield, standard-grade",
+    "Grade": "N",
+    "Category": "Shield",
+    "Price": "340 gp",
+    "Page": "586"
+  },
+  {
+    "Level": 7,
+    "Type": "Permanent Items",
+    "Name": "Silver buckler, standard-grade",
+    "Grade": "N",
+    "Category": "Shield",
+    "Price": "300 gp",
+    "Page": "587"
+  },
+  {
+    "Level": 7,
+    "Type": "Permanent Items",
+    "Name": "Silver shield, standard-grade",
+    "Grade": "N",
+    "Category": "Shield",
+    "Price": "340 gp",
+    "Page": "587"
+  },
+  {
+    "Level": 7,
+    "Type": "Permanent Items",
+    "Name": "Spined shield",
+    "Grade": "N",
+    "Category": "Shield",
+    "Price": "360 gp",
+    "Page": "588"
+  },
+  {
+    "Level": 7,
+    "Type": "Permanent Items",
+    "Name": "Sturdy shield, lesser",
+    "Grade": "N",
+    "Category": "Shield",
+    "Price": "360 gp",
+    "Page": "588"
+  },
+  {
+    "Level": 7,
+    "Type": "Permanent Items",
+    "Name": "Wand of 3rd-level spell",
+    "Grade": "N",
+    "Category": "Wand",
+    "Price": "360 gp",
+    "Page": "597"
+  },
+  {
+    "Level": 7,
+    "Type": "Permanent Items",
+    "Name": "Wand of continuation 2nd",
+    "Grade": "N",
+    "Category": "Wand",
+    "Price": "360 gp",
+    "Page": "598"
+  },
+  {
+    "Level": 7,
+    "Type": "Permanent Items",
+    "Name": "Aeon stone, clear spindle",
+    "Grade": "U",
+    "Category": "Worn",
+    "Price": "325 gp",
+    "Page": "604"
+  },
+  {
+    "Level": 7,
+    "Type": "Permanent Items",
+    "Name": "Aeon stone, tourmaline sphere",
+    "Grade": "U",
+    "Category": "Worn",
+    "Price": "350 gp",
+    "Page": "604"
+  },
+  {
+    "Level": 7,
+    "Type": "Permanent Items",
+    "Name": "Boots of bounding",
+    "Grade": "N",
+    "Category": "Worn",
+    "Price": "340 gp",
+    "Page": "606"
+  },
+  {
+    "Level": 7,
+    "Type": "Permanent Items",
+    "Name": "Cloak of elvenkind",
+    "Grade": "N",
+    "Category": "Worn",
+    "Price": "360 gp",
+    "Page": "608"
+  },
+  {
+    "Level": 7,
+    "Type": "Permanent Items",
+    "Name": "Gloves of storing",
+    "Grade": "U",
+    "Category": "Worn",
+    "Price": "340 gp",
+    "Page": "610"
+  },
+  {
+    "Level": 7,
+    "Type": "Permanent Items",
+    "Name": "Hat of disguise, greater",
+    "Grade": "N",
+    "Category": "Worn",
+    "Price": "340 gp",
+    "Page": "611"
+  },
+  {
+    "Level": 7,
+    "Type": "Permanent Items",
+    "Name": "Necklace of fireballs type II",
+    "Grade": "N",
+    "Category": "Worn",
+    "Price": "115 gp",
+    "Page": "613"
+  },
+  {
+    "Level": 7,
+    "Type": "Permanent Items",
+    "Name": "Ring of sustenance",
+    "Grade": "U",
+    "Category": "Worn",
+    "Price": "325 gp",
+    "Page": "615"
+  },
+  {
+    "Level": 7,
+    "Type": "Permanent Items",
+    "Name": "Ring of wizardry type I",
+    "Grade": "U",
+    "Category": "Worn",
+    "Price": "360 gp",
+    "Page": "615"
+  },
+  {
+    "Level": 7,
+    "Type": "Permanent Items",
+    "Name": "Slippers of spider climbing",
+    "Grade": "N",
+    "Category": "Worn",
+    "Price": "325 gp",
+    "Page": "616"
+  },
+  {
+    "Level": 8,
+    "Type": "Consumables",
+    "Name": "Candle of truth",
+    "Grade": "U",
+    "Category": "Consumable",
+    "Price": "75 gp",
+    "Page": "570"
+  },
+  {
+    "Level": 8,
+    "Type": "Consumables",
+    "Name": "Feather token, swan boat",
+    "Grade": "N",
+    "Category": "Consumable",
+    "Price": "76 gp",
+    "Page": "570"
+  },
+  {
+    "Level": 8,
+    "Type": "Consumables",
+    "Name": "Darkvision elixir, greater",
+    "Grade": "N",
+    "Category": "Elixir",
+    "Price": "90 gp",
+    "Page": "547"
+  },
+  {
+    "Level": 8,
+    "Type": "Consumables",
+    "Name": "Nettleweed residue",
+    "Grade": "N",
+    "Category": "Poison",
+    "Price": "75 gp",
+    "Page": "553"
+  },
+  {
+    "Level": 8,
+    "Type": "Consumables",
+    "Name": "Wyvern poison",
+    "Grade": "N",
+    "Category": "Poison",
+    "Price": "80 gp",
+    "Page": "554"
+  },
+  {
+    "Level": 8,
+    "Type": "Consumables",
+    "Name": "Potion of flying",
+    "Grade": "N",
+    "Category": "Potion",
+    "Price": "100 gp",
+    "Page": "563"
+  },
+  {
+    "Level": 8,
+    "Type": "Consumables",
+    "Name": "Potion of quickness",
+    "Grade": "N",
+    "Category": "Potion",
+    "Price": "90 gp",
+    "Page": "563"
+  },
+  {
+    "Level": 8,
+    "Type": "Consumables",
+    "Name": "Shrinking potion, greater",
+    "Grade": "N",
+    "Category": "Potion",
+    "Price": "90 gp",
+    "Page": "564"
+  },
+  {
+    "Level": 8,
+    "Type": "Consumables",
+    "Name": "Bomb snare",
+    "Grade": "N",
+    "Category": "Snare",
+    "Price": "75 gp",
+    "Page": "589"
+  },
+  {
+    "Level": 8,
+    "Type": "Consumables",
+    "Name": "Grasping snare",
+    "Grade": "U",
+    "Category": "Snare",
+    "Price": "75 gp",
+    "Page": "590"
+  },
+  {
+    "Level": 8,
+    "Type": "Consumables",
+    "Name": "Striking snare",
+    "Grade": "N",
+    "Category": "Snare",
+    "Price": "75 gp",
+    "Page": "591"
+  },
+  {
+    "Level": 8,
+    "Type": "Consumables",
+    "Name": "Gallows tooth",
+    "Grade": "N",
+    "Category": "Talisman",
+    "Price": "100 gp",
+    "Page": "567"
+  },
+  {
+    "Level": 8,
+    "Type": "Consumables",
+    "Name": "Jade bauble",
+    "Grade": "N",
+    "Category": "Talisman",
+    "Price": "100 gp",
+    "Page": "568"
+  },
+  {
+    "Level": 8,
+    "Type": "Permanent Items",
+    "Name": "+1 resilient armor",
+    "Grade": "N",
+    "Category": "Armor",
+    "Price": "500 gp",
+    "Page": "556"
+  },
+  {
+    "Level": 8,
+    "Type": "Permanent Items",
+    "Name": "Collar of inconspicuousness",
+    "Grade": "N",
+    "Category": "Companion",
+    "Price": "475 gp",
+    "Page": "604"
+  },
+  {
+    "Level": 8,
+    "Type": "Permanent Items",
+    "Name": "Rod of wonder",
+    "Grade": "R",
+    "Category": "Held",
+    "Price": "465 gp",
+    "Page": "575"
+  },
+  {
+    "Level": 8,
+    "Type": "Permanent Items",
+    "Name": "Corrosive",
+    "Grade": "N",
+    "Category": "Rune",
+    "Price": "500 gp",
+    "Page": "583"
+  },
+  {
+    "Level": 8,
+    "Type": "Permanent Items",
+    "Name": "Energy-resistant",
+    "Grade": "N",
+    "Category": "Rune",
+    "Price": "420 gp",
+    "Page": "582"
+  },
+  {
+    "Level": 8,
+    "Type": "Permanent Items",
+    "Name": "Flaming",
+    "Grade": "N",
+    "Category": "Rune",
+    "Price": "500 gp",
+    "Page": "584"
+  },
+  {
+    "Level": 8,
+    "Type": "Permanent Items",
+    "Name": "Frost",
+    "Grade": "N",
+    "Category": "Rune",
+    "Price": "500 gp",
+    "Page": "584"
+  },
+  {
+    "Level": 8,
+    "Type": "Permanent Items",
+    "Name": "Invisibility",
+    "Grade": "N",
+    "Category": "Rune",
+    "Price": "500 gp",
+    "Page": "583"
+  },
+  {
+    "Level": 8,
+    "Type": "Permanent Items",
+    "Name": "Resilient",
+    "Grade": "N",
+    "Category": "Rune",
+    "Price": "340 gp",
+    "Page": "581"
+  },
+  {
+    "Level": 8,
+    "Type": "Permanent Items",
+    "Name": "Shock",
+    "Grade": "N",
+    "Category": "Rune",
+    "Price": "500 gp",
+    "Page": "585"
+  },
+  {
+    "Level": 8,
+    "Type": "Permanent Items",
+    "Name": "Slick, greater",
+    "Grade": "N",
+    "Category": "Rune",
+    "Price": "450 gp",
+    "Page": "583"
+  },
+  {
+    "Level": 8,
+    "Type": "Permanent Items",
+    "Name": "Thundering",
+    "Grade": "N",
+    "Category": "Rune",
+    "Price": "500 gp",
+    "Page": "585"
+  },
+  {
+    "Level": 8,
+    "Type": "Permanent Items",
+    "Name": "Adamantine buckler, standard-grade",
+    "Grade": "U",
+    "Category": "Shield",
+    "Price": "400 gp",
+    "Page": "586"
+  },
+  {
+    "Level": 8,
+    "Type": "Permanent Items",
+    "Name": "Adamantine shield, standard-grade",
+    "Grade": "U",
+    "Category": "Shield",
+    "Price": "440 gp",
+    "Page": "586"
+  },
+  {
+    "Level": 8,
+    "Type": "Permanent Items",
+    "Name": "Darkwood buckler, standard-grade",
+    "Grade": "U",
+    "Category": "Shield",
+    "Price": "400 gp",
+    "Page": "586"
+  },
+  {
+    "Level": 8,
+    "Type": "Permanent Items",
+    "Name": "Darkwood shield, standard-grade",
+    "Grade": "U",
+    "Category": "Shield",
+    "Price": "440 gp",
+    "Page": "586"
+  },
+  {
+    "Level": 8,
+    "Type": "Permanent Items",
+    "Name": "Darkwood tower shield, standard-grade",
+    "Grade": "U",
+    "Category": "Shield",
+    "Price": "560 gp",
+    "Page": "586"
+  },
+  {
+    "Level": 8,
+    "Type": "Permanent Items",
+    "Name": "Dragonhide buckler, standard-grade",
+    "Grade": "U",
+    "Category": "Shield",
+    "Price": "400 gp",
+    "Page": "586"
+  },
+  {
+    "Level": 8,
+    "Type": "Permanent Items",
+    "Name": "Dragonhide shield, standard-grade",
+    "Grade": "U",
+    "Category": "Shield",
+    "Price": "440 gp",
+    "Page": "586"
+  },
+  {
+    "Level": 8,
+    "Type": "Permanent Items",
+    "Name": "Mithral buckler, standard-grade",
+    "Grade": "U",
+    "Category": "Shield",
+    "Price": "400 gp",
+    "Page": "586"
+  },
+  {
+    "Level": 8,
+    "Type": "Permanent Items",
+    "Name": "Mithral shield, standard-grade",
+    "Grade": "U",
+    "Category": "Shield",
+    "Price": "440 gp",
+    "Page": "586"
+  },
+  {
+    "Level": 8,
+    "Type": "Permanent Items",
+    "Name": "Animal staff, greater",
+    "Grade": "N",
+    "Category": "Staff",
+    "Price": "460 gp",
+    "Page": "592"
+  },
+  {
+    "Level": 8,
+    "Type": "Permanent Items",
+    "Name": "Mentalist’s staff, greater",
+    "Grade": "N",
+    "Category": "Staff",
+    "Price": "450 gp",
+    "Page": "592"
+  },
+  {
+    "Level": 8,
+    "Type": "Permanent Items",
+    "Name": "Staff of fire, greater",
+    "Grade": "N",
+    "Category": "Staff",
+    "Price": "450 gp",
+    "Page": "594"
+  },
+  {
+    "Level": 8,
+    "Type": "Permanent Items",
+    "Name": "Staff of healing, greater",
+    "Grade": "N",
+    "Category": "Staff",
+    "Price": "470 gp",
+    "Page": "594"
+  },
+  {
+    "Level": 8,
+    "Type": "Permanent Items",
+    "Name": "Staff of illumination",
+    "Grade": "N",
+    "Category": "Staff",
+    "Price": "425 gp",
+    "Page": "594"
+  },
+  {
+    "Level": 8,
+    "Type": "Permanent Items",
+    "Name": "Wand of smoldering fireballs 3rd",
+    "Grade": "N",
+    "Category": "Wand",
+    "Price": "500 gp",
+    "Page": "598"
+  },
+  {
+    "Level": 8,
+    "Type": "Permanent Items",
+    "Name": "Wand of widening 3rd",
+    "Grade": "N",
+    "Category": "Wand",
+    "Price": "500 gp",
+    "Page": "598"
+  },
+  {
+    "Level": 8,
+    "Type": "Permanent Items",
+    "Name": "Bracers of armor type I",
+    "Grade": "N",
+    "Category": "Worn",
+    "Price": "450 gp",
+    "Page": "607"
+  },
+  {
+    "Level": 9,
+    "Type": "Consumables",
+    "Name": "Explosive ammunition",
+    "Grade": "N",
+    "Category": "Ammunition",
+    "Price": "130 gp",
+    "Page": "559"
+  },
+  {
+    "Level": 9,
+    "Type": "Consumables",
+    "Name": "Spellstrike ammunition 4th",
+    "Grade": "N",
+    "Category": "Ammunition",
+    "Price": "150 gp",
+    "Page": "560"
+  },
+  {
+    "Level": 9,
+    "Type": "Consumables",
+    "Name": "Storm arrow",
+    "Grade": "N",
+    "Category": "Ammunition",
+    "Price": "130 gp",
+    "Page": "560"
+  },
+  {
+    "Level": 9,
+    "Type": "Consumables",
+    "Name": "Dust of disappearance",
+    "Grade": "U",
+    "Category": "Consumable",
+    "Price": "135 gp",
+    "Page": "570"
+  },
+  {
+    "Level": 9,
+    "Type": "Consumables",
+    "Name": "Feather token, whip",
+    "Grade": "N",
+    "Category": "Consumable",
+    "Price": "130 gp",
+    "Page": "570"
+  },
+  {
+    "Level": 9,
+    "Type": "Consumables",
+    "Name": "Javelin of lightning",
+    "Grade": "N",
+    "Category": "Consumable",
+    "Price": "110 gp",
+    "Page": "571"
+  },
+  {
+    "Level": 9,
+    "Type": "Consumables",
+    "Name": "Cheetah’s elixir, greater",
+    "Grade": "N",
+    "Category": "Elixir",
+    "Price": "110 gp",
+    "Page": "547"
+  },
+  {
+    "Level": 9,
+    "Type": "Consumables",
+    "Name": "Elixir of life, moderate",
+    "Grade": "N",
+    "Category": "Elixir",
+    "Price": "150 gp",
+    "Page": "548"
+  },
+  {
+    "Level": 9,
+    "Type": "Consumables",
+    "Name": "Aligned oil",
+    "Grade": "N",
+    "Category": "Oil",
+    "Price": "140 gp",
+    "Page": "561"
+  },
+  {
+    "Level": 9,
+    "Type": "Consumables",
+    "Name": "Lich dust",
+    "Grade": "N",
+    "Category": "Poison",
+    "Price": "110 gp",
+    "Page": "552"
+  },
+  {
+    "Level": 9,
+    "Type": "Consumables",
+    "Name": "Spider root",
+    "Grade": "N",
+    "Category": "Poison",
+    "Price": "110 gp",
+    "Page": "553"
+  },
+  {
+    "Level": 9,
+    "Type": "Consumables",
+    "Name": "Scroll of 5th-level spell",
+    "Grade": "N",
+    "Category": "Scroll",
+    "Price": "150 gp",
+    "Page": "565"
+  },
+  {
+    "Level": 9,
+    "Type": "Permanent Items",
+    "Name": "Rhino hide",
+    "Grade": "N",
+    "Category": "Armor",
+    "Price": "700 gp",
+    "Page": "558"
+  },
+  {
+    "Level": 9,
+    "Type": "Permanent Items",
+    "Name": "Collar of empathy",
+    "Grade": "N",
+    "Category": "Companion",
+    "Price": "600 gp",
+    "Page": "604"
+  },
+  {
+    "Level": 9,
+    "Type": "Permanent Items",
+    "Name": "Horn of blasting",
+    "Grade": "N",
+    "Category": "Held",
+    "Price": "700 gp",
+    "Page": "573"
+  },
+  {
+    "Level": 9,
+    "Type": "Permanent Items",
+    "Name": "Immovable rod",
+    "Grade": "N",
+    "Category": "Held",
+    "Price": "600 gp",
+    "Page": "574"
+  },
+  {
+    "Level": 9,
+    "Type": "Permanent Items",
+    "Name": "Triton’s conch",
+    "Grade": "N",
+    "Category": "Held",
+    "Price": "640 gp",
+    "Page": "576"
+  },
+  {
+    "Level": 9,
+    "Type": "Permanent Items",
+    "Name": "Grievous",
+    "Grade": "N",
+    "Category": "Rune",
+    "Price": "700 gp",
+    "Page": "584"
+  },
+  {
+    "Level": 9,
+    "Type": "Permanent Items",
+    "Name": "Shadow, greater",
+    "Grade": "N",
+    "Category": "Rune",
+    "Price": "650 gp",
+    "Page": "583"
+  },
+  {
+    "Level": 9,
+    "Type": "Permanent Items",
+    "Name": "Dragonslayer’s shield",
+    "Grade": "U",
+    "Category": "Shield",
+    "Price": "670 gp",
+    "Page": "587"
+  },
+  {
+    "Level": 9,
+    "Type": "Permanent Items",
+    "Name": "Force shield",
+    "Grade": "U",
+    "Category": "Shield",
+    "Price": "650 gp",
+    "Page": "587"
+  },
+  {
+    "Level": 9,
+    "Type": "Permanent Items",
+    "Name": "Wand of 4th-level spell",
+    "Grade": "N",
+    "Category": "Wand",
+    "Price": "700 gp",
+    "Page": "597"
+  },
+  {
+    "Level": 9,
+    "Type": "Permanent Items",
+    "Name": "Wand of continuation 3rd",
+    "Grade": "N",
+    "Category": "Wand",
+    "Price": "700 gp",
+    "Page": "598"
+  },
+  {
+    "Level": 9,
+    "Type": "Permanent Items",
+    "Name": "Wand of manifold missiles 3rd",
+    "Grade": "N",
+    "Category": "Wand",
+    "Price": "700 gp",
+    "Page": "598"
+  },
+  {
+    "Level": 9,
+    "Type": "Permanent Items",
+    "Name": "Gloom blade",
+    "Grade": "N",
+    "Category": "Weapon",
+    "Price": "700 gp",
+    "Page": "601"
+  },
+  {
+    "Level": 9,
+    "Type": "Permanent Items",
+    "Name": "Armbands of athleticism",
+    "Grade": "N",
+    "Category": "Worn",
+    "Price": "645 gp",
+    "Page": "605"
+  },
+  {
+    "Level": 9,
+    "Type": "Permanent Items",
+    "Name": "Belt of the five kings",
+    "Grade": "U",
+    "Category": "Worn",
+    "Price": "650 gp",
+    "Page": "606"
+  },
+  {
+    "Level": 9,
+    "Type": "Permanent Items",
+    "Name": "Bracers of missile deflection, greater",
+    "Grade": "N",
+    "Category": "Worn",
+    "Price": "650 gp",
+    "Page": "607"
+  },
+  {
+    "Level": 9,
+    "Type": "Permanent Items",
+    "Name": "Coyote cloak, greater",
+    "Grade": "N",
+    "Category": "Worn",
+    "Price": "650 gp",
+    "Page": "609"
+  },
+  {
+    "Level": 9,
+    "Type": "Permanent Items",
+    "Name": "Dancing scarf, greater",
+    "Grade": "N",
+    "Category": "Worn",
+    "Price": "650 gp",
+    "Page": "609"
+  },
+  {
+    "Level": 9,
+    "Type": "Permanent Items",
+    "Name": "Eye of the eagle",
+    "Grade": "N",
+    "Category": "Worn",
+    "Price": "700 gp",
+    "Page": "610"
+  },
+  {
+    "Level": 9,
+    "Type": "Permanent Items",
+    "Name": "Hat of the magi, greater",
+    "Grade": "N",
+    "Category": "Worn",
+    "Price": "650 gp",
+    "Page": "611"
+  },
+  {
+    "Level": 9,
+    "Type": "Permanent Items",
+    "Name": "Healer’s gloves, greater",
+    "Grade": "N",
+    "Category": "Worn",
+    "Price": "700 gp",
+    "Page": "612"
+  },
+  {
+    "Level": 9,
+    "Type": "Permanent Items",
+    "Name": "Knapsack of halflingkind",
+    "Grade": "U",
+    "Category": "Worn",
+    "Price": "675 gp",
+    "Page": "612"
+  },
+  {
+    "Level": 9,
+    "Type": "Permanent Items",
+    "Name": "Messenger’s ring",
+    "Grade": "N",
+    "Category": "Worn",
+    "Price": "700 gp",
+    "Page": "613"
+  },
+  {
+    "Level": 9,
+    "Type": "Permanent Items",
+    "Name": "Necklace of fireballs type III",
+    "Grade": "N",
+    "Category": "Worn",
+    "Price": "300 gp",
+    "Page": "613"
+  },
+  {
+    "Level": 9,
+    "Type": "Permanent Items",
+    "Name": "Pendant of the occult, greater",
+    "Grade": "N",
+    "Category": "Worn",
+    "Price": "650 gp",
+    "Page": "613"
+  },
+  {
+    "Level": 9,
+    "Type": "Permanent Items",
+    "Name": "Persona mask, greater",
+    "Grade": "N",
+    "Category": "Worn",
+    "Price": "650 gp",
+    "Page": "613"
+  },
+  {
+    "Level": 9,
+    "Type": "Permanent Items",
+    "Name": "Phylactery of faithfulness",
+    "Grade": "N",
+    "Category": "Worn",
+    "Price": "680 gp",
+    "Page": "614"
+  },
+  {
+    "Level": 9,
+    "Type": "Permanent Items",
+    "Name": "Tracker’s goggles, greater",
+    "Grade": "N",
+    "Category": "Worn",
+    "Price": "660 gp",
+    "Page": "616"
+  },
+  {
+    "Level": 9,
+    "Type": "Permanent Items",
+    "Name": "Ventriloquist’s ring, greater",
+    "Grade": "N",
+    "Category": "Worn",
+    "Price": "670 gp",
+    "Page": "617"
+  },
+  {
+    "Level": 10,
+    "Type": "Consumables",
+    "Name": "Elemental gem",
+    "Grade": "N",
+    "Category": "Consumable",
+    "Price": "200 gp",
+    "Page": "570"
+  },
+  {
+    "Level": 10,
+    "Type": "Consumables",
+    "Name": "Antidote, greater",
+    "Grade": "N",
+    "Category": "Elixir",
+    "Price": "160 gp",
+    "Page": "546"
+  },
+  {
+    "Level": 10,
+    "Type": "Consumables",
+    "Name": "Antiplague, greater",
+    "Grade": "N",
+    "Category": "Elixir",
+    "Price": "160 gp",
+    "Page": "546"
+  },
+  {
+    "Level": 10,
+    "Type": "Consumables",
+    "Name": "Bravo’s brew, moderate",
+    "Grade": "N",
+    "Category": "Elixir",
+    "Price": "150 gp",
+    "Page": "547"
+  },
+  {
+    "Level": 10,
+    "Type": "Consumables",
+    "Name": "Eagle-eye elixir, greater",
+    "Grade": "N",
+    "Category": "Elixir",
+    "Price": "200 gp",
+    "Page": "548"
+  },
+  {
+    "Level": 10,
+    "Type": "Consumables",
+    "Name": "Mistform elixir, greater",
+    "Grade": "N",
+    "Category": "Elixir",
+    "Price": "180 gp",
+    "Page": "549"
+  },
+  {
+    "Level": 10,
+    "Type": "Consumables",
+    "Name": "Shadow essence",
+    "Grade": "N",
+    "Category": "Poison",
+    "Price": "160 gp",
+    "Page": "553"
+  },
+  {
+    "Level": 10,
+    "Type": "Consumables",
+    "Name": "Wolfsbane",
+    "Grade": "N",
+    "Category": "Poison",
+    "Price": "155 gp",
+    "Page": "553"
+  },
+  {
+    "Level": 10,
+    "Type": "Consumables",
+    "Name": "Potion of resistance, moderate",
+    "Grade": "N",
+    "Category": "Potion",
+    "Price": "180 gp",
+    "Page": "563"
+  },
+  {
+    "Level": 10,
+    "Type": "Consumables",
+    "Name": "Iron medallion",
+    "Grade": "N",
+    "Category": "Talisman",
+    "Price": "175 gp",
+    "Page": "568"
+  },
+  {
+    "Level": 10,
+    "Type": "Consumables",
+    "Name": "Mummified bat",
+    "Grade": "N",
+    "Category": "Talisman",
+    "Price": "175 gp",
+    "Page": "568"
+  },
+  {
+    "Level": 10,
+    "Type": "Consumables",
+    "Name": "Vanishing coin",
+    "Grade": "N",
+    "Category": "Talisman",
+    "Price": "160 gp",
+    "Page": "569"
+  },
+  {
+    "Level": 10,
+    "Type": "Permanent Items",
+    "Name": "Breastplate of command",
+    "Grade": "N",
+    "Category": "Armor",
+    "Price": "1,000 gp",
+    "Page": "557"
+  },
+  {
+    "Level": 10,
+    "Type": "Permanent Items",
+    "Name": "Electric eelskin",
+    "Grade": "N",
+    "Category": "Armor",
+    "Price": "950 gp",
+    "Page": "557"
+  },
+  {
+    "Level": 10,
+    "Type": "Permanent Items",
+    "Name": "Barding of the zephyr",
+    "Grade": "N",
+    "Category": "Companion",
+    "Price": "900 gp",
+    "Page": "604"
+  },
+  {
+    "Level": 10,
+    "Type": "Permanent Items",
+    "Name": "Maestro’s instrument, moderate",
+    "Grade": "N",
+    "Category": "Held",
+    "Price": "900 gp",
+    "Page": "574"
+  },
+  {
+    "Level": 10,
+    "Type": "Permanent Items",
+    "Name": "Thurible of revelation, moderate",
+    "Grade": "N",
+    "Category": "Held",
+    "Price": "900 gp",
+    "Page": "575"
+  },
+  {
+    "Level": 10,
+    "Type": "Permanent Items",
+    "Name": "Wondrous figurine, golden lions",
+    "Grade": "N",
+    "Category": "Held",
+    "Price": "900 gp",
+    "Page": "576"
+  },
+  {
+    "Level": 10,
+    "Type": "Permanent Items",
+    "Name": "+2 weapon potency",
+    "Grade": "N",
+    "Category": "Rune",
+    "Price": "935 gp",
+    "Page": "581"
+  },
+  {
+    "Level": 10,
+    "Type": "Permanent Items",
+    "Name": "Invisibility, greater",
+    "Grade": "N",
+    "Category": "Rune",
+    "Price": "1,000 gp",
+    "Page": "583"
+  },
+  {
+    "Level": 10,
+    "Type": "Permanent Items",
+    "Name": "Forge warden",
+    "Grade": "U",
+    "Category": "Shield",
+    "Price": "975 gp",
+    "Page": "587"
+  },
+  {
+    "Level": 10,
+    "Type": "Permanent Items",
+    "Name": "Sturdy shield, moderate",
+    "Grade": "N",
+    "Category": "Shield",
+    "Price": "1,000 gp",
+    "Page": "588"
+  },
+  {
+    "Level": 10,
+    "Type": "Permanent Items",
+    "Name": "Staff of abjuration, greater",
+    "Grade": "N",
+    "Category": "Staff",
+    "Price": "900 gp",
+    "Page": "593"
+  },
+  {
+    "Level": 10,
+    "Type": "Permanent Items",
+    "Name": "Staff of conjuration, greater",
+    "Grade": "N",
+    "Category": "Staff",
+    "Price": "900 gp",
+    "Page": "593"
+  },
+  {
+    "Level": 10,
+    "Type": "Permanent Items",
+    "Name": "Staff of divination, greater",
+    "Grade": "N",
+    "Category": "Staff",
+    "Price": "900 gp",
+    "Page": "593"
+  },
+  {
+    "Level": 10,
+    "Type": "Permanent Items",
+    "Name": "Staff of enchantment, greater",
+    "Grade": "N",
+    "Category": "Staff",
+    "Price": "900 gp",
+    "Page": "593"
+  },
+  {
+    "Level": 10,
+    "Type": "Permanent Items",
+    "Name": "Staff of evocation, greater",
+    "Grade": "N",
+    "Category": "Staff",
+    "Price": "900 gp",
+    "Page": "593"
+  },
+  {
+    "Level": 10,
+    "Type": "Permanent Items",
+    "Name": "Staff of illusion, greater",
+    "Grade": "N",
+    "Category": "Staff",
+    "Price": "900 gp",
+    "Page": "594"
+  },
+  {
+    "Level": 10,
+    "Type": "Permanent Items",
+    "Name": "Staff of necromancy, greater",
+    "Grade": "N",
+    "Category": "Staff",
+    "Price": "900 gp",
+    "Page": "594"
+  },
+  {
+    "Level": 10,
+    "Type": "Permanent Items",
+    "Name": "Staff of transmutation, greater",
+    "Grade": "N",
+    "Category": "Staff",
+    "Price": "900 gp",
+    "Page": "595"
+  },
+  {
+    "Level": 10,
+    "Type": "Permanent Items",
+    "Name": "Explorer’s yurt",
+    "Grade": "N",
+    "Category": "Structure",
+    "Price": "880 gp",
+    "Page": "596"
+  },
+  {
+    "Level": 10,
+    "Type": "Permanent Items",
+    "Name": "Wand of widening 4th",
+    "Grade": "N",
+    "Category": "Wand",
+    "Price": "1,000 gp",
+    "Page": "598"
+  },
+  {
+    "Level": 10,
+    "Type": "Permanent Items",
+    "Name": "+2 striking weapon",
+    "Grade": "N",
+    "Category": "Weapon",
+    "Price": "1,000 gp",
+    "Page": "599"
+  },
+  {
+    "Level": 10,
+    "Type": "Permanent Items",
+    "Name": "Cold iron weapon, standard-grade",
+    "Grade": "N",
+    "Category": "Weapon",
+    "Price": "880+ gp",
+    "Page": "599"
+  },
+  {
+    "Level": 10,
+    "Type": "Permanent Items",
+    "Name": "Silver weapon, standard-grade",
+    "Grade": "N",
+    "Category": "Weapon",
+    "Price": "880+ gp",
+    "Page": "599"
+  },
+  {
+    "Level": 10,
+    "Type": "Permanent Items",
+    "Name": "+2 striking handwraps of mighty blows",
+    "Grade": "N",
+    "Category": "Worn",
+    "Price": "1,000 gp",
+    "Page": "611"
+  },
+  {
+    "Level": 10,
+    "Type": "Permanent Items",
+    "Name": "Cape of the mountebank",
+    "Grade": "U",
+    "Category": "Worn",
+    "Price": "980 gp",
+    "Page": "607"
+  },
+  {
+    "Level": 10,
+    "Type": "Permanent Items",
+    "Name": "Choker of elocution, greater",
+    "Grade": "N",
+    "Category": "Worn",
+    "Price": "850 gp",
+    "Page": "608"
+  },
+  {
+    "Level": 10,
+    "Type": "Permanent Items",
+    "Name": "Clandestine cloak, greater",
+    "Grade": "U",
+    "Category": "Worn",
+    "Price": "900 gp",
+    "Page": "608"
+  },
+  {
+    "Level": 10,
+    "Type": "Permanent Items",
+    "Name": "Cloak of the bat",
+    "Grade": "N",
+    "Category": "Worn",
+    "Price": "950 gp",
+    "Page": "608"
+  },
+  {
+    "Level": 10,
+    "Type": "Permanent Items",
+    "Name": "Daredevil boots",
+    "Grade": "N",
+    "Category": "Worn",
+    "Price": "900 gp",
+    "Page": "609"
+  },
+  {
+    "Level": 10,
+    "Type": "Permanent Items",
+    "Name": "Demon mask, greater",
+    "Grade": "N",
+    "Category": "Worn",
+    "Price": "900 gp",
+    "Page": "609"
+  },
+  {
+    "Level": 10,
+    "Type": "Permanent Items",
+    "Name": "Druid’s vestments",
+    "Grade": "N",
+    "Category": "Worn",
+    "Price": "1,000 gp",
+    "Page": "610"
+  },
+  {
+    "Level": 10,
+    "Type": "Permanent Items",
+    "Name": "Ring of counterspells",
+    "Grade": "U",
+    "Category": "Worn",
+    "Price": "925 gp",
+    "Page": "614"
+  },
+  {
+    "Level": 10,
+    "Type": "Permanent Items",
+    "Name": "Ring of energy resistance, greater",
+    "Grade": "N",
+    "Category": "Worn",
+    "Price": "975 gp",
+    "Page": "614"
+  },
+  {
+    "Level": 10,
+    "Type": "Permanent Items",
+    "Name": "Ring of lies",
+    "Grade": "U",
+    "Category": "Worn",
+    "Price": "850 gp",
+    "Page": "614"
+  },
+  {
+    "Level": 10,
+    "Type": "Permanent Items",
+    "Name": "Ring of wizardry type IIU",
+    "Grade": "N",
+    "Category": "Worn",
+    "Price": "1,000 gp",
+    "Page": "615"
+  },
+  {
+    "Level": 10,
+    "Type": "Permanent Items",
+    "Name": "Winged boots",
+    "Grade": "N",
+    "Category": "Worn",
+    "Price": "850 gp",
+    "Page": "617"
+  },
+  {
+    "Level": 11,
+    "Type": "Consumables",
+    "Name": "Spellstrike ammunition 5th",
+    "Grade": "N",
+    "Category": "Ammunition",
+    "Price": "300 gp",
+    "Page": "560"
+  },
+  {
+    "Level": 11,
+    "Type": "Consumables",
+    "Name": "Acid flask, greater",
+    "Grade": "N",
+    "Category": "Bomb",
+    "Price": "250 gp",
+    "Page": "544"
+  },
+  {
+    "Level": 11,
+    "Type": "Consumables",
+    "Name": "Alchemist’s fire, greater",
+    "Grade": "N",
+    "Category": "Bomb",
+    "Price": "250 gp",
+    "Page": "545"
+  },
+  {
+    "Level": 11,
+    "Type": "Consumables",
+    "Name": "Bottled lightning, greater",
+    "Grade": "N",
+    "Category": "Bomb",
+    "Price": "250 gp",
+    "Page": "545"
+  },
+  {
+    "Level": 11,
+    "Type": "Consumables",
+    "Name": "Frost vial, greater",
+    "Grade": "N",
+    "Category": "Bomb",
+    "Price": "250 gp",
+    "Page": "545"
+  },
+  {
+    "Level": 11,
+    "Type": "Consumables",
+    "Name": "Tanglefoot bag, greater",
+    "Grade": "N",
+    "Category": "Bomb",
+    "Price": "250 gp",
+    "Page": "545"
+  },
+  {
+    "Level": 11,
+    "Type": "Consumables",
+    "Name": "Thunderstone, greater",
+    "Grade": "N",
+    "Category": "Bomb",
+    "Price": "250 gp",
+    "Page": "545"
+  },
+  {
+    "Level": 11,
+    "Type": "Consumables",
+    "Name": "Bestial mutagen, greater",
+    "Grade": "N",
+    "Category": "Elixir",
+    "Price": "300 gp",
+    "Page": "546"
+  },
+  {
+    "Level": 11,
+    "Type": "Consumables",
+    "Name": "Cognitive mutagen, greater",
+    "Grade": "N",
+    "Category": "Elixir",
+    "Price": "300 gp",
+    "Page": "547"
+  },
+  {
+    "Level": 11,
+    "Type": "Consumables",
+    "Name": "Juggernaut mutagen, greater",
+    "Grade": "N",
+    "Category": "Elixir",
+    "Price": "300 gp",
+    "Page": "548"
+  },
+  {
+    "Level": 11,
+    "Type": "Consumables",
+    "Name": "Quicksilver mutagen, greater",
+    "Grade": "N",
+    "Category": "Elixir",
+    "Price": "300 gp",
+    "Page": "549"
+  },
+  {
+    "Level": 11,
+    "Type": "Consumables",
+    "Name": "Serene mutagen, greater",
+    "Grade": "N",
+    "Category": "Elixir",
+    "Price": "300 gp",
+    "Page": "549"
+  },
+  {
+    "Level": 11,
+    "Type": "Consumables",
+    "Name": "Silvertongue mutagen, greater",
+    "Grade": "N",
+    "Category": "Elixir",
+    "Price": "300 gp",
+    "Page": "550"
+  },
+  {
+    "Level": 11,
+    "Type": "Consumables",
+    "Name": "Oil of keen edges",
+    "Grade": "U",
+    "Category": "Oil",
+    "Price": "250 gp",
+    "Page": "561"
+  },
+  {
+    "Level": 11,
+    "Type": "Consumables",
+    "Name": "Oil of repulsion",
+    "Grade": "N",
+    "Category": "Oil",
+    "Price": "175 gp",
+    "Page": "562"
+  },
+  {
+    "Level": 11,
+    "Type": "Consumables",
+    "Name": "Blightburn resin",
+    "Grade": "N",
+    "Category": "Poison",
+    "Price": "225 gp",
+    "Page": "551"
+  },
+  {
+    "Level": 11,
+    "Type": "Consumables",
+    "Name": "Potion of swimming, greater",
+    "Grade": "N",
+    "Category": "Potion",
+    "Price": "250 gp",
+    "Page": "563"
+  },
+  {
+    "Level": 11,
+    "Type": "Consumables",
+    "Name": "Scroll of 6th-level spell",
+    "Grade": "N",
+    "Category": "Scroll",
+    "Price": "300 gp",
+    "Page": "565"
+  },
+  {
+    "Level": 11,
+    "Type": "Permanent Items",
+    "Name": "+2 resilient armor",
+    "Grade": "N",
+    "Category": "Armor",
+    "Price": "1,400 gp",
+    "Page": "556"
+  },
+  {
+    "Level": 11,
+    "Type": "Permanent Items",
+    "Name": "Cold iron armor, standard-grade",
+    "Grade": "N",
+    "Category": "Armor",
+    "Price": "1,200+ gp",
+    "Page": "555"
+  },
+  {
+    "Level": 11,
+    "Type": "Permanent Items",
+    "Name": "Silver armor, standard-grade",
+    "Grade": "N",
+    "Category": "Armor",
+    "Price": "1,200+ gp",
+    "Page": "556"
+  },
+  {
+    "Level": 11,
+    "Type": "Permanent Items",
+    "Name": "Bag of holding type III",
+    "Grade": "N",
+    "Category": "Held",
+    "Price": "1,200 gp",
+    "Page": "572"
+  },
+  {
+    "Level": 11,
+    "Type": "Permanent Items",
+    "Name": "Holy prayer beads, greater",
+    "Grade": "U",
+    "Category": "Held",
+    "Price": "1,400 gp",
+    "Page": "573"
+  },
+  {
+    "Level": 11,
+    "Type": "Permanent Items",
+    "Name": "Skeleton key, greater",
+    "Grade": "N",
+    "Category": "Held",
+    "Price": "1,250 gp",
+    "Page": "575"
+  },
+  {
+    "Level": 11,
+    "Type": "Permanent Items",
+    "Name": "+2 armor potency",
+    "Grade": "N",
+    "Category": "Rune",
+    "Price": "1,060 gp",
+    "Page": "581"
+  },
+  {
+    "Level": 11,
+    "Type": "Permanent Items",
+    "Name": "Anarchic",
+    "Grade": "N",
+    "Category": "Rune",
+    "Price": "1,400 gp",
+    "Page": "583"
+  },
+  {
+    "Level": 11,
+    "Type": "Permanent Items",
+    "Name": "Axiomatic",
+    "Grade": "N",
+    "Category": "Rune",
+    "Price": "1,400 gp",
+    "Page": "583"
+  },
+  {
+    "Level": 11,
+    "Type": "Permanent Items",
+    "Name": "Holy",
+    "Grade": "N",
+    "Category": "Rune",
+    "Price": "1,400 gp",
+    "Page": "584"
+  },
+  {
+    "Level": 11,
+    "Type": "Permanent Items",
+    "Name": "Unholy",
+    "Grade": "N",
+    "Category": "Rune",
+    "Price": "1,400 gp",
+    "Page": "585"
+  },
+  {
+    "Level": 11,
+    "Type": "Permanent Items",
+    "Name": "Arrow-catching shield",
+    "Grade": "N",
+    "Category": "Shield",
+    "Price": "1,350 gp",
+    "Page": "587"
+  },
+  {
+    "Level": 11,
+    "Type": "Permanent Items",
+    "Name": "Floating shield",
+    "Grade": "U",
+    "Category": "Shield",
+    "Price": "1,250 gp",
+    "Page": "587"
+  },
+  {
+    "Level": 11,
+    "Type": "Permanent Items",
+    "Name": "Wand of 5th-level spell",
+    "Grade": "N",
+    "Category": "Wand",
+    "Price": "1,500 gp",
+    "Page": "597"
+  },
+  {
+    "Level": 11,
+    "Type": "Permanent Items",
+    "Name": "Wand of continuation 4th",
+    "Grade": "N",
+    "Category": "Wand",
+    "Price": "1,400 gp",
+    "Page": "598"
+  },
+  {
+    "Level": 11,
+    "Type": "Permanent Items",
+    "Name": "Adamantine weapon, standard-grade",
+    "Grade": "U",
+    "Category": "Weapon",
+    "Price": "1,400+ gp",
+    "Page": "599"
+  },
+  {
+    "Level": 11,
+    "Type": "Permanent Items",
+    "Name": "Darkwood weapon, standard-grade",
+    "Grade": "U",
+    "Category": "Weapon",
+    "Price": "1,400+ gp",
+    "Page": "599"
+  },
+  {
+    "Level": 11,
+    "Type": "Permanent Items",
+    "Name": "Mithral weapon, standard-grade",
+    "Grade": "U",
+    "Category": "Weapon",
+    "Price": "1,400+ gp",
+    "Page": "599"
+  },
+  {
+    "Level": 11,
+    "Type": "Permanent Items",
+    "Name": "Oathbow",
+    "Grade": "N",
+    "Category": "Weapon",
+    "Price": "1,300 gp",
+    "Page": "602"
+  },
+  {
+    "Level": 11,
+    "Type": "Permanent Items",
+    "Name": "Alchemist goggles, greater",
+    "Grade": "N",
+    "Category": "Worn",
+    "Price": "1,400 gp",
+    "Page": "605"
+  },
+  {
+    "Level": 11,
+    "Type": "Permanent Items",
+    "Name": "Boots of elvenkind, greater",
+    "Grade": "N",
+    "Category": "Worn",
+    "Price": "1,250 gp",
+    "Page": "606"
+  },
+  {
+    "Level": 11,
+    "Type": "Permanent Items",
+    "Name": "Cassock of devotion",
+    "Grade": "N",
+    "Category": "Worn",
+    "Price": "1,150 gp",
+    "Page": "607"
+  },
+  {
+    "Level": 11,
+    "Type": "Permanent Items",
+    "Name": "Crafter’s eyepiece, greater",
+    "Grade": "N",
+    "Category": "Worn",
+    "Price": "1,200 gp",
+    "Page": "609"
+  },
+  {
+    "Level": 11,
+    "Type": "Permanent Items",
+    "Name": "Doubling rings, greater",
+    "Grade": "N",
+    "Category": "Worn",
+    "Price": "1,300 gp",
+    "Page": "609"
+  },
+  {
+    "Level": 11,
+    "Type": "Permanent Items",
+    "Name": "Goggles of night, greater",
+    "Grade": "N",
+    "Category": "Worn",
+    "Price": "1,250 gp",
+    "Page": "610"
+  },
+  {
+    "Level": 11,
+    "Type": "Permanent Items",
+    "Name": "Gorget of the primal roar",
+    "Grade": "N",
+    "Category": "Worn",
+    "Price": "1,250 gp",
+    "Page": "611"
+  },
+  {
+    "Level": 11,
+    "Type": "Permanent Items",
+    "Name": "Necklace of fireballs type IV",
+    "Grade": "N",
+    "Category": "Worn",
+    "Price": "700 gp",
+    "Page": "613"
+  },
+  {
+    "Level": 11,
+    "Type": "Permanent Items",
+    "Name": "Ring of maniacal devices",
+    "Grade": "N",
+    "Category": "Worn",
+    "Price": "1,175 gp",
+    "Page": "614"
+  },
+  {
+    "Level": 12,
+    "Type": "Consumables",
+    "Name": "Penetrating ammunition",
+    "Grade": "N",
+    "Category": "Ammunition",
+    "Price": "400 gp",
+    "Page": "560"
+  },
+  {
+    "Level": 12,
+    "Type": "Consumables",
+    "Name": "Salamander elixir, moderate",
+    "Grade": "N",
+    "Category": "Elixir",
+    "Price": "320 gp",
+    "Page": "549"
+  },
+  {
+    "Level": 12,
+    "Type": "Consumables",
+    "Name": "Sea touch elixir, moderate",
+    "Grade": "N",
+    "Category": "Elixir",
+    "Price": "300 gp",
+    "Page": "549"
+  },
+  {
+    "Level": 12,
+    "Type": "Consumables",
+    "Name": "Winter wolf elixir, moderate",
+    "Grade": "N",
+    "Category": "Elixir",
+    "Price": "320 gp",
+    "Page": "550"
+  },
+  {
+    "Level": 12,
+    "Type": "Consumables",
+    "Name": "Oil of animation",
+    "Grade": "U",
+    "Category": "Oil",
+    "Price": "330 gp",
+    "Page": "561"
+  },
+  {
+    "Level": 12,
+    "Type": "Consumables",
+    "Name": "Salve of antiparalysis, greater",
+    "Grade": "N",
+    "Category": "Oil",
+    "Price": "325 gp",
+    "Page": "562"
+  },
+  {
+    "Level": 12,
+    "Type": "Consumables",
+    "Name": "Slumber wine",
+    "Grade": "N",
+    "Category": "Poison",
+    "Price": "325 gp",
+    "Page": "553"
+  },
+  {
+    "Level": 12,
+    "Type": "Consumables",
+    "Name": "Dragon’s breath potion, adult",
+    "Grade": "N",
+    "Category": "Potion",
+    "Price": "400 gp",
+    "Page": "562"
+  },
+  {
+    "Level": 12,
+    "Type": "Consumables",
+    "Name": "Healing potion, greater",
+    "Grade": "N",
+    "Category": "Potion",
+    "Price": "400 gp",
+    "Page": "563"
+  },
+  {
+    "Level": 12,
+    "Type": "Consumables",
+    "Name": "Potion of tongues",
+    "Grade": "U",
+    "Category": "Potion",
+    "Price": "320 gp",
+    "Page": "563"
+  },
+  {
+    "Level": 12,
+    "Type": "Consumables",
+    "Name": "Bleeding spines snare",
+    "Grade": "N",
+    "Category": "Snare",
+    "Price": "320 gp",
+    "Page": "589"
+  },
+  {
+    "Level": 12,
+    "Type": "Consumables",
+    "Name": "Scything blade snare",
+    "Grade": "N",
+    "Category": "Snare",
+    "Price": "320 gp",
+    "Page": "591"
+  },
+  {
+    "Level": 12,
+    "Type": "Consumables",
+    "Name": "Stunning snare",
+    "Grade": "N",
+    "Category": "Snare",
+    "Price": "320 gp",
+    "Page": "591"
+  },
+  {
+    "Level": 12,
+    "Type": "Consumables",
+    "Name": "Eye of apprehension",
+    "Grade": "N",
+    "Category": "Talisman",
+    "Price": "400 gp",
+    "Page": "566"
+  },
+  {
+    "Level": 12,
+    "Type": "Consumables",
+    "Name": "Fade band",
+    "Grade": "N",
+    "Category": "Talisman",
+    "Price": "320 gp",
+    "Page": "566"
+  },
+  {
+    "Level": 12,
+    "Type": "Consumables",
+    "Name": "Iron equalizer",
+    "Grade": "N",
+    "Category": "Talisman",
+    "Price": "400 gp",
+    "Page": "567"
+  },
+  {
+    "Level": 12,
+    "Type": "Permanent Items",
+    "Name": "Adamantine armor, standard-grade",
+    "Grade": "U",
+    "Category": "Armor",
+    "Price": "1,600+ gp",
+    "Page": "555"
+  },
+  {
+    "Level": 12,
+    "Type": "Permanent Items",
+    "Name": "Darkwood armor, standard-grade",
+    "Grade": "U",
+    "Category": "Armor",
+    "Price": "1,600+ gp",
+    "Page": "555"
+  },
+  {
+    "Level": 12,
+    "Type": "Permanent Items",
+    "Name": "Dragonhide armor, standard-grade",
+    "Grade": "U",
+    "Category": "Armor",
+    "Price": "1,600+ gp",
+    "Page": "555"
+  },
+  {
+    "Level": 12,
+    "Type": "Permanent Items",
+    "Name": "Mithral armor, standard-grade",
+    "Grade": "U",
+    "Category": "Armor",
+    "Price": "1,600+ gp",
+    "Page": "556"
+  },
+  {
+    "Level": 12,
+    "Type": "Permanent Items",
+    "Name": "Broom of flying",
+    "Grade": "N",
+    "Category": "Held",
+    "Price": "1,900 gp",
+    "Page": "572"
+  },
+  {
+    "Level": 12,
+    "Type": "Permanent Items",
+    "Name": "Marvelous medicines",
+    "Grade": "N",
+    "Category": "Held",
+    "Price": "1,800 gp",
+    "Page": "574"
+  },
+  {
+    "Level": 12,
+    "Type": "Permanent Items",
+    "Name": "Energy-resistant, greater",
+    "Grade": "N",
+    "Category": "Rune",
+    "Price": "1,650 gp",
+    "Page": "582"
+  },
+  {
+    "Level": 12,
+    "Type": "Permanent Items",
+    "Name": "Fortification",
+    "Grade": "N",
+    "Category": "Rune",
+    "Price": "2,000 gp",
+    "Page": "582"
+  },
+  {
+    "Level": 12,
+    "Type": "Permanent Items",
+    "Name": "Striking, greater",
+    "Grade": "N",
+    "Category": "Rune",
+    "Price": "1,065 gp",
+    "Page": "581"
+  },
+  {
+    "Level": 12,
+    "Type": "Permanent Items",
+    "Name": "Animal staff, major",
+    "Grade": "N",
+    "Category": "Staff",
+    "Price": "1,900 gp",
+    "Page": "592"
+  },
+  {
+    "Level": 12,
+    "Type": "Permanent Items",
+    "Name": "Mentalist’s staff, major",
+    "Grade": "N",
+    "Category": "Staff",
+    "Price": "1,800 gp",
+    "Page": "592"
+  },
+  {
+    "Level": 12,
+    "Type": "Permanent Items",
+    "Name": "Staff of fire, major",
+    "Grade": "N",
+    "Category": "Staff",
+    "Price": "1,800 gp",
+    "Page": "594"
+  },
+  {
+    "Level": 12,
+    "Type": "Permanent Items",
+    "Name": "Staff of healing, major",
+    "Grade": "N",
+    "Category": "Staff",
+    "Price": "1,800 gp",
+    "Page": "594"
+  },
+  {
+    "Level": 12,
+    "Type": "Permanent Items",
+    "Name": "Verdant staff, greater",
+    "Grade": "N",
+    "Category": "Staff",
+    "Price": "1,750 gp",
+    "Page": "595"
+  },
+  {
+    "Level": 12,
+    "Type": "Permanent Items",
+    "Name": "Wand of smoldering fireballs 5th",
+    "Grade": "N",
+    "Category": "Wand",
+    "Price": "2,000 gp",
+    "Page": "598"
+  },
+  {
+    "Level": 12,
+    "Type": "Permanent Items",
+    "Name": "Wand of widening 5th",
+    "Grade": "N",
+    "Category": "Wand",
+    "Price": "2,000 gp",
+    "Page": "598"
+  },
+  {
+    "Level": 12,
+    "Type": "Permanent Items",
+    "Name": "+2 greater striking weapon",
+    "Grade": "N",
+    "Category": "Weapon",
+    "Price": "2,000 gp",
+    "Page": "599"
+  },
+  {
+    "Level": 12,
+    "Type": "Permanent Items",
+    "Name": "+2 greater striking handwraps of mighty blows",
+    "Grade": "N",
+    "Category": "Worn",
+    "Price": "2,000 gp",
+    "Page": "611"
+  },
+  {
+    "Level": 12,
+    "Type": "Permanent Items",
+    "Name": "Aeon stone, pink rhomboid",
+    "Grade": "U",
+    "Category": "Worn",
+    "Price": "1,900 gp",
+    "Page": "604"
+  },
+  {
+    "Level": 12,
+    "Type": "Permanent Items",
+    "Name": "Berserker’s cloak",
+    "Grade": "N",
+    "Category": "Worn",
+    "Price": "2,000 gp",
+    "Page": "606"
+  },
+  {
+    "Level": 12,
+    "Type": "Permanent Items",
+    "Name": "Cloak of elvenkind, greater",
+    "Grade": "N",
+    "Category": "Worn",
+    "Price": "1,750 gp",
+    "Page": "608"
+  },
+  {
+    "Level": 12,
+    "Type": "Permanent Items",
+    "Name": "Ring of climbing",
+    "Grade": "N",
+    "Category": "Worn",
+    "Price": "1,750 gp",
+    "Page": "614"
+  },
+  {
+    "Level": 12,
+    "Type": "Permanent Items",
+    "Name": "Ring of swimming",
+    "Grade": "N",
+    "Category": "Worn",
+    "Price": "1,750 gp",
+    "Page": "615"
+  },
+  {
+    "Level": 12,
+    "Type": "Permanent Items",
+    "Name": "Ring of wizardry type III",
+    "Grade": "U",
+    "Category": "Worn",
+    "Price": "2,000 gp",
+    "Page": "615"
+  },
+  {
+    "Level": 13,
+    "Type": "Consumables",
+    "Name": "Explosive ammunition, greater",
+    "Grade": "N",
+    "Category": "Ammunition",
+    "Price": "520 gp",
+    "Page": "559"
+  },
+  {
+    "Level": 13,
+    "Type": "Consumables",
+    "Name": "Spellstrike ammunition 6th",
+    "Grade": "N",
+    "Category": "Ammunition",
+    "Price": "600 gp",
+    "Page": "560"
+  },
+  {
+    "Level": 13,
+    "Type": "Consumables",
+    "Name": "Elixir of life, greater",
+    "Grade": "N",
+    "Category": "Elixir",
+    "Price": "600 gp",
+    "Page": "548"
+  },
+  {
+    "Level": 13,
+    "Type": "Consumables",
+    "Name": "Deathcap powder",
+    "Grade": "N",
+    "Category": "Poison",
+    "Price": "450 gp",
+    "Page": "551"
+  },
+  {
+    "Level": 13,
+    "Type": "Consumables",
+    "Name": "Purple worm venom",
+    "Grade": "N",
+    "Category": "Poison",
+    "Price": "500 gp",
+    "Page": "553"
+  },
+  {
+    "Level": 13,
+    "Type": "Consumables",
+    "Name": "Panacea",
+    "Grade": "U",
+    "Category": "Potion",
+    "Price": "450 gp",
+    "Page": "563"
+  },
+  {
+    "Level": 13,
+    "Type": "Consumables",
+    "Name": "Scroll of 7th-level spell",
+    "Grade": "N",
+    "Category": "Scroll",
+    "Price": "600 gp",
+    "Page": "565"
+  },
+  {
+    "Level": 13,
+    "Type": "Consumables",
+    "Name": "Mending lattice",
+    "Grade": "U",
+    "Category": "Talisman",
+    "Price": "525 gp",
+    "Page": "568"
+  },
+  {
+    "Level": 13,
+    "Type": "Permanent Items",
+    "Name": "Celestial armor",
+    "Grade": "N",
+    "Category": "Armor",
+    "Price": "2,500 gp",
+    "Page": "557"
+  },
+  {
+    "Level": 13,
+    "Type": "Permanent Items",
+    "Name": "Demon armor",
+    "Grade": "N",
+    "Category": "Armor",
+    "Price": "2,500 gp",
+    "Page": "557"
+  },
+  {
+    "Level": 13,
+    "Type": "Permanent Items",
+    "Name": "Elven chain, standard-grade",
+    "Grade": "U",
+    "Category": "Armor",
+    "Price": "2,500 gp",
+    "Page": "555"
+  },
+  {
+    "Level": 13,
+    "Type": "Permanent Items",
+    "Name": "Mail of luck",
+    "Grade": "N",
+    "Category": "Armor",
+    "Price": "2,600 gp",
+    "Page": "558"
+  },
+  {
+    "Level": 13,
+    "Type": "Permanent Items",
+    "Name": "Bag of holding type IV",
+    "Grade": "N",
+    "Category": "Held",
+    "Price": "2,400 gp",
+    "Page": "572"
+  },
+  {
+    "Level": 13,
+    "Type": "Permanent Items",
+    "Name": "Wondrous figurine, marble elephant",
+    "Grade": "N",
+    "Category": "Held",
+    "Price": "2,700 gp",
+    "Page": "576"
+  },
+  {
+    "Level": 13,
+    "Type": "Permanent Items",
+    "Name": "Dancing",
+    "Grade": "U",
+    "Category": "Rune",
+    "Price": "2,700 gp",
+    "Page": "583"
+  },
+  {
+    "Level": 13,
+    "Type": "Permanent Items",
+    "Name": "Keen",
+    "Grade": "U",
+    "Category": "Rune",
+    "Price": "3,000 gp",
+    "Page": "584"
+  },
+  {
+    "Level": 13,
+    "Type": "Permanent Items",
+    "Name": "Spell-storing",
+    "Grade": "U",
+    "Category": "Rune",
+    "Price": "2,700 gp",
+    "Page": "585"
+  },
+  {
+    "Level": 13,
+    "Type": "Permanent Items",
+    "Name": "Sturdy shield, greater",
+    "Grade": "N",
+    "Category": "Shield",
+    "Price": "3,000 gp",
+    "Page": "588"
+  },
+  {
+    "Level": 13,
+    "Type": "Permanent Items",
+    "Name": "Wand of 6th-level spell",
+    "Grade": "N",
+    "Category": "Wand",
+    "Price": "3,000 gp",
+    "Page": "597"
+  },
+  {
+    "Level": 13,
+    "Type": "Permanent Items",
+    "Name": "Wand of continuation 5th",
+    "Grade": "N",
+    "Category": "Wand",
+    "Price": "3,000 gp",
+    "Page": "598"
+  },
+  {
+    "Level": 13,
+    "Type": "Permanent Items",
+    "Name": "Wand of manifold missiles 5th",
+    "Grade": "N",
+    "Category": "Wand",
+    "Price": "3,000 gp",
+    "Page": "598"
+  },
+  {
+    "Level": 13,
+    "Type": "Permanent Items",
+    "Name": "Dwarven thrower",
+    "Grade": "N",
+    "Category": "Weapon",
+    "Price": "2,750 gp",
+    "Page": "600"
+  },
+  {
+    "Level": 13,
+    "Type": "Permanent Items",
+    "Name": "Flame tongue",
+    "Grade": "N",
+    "Category": "Weapon",
+    "Price": "2,800 gp",
+    "Page": "600"
+  },
+  {
+    "Level": 13,
+    "Type": "Permanent Items",
+    "Name": "Aeon stone, pale lavender ellipsoid",
+    "Grade": "U",
+    "Category": "Worn",
+    "Price": "2,200 gp",
+    "Page": "604"
+  },
+  {
+    "Level": 13,
+    "Type": "Permanent Items",
+    "Name": "Boots of speed",
+    "Grade": "N",
+    "Category": "Worn",
+    "Price": "3,000 gp",
+    "Page": "606"
+  },
+  {
+    "Level": 13,
+    "Type": "Permanent Items",
+    "Name": "Eye of fortune",
+    "Grade": "N",
+    "Category": "Worn",
+    "Price": "2,700 gp",
+    "Page": "610"
+  },
+  {
+    "Level": 13,
+    "Type": "Permanent Items",
+    "Name": "Knapsack of halflingkind, greater",
+    "Grade": "U",
+    "Category": "Worn",
+    "Price": "2,850 gp",
+    "Page": "612"
+  },
+  {
+    "Level": 13,
+    "Type": "Permanent Items",
+    "Name": "Necklace of fireballs type V",
+    "Grade": "N",
+    "Category": "Worn",
+    "Price": "1,600 gp",
+    "Page": "613"
+  },
+  {
+    "Level": 13,
+    "Type": "Permanent Items",
+    "Name": "Ring of the ram, greater",
+    "Grade": "N",
+    "Category": "Worn",
+    "Price": "2,700 gp",
+    "Page": "615"
+  },
+  {
+    "Level": 14,
+    "Type": "Consumables",
+    "Name": "Ghost ammunition",
+    "Grade": "N",
+    "Category": "Ammunition",
+    "Price": "900 gp",
+    "Page": "559"
+  },
+  {
+    "Level": 14,
+    "Type": "Consumables",
+    "Name": "Antidote, major",
+    "Grade": "N",
+    "Category": "Elixir",
+    "Price": "675 gp",
+    "Page": "546"
+  },
+  {
+    "Level": 14,
+    "Type": "Consumables",
+    "Name": "Antiplague, major",
+    "Grade": "N",
+    "Category": "Elixir",
+    "Price": "675 gp",
+    "Page": "546"
+  },
+  {
+    "Level": 14,
+    "Type": "Consumables",
+    "Name": "Bomber’s eye elixir, greater",
+    "Grade": "N",
+    "Category": "Elixir",
+    "Price": "700 gp",
+    "Page": "547"
+  },
+  {
+    "Level": 14,
+    "Type": "Consumables",
+    "Name": "Potion of resistance, greater",
+    "Grade": "N",
+    "Category": "Potion",
+    "Price": "850 gp",
+    "Page": "563"
+  },
+  {
+    "Level": 14,
+    "Type": "Consumables",
+    "Name": "Dazing Coil",
+    "Grade": "N",
+    "Category": "Talisman",
+    "Price": "900 gp",
+    "Page": "566"
+  },
+  {
+    "Level": 14,
+    "Type": "Consumables",
+    "Name": "Iron cudgel",
+    "Grade": "N",
+    "Category": "Talisman",
+    "Price": "900 gp",
+    "Page": "567"
+  },
+  {
+    "Level": 14,
+    "Type": "Consumables",
+    "Name": "Viper’s fang",
+    "Grade": "N",
+    "Category": "Talisman",
+    "Price": "850 gp",
+    "Page": "569"
+  },
+  {
+    "Level": 14,
+    "Type": "Permanent Items",
+    "Name": "+2 greater resilient armor",
+    "Grade": "N",
+    "Category": "Armor",
+    "Price": "4,500 gp",
+    "Page": "556"
+  },
+  {
+    "Level": 14,
+    "Type": "Permanent Items",
+    "Name": "Horseshoes of speed, greater",
+    "Grade": "N",
+    "Category": "Companion",
+    "Price": "4,250 gp",
+    "Page": "604"
+  },
+  {
+    "Level": 14,
+    "Type": "Permanent Items",
+    "Name": "Crystal ball, clear quartz",
+    "Grade": "U",
+    "Category": "Held",
+    "Price": "3,800 gp",
+    "Page": "572"
+  },
+  {
+    "Level": 14,
+    "Type": "Permanent Items",
+    "Name": "Primeval mistletoe, greater",
+    "Grade": "N",
+    "Category": "Held",
+    "Price": "3,900 gp",
+    "Page": "574"
+  },
+  {
+    "Level": 14,
+    "Type": "Permanent Items",
+    "Name": "Rod of negation",
+    "Grade": "N",
+    "Category": "Held",
+    "Price": "4,300 gp",
+    "Page": "574"
+  },
+  {
+    "Level": 14,
+    "Type": "Permanent Items",
+    "Name": "Disrupting, greater",
+    "Grade": "U",
+    "Category": "Rune",
+    "Price": "4,300 gp",
+    "Page": "584"
+  },
+  {
+    "Level": 14,
+    "Type": "Permanent Items",
+    "Name": "Resilient, greater",
+    "Grade": "N",
+    "Category": "Rune",
+    "Price": "3,440 gp",
+    "Page": "581"
+  },
+  {
+    "Level": 14,
+    "Type": "Permanent Items",
+    "Name": "Staff of abjuration, major",
+    "Grade": "N",
+    "Category": "Staff",
+    "Price": "4,000 gp",
+    "Page": "593"
+  },
+  {
+    "Level": 14,
+    "Type": "Permanent Items",
+    "Name": "Staff of conjuration, major",
+    "Grade": "N",
+    "Category": "Staff",
+    "Price": "4,000 gp",
+    "Page": "593"
+  },
+  {
+    "Level": 14,
+    "Type": "Permanent Items",
+    "Name": "Staff of divination, major",
+    "Grade": "N",
+    "Category": "Staff",
+    "Price": "4,000 gp",
+    "Page": "593"
+  },
+  {
+    "Level": 14,
+    "Type": "Permanent Items",
+    "Name": "Staff of enchantment, major",
+    "Grade": "N",
+    "Category": "Staff",
+    "Price": "4,000 gp",
+    "Page": "593"
+  },
+  {
+    "Level": 14,
+    "Type": "Permanent Items",
+    "Name": "Staff of evocation, major",
+    "Grade": "N",
+    "Category": "Staff",
+    "Price": "4,000 gp",
+    "Page": "593"
+  },
+  {
+    "Level": 14,
+    "Type": "Permanent Items",
+    "Name": "Staff of illusion, major",
+    "Grade": "N",
+    "Category": "Staff",
+    "Price": "4,000 gp",
+    "Page": "594"
+  },
+  {
+    "Level": 14,
+    "Type": "Permanent Items",
+    "Name": "Staff of necromancy, major",
+    "Grade": "N",
+    "Category": "Staff",
+    "Price": "4,000 gp",
+    "Page": "594"
+  },
+  {
+    "Level": 14,
+    "Type": "Permanent Items",
+    "Name": "Staff of transmutation, major",
+    "Grade": "N",
+    "Category": "Staff",
+    "Price": "4,000 gp",
+    "Page": "595"
+  },
+  {
+    "Level": 14,
+    "Type": "Permanent Items",
+    "Name": "Wand of widening 6th",
+    "Grade": "N",
+    "Category": "Wand",
+    "Price": "4,500 gp",
+    "Page": "598"
+  },
+  {
+    "Level": 14,
+    "Type": "Permanent Items",
+    "Name": "Holy avenger",
+    "Grade": "U",
+    "Category": "Weapon",
+    "Price": "4,500 gp",
+    "Page": "601"
+  },
+  {
+    "Level": 14,
+    "Type": "Permanent Items",
+    "Name": "Storm flash",
+    "Grade": "N",
+    "Category": "Weapon",
+    "Price": "4,000 gp",
+    "Page": "602"
+  },
+  {
+    "Level": 14,
+    "Type": "Permanent Items",
+    "Name": "Boots of bounding, greater",
+    "Grade": "N",
+    "Category": "Worn",
+    "Price": "4,250 gp",
+    "Page": "606"
+  },
+  {
+    "Level": 14,
+    "Type": "Permanent Items",
+    "Name": "Bracers of armor type II",
+    "Grade": "N",
+    "Category": "Worn",
+    "Price": "4,000 gp",
+    "Page": "607"
+  },
+  {
+    "Level": 14,
+    "Type": "Permanent Items",
+    "Name": "Ring of energy resistance, major",
+    "Grade": "N",
+    "Category": "Worn",
+    "Price": "4,400 gp",
+    "Page": "614"
+  },
+  {
+    "Level": 14,
+    "Type": "Permanent Items",
+    "Name": "Ring of wizardry type IVU",
+    "Grade": "N",
+    "Category": "Worn",
+    "Price": "4,500 gp",
+    "Page": "615"
+  },
+  {
+    "Level": 15,
+    "Type": "Consumables",
+    "Name": "Disintegration bolt",
+    "Grade": "U",
+    "Category": "Ammunition",
+    "Price": "1,300 gp",
+    "Page": "559"
+  },
+  {
+    "Level": 15,
+    "Type": "Consumables",
+    "Name": "Spellstrike ammunition 7th",
+    "Grade": "N",
+    "Category": "Ammunition",
+    "Price": "1,300 gp",
+    "Page": "560"
+  },
+  {
+    "Level": 15,
+    "Type": "Consumables",
+    "Name": "Stone bullet",
+    "Grade": "N",
+    "Category": "Ammunition",
+    "Price": "1,300 gp",
+    "Page": "560"
+  },
+  {
+    "Level": 15,
+    "Type": "Consumables",
+    "Name": "Bravo’s brew, greater",
+    "Grade": "N",
+    "Category": "Elixir",
+    "Price": "700 gp",
+    "Page": "547"
+  },
+  {
+    "Level": 15,
+    "Type": "Consumables",
+    "Name": "Elixir of life, major",
+    "Grade": "N",
+    "Category": "Elixir",
+    "Price": "1,300 gp",
+    "Page": "548"
+  },
+  {
+    "Level": 15,
+    "Type": "Consumables",
+    "Name": "Sea touch elixir, greater",
+    "Grade": "N",
+    "Category": "Elixir",
+    "Price": "920 gp",
+    "Page": "549"
+  },
+  {
+    "Level": 15,
+    "Type": "Consumables",
+    "Name": "Obfuscation oil",
+    "Grade": "N",
+    "Category": "Oil",
+    "Price": "1,200 gp",
+    "Page": "561"
+  },
+  {
+    "Level": 15,
+    "Type": "Consumables",
+    "Name": "Dragon bile",
+    "Grade": "N",
+    "Category": "Poison",
+    "Price": "925 gp",
+    "Page": "551"
+  },
+  {
+    "Level": 15,
+    "Type": "Consumables",
+    "Name": "Mindfog mist",
+    "Grade": "N",
+    "Category": "Poison",
+    "Price": "1,000 gp",
+    "Page": "553"
+  },
+  {
+    "Level": 15,
+    "Type": "Consumables",
+    "Name": "Potion of flying, greater",
+    "Grade": "N",
+    "Category": "Potion",
+    "Price": "1,000 gp",
+    "Page": "563"
+  },
+  {
+    "Level": 15,
+    "Type": "Consumables",
+    "Name": "Scroll of 8th-level spell",
+    "Grade": "N",
+    "Category": "Scroll",
+    "Price": "1,300 gp",
+    "Page": "565"
+  },
+  {
+    "Level": 15,
+    "Type": "Permanent Items",
+    "Name": "Plate armor of the deep",
+    "Grade": "U",
+    "Category": "Armor",
+    "Price": "6,500 gp",
+    "Page": "558"
+  },
+  {
+    "Level": 15,
+    "Type": "Permanent Items",
+    "Name": "Crystal ball, selenite",
+    "Grade": "U",
+    "Category": "Held",
+    "Price": "7,000 gp",
+    "Page": "572"
+  },
+  {
+    "Level": 15,
+    "Type": "Permanent Items",
+    "Name": "Wondrous figurine, obsidian steed",
+    "Grade": "U",
+    "Category": "Held",
+    "Price": "6,000 gp",
+    "Page": "576"
+  },
+  {
+    "Level": 15,
+    "Type": "Permanent Items",
+    "Name": "Antimagic",
+    "Grade": "U",
+    "Category": "Rune",
+    "Price": "6,500 gp",
+    "Page": "582"
+  },
+  {
+    "Level": 15,
+    "Type": "Permanent Items",
+    "Name": "Corrosive, greater",
+    "Grade": "N",
+    "Category": "Rune",
+    "Price": "6,500 gp",
+    "Page": "583"
+  },
+  {
+    "Level": 15,
+    "Type": "Permanent Items",
+    "Name": "Flaming, greater",
+    "Grade": "N",
+    "Category": "Rune",
+    "Price": "6,500 gp",
+    "Page": "584"
+  },
+  {
+    "Level": 15,
+    "Type": "Permanent Items",
+    "Name": "Frost, greater",
+    "Grade": "N",
+    "Category": "Rune",
+    "Price": "6,500 gp",
+    "Page": "584"
+  },
+  {
+    "Level": 15,
+    "Type": "Permanent Items",
+    "Name": "Shock, greater",
+    "Grade": "N",
+    "Category": "Rune",
+    "Price": "6,500 gp",
+    "Page": "585"
+  },
+  {
+    "Level": 15,
+    "Type": "Permanent Items",
+    "Name": "Thundering, greater",
+    "Grade": "N",
+    "Category": "Rune",
+    "Price": "6,500 gp",
+    "Page": "585"
+  },
+  {
+    "Level": 15,
+    "Type": "Permanent Items",
+    "Name": "Cold iron buckler, high-grade",
+    "Grade": "N",
+    "Category": "Shield",
+    "Price": "5,000 gp",
+    "Page": "586"
+  },
+  {
+    "Level": 15,
+    "Type": "Permanent Items",
+    "Name": "Cold iron shield, high-grade",
+    "Grade": "N",
+    "Category": "Shield",
+    "Price": "5,500 gp",
+    "Page": "586"
+  },
+  {
+    "Level": 15,
+    "Type": "Permanent Items",
+    "Name": "Silver buckler, high-grade",
+    "Grade": "N",
+    "Category": "Shield",
+    "Price": "5,000 gp",
+    "Page": "587"
+  },
+  {
+    "Level": 15,
+    "Type": "Permanent Items",
+    "Name": "Silver shield, high-grade",
+    "Grade": "N",
+    "Category": "Shield",
+    "Price": "5,500 gp",
+    "Page": "587"
+  },
+  {
+    "Level": 15,
+    "Type": "Permanent Items",
+    "Name": "Wand of 7th-level spell",
+    "Grade": "N",
+    "Category": "Wand",
+    "Price": "6,500 gp",
+    "Page": "597"
+  },
+  {
+    "Level": 15,
+    "Type": "Permanent Items",
+    "Name": "Wand of continuation 6th",
+    "Grade": "N",
+    "Category": "Wand",
+    "Price": "6,500 gp",
+    "Page": "598"
+  },
+  {
+    "Level": 15,
+    "Type": "Permanent Items",
+    "Name": "Necklace of fireballs type VI",
+    "Grade": "N",
+    "Category": "Worn",
+    "Price": "4,200 gp",
+    "Page": "613"
+  },
+  {
+    "Level": 15,
+    "Type": "Permanent Items",
+    "Name": "Robe of the archmagi",
+    "Grade": "U",
+    "Category": "Worn",
+    "Price": "6,500 gp",
+    "Page": "616"
+  },
+  {
+    "Level": 16,
+    "Type": "Consumables",
+    "Name": "Eagle-eye elixir, major",
+    "Grade": "N",
+    "Category": "Elixir",
+    "Price": "2,000 gp",
+    "Page": "548"
+  },
+  {
+    "Level": 16,
+    "Type": "Consumables",
+    "Name": "Salamander elixir, greater",
+    "Grade": "N",
+    "Category": "Elixir",
+    "Price": "1,400 gp",
+    "Page": "549"
+  },
+  {
+    "Level": 16,
+    "Type": "Consumables",
+    "Name": "Winter wolf elixir, greater",
+    "Grade": "N",
+    "Category": "Elixir",
+    "Price": "1,400 gp",
+    "Page": "550"
+  },
+  {
+    "Level": 16,
+    "Type": "Consumables",
+    "Name": "Brimstone fumes",
+    "Grade": "N",
+    "Category": "Poison",
+    "Price": "1,500 gp",
+    "Page": "551"
+  },
+  {
+    "Level": 16,
+    "Type": "Consumables",
+    "Name": "Nightmare vapor",
+    "Grade": "N",
+    "Category": "Poison",
+    "Price": "1,400 gp",
+    "Page": "553"
+  },
+  {
+    "Level": 16,
+    "Type": "Consumables",
+    "Name": "Truesight potion",
+    "Grade": "N",
+    "Category": "Potion",
+    "Price": "1,500 gp",
+    "Page": "564"
+  },
+  {
+    "Level": 16,
+    "Type": "Consumables",
+    "Name": "Hail of arrows snare",
+    "Grade": "N",
+    "Category": "Snare",
+    "Price": "1,500 gp",
+    "Page": "590"
+  },
+  {
+    "Level": 16,
+    "Type": "Consumables",
+    "Name": "Omnidirectional spear snare",
+    "Grade": "N",
+    "Category": "Snare",
+    "Price": "1,500 gp",
+    "Page": "591"
+  },
+  {
+    "Level": 16,
+    "Type": "Consumables",
+    "Name": "Flame navette",
+    "Grade": "N",
+    "Category": "Talisman",
+    "Price": "1,800 gp",
+    "Page": "567"
+  },
+  {
+    "Level": 16,
+    "Type": "Consumables",
+    "Name": "Ghost dust",
+    "Grade": "N",
+    "Category": "Talisman",
+    "Price": "1,800 gp",
+    "Page": "567"
+  },
+  {
+    "Level": 16,
+    "Type": "Permanent Items",
+    "Name": "Dragonplate",
+    "Grade": "U",
+    "Category": "Armor",
+    "Price": "10,000 gp",
+    "Page": "557"
+  },
+  {
+    "Level": 16,
+    "Type": "Permanent Items",
+    "Name": "Crystal ball, moonstone",
+    "Grade": "U",
+    "Category": "Held",
+    "Price": "7,500 gp",
+    "Page": "572"
+  },
+  {
+    "Level": 16,
+    "Type": "Permanent Items",
+    "Name": "+3 weapon potency",
+    "Grade": "N",
+    "Category": "Rune",
+    "Price": "8,935 gp",
+    "Page": "581"
+  },
+  {
+    "Level": 16,
+    "Type": "Permanent Items",
+    "Name": "Slick, major",
+    "Grade": "N",
+    "Category": "Rune",
+    "Price": "9,000 gp",
+    "Page": "583"
+  },
+  {
+    "Level": 16,
+    "Type": "Permanent Items",
+    "Name": "Speed",
+    "Grade": "R",
+    "Category": "Rune",
+    "Price": "10,000 gp",
+    "Page": "585"
+  },
+  {
+    "Level": 16,
+    "Type": "Permanent Items",
+    "Name": "Adamantine buckler, high-grade",
+    "Grade": "U",
+    "Category": "Shield",
+    "Price": "8,000 gp",
+    "Page": "586"
+  },
+  {
+    "Level": 16,
+    "Type": "Permanent Items",
+    "Name": "Adamantine shield, high-grade",
+    "Grade": "U",
+    "Category": "Shield",
+    "Price": "8,800 gp",
+    "Page": "586"
+  },
+  {
+    "Level": 16,
+    "Type": "Permanent Items",
+    "Name": "Darkwood buckler, high-grade",
+    "Grade": "U",
+    "Category": "Shield",
+    "Price": "8,000 gp",
+    "Page": "586"
+  },
+  {
+    "Level": 16,
+    "Type": "Permanent Items",
+    "Name": "Darkwood shield, high-grade",
+    "Grade": "U",
+    "Category": "Shield",
+    "Price": "8,800 gp",
+    "Page": "586"
+  },
+  {
+    "Level": 16,
+    "Type": "Permanent Items",
+    "Name": "Darkwood tower shield, high-grade",
+    "Grade": "U",
+    "Category": "Shield",
+    "Price": "11,200 gp",
+    "Page": "586"
+  },
+  {
+    "Level": 16,
+    "Type": "Permanent Items",
+    "Name": "Dragonhide buckler, high-grade",
+    "Grade": "U",
+    "Category": "Shield",
+    "Price": "8,000 gp",
+    "Page": "586"
+  },
+  {
+    "Level": 16,
+    "Type": "Permanent Items",
+    "Name": "Dragonhide shield, high-grade",
+    "Grade": "U",
+    "Category": "Shield",
+    "Price": "8,800 gp",
+    "Page": "586"
+  },
+  {
+    "Level": 16,
+    "Type": "Permanent Items",
+    "Name": "Floating shield, greater",
+    "Grade": "N",
+    "Category": "Shield",
+    "Price": "9,000 gp",
+    "Page": "587"
+  },
+  {
+    "Level": 16,
+    "Type": "Permanent Items",
+    "Name": "Mithral buckler, high-grade",
+    "Grade": "U",
+    "Category": "Shield",
+    "Price": "8,000 gp",
+    "Page": "586"
+  },
+  {
+    "Level": 16,
+    "Type": "Permanent Items",
+    "Name": "Mithral shield, high-grade",
+    "Grade": "U",
+    "Category": "Shield",
+    "Price": "8,800 gp",
+    "Page": "586"
+  },
+  {
+    "Level": 16,
+    "Type": "Permanent Items",
+    "Name": "Sturdy shield, major",
+    "Grade": "N",
+    "Category": "Shield",
+    "Price": "10,000 gp",
+    "Page": "588"
+  },
+  {
+    "Level": 16,
+    "Type": "Permanent Items",
+    "Name": "Staff of healing, true",
+    "Grade": "N",
+    "Category": "Staff",
+    "Price": "9,200 gp",
+    "Page": "594"
+  },
+  {
+    "Level": 16,
+    "Type": "Permanent Items",
+    "Name": "Staff of power",
+    "Grade": "R",
+    "Category": "Staff",
+    "Price": "10,000 gp",
+    "Page": "595"
+  },
+  {
+    "Level": 16,
+    "Type": "Permanent Items",
+    "Name": "Instant fortress",
+    "Grade": "U",
+    "Category": "Structure",
+    "Price": "9,300 gp",
+    "Page": "596"
+  },
+  {
+    "Level": 16,
+    "Type": "Permanent Items",
+    "Name": "Wand of slaying 7th",
+    "Grade": "N",
+    "Category": "Wand",
+    "Price": "10,000 gp",
+    "Page": "598"
+  },
+  {
+    "Level": 16,
+    "Type": "Permanent Items",
+    "Name": "Wand of smoldering fireballs 7th",
+    "Grade": "N",
+    "Category": "Wand",
+    "Price": "10,000 gp",
+    "Page": "598"
+  },
+  {
+    "Level": 16,
+    "Type": "Permanent Items",
+    "Name": "Wand of widening 7th",
+    "Grade": "N",
+    "Category": "Wand",
+    "Price": "10,000 gp",
+    "Page": "598"
+  },
+  {
+    "Level": 16,
+    "Type": "Permanent Items",
+    "Name": "+3 greater striking weapon",
+    "Grade": "N",
+    "Category": "Weapon",
+    "Price": "10,000 gp",
+    "Page": "599"
+  },
+  {
+    "Level": 16,
+    "Type": "Permanent Items",
+    "Name": "Cold iron weapon, high-grade",
+    "Grade": "N",
+    "Category": "Weapon",
+    "Price": "9,000+ gp",
+    "Page": "599"
+  },
+  {
+    "Level": 16,
+    "Type": "Permanent Items",
+    "Name": "Frost brand",
+    "Grade": "N",
+    "Category": "Weapon",
+    "Price": "10,000 gp",
+    "Page": "601"
+  },
+  {
+    "Level": 16,
+    "Type": "Permanent Items",
+    "Name": "Silver weapon, high-grade",
+    "Grade": "N",
+    "Category": "Weapon",
+    "Price": "9,000+ gp",
+    "Page": "599"
+  },
+  {
+    "Level": 16,
+    "Type": "Permanent Items",
+    "Name": "+3 greater striking handwraps of mighty blows",
+    "Grade": "N",
+    "Category": "Worn",
+    "Price": "10,000 gp",
+    "Page": "611"
+  },
+  {
+    "Level": 16,
+    "Type": "Permanent Items",
+    "Name": "Aeon stone, orange prism",
+    "Grade": "U",
+    "Category": "Worn",
+    "Price": "9,750 gp",
+    "Page": "604"
+  },
+  {
+    "Level": 17,
+    "Type": "Consumables",
+    "Name": "Spellstrike ammunition 8th",
+    "Grade": "N",
+    "Category": "Ammunition",
+    "Price": "3,000 gp",
+    "Page": "560"
+  },
+  {
+    "Level": 17,
+    "Type": "Consumables",
+    "Name": "Acid flask, major",
+    "Grade": "N",
+    "Category": "Bomb",
+    "Price": "2,500 gp",
+    "Page": "544"
+  },
+  {
+    "Level": 17,
+    "Type": "Consumables",
+    "Name": "Alchemist’s fire, major",
+    "Grade": "N",
+    "Category": "Bomb",
+    "Price": "2,500 gp",
+    "Page": "545"
+  },
+  {
+    "Level": 17,
+    "Type": "Consumables",
+    "Name": "Bottled lightning, major",
+    "Grade": "N",
+    "Category": "Bomb",
+    "Price": "2,500 gp",
+    "Page": "545"
+  },
+  {
+    "Level": 17,
+    "Type": "Consumables",
+    "Name": "Frost vial, major",
+    "Grade": "N",
+    "Category": "Bomb",
+    "Price": "2,500 gp",
+    "Page": "545"
+  },
+  {
+    "Level": 17,
+    "Type": "Consumables",
+    "Name": "Tanglefoot bag, major",
+    "Grade": "N",
+    "Category": "Bomb",
+    "Price": "2,500 gp",
+    "Page": "545"
+  },
+  {
+    "Level": 17,
+    "Type": "Consumables",
+    "Name": "Thunderstone, major",
+    "Grade": "N",
+    "Category": "Bomb",
+    "Price": "2,500 gp",
+    "Page": "545"
+  },
+  {
+    "Level": 17,
+    "Type": "Consumables",
+    "Name": "Bestial mutagen, major",
+    "Grade": "N",
+    "Category": "Elixir",
+    "Price": "3,000 gp",
+    "Page": "546"
+  },
+  {
+    "Level": 17,
+    "Type": "Consumables",
+    "Name": "Cognitive mutagen, major",
+    "Grade": "N",
+    "Category": "Elixir",
+    "Price": "3,000 gp",
+    "Page": "547"
+  },
+  {
+    "Level": 17,
+    "Type": "Consumables",
+    "Name": "Juggernaut mutagen, major",
+    "Grade": "N",
+    "Category": "Elixir",
+    "Price": "3,000 gp",
+    "Page": "548"
+  },
+  {
+    "Level": 17,
+    "Type": "Consumables",
+    "Name": "Quicksilver mutagen, major",
+    "Grade": "N",
+    "Category": "Elixir",
+    "Price": "3,000 gp",
+    "Page": "549"
+  },
+  {
+    "Level": 17,
+    "Type": "Consumables",
+    "Name": "Serene mutagen, major",
+    "Grade": "N",
+    "Category": "Elixir",
+    "Price": "3,000 gp",
+    "Page": "549"
+  },
+  {
+    "Level": 17,
+    "Type": "Consumables",
+    "Name": "Silvertongue mutagen, major",
+    "Grade": "N",
+    "Category": "Elixir",
+    "Price": "3,000 gp",
+    "Page": "550"
+  },
+  {
+    "Level": 17,
+    "Type": "Consumables",
+    "Name": "Hemlock",
+    "Grade": "N",
+    "Category": "Poison",
+    "Price": "2,250 gp",
+    "Page": "552"
+  },
+  {
+    "Level": 17,
+    "Type": "Consumables",
+    "Name": "Dragon’s breath potion, wyrm",
+    "Grade": "N",
+    "Category": "Potion",
+    "Price": "3,000 gp",
+    "Page": "562"
+  },
+  {
+    "Level": 17,
+    "Type": "Consumables",
+    "Name": "Scroll of 9th-level spell",
+    "Grade": "N",
+    "Category": "Scroll",
+    "Price": "3,000 gp",
+    "Page": "565"
+  },
+  {
+    "Level": 17,
+    "Type": "Consumables",
+    "Name": "Dispelling sliver",
+    "Grade": "N",
+    "Category": "Talisman",
+    "Price": "2,400 gp",
+    "Page": "566"
+  },
+  {
+    "Level": 17,
+    "Type": "Permanent Items",
+    "Name": "Anklets of alacrity",
+    "Grade": "N",
+    "Category": "Apex",
+    "Price": "15,000 gp",
+    "Page": "603"
+  },
+  {
+    "Level": 17,
+    "Type": "Permanent Items",
+    "Name": "Belt of giant strength",
+    "Grade": "N",
+    "Category": "Apex",
+    "Price": "15,000 gp",
+    "Page": "603"
+  },
+  {
+    "Level": 17,
+    "Type": "Permanent Items",
+    "Name": "Belt of regeneration",
+    "Grade": "N",
+    "Category": "Apex",
+    "Price": "15,000 gp",
+    "Page": "603"
+  },
+  {
+    "Level": 17,
+    "Type": "Permanent Items",
+    "Name": "Circlet of persuasion",
+    "Grade": "N",
+    "Category": "Apex",
+    "Price": "15,000 gp",
+    "Page": "603"
+  },
+  {
+    "Level": 17,
+    "Type": "Permanent Items",
+    "Name": "Diadem of intellect",
+    "Grade": "N",
+    "Category": "Apex",
+    "Price": "15,000 gp",
+    "Page": "603"
+  },
+  {
+    "Level": 17,
+    "Type": "Permanent Items",
+    "Name": "Headband of inspired wisdom",
+    "Grade": "N",
+    "Category": "Apex",
+    "Price": "15,000 gp",
+    "Page": "604"
+  },
+  {
+    "Level": 17,
+    "Type": "Permanent Items",
+    "Name": "Impenetrable scale",
+    "Grade": "U",
+    "Category": "Armor",
+    "Price": "12,800 gp",
+    "Page": "558"
+  },
+  {
+    "Level": 17,
+    "Type": "Permanent Items",
+    "Name": "Crystal ball, peridot",
+    "Grade": "U",
+    "Category": "Held",
+    "Price": "12,500 gp",
+    "Page": "572"
+  },
+  {
+    "Level": 17,
+    "Type": "Permanent Items",
+    "Name": "Ethereal",
+    "Grade": "U",
+    "Category": "Rune",
+    "Price": "13,500 gp",
+    "Page": "582"
+  },
+  {
+    "Level": 17,
+    "Type": "Permanent Items",
+    "Name": "Shadow, major",
+    "Grade": "N",
+    "Category": "Rune",
+    "Price": "14,000 gp",
+    "Page": "583"
+  },
+  {
+    "Level": 17,
+    "Type": "Permanent Items",
+    "Name": "Vorpal",
+    "Grade": "R",
+    "Category": "Rune",
+    "Price": "15,000 gp",
+    "Page": "585"
+  },
+  {
+    "Level": 17,
+    "Type": "Permanent Items",
+    "Name": "Orichalcum buckler, high-grade",
+    "Grade": "R",
+    "Category": "Shield",
+    "Price": "12,000 gp",
+    "Page": "587"
+  },
+  {
+    "Level": 17,
+    "Type": "Permanent Items",
+    "Name": "Orichalcum shield, high-grade",
+    "Grade": "R",
+    "Category": "Shield",
+    "Price": "13,200 gp",
+    "Page": "587"
+  },
+  {
+    "Level": 17,
+    "Type": "Permanent Items",
+    "Name": "Wand of 8th-level spell",
+    "Grade": "N",
+    "Category": "Wand",
+    "Price": "15,000 gp",
+    "Page": "597"
+  },
+  {
+    "Level": 17,
+    "Type": "Permanent Items",
+    "Name": "Wand of continuation 7th",
+    "Grade": "N",
+    "Category": "Wand",
+    "Price": "15,000 gp",
+    "Page": "598"
+  },
+  {
+    "Level": 17,
+    "Type": "Permanent Items",
+    "Name": "Wand of manifold missiles 7th",
+    "Grade": "N",
+    "Category": "Wand",
+    "Price": "15,000 gp",
+    "Page": "598"
+  },
+  {
+    "Level": 17,
+    "Type": "Permanent Items",
+    "Name": "Adamantine weapon, high-grade",
+    "Grade": "U",
+    "Category": "Weapon",
+    "Price": "13,500+ gp",
+    "Page": "599"
+  },
+  {
+    "Level": 17,
+    "Type": "Permanent Items",
+    "Name": "Darkwood weapon, high-grade",
+    "Grade": "U",
+    "Category": "Weapon",
+    "Price": "13,500+ gp",
+    "Page": "599"
+  },
+  {
+    "Level": 17,
+    "Type": "Permanent Items",
+    "Name": "Flame tongue, greater",
+    "Grade": "N",
+    "Category": "Weapon",
+    "Price": "13,800 gp",
+    "Page": "600"
+  },
+  {
+    "Level": 17,
+    "Type": "Permanent Items",
+    "Name": "Luck blade",
+    "Grade": "R",
+    "Category": "Weapon",
+    "Price": "15,000 gp",
+    "Page": "601"
+  },
+  {
+    "Level": 17,
+    "Type": "Permanent Items",
+    "Name": "Mithral weapon, high-grade",
+    "Grade": "U",
+    "Category": "Weapon",
+    "Price": "13,500+ gp",
+    "Page": "599"
+  },
+  {
+    "Level": 17,
+    "Type": "Permanent Items",
+    "Name": "Alchemist goggles, major",
+    "Grade": "N",
+    "Category": "Worn",
+    "Price": "15,000 gp",
+    "Page": "605"
+  },
+  {
+    "Level": 17,
+    "Type": "Permanent Items",
+    "Name": "Armbands of athleticism, greater",
+    "Grade": "N",
+    "Category": "Worn",
+    "Price": "13,000 gp",
+    "Page": "605"
+  },
+  {
+    "Level": 17,
+    "Type": "Permanent Items",
+    "Name": "Cloak of the bat, greater",
+    "Grade": "N",
+    "Category": "Worn",
+    "Price": "13,000 gp",
+    "Page": "608"
+  },
+  {
+    "Level": 17,
+    "Type": "Permanent Items",
+    "Name": "Daredevil boots, greater",
+    "Grade": "N",
+    "Category": "Worn",
+    "Price": "14,000 gp",
+    "Page": "609"
+  },
+  {
+    "Level": 17,
+    "Type": "Permanent Items",
+    "Name": "Dread blindfold",
+    "Grade": "N",
+    "Category": "Worn",
+    "Price": "15,000 gp",
+    "Page": "610"
+  },
+  {
+    "Level": 17,
+    "Type": "Permanent Items",
+    "Name": "Messenger’s ring, greater",
+    "Grade": "N",
+    "Category": "Worn",
+    "Price": "13,500 gp",
+    "Page": "613"
+  },
+  {
+    "Level": 17,
+    "Type": "Permanent Items",
+    "Name": "Necklace of fireballs type VII",
+    "Grade": "N",
+    "Category": "Worn",
+    "Price": "9,600 gp",
+    "Page": "613"
+  },
+  {
+    "Level": 17,
+    "Type": "Permanent Items",
+    "Name": "Phylactery of faithfulness, greater",
+    "Grade": "N",
+    "Category": "Worn",
+    "Price": "13,000 gp",
+    "Page": "614"
+  },
+  {
+    "Level": 17,
+    "Type": "Permanent Items",
+    "Name": "Robe of eyes",
+    "Grade": "U",
+    "Category": "Worn",
+    "Price": "13,000 gp",
+    "Page": "615"
+  },
+  {
+    "Level": 17,
+    "Type": "Permanent Items",
+    "Name": "Voyager’s pack",
+    "Grade": "U",
+    "Category": "Worn",
+    "Price": "14,800 gp",
+    "Page": "617"
+  },
+  {
+    "Level": 18,
+    "Type": "Consumables",
+    "Name": "King’s sleep",
+    "Grade": "N",
+    "Category": "Poison",
+    "Price": "4,000 gp",
+    "Page": "552"
+  },
+  {
+    "Level": 18,
+    "Type": "Consumables",
+    "Name": "Healing potion, major",
+    "Grade": "N",
+    "Category": "Potion",
+    "Price": "5,000 gp",
+    "Page": "563"
+  },
+  {
+    "Level": 18,
+    "Type": "Consumables",
+    "Name": "Potion of undetectability",
+    "Grade": "N",
+    "Category": "Potion",
+    "Price": "4,400 gp",
+    "Page": "563"
+  },
+  {
+    "Level": 18,
+    "Type": "Permanent Items",
+    "Name": "+3 greater resilient armor",
+    "Grade": "N",
+    "Category": "Armor",
+    "Price": "24,000 gp",
+    "Page": "556"
+  },
+  {
+    "Level": 18,
+    "Type": "Permanent Items",
+    "Name": "Breastplate of command, greater",
+    "Grade": "N",
+    "Category": "Armor",
+    "Price": "22,000 gp",
+    "Page": "557"
+  },
+  {
+    "Level": 18,
+    "Type": "Permanent Items",
+    "Name": "Cold iron armor, high-grade",
+    "Grade": "N",
+    "Category": "Armor",
+    "Price": "20,000+ gp",
+    "Page": "555"
+  },
+  {
+    "Level": 18,
+    "Type": "Permanent Items",
+    "Name": "Silver armor, high-grade",
+    "Grade": "N",
+    "Category": "Armor",
+    "Price": "20,000+ gp",
+    "Page": "556"
+  },
+  {
+    "Level": 18,
+    "Type": "Permanent Items",
+    "Name": "Maestro’s instrument, greater",
+    "Grade": "N",
+    "Category": "Held",
+    "Price": "19,000 gp",
+    "Page": "574"
+  },
+  {
+    "Level": 18,
+    "Type": "Permanent Items",
+    "Name": "Marvelous medicines, greater",
+    "Grade": "N",
+    "Category": "Held",
+    "Price": "19,000 gp",
+    "Page": "574"
+  },
+  {
+    "Level": 18,
+    "Type": "Permanent Items",
+    "Name": "Possibility tome",
+    "Grade": "N",
+    "Category": "Held",
+    "Price": "22,000 gp",
+    "Page": "574"
+  },
+  {
+    "Level": 18,
+    "Type": "Permanent Items",
+    "Name": "Thurible of revelation, greater",
+    "Grade": "N",
+    "Category": "Held",
+    "Price": "19,000 gp",
+    "Page": "575"
+  },
+  {
+    "Level": 18,
+    "Type": "Permanent Items",
+    "Name": "+3 armor potency",
+    "Grade": "N",
+    "Category": "Rune",
+    "Price": "20,560 gp",
+    "Page": "581"
+  },
+  {
+    "Level": 18,
+    "Type": "Permanent Items",
+    "Name": "Fortification, greater",
+    "Grade": "N",
+    "Category": "Rune",
+    "Price": "24,000 gp",
+    "Page": "582"
+  },
+  {
+    "Level": 18,
+    "Type": "Permanent Items",
+    "Name": "Indestructible shield",
+    "Grade": "R",
+    "Category": "Shield",
+    "Price": "24,000 gp",
+    "Page": "588"
+  },
+  {
+    "Level": 18,
+    "Type": "Permanent Items",
+    "Name": "Reflecting shield",
+    "Grade": "U",
+    "Category": "Shield",
+    "Price": "18,000 gp",
+    "Page": "588"
+  },
+  {
+    "Level": 18,
+    "Type": "Permanent Items",
+    "Name": "Wand of slaying 8th",
+    "Grade": "N",
+    "Category": "Wand",
+    "Price": "24,000 gp",
+    "Page": "598"
+  },
+  {
+    "Level": 18,
+    "Type": "Permanent Items",
+    "Name": "Wand of widening 8th",
+    "Grade": "N",
+    "Category": "Wand",
+    "Price": "24,000 gp",
+    "Page": "598"
+  },
+  {
+    "Level": 18,
+    "Type": "Permanent Items",
+    "Name": "Orichalcum weapon, high-grade",
+    "Grade": "R",
+    "Category": "Weapon",
+    "Price": "22,500+ gp",
+    "Page": "599"
+  },
+  {
+    "Level": 18,
+    "Type": "Permanent Items",
+    "Name": "Storm flash, greater",
+    "Grade": "N",
+    "Category": "Weapon",
+    "Price": "21,000 gp",
+    "Page": "602"
+  },
+  {
+    "Level": 18,
+    "Type": "Permanent Items",
+    "Name": "Goggles of night, major",
+    "Grade": "N",
+    "Category": "Worn",
+    "Price": "20,000 gp",
+    "Page": "610"
+  },
+  {
+    "Level": 18,
+    "Type": "Permanent Items",
+    "Name": "Inexplicable apparatus",
+    "Grade": "N",
+    "Category": "Worn",
+    "Price": "19,000 gp",
+    "Page": "612"
+  },
+  {
+    "Level": 18,
+    "Type": "Permanent Items",
+    "Name": "Ring of maniacal devices, greater",
+    "Grade": "N",
+    "Category": "Worn",
+    "Price": "21,000 gp",
+    "Page": "614"
+  },
+  {
+    "Level": 19,
+    "Type": "Consumables",
+    "Name": "Spellstrike ammunition 9th",
+    "Grade": "N",
+    "Category": "Ammunition",
+    "Price": "8,000 gp",
+    "Page": "560"
+  },
+  {
+    "Level": 19,
+    "Type": "Consumables",
+    "Name": "Elixir of life, true",
+    "Grade": "N",
+    "Category": "Elixir",
+    "Price": "8,000 gp",
+    "Page": "548"
+  },
+  {
+    "Level": 19,
+    "Type": "Consumables",
+    "Name": "Black lotus extract",
+    "Grade": "N",
+    "Category": "Poison",
+    "Price": "6,500 gp",
+    "Page": "551"
+  },
+  {
+    "Level": 19,
+    "Type": "Consumables",
+    "Name": "Scroll of 10th-level spell",
+    "Grade": "U",
+    "Category": "Scroll",
+    "Price": "8,000 gp",
+    "Page": "565"
+  },
+  {
+    "Level": 19,
+    "Type": "Permanent Items",
+    "Name": "Adamantine armor, high-grade",
+    "Grade": "U",
+    "Category": "Armor",
+    "Price": "32,000+ gp",
+    "Page": "555"
+  },
+  {
+    "Level": 19,
+    "Type": "Permanent Items",
+    "Name": "Darkwood armor, high-grade",
+    "Grade": "U",
+    "Category": "Armor",
+    "Price": "32,000+ gp",
+    "Page": "555"
+  },
+  {
+    "Level": 19,
+    "Type": "Permanent Items",
+    "Name": "Dragonhide armor, high-grade",
+    "Grade": "U",
+    "Category": "Armor",
+    "Price": "32,000+ gp",
+    "Page": "555"
+  },
+  {
+    "Level": 19,
+    "Type": "Permanent Items",
+    "Name": "Mithral armor, high-grade",
+    "Grade": "U",
+    "Category": "Armor",
+    "Price": "32,000+ gp",
+    "Page": "556"
+  },
+  {
+    "Level": 19,
+    "Type": "Permanent Items",
+    "Name": "Crystal ball, obsidian",
+    "Grade": "U",
+    "Category": "Held",
+    "Price": "32,000 gp",
+    "Page": "572"
+  },
+  {
+    "Level": 19,
+    "Type": "Permanent Items",
+    "Name": "Striking, major",
+    "Grade": "N",
+    "Category": "Rune",
+    "Price": "31,065 gp",
+    "Page": "581"
+  },
+  {
+    "Level": 19,
+    "Type": "Permanent Items",
+    "Name": "Sturdy shield, supreme",
+    "Grade": "N",
+    "Category": "Shield",
+    "Price": "40,000 gp",
+    "Page": "588"
+  },
+  {
+    "Level": 19,
+    "Type": "Permanent Items",
+    "Name": "Wand of 9th-level spell",
+    "Grade": "N",
+    "Category": "Wand",
+    "Price": "40,000 gp",
+    "Page": "597"
+  },
+  {
+    "Level": 19,
+    "Type": "Permanent Items",
+    "Name": "Wand of continuation 8th",
+    "Grade": "N",
+    "Category": "Wand",
+    "Price": "40,000 gp",
+    "Page": "598"
+  },
+  {
+    "Level": 19,
+    "Type": "Permanent Items",
+    "Name": "+3 major striking weapon",
+    "Grade": "N",
+    "Category": "Weapon",
+    "Price": "40,000 gp",
+    "Page": "599"
+  },
+  {
+    "Level": 19,
+    "Type": "Permanent Items",
+    "Name": "Luck blade, wishing",
+    "Grade": "R",
+    "Category": "Weapon",
+    "Price": "30,000 gp",
+    "Page": "601"
+  },
+  {
+    "Level": 19,
+    "Type": "Permanent Items",
+    "Name": "Mattock of the titans",
+    "Grade": "U",
+    "Category": "Weapon",
+    "Price": "36,000 gp",
+    "Page": "601"
+  },
+  {
+    "Level": 19,
+    "Type": "Permanent Items",
+    "Name": "+3 major striking handwraps of mighty blows",
+    "Grade": "N",
+    "Category": "Worn",
+    "Price": "40,000 gp",
+    "Page": "611"
+  },
+  {
+    "Level": 19,
+    "Type": "Permanent Items",
+    "Name": "Aeon stone, lavender and green ellipsoid",
+    "Grade": "U",
+    "Category": "Worn",
+    "Price": "30,000 gp",
+    "Page": "604"
+  },
+  {
+    "Level": 19,
+    "Type": "Permanent Items",
+    "Name": "Berserker’s cloak, greater",
+    "Grade": "N",
+    "Category": "Worn",
+    "Price": "40,000 gp",
+    "Page": "606"
+  },
+  {
+    "Level": 19,
+    "Type": "Permanent Items",
+    "Name": "Robe of the archmagi, greater",
+    "Grade": "U",
+    "Category": "Worn",
+    "Price": "32,000 gp",
+    "Page": "616"
+  },
+  {
+    "Level": 19,
+    "Type": "Permanent Items",
+    "Name": "Third eye",
+    "Grade": "N",
+    "Category": "Worn",
+    "Price": "40,000 gp",
+    "Page": "616"
+  },
+  {
+    "Level": 20,
+    "Type": "Consumables",
+    "Name": "Elixir of rejuvenation",
+    "Grade": "N",
+    "Category": "U",
+    "Price": "Elixir —",
+    "Page": "548"
+  },
+  {
+    "Level": 20,
+    "Type": "Consumables",
+    "Name": "Antimagic oil",
+    "Grade": "R",
+    "Category": "Oil",
+    "Price": "13,000 gp",
+    "Page": "561"
+  },
+  {
+    "Level": 20,
+    "Type": "Consumables",
+    "Name": "Tears of death",
+    "Grade": "N",
+    "Category": "Poison",
+    "Price": "12,000 gp",
+    "Page": "553"
+  },
+  {
+    "Level": 20,
+    "Type": "Consumables",
+    "Name": "Flying blade wheel snare",
+    "Grade": "N",
+    "Category": "Snare",
+    "Price": "10,000 gp",
+    "Page": "590"
+  },
+  {
+    "Level": 20,
+    "Type": "Consumables",
+    "Name": "Instant evisceration snare",
+    "Grade": "N",
+    "Category": "Snare",
+    "Price": "10,000 gp",
+    "Page": "590"
+  },
+  {
+    "Level": 20,
+    "Type": "Consumables",
+    "Name": "Philosopher’s stone",
+    "Grade": "N",
+    "Category": "U",
+    "Price": "Tool —",
+    "Page": "554"
+  },
+  {
+    "Level": 20,
+    "Type": "Permanent Items",
+    "Name": "+3 major resilient armor",
+    "Grade": "N",
+    "Category": "Armor",
+    "Price": "70,000 gp",
+    "Page": "556"
+  },
+  {
+    "Level": 20,
+    "Type": "Permanent Items",
+    "Name": "Elven chain, high-grade",
+    "Grade": "U",
+    "Category": "Armor",
+    "Price": "52,000+ gp",
+    "Page": "555"
+  },
+  {
+    "Level": 20,
+    "Type": "Permanent Items",
+    "Name": "Orichalcum armor, high-grade",
+    "Grade": "R",
+    "Category": "Armor",
+    "Price": "55,000+ gp",
+    "Page": "556"
+  },
+  {
+    "Level": 20,
+    "Type": "Permanent Items",
+    "Name": "Resilient, major",
+    "Grade": "N",
+    "Category": "Rune",
+    "Price": "49,440 gp",
+    "Page": "581"
+  },
+  {
+    "Level": 20,
+    "Type": "Permanent Items",
+    "Name": "Staff of the magi",
+    "Grade": "R",
+    "Category": "Staff",
+    "Price": "90,000 gp",
+    "Page": "595"
+  },
+  {
+    "Level": 20,
+    "Type": "Permanent Items",
+    "Name": "Wand of slaying 9th",
+    "Grade": "N",
+    "Category": "Wand",
+    "Price": "70,000 gp",
+    "Page": "598"
+  },
+  {
+    "Level": 20,
+    "Type": "Permanent Items",
+    "Name": "Wand of smoldering fireballs 9th",
+    "Grade": "N",
+    "Category": "Wand",
+    "Price": "70,000 gp",
+    "Page": "598"
+  },
+  {
+    "Level": 20,
+    "Type": "Permanent Items",
+    "Name": "Wand of widening 9th",
+    "Grade": "N",
+    "Category": "Wand",
+    "Price": "70,000 gp",
+    "Page": "598"
+  },
+  {
+    "Level": 20,
+    "Type": "Permanent Items",
+    "Name": "Skyhammer",
+    "Grade": "R",
+    "Category": "Weapon",
+    "Price": "70,000 gp",
+    "Page": "602"
+  },
+  {
+    "Level": 20,
+    "Type": "Permanent Items",
+    "Name": "Bracers of armor type III",
+    "Grade": "N",
+    "Category": "Worn",
+    "Price": "60,000 gp",
+    "Page": "607"
+  },
+  {
+    "Level": 20,
+    "Type": "Permanent Items",
+    "Name": "Ring of spell turning",
+    "Grade": "R",
+    "Category": "Worn",
+    "Price": "67,000 gp",
+    "Page": "615"
+  },
+  {
+    "Level": 20,
+    "Type": "Permanent Items",
+    "Name": "Whisper of the first lie",
+    "Grade": "R",
+    "Category": "Worn",
+    "Price": "60,000 gp",
+    "Page": "617"
+  }
+]
