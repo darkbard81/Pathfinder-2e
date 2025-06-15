@@ -324,7 +324,7 @@
     "notes":"모든 던전 및 퀘스트 수익 중 판매 가능한 보상은 공동기금으로 전환하여 누적."
   },
   "special_flags":{
-    "slamon_event_goal":"무한의 프론티어 20층에서 슬라몬을 주시하는 존재가 기다림",
+    "slamon_event_final_goal":"무한의 프론티어 20층에서 슬라몬을 주시하는 존재가 기다림",
     "slamon_event_history":[
       {
         "timestamp":"Day 4 - 13:45",
