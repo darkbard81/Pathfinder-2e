@@ -229,6 +229,12 @@
                "current": 0
             }
          },
+          "divine_font_used": {
+            "2nd_level_heal": {
+              "max": 4,
+              "current": 0
+            }
+          },
          "focus_points_used": {
             "max": 2,
             "current": 0
