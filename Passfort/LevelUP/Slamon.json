@@ -1,7 +1,7 @@
 {
   "name": "Slamon",
   "class": "Magus",
-  "level": 4,
+  "level": 5,
   "ancestry": "Human",
   "heritage": "Versatile Heritage",
   "background": "Scholar",
@@ -19,8 +19,8 @@
   "deity": "",
   "key_ability": "Dexterity",
   "hp": {
-    "max": 44,
-    "current": 44
+    "max": 55,
+    "current": 55
   },
   "perception": "Trained",
   "saving_throws": {
@@ -34,9 +34,9 @@
     "Unarmored Defense (Trained)"
   ],
   "weapon_proficiency": [
-    "Simple Weapons (Trained)",
-    "Martial Weapons (Trained)",
-    "Unarmed attacks (Trained)"
+    "Simple Weapons (Expert)",
+    "Martial Weapons (Expert)",
+    "Unarmed attacks (Expert)"
   ],
   "spell_proficiency": [
     "Trained in arcane spell attacks",
@@ -44,10 +44,10 @@
   ],
   "adjusted_abilities": {
     "STR": 10,
-    "DEX": 14,
-    "CON": 12,
-    "INT": 18,
-    "WIS": 12,
+    "DEX": 16,
+    "CON": 14,
+    "INT": 19,
+    "WIS": 14,
     "CHA": 12
   },
   "class_features": [
@@ -58,8 +58,10 @@
   ],
   "feats": {
     "ancestry_feat": [
+      "Natural Ambition",
       "General Training",
-      "Natural Ambition"
+      "General Training",
+      "General Training"
     ],
     "background_feat": "Assurance (Arcana)",
     "class_feats": [
@@ -69,7 +71,8 @@
       "Striking Spell"
     ],
     "general_feats": [
-      "Ancestral Paragon"
+      "Ancestral Paragon",
+      "Toughness"
     ],
     "skill_feats": [
       "Recognize Spell",
@@ -77,7 +80,7 @@
     ]
   },
   "skills": {
-    "Arcana": "Trained",
+    "Arcana": "Expert",
     "Crafting": "Expert",
     "Occultism": "Trained",
     "Athletics": "Trained",
@@ -92,26 +95,35 @@
         "Shocking Grasp",
         "Grease",
         "Snowball",
-        "Burning Hands"
+        "Burning Hands",
+        "Horizon Thunder Sphere",
+        "Ray of Enfeeblement"
       ],
       "2nd_level": [
         "Acid Arrow",
         "Mirror Image"
+      ],
+      "3rd_level": [
+        "Vampiric Touch",
+        "Chromatic Ray"
       ]
     },
     "prepared": {
-      "1st_level": [
-        "Shocking Grasp"
-      ],
-      "2nd_level": []
+      "2nd_level": [
+	    "Ray of Enfeeblement",
+        "Horizon Thunder Sphere",
+	  ],
+      "3rd_level": [
+        "Vampiric Touch",
+        "Chromatic Ray"
+      ]
     },
     "known_spells": {},
     "cantrips": [
       "Detect Magic",
       "Shield",
-      "Electric Arc",
-      "Acid Splash",
-      "Light"
+      "Gouging Claw",
+      "Produce Flame"
     ],
     "focus_spells": [
       "Shielding Strike"
@@ -148,13 +160,13 @@
   "conditions": [],
   "resource_tracking": {
     "spell_slots_used": {
-      "1st_level": {
-        "max": 2,
-        "current": 2
-      },
       "2nd_level": {
         "max": 2,
-        "current": 2
+        "current": 0
+      },
+      "3rd_level": {
+        "max": 2,
+        "current": 0
       }
     },
     "focus_points": {
