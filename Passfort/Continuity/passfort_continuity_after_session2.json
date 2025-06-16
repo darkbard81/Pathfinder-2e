@@ -211,56 +211,35 @@
       "context":"리산드라가 슬라몬의 접촉에 감정적으로 동요하며 따름"
     }
   ],
-  "resource_tracking":{
-    "Slamon":{
-      "hp":44,
-      "spell_slots_used":{
-        "1st_level":{
-          "max":2,
-          "current":1
-        },
-        "2nd_level":{
-          "max":2,
-          "current":0
-        }
+  "resource_tracking": {
+    "Slamon": {
+      "hp": 55,
+      "spell_slots_used": {
+        "2nd_level": { "max": 2, "current": 0 },
+        "3rd_level": { "max": 2, "current": 0 }
       },
-      "focus_points_used":{
-        "max":1,
-        "current":0
+      "focus_points_used": { "max": 1, "current": 0 }
+    },
+    "Kitty": {
+      "hp": 63
+    },
+    "Laviata": {
+      "hp": 88,
+      "innate_spells_used": {
+        "true_strike_1st": { "max": 1, "current": 0 }
       }
     },
-    "Kitty":{
-      "hp":48
-    },
-    "Laviata":{
-      "hp":29
-    },
-    "Lissandra":{
-      "hp":44,
-      "spell_slots_used":{
-        "1st_level":{
-          "max":3,
-          "current":0
-        },
-        "2nd_level":{
-          "max":3,
-          "current":0
-        },
-        "3rd_level":{
-          "max":0,
-          "current":0
-        }
+    "Lissandra": {
+      "hp": 58,
+      "spell_slots_used": {
+        "1st_level": { "max": 3, "current": 0 },
+        "2nd_level": { "max": 3, "current": 0 },
+        "3rd_level": { "max": 2, "current": 0 }
       },
-      "divine_font_used":{
-        "2nd_level_heal":{
-          "max":4,
-          "current":0
-        }
+      "divine_font_used": {
+        "3rd_level_heal": { "max": 4, "current": 0 }
       },
-      "focus_points_used":{
-        "max":2,
-        "current":0
-      }
+      "focus_points_used": { "max": 2, "current": 0 }
     }
   },
   "shared_inventory":{
