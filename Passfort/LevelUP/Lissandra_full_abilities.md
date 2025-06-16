@@ -231,3 +231,32 @@ Attempts to stop a creature from dying; target no longer dying but remains uncon
 
 Will save or take mental damage (1d6 + mod); can’t use reactions for 1 round on fail.  
 【209:1†Pathfinder 2nd Edition-Core Rulebook.pdf】
+
+---
+
+## === Level 5 Updates (Added) ===
+
+### Class Feature – Alertness (5th level)
+Your vigilance sharpens. Your proficiency rank for **Perception** increases to **Expert**.
+
+### Additional Domain Initiates
+- **Trickery Domain** – You gain the focus spell **Sudden Shift**.
+- **Pain Domain** – You gain the focus spell **Savor the Sting**.
+
+### New Focus Spells
+| Spell | Domain | Actions | Effect |
+|-------|--------|---------|--------|
+| Sudden Shift | Trickery | Reaction | Trigger: A melee attack misses you. Step; you are **concealed** until the start of your next turn. |
+| Savor the Sting | Pain | 2 actions | Touch, Will save. Target takes 1d4 mental damage and 1d4 persistent mental damage; while the target has persistent damage, you gain a +1 status bonus to attack rolls and skill checks against it. |
+
+### Kitsune Ancestry Feats
+| Level | Feat | Effect |
+|------:|------|--------|
+| 1 | Kitsune Spell Familiarity | During daily preparation, choose **daze**, **forbidding ward**, or **ghost sound**; you can cast the chosen cantrip at will as a divine innate cantrip. |
+| 5 | Kitsune Spell Mysteries | During daily preparation, choose **bane**, **illusory object**, or **sanctuary**; you can cast the chosen spell once per day as a divine innate 1st‑level spell (Lissandra selects **sanctuary**). |
+
+### Innate Spells Gained
+- **Sanctuary** – 1st level innate spell, usable once per day (from Kitsune Spell Mysteries).
+
+### Source References
+Core Rulebook pp. 219–259, 392–397; Lost Omens Ancestry Guide pp. 120–125.
