@@ -1,7 +1,7 @@
 {
   "name": "Lissandra",
   "class": "Cleric (Cloistered Doctrine)",
-  "level": 4,
+  "level": 5,
   "ancestry": "Kitsune",
   "heritage": "Celestial Envoy",
   "background": "Field Medic",
@@ -14,10 +14,10 @@
   "deity": "Calistria",
   "key_ability": "Wisdom",
   "hp": {
-    "max": 44,
+    "max": 58,
     "current": 44
   },
-  "perception": "Trained",
+  "perception": "Expert",
   "saving_throws": {
     "fortitude": "Trained",
     "reflex": "Trained",
@@ -38,11 +38,11 @@
   ],
   "adjusted_abilities": {
     "STR": 10,
-    "DEX": 12,
-    "CON": 12,
+    "DEX": 14,
+    "CON": 14,
     "INT": 10,
-    "WIS": 18,
-    "CHA": 16
+    "WIS": 19,
+    "CHA": 18
   },
   "ancestry_features": [
     "Low-light Vision",
@@ -56,11 +56,13 @@
     "Channel Energy (Heal)",
     "Divine Spellcasting",
     "Versatile Font",
-    "Reach Spell"
+    "Reach Spell",
+    "Alertness (Perception Expert)"
   ],
   "feats": {
     "ancestry_feat": [
-      "Kitsune Spell Familiarity"
+      "Kitsune Spell Familiarity",
+      "Kitsune Spell Mysteries (Sanctuary)"
     ],
     "background_feat": "Battle Medicine",
     "general_feats": [
@@ -80,7 +82,7 @@
     "Religion": "Trained",
     "Deception": "Trained",
     "Medicine": "Trained",
-    "Intimidation": "Trained",
+    "Intimidation": "Expert",
     "Warfare Lore": "Trained"
   },
   "spells": {
@@ -112,7 +114,8 @@
       "Savor the Sting"
     ],
     "innate_spells": [
-      "Daze"
+      "Daze",
+      "Sanctuary"
     ],
     "rituals": []
   },
@@ -147,12 +150,12 @@
         "current": 0
       },
       "3rd_level": {
-        "max": 0,
+        "max": 2,
         "current": 0
       }
     },
     "divine_font_used": {
-      "2nd_level_heal": {
+      "3rd_level_heal": {
         "max": 4,
         "current": 0
       }
