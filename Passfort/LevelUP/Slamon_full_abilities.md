@@ -235,6 +235,31 @@ A critical hit destroys an image and becomes a normal hit on you.
 
 ---
 
+## GOUGING CLAW CANTRIP 1  
+ATTACK  CANTRIP  MORPH  TRANSMUTATION  
+
+Traditions arcane, primal  
+Cast [two-actions] somatic, verbal  
+Range touch  •  Targets 1 creature  
+
+You temporarily morph your limb into a clawed appendage. Make a melee spell attack roll against your target’s AC. If you hit, you deal your choice of slashing or piercing damage equal to 1d6 + your spellcasting ability modifier. On a critical success, you deal double damage plus 1d4 persistent bleed damage.  
+Heightened (+1)  The damage increases by 1d6, and the persistent bleed damage on a critical increases by 1d4.
+
+---
+
+## PRODUCE FLAME CANTRIP 1  
+ATTACK  CANTRIP  EVOCATION  FIRE  
+
+Traditions arcane, primal  
+Cast [two-actions] somatic, verbal  
+Range 30 feet  •  Targets 1 creature  
+
+A small ball of flame appears in the palm of your hand, and you lash out with it either in melee or at range. Make a spell attack roll against your target’s AC (normally ranged, though you can attack in melee against a creature in your unarmed reach). The flame deals fire damage equal to 1d4 + your spellcasting ability modifier.  
+Critical Success  The target takes double damage and 1d4 persistent fire damage.  
+Success  The target takes full damage.  
+Heightened (+1)  Increase the damage by 1d4 and the persistent damage on a critical hit by 1d4.
+
+
 ## GREASE SPELL 1
 CONJURATION  
 Traditions arcane, primal  
