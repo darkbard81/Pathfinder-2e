@@ -161,7 +161,7 @@ If cast on an attended item, it gets a Will save. You can Dismiss the spell.
 **Heightened (8th)**: You can target up to 10 creatures  
 【193:19†Pathfinder 2nd Edition-Core Rulebook.pdf】
 
---- 
+---
 
 ## 🔹 Shocking Grasp (Spell 1)
 **Traditions** arcane, primal  
@@ -233,5 +233,76 @@ An image is destroyed when hit or when an attack roll narrowly misses you.
 A critical hit destroys an image and becomes a normal hit on you.  
 【179:16†Pathfinder 2nd Edition-Core Rulebook.pdf】
 
+---
+
+## GREASE SPELL 1
+CONJURATION  
+Traditions arcane, primal  
+Cast [two-actions] somatic, verbal  
+Area 10-foot burst or one object  
+Saving Throw Reflex; Duration 1 minute  
+
+You cover the ground in a slick sheen of grease, turning the area into difficult terrain.  
+Each creature that starts its turn in the area or that enters it must attempt an Acrobatics check to Balance against your spell DC.  
+On a failure, the creature falls prone. On a critical failure, it also takes 1d4 bludgeoning damage from the hard fall.
+
+---
+
+## BURNING HANDS SPELL 1  
+EVOCATION FIRE  
+Traditions arcane, primal  
+Cast [two-actions] somatic, verbal  
+Area 15-foot cone  
+Saving Throw basic Reflex  
+
+A small cone of flame rushes from your hands, dealing 2d6 fire damage to creatures in the area.  
+Heightened (+1)  The damage increases by 2d6.
+
+---
+
+## HORIZON THUNDER SPHERE SPELL 1  
+EVOCATION ELECTRICITY  
+Traditions arcane, primal  
+Cast [two-actions] somatic, verbal  
+Range 30 feet; Targets 1 creature  
+Saving Throw basic Reflex  
+
+You manifest a sphere of swirling thunder and hurl it at a distant target.  
+The sphere deals 1d6 electricity damage.  
+Critical Success  The target is unaffected.  
+Success  The target takes half damage.  
+Failure  The target takes full damage and is deafened for 1 round.  
+Critical Failure  The target takes double damage and is deafened for 1 minute.  
+Heightened (+1)  Increase the damage by 1d6.
+
+---
+
+## RAY OF ENFEEBLEMENT SPELL 1  
+ATTACK NECROMANCY  
+Traditions arcane, divine, occult  
+Cast [two-actions] somatic, verbal  
+Range 30 feet; Targets 1 creature  
+Saving Throw Fortitude; Duration 1 minute  
+
+A ray that saps a foe’s strength flashes from your hand. Attempt a ranged spell attack.  
+On a hit, the creature attempts a Fortitude save.  
+Critical Success  The target is unaffected.  
+Success  The target becomes enfeebled 1.  
+Failure  The target becomes enfeebled 2.  
+Critical Failure  The target becomes enfeebled 3.
+
+---
+
+## VAMPIRIC TOUCH SPELL 3  
+DEATH NECROMANCY NEGATIVE  
+Traditions arcane, divine, occult  
+Cast [two-actions] somatic, verbal  
+Range touch; Targets 1 living creature  
+Saving Throw basic Fortitude  
+
+Your touch leeches the lifeblood out of a target to empower yourself.  
+You deal 6d6 negative damage to the target and gain temporary Hit Points equal to half the damage the target takes.  
+You lose any remaining temporary Hit Points after 1 minute.  
+Heightened (+1)  Increase the damage by 2d6.
 
 ---
