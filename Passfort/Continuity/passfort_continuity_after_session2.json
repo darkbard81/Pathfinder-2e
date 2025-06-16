@@ -264,35 +264,10 @@
     }
   },
   "shared_inventory":{
-    "items":[
-      "Scroll of Fireball (3rd Level)",
-      "Lesser Healing Potion",
-      "Barkskin Potion",
-      "Elixir of Life (Moderate) x2",
-      "Scroll of Resist Energy (3rd Level)",
-      "Cold Iron Dagger",
-      "Wounding Rune",
-      "Haste Potion (Moderate)",
-      "Scroll of Dispel Magic (3rd level)",
-      "Scroll of Resist Energy",
-      "Bracers of Armor (+1)",
-      "Scroll of Mirror Image",
-      "Disjunction Core Fragment (RP)",
-      "Magically Conductive Shard x2  (RP)",
-      "Elixir of Life (Moderate)",
-      "Scroll of Haste (3rd Level)",
-      "Bloodletting Needle",
-      "Scroll of Haste (3rd Level)",
-      "Greater Healing Potion",
-      "Cold Iron Dagger",
-      "Lesser Elemental Gem (Lightning)",
-      "Ring of Energy Resistance (Minor)",
-      "Cloak of Elvenkind",
-      "Elixir of Life (Greater)"
-    ],
+    "items":[],
     "coin_pouch":{
-      "gp":56,
-      "sp":18,
+      "gp":701,
+      "sp":22,
       "cp":0
     }
   },
