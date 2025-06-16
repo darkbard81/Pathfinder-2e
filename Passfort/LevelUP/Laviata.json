@@ -1,7 +1,7 @@
 {
   "name": "Laviata",
   "class": "Barbarian (Giant Instinct)",
-  "level": 4,
+  "level": 5,
   "ancestry": "Android",
   "heritage": "Warrior Android",
   "background": "Warrior",
@@ -14,8 +14,8 @@
     "Draconic"
   ],
   "hp": {
-    "max": 68,
-    "current": 68
+    "max": 88,
+    "current": 88
   },
   "perception": "Expert",
   "saving_throws": {
@@ -29,16 +29,16 @@
     "Unarmored Defense (Trained)"
   ],
   "weapon_proficiency": [
-    "Simple Weapons (Trained)",
-    "Martial Weapons (Trained)",
-    "Large Greatsword (Trained)"
+    "Simple Weapons (Expert)",
+    "Martial Weapons (Expert)",
+    "Large Greatsword (Expert)"
   ],
   "adjusted_abilities": {
     "STR": 18,
-    "DEX": 14,
-    "CON": 14,
-    "INT": 12,
-    "WIS": 12,
+    "DEX": 16,
+    "CON": 16,
+    "INT": 14,
+    "WIS": 14,
     "CHA": 8
   },
   "ancestry_features": [
@@ -53,11 +53,13 @@
     "Rage",
     "Instinct: Giant",
     "Titan Mauler",
-    "Deny Advantage"
+    "Deny Advantage",
+    "Brutality"
   ],
   "feats": {
     "ancestry_feat": [
-      "Emotionless"
+      "Emotionless",
+      "Advanced Targeting System"
     ],
     "background_feat": "Intimidating Glare",
     "general_feats": [
@@ -74,7 +76,7 @@
     ]
   },
   "skills": {
-    "Athletics": "Trained",
+    "Athletics": "Expert",
     "Intimidation": "Trained",
     "Warfare Lore": "Trained",
     "Acrobatics": "Trained"
@@ -97,7 +99,7 @@
       "cp": 0
     },
     "other": [
-      "Adventurer’s Pack"
+      "Adventurer's Pack"
     ]
   }
 }
