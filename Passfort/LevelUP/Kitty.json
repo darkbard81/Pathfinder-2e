@@ -102,7 +102,9 @@
     "armor": [
       "Leather Armor"
     ],
-    "worn_items": [],
+    "worn_items": [
+      "Cloak of Elvenkind"
+    ],
     "consumables": [
       "Potion of Invisibility (Lesser)"
     ],
