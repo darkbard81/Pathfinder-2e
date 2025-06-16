@@ -34,25 +34,30 @@
 
 ## ⚔️ 라비아타 (5 레벨) 전투 핵심 메모  
 
-| 단계 | 행동 지침 | 룰 근거 |
-|------|-----------|---------|
-| **전투 개시 직전** | • **Advanced Targeting System** 발동 → **_true strike_** 1 회/일 (Somatic 1). 다음 1번 공격을 2번 굴려 높은 값 사용. | **Lost Omens Ancestry Guide** p 73 |
-| **1라운드 첫 행동** | **Rage** (1) : 임시 HP + (CL+CON), AC –1, **Giant Instinct – Titan Mauler**로 *Large Greatsword* 추가 피해 **+6** & **clumsy 1**. | **Core Rulebook** p 84 (Rage), p 85 (Titan Mauler) |
-| **돌격 루틴** | • **Sudden Charge** (2, *flourish*) → 2 × Stride 후 Strike.<br>• true strike로 명중률 극대화.<br>• 두 적이 인접해 있으면 **Swipe**(2, *flourish*)로 한 번 굴림으로 둘 모두 타격. | CRB p 88 (Sudden Charge), p 89 (Swipe) |
-| **지속 전투** | • **Brutality**(클래스 기능) : 무기·맨손 숙련 **Expert**, **소드 치명 전문화**(격노 중 크리 → 대상 *flat-footed* 1R).<br>• **Second Wind**(반응)으로 전투 중 2번째 Rage 사용 가능 (종료 시 *fatigued* 10 분). | CRB p 85 (Brutality), p 88 (Second Wind) |
-| **제압 · 기동** | • **Titan Wrestler**(Skill feat) – 대상 크기+2까지 Grapple / Shove / Trip.<br>• **Quick Jump**(Skill feat) – High·Long Jump를 1 행동으로. | CRB p 266 |
-| **보조 행동** | • **Intimidating Glare**(배경 feat) – 언어 없이 Demoralize.<br>• 성공 시 파티원(특히 키티)의 Dread Striker 연계. | CRB p 250 |
+| 시점 | 행동·결정 | 대표 룰 근거 |
+|------|-----------|--------------|
+| **전투 개시 직전** | ・ **Rage 준비**만 하며 돌입하거나, 위치 조정용 Stride/Step 등만 사용. | CRB pp. 84–85 |
+| **① “돌격 개시” 루트**<br>*(Sudden Charge 사용, **Open**)* | 1. **Rage** (1 행동)<br>2. **Sudden Charge** *(2 행동, Flourish, **Open**)* → 2 × Stride 후 Strike.<br>  • **Brutality** 효과로 숙련 **Expert** + 소드 치명 전문화(*flat-footed*).<br>3. 남은 행동 없음. | Sudden Charge — CRB p 88 (Open) |
+| **② “정밀 강타” 루트**<br>*(true strike 활용)* | 1. **Advanced Targeting System** → **true strike** 1 행동.<br>2. **Rage** (1).<br>3. **Stride** 또는 **Swipe**(2 행동) / **Strike**(1) 로 공격.<br>  • true strike 로 첫 공격 두 번 굴려 높은 값 사용. | LOAG p 73 (ATS) · CRB pp. 84–85 |
+| **지속 전투 도구** | ・ **Swipe** *(Flourish)* : 인접 2 적 동시 타격.<br>・ **Titan Wrestler** : 대상 크기 + 2까지 Grapple/Shove/Trip.<br>・ **Quick Jump** : High/Long Jump 1 행동.<br>・ **Second Wind**(반응) : 전투 중 2번째 Rage 허용 (*종료 후 fatigued* 10 분). | Swipe — CRB p 89 · TW/QJ — CRB p 266 · Second Wind — CRB p 88 |
+| **보조 행동** | ・ **Intimidating Glare**(언어 없는 Demoralize) → 파티에 *frightened* 부여, 키티의 Dread Striker와 시너지. | CRB p 250 |
 
-### 전술 팁
-* **선제 버스트** _LOAG_ 특기로 true strike 선적용 → Rage → Sudden Charge 순으로 **치명 크리** 노리기.  
-* **치명 효과 공유** Brutality의 **소드 전문화**로 만든 *flat-footed* 적에게 키티의 Sneak Attack 2d6 시너지.  
-* **군중 제어** Titan Wrestler로 대형 적을 Grapple → Swipe로 주변 타격, Shove로 낙사 유도.  
-* **Rage 관리** Second Wind은 장기전·보스전에서 사용. _Fatigued_ 패널티(–1 AC/체크) 고려.  
-* **원거리 상황** true strike를 쓰지 않은 턴엔 **Intimidating Glare → Demoralize**로 **frightened** 부여, 팀 전체 DPR 지원.
+#### Open trait 정리
+* **Open** 태그가 붙은 행동(예: Sudden Charge)은 **“해당 턴의 첫 번째 공격 관련 행동”**만으로 사용 가능.  
+  → 먼저 true strike·Stride 같은 일반 행동을 하면 **Sudden Charge를 그 턴에 쓸 수 없음**.  
+  → 반대로 Sudden Charge(2 행동)를 쓰고 난 뒤에는 Open 제한이 해제되므로, 남은 **하나의 행동**으로 Intimidate, Step 등은 수행 가능.
+
+#### 전술 선택 가이드
+| 상황 | 추천 루트 | 이유 |
+|------|-----------|------|
+| **먼 거리 돌입** | **① 돌격 개시** | 2×Stride로 즉시 교전 거리 확보 + 치명 전문화(*flat-footed*) |
+| **근·중거리 시작 / 정확도 중시** | **② 정밀 강타** | true strike로 첫 일격 크리 기대치 극대화 |
+| **다수 인접** | Rage → **Swipe** (*Flourish*) | true strike 대체로 광역 타격 |
 
 > **참고**  
-> *Titan Mauler* 추가 피해와 **치명 전문화 적용**은 **“격노 중”**에만 활성화됩니다.  
-> _Large Greatsword_ 사용 시 **clumsy 1**은 전투 내내 유지되며 해제할 수 없습니다.
+> • *Large Greatsword* 사용 시 **clumsy 1**(AC·Ref –1) 상시.  
+> • Brutality의 Expert 숙련·치명 전문화 효과는 **Rage 중**에만 적용됩니다.
+
 
 ---
 
