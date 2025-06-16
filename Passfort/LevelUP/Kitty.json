@@ -1,7 +1,7 @@
 {
   "name": "Kitty",
   "class": "Rogue",
-  "level": 4,
+  "level": 5,
   "ancestry": "Catfolk",
   "heritage": "Jungle Catfolk",
   "background": "Hunter",
@@ -17,8 +17,8 @@
   "deity": "",
   "key_ability": "DEX",
   "hp": {
-    "max": 48,
-    "current": 48
+    "max": 63,
+    "current": 63
   },
   "perception": "Trained",
   "saving_throws": {
@@ -37,18 +37,20 @@
   "spell_proficiency": "None",
   "adjusted_abilities": {
     "STR": 10,
-    "DEX": 18,
-    "CON": 14,
-    "INT": 14,
-    "WIS": 10,
+    "DEX": 19,
+    "CON": 16,
+    "INT": 16,
+    "WIS": 12,
     "CHA": 12
   },
   "class_features": [
     "Sneak Attack 1d6",
     "Surprise Attack",
-    "Rogue’s Racket (Thief)",
+    "Rogue's Racket (Thief)",
     "Rogue Class DC (Trained)",
-    "Deny Advantage"
+    "Deny Advantage",
+    "Sneak Attack 2d6",
+    "Weapon Tricks"
   ],
   "ancestry_features": [
     "Low-Light Vision",
@@ -59,7 +61,8 @@
   ],
   "feats": {
     "ancestry_feat": [
-      "Cat’s Luck"
+      "Cat's Luck",
+      "Lucky Break"
     ],
     "background_feat": "Survey Wildlife",
     "class_feats": [
@@ -72,14 +75,15 @@
     ],
     "skill_feats": [
       "Tumble Behind",
-      "Quiet Allies"
+      "Quiet Allies",
+      "Assurance (Stealth)"
     ]
   },
   "skills": {
     "Acrobatics": "Expert",
     "Stealth": "Expert",
     "Thievery": "Expert",
-    "Athletics": "Trained",
+    "Athletics": "Expert",
     "Nature": "Trained",
     "Survival": "Trained",
     "Deception": "Trained",
@@ -112,7 +116,7 @@
       "cp": 0
     },
     "other": [
-      "Adventurer’s Pack"
+      "Adventurer's Pack"
     ]
   },
   "conditions": [],
