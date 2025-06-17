@@ -1,112 +1,89 @@
 {
   "time_track": {
-    "timestamp": "Day 7 - 08:32",
-    "fatigue_check_elapsed_minutes": 395,
+    "timestamp": "Day 7 - 10:10",
+    "fatigue_check_elapsed_minutes": 493,
     "hunger_check_elapsed_minutes": 0,
-    "emotion_check_elapsed_minutes": 1270
+    "emotion_check_elapsed_minutes": 0
   },
   "shared_inventory": {
-    "gp": 861,
-    "items": [
-      "Striking Rune",
-      "Ring of Minor Arcana",
-      "Talisman: Bloodletting Needle",
-      "Wand of Magic Missile (1st)",
-      "Wand of Magic Missile (1st)",
-      "Bracers of Armor +1",
-      "Healer’s Gloves",
-      "Cloak of Elvenkind",
-      "Tracker’s Goggles, Greater"
-    ]
+    "gp": 1059,
+    "items": []
   },
-  "npc_goals": [
-    {
-      "npc_name": "Lissandra",
-	  "personality": "정중하되 매혹적이고 절제된 유혹자. 언제나 예를 갖추지만, 그 말투 속엔 주도권을 쥐려는 세련된 지배 욕이 숨어 있음.",
-	  "relational_disposition": "여전히 철저히 감정을 숨기려고 하지만 어설프고, 상대에게 일시적으로 주도권을 넘겨주는 연기된 복종을 허용.",
-      "encoding_type": "base64",
-      "final_goal_encoded": "SGFybmVzcyBvciByZWxlYXNlIHRoZSBwb3dlciBvZiBhbiBhbmNpZW50IHJlbGlj"
-    },
-    {
-      "npc_name": "Laviata",
-	  "personality": "판단은 명확하고 분석적으로 이루어지며, 임무 효율을 중시함. 단독 행동보다 상호 보완적 구조를 선호.",
-	  "relational_disposition": "평소보다 다소 낮은 목소리 톤, 주기적인 상태 점검 요청, 함께 있을 시간 요청 등의 형태로 드러남.",
-      "encoding_type": "base64",
-      "final_goal_encoded": "U3VibWxpbmUgb2YgdGhlIEVuY2hhbnQ="
-    },
-    {
-      "npc_name": "Kitty",
-	  "personality": "귀찮음에 약하고, 감정 표현이 빠르고 솔직함. 다만 겉보기와는 다르게 약한 대상에는 연민을 품기도 함.",
-	  "relational_disposition": "관심 표현은 꼬리, 자기 영역 공유, 할퀴기, 물건 훔쳐다 놓기 등 비언어적.",
-      "encoding_type": "base64",
-      "final_goal_encoded": "Q29uZXF1ZXN0IG9mIHRoZSBTbGltb24="
-    }
-  ],
   "emotion_state": [
     {
-      "from": "Slamon",
-      "to": "Kitty",
+      "from": "Kitty",
+      "to": "Slamon",
       "stage": "Affection",
       "last_updated": "Day 6 - 13:30",
       "last_trigger": "도둑 길드에서 해방을 도와준 슬라몬에게 호감"
     },
     {
-      "from": "Slamon",
-      "to": "Lissandra",
+      "from": "Lissandra",
+      "to": "Slamon",
       "stage": "Affection",
       "last_updated": "Day 6 - 12:30",
       "last_trigger": "슬라몬의 신앙에 대한 정서적 배려"
     },
     {
-      "from": "Slamon",
-      "to": "Laviata",
-      "stage": "Stability",
-      "last_updated": "Day 6 - 15:00",
-      "last_trigger": "슬라몬의 부상 확인과 신뢰 표현"
+      "from": "Laviata",
+      "to": "Slamon",
+      "stage": "Affection",
+      "last_updated": "Day 7 - 10:10",
+      "last_trigger": "슬라몬이 '감사'라는 개념으로 라비아타의 존재를 정식 인정"
     }
   ],
   "emotion_log": [
     {
       "log_id": 1,
       "timestamp": "Day 2 - 19:50",
-      "from": "Slamon",
-      "to": "Kitty",
+      "from": "Kitty",
+      "to": "Slamon",
       "trigger": "슬라몬의 감사 및 공동 목표 제안",
       "context": "키티가 '우리 집' 목표에 감정적으로 반응하며 충성심을 드러냄"
     },
     {
       "log_id": 2,
       "timestamp": "Day 2 - 19:50",
-      "from": "Slamon",
-      "to": "Lissandra",
+      "from": "Lissandra",
+      "to": "Slamon",
       "trigger": "슬라몬의 장기 동행 의지 선언",
       "context": "리산드라가 이를 '기다려온 말'이라 표현하며 감정적으로 따름"
     },
     {
       "log_id": 3,
       "timestamp": "Day 6 - 12:30",
-      "from": "Slamon",
-      "to": "Lissandra",
+      "from": "Lissandra",
+      "to": "Slamon",
       "trigger": "슬라몬의 신앙에 대한 정서적 배려",
       "context": "리산드라가 슬라몬의 말에 신앙에 대한 믿음을 회복"
     },
     {
       "log_id": 4,
       "timestamp": "Day 6 - 13:30",
-      "from": "Slamon",
-      "to": "Kitty",
+      "from": "Kitty",
+      "to": "Slamon",
       "trigger": "슬라몬이 도둑 길드에 직접 100gp를 지불하며 키티를 '우리의 소중한 생존 전문가'로 명시",
       "context": "키티는 별다른 반응 없이 옆에 서 있었지만, 꼬리가 감지가 가르치게 움직였다"
     },
     {
       "log_id": 5,
       "timestamp": "Day 6 - 15:00",
-      "from": "Slamon",
-      "to": "Laviata",
+      "from": "Laviata",
+      "to": "Slamon",
       "trigger": "슬라몬이 라비아타에게 보호 대상으로 지정된 이유를 묻고, 감사의 감정을 명확하게 표현함",
       "context": "라비아타는 기계적 어조를 유지하다가 끝에 인간적인 감정 표현으로 '나도 고맙습니다'라고 말함"
+    },
+    {
+      "log_id": 6,
+      "timestamp": "Day 7 - 10:10",
+      "from": "Laviata",
+      "to": "Slamon",
+      "trigger": "슬라몬이 ‘감사’라는 개념으로 라비아타의 존재를 정식 인정",
+      "context": "라비아타가 이를 ‘인간으로부터의 긍정 인식’으로 받아들이고, 자발적으로 곁에 머무를 의사를 표현함. (사전 예열 감정 발생)"
     }
   ],
-  "recent_summary": "5층 SL-Δ 신호 구조 확인 후 워프마커 귀환. 이어진 탐색에서 세 번의 전투 및 보물상자 획득 후 푸크들의 요리솥에서 회복 예정.",
+  "recent_summary": "포리프 하우스에서 전리품 분배와 첫 공식 정착 선언이 이루어졌다. 라비아타,리산드라,키티는 집에 대한 감정적 반응을 보였다. 슬라몬은 모두에게 당분간 이 거점에서 휴식을 취하며 차후의 목표를 개별적으로 숙고할 것을 제안했다.키티와 리산드라는 식사 전 복도에서 마주쳤으며, 긴장과 탐색의 감정 흐름을 남긴 채 각자의 방으로 돌아갔다. 그 사이 라비아타는 슬라몬에게 감정을 내비친다.",
   "current_summary": ""
 }
+
+  
