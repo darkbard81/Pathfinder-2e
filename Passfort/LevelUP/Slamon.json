@@ -139,7 +139,9 @@
     "armor": [
       "Leather Armor"
     ],
-    "worn_items": [],
+    "worn_items": [
+	    "Ring of Minor Arcana"
+    ],
     "consumables": [
       "Minor Healing Potion",
       "Wand of Heal (1st Level)"
