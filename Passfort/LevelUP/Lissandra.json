@@ -126,7 +126,9 @@
     "armor": [
       "Robe"
     ],
-    "worn_items": [],
+    "worn_items": [
+      "Bracers of Armor +1"
+    ],
     "consumables": [],
     "tools": [],
     "coin_pouch": {
