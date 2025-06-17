@@ -1,0 +1,201 @@
+{
+  "$schema":"http://json-schema.org/draft-07/schema#",
+  "title":"Session_Tracking",
+  "type":"object",
+  "properties":{
+    "time_track":{
+      "type":"object",
+      "properties":{
+        "timestamp":{
+          "type":"string",
+          "description":"In-game current time. Example: Day 7 - 07:30"
+        },
+        "fatigue_check_elapsed_minutes":{
+          "type":"integer",
+          "description":"Minutes elapsed since last sleep/rest."
+        },
+        "hunger_check_elapsed_minutes":{
+          "type":"integer",
+          "description":"Minutes elapsed since last meal."
+        },
+        "emotion_check_elapsed_minutes":{
+          "type":"integer",
+          "description":"Minutes elapsed since the last significant emotional event."
+        }
+      },
+      "required":[
+        "timestamp",
+        "fatigue_check_elapsed_minutes",
+        "hunger_check_elapsed_minutes",
+        "emotion_check_elapsed_minutes"
+      ]
+    },
+    "shared_inventory":{
+      "type":"object",
+      "properties":{
+        "items":{
+          "type":"array",
+          "description":"List of shared items.",
+          "items":{
+            "type":"string"
+          }
+        },
+        "gp":{
+          "type":"integer",
+          "description":"Amount of shared gold pieces (gp)."
+        }
+      },
+      "required":[
+        "items",
+        "gp"
+      ]
+    },
+    "npc_goals":{
+      "type":"array",
+      "description":"A list of NPCs and their encoded final goals.",
+      "items":{
+        "type":"object",
+        "properties":{
+          "npc_name":{
+            "type":"string",
+            "description":"The name of the NPC."
+          },
+		  "personality":{
+            "type":"string",
+            "description":"The unique set of characteristics and traits that distinguish one person from another, encompassing their thoughts, feelings, and behaviors."
+		  },
+		  "relational_disposition":{
+            "type":"string",
+            "description":"Relationship tendencies with someone you have feelings for more than Love"
+		  },
+          "encoding_type":{
+            "type":"string",
+            "description":"The encoding type used for the final goal (e.g., base64)."
+          },
+          "final_goal_encoded":{
+            "type":"string",
+            "description":"The NPC's final goal, encoded in the specified encoding_type."
+          }
+        },
+        "required":[
+          "npc_name",
+		  "personality",
+		  "relational_disposition",
+          "encoding_type",
+          "final_goal_encoded"
+        ]
+      }
+    },
+    "emotion_state":{
+      "type":"array",
+      "description":"A list of current emotional states between characters.",
+      "items":{
+        "type":"object",
+        "properties":{
+          "from":{
+            "type":"string",
+            "description":"Name of the character or NPC expressing the emotion."
+          },
+          "to":{
+            "type":"string",
+            "description":"Name of the character or NPC who is the target of the emotion."
+          },
+          "stage":{
+            "type":"string",
+            "description":"Current emotional stage (relationship status). Must be one of the predefined values.",
+            "enum":[
+              "Indifference",
+              "Recognition",
+              "Hostility",
+              "Stability",
+              "Confusion",
+              "Anxiety",
+              "Affection",
+              "Love",
+              "Possessiveness",
+              "Overprotectiveness",
+              "Jealousy",
+              "Dependency",
+              "Reverence"
+            ]
+          },
+          "last_updated":{
+            "type":"string",
+            "description":"The last in-game timestamp when this emotion state was updated. Example: Day 2 - 19:50"
+          },
+          "last_trigger":{
+            "type":"string",
+            "description":"A short description of the most recent event or trigger that changed this state."
+          }
+        },
+        "required":[
+          "from",
+          "to",
+          "stage",
+          "last_updated",
+          "last_trigger"
+        ]
+      }
+    },
+    "emotion_log":{
+      "type":"array",
+      "description":"Chronological log of all significant emotional events between characters.",
+      "items":{
+        "type":"object",
+        "properties":{
+          "log_id":{
+            "type":"integer",
+            "description":"A unique identifier for this log entry."
+          },
+          "timestamp":{
+            "type":"string",
+            "description":"The in-game time when this emotional event occurred. Example: Day 2 - 19:50"
+          },
+          "from":{
+            "type":"string",
+            "description":"Name of the character or NPC initiating the emotion or event."
+          },
+          "to":{
+            "type":"string",
+            "description":"Name of the character or NPC who is the recipient of the emotion or event."
+          },
+          "trigger":{
+            "type":"string",
+            "description":"The specific action or event that caused the emotion change."
+          },
+          "context":{
+            "type":"string",
+            "description":"Additional context or explanation for the emotional event."
+          }
+        },
+        "required":[
+          "log_id",
+          "timestamp",
+          "from",
+          "to",
+          "trigger",
+          "context"
+        ]
+      }
+    },
+	"recent_summary": {
+      "type": "string",
+      "description": "A brief summary of recent session events or story progress."
+	  "readOnly": true
+    },
+	"current_summary": {
+      "type": "string",
+      "description": "A brief summary of current session events or story progress."
+	  "readOnly": false
+    }
+  },
+  "required":[
+    "time_track",
+    "shared_inventory",
+    "npc_goals",
+    "emotion_state",
+	"emotion_log",
+	"recent_summary",
+	"current_summary"
+  ]
+}
