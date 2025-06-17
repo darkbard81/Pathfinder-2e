@@ -365,7 +365,7 @@
     "Name": "Tindertwig",
     "Grade": "N",
     "Category": "Tool",
-    "Price": "2 sp",
+    "Price": "1 gp",
     "Page": "554"
   },
   {
@@ -671,7 +671,7 @@
     "Name": "Cold iron weapon, low-grade",
     "Grade": "N",
     "Category": "Weapon",
-    "Price": "40+ gp",
+    "Price": "40 gp",
     "Page": "599"
   },
   {
@@ -680,7 +680,7 @@
     "Name": "Silver weapon, low-grade",
     "Grade": "N",
     "Category": "Weapon",
-    "Price": "40+ gp",
+    "Price": "40 gp",
     "Page": "599"
   },
   {
@@ -1562,7 +1562,7 @@
     "Name": "Cold iron armor, low-grade",
     "Grade": "N",
     "Category": "Armor",
-    "Price": "140+ gp",
+    "Price": "140 gp",
     "Page": "555"
   },
   {
@@ -1571,7 +1571,7 @@
     "Name": "Silver armor, low-grade",
     "Grade": "N",
     "Category": "Armor",
-    "Price": "140+ gp",
+    "Price": "140 gp",
     "Page": "556"
   },
   {
@@ -3461,7 +3461,7 @@
     "Name": "Cold iron weapon, standard-grade",
     "Grade": "N",
     "Category": "Weapon",
-    "Price": "880+ gp",
+    "Price": "880 gp",
     "Page": "599"
   },
   {
@@ -3470,7 +3470,7 @@
     "Name": "Silver weapon, standard-grade",
     "Grade": "N",
     "Category": "Weapon",
-    "Price": "880+ gp",
+    "Price": "880 gp",
     "Page": "599"
   },
   {
@@ -3767,7 +3767,7 @@
     "Name": "Cold iron armor, standard-grade",
     "Grade": "N",
     "Category": "Armor",
-    "Price": "1,200+ gp",
+    "Price": "1,200 gp",
     "Page": "555"
   },
   {
@@ -3776,7 +3776,7 @@
     "Name": "Silver armor, standard-grade",
     "Grade": "N",
     "Category": "Armor",
-    "Price": "1,200+ gp",
+    "Price": "1,200 gp",
     "Page": "556"
   },
   {
@@ -3893,7 +3893,7 @@
     "Name": "Adamantine weapon, standard-grade",
     "Grade": "U",
     "Category": "Weapon",
-    "Price": "1,400+ gp",
+    "Price": "1,400 gp",
     "Page": "599"
   },
   {
@@ -3902,7 +3902,7 @@
     "Name": "Darkwood weapon, standard-grade",
     "Grade": "U",
     "Category": "Weapon",
-    "Price": "1,400+ gp",
+    "Price": "1,400 gp",
     "Page": "599"
   },
   {
@@ -3911,7 +3911,7 @@
     "Name": "Mithral weapon, standard-grade",
     "Grade": "U",
     "Category": "Weapon",
-    "Price": "1,400+ gp",
+    "Price": "1,400 gp",
     "Page": "599"
   },
   {
@@ -4154,7 +4154,7 @@
     "Name": "Adamantine armor, standard-grade",
     "Grade": "U",
     "Category": "Armor",
-    "Price": "1,600+ gp",
+    "Price": "1,600 gp",
     "Page": "555"
   },
   {
@@ -4163,7 +4163,7 @@
     "Name": "Darkwood armor, standard-grade",
     "Grade": "U",
     "Category": "Armor",
-    "Price": "1,600+ gp",
+    "Price": "1,600 gp",
     "Page": "555"
   },
   {
@@ -4172,7 +4172,7 @@
     "Name": "Dragonhide armor, standard-grade",
     "Grade": "U",
     "Category": "Armor",
-    "Price": "1,600+ gp",
+    "Price": "1,600 gp",
     "Page": "555"
   },
   {
@@ -4181,7 +4181,7 @@
     "Name": "Mithral armor, standard-grade",
     "Grade": "U",
     "Category": "Armor",
-    "Price": "1,600+ gp",
+    "Price": "1,600 gp",
     "Page": "556"
   },
   {
@@ -5450,7 +5450,7 @@
     "Name": "Cold iron weapon, high-grade",
     "Grade": "N",
     "Category": "Weapon",
-    "Price": "9,000+ gp",
+    "Price": "9,000 gp",
     "Page": "599"
   },
   {
@@ -5468,7 +5468,7 @@
     "Name": "Silver weapon, high-grade",
     "Grade": "N",
     "Category": "Weapon",
-    "Price": "9,000+ gp",
+    "Price": "9,000 gp",
     "Page": "599"
   },
   {
@@ -5792,7 +5792,7 @@
     "Name": "Adamantine weapon, high-grade",
     "Grade": "U",
     "Category": "Weapon",
-    "Price": "13,500+ gp",
+    "Price": "13,500 gp",
     "Page": "599"
   },
   {
@@ -5801,7 +5801,7 @@
     "Name": "Darkwood weapon, high-grade",
     "Grade": "U",
     "Category": "Weapon",
-    "Price": "13,500+ gp",
+    "Price": "13,500 gp",
     "Page": "599"
   },
   {
@@ -5828,7 +5828,7 @@
     "Name": "Mithral weapon, high-grade",
     "Grade": "U",
     "Category": "Weapon",
-    "Price": "13,500+ gp",
+    "Price": "13,500 gp",
     "Page": "599"
   },
   {
@@ -5972,7 +5972,7 @@
     "Name": "Cold iron armor, high-grade",
     "Grade": "N",
     "Category": "Armor",
-    "Price": "20,000+ gp",
+    "Price": "20,000 gp",
     "Page": "555"
   },
   {
@@ -5981,7 +5981,7 @@
     "Name": "Silver armor, high-grade",
     "Grade": "N",
     "Category": "Armor",
-    "Price": "20,000+ gp",
+    "Price": "20,000 gp",
     "Page": "556"
   },
   {
@@ -6080,7 +6080,7 @@
     "Name": "Orichalcum weapon, high-grade",
     "Grade": "R",
     "Category": "Weapon",
-    "Price": "22,500+ gp",
+    "Price": "22,500 gp",
     "Page": "599"
   },
   {
@@ -6161,7 +6161,7 @@
     "Name": "Adamantine armor, high-grade",
     "Grade": "U",
     "Category": "Armor",
-    "Price": "32,000+ gp",
+    "Price": "32,000 gp",
     "Page": "555"
   },
   {
@@ -6170,7 +6170,7 @@
     "Name": "Darkwood armor, high-grade",
     "Grade": "U",
     "Category": "Armor",
-    "Price": "32,000+ gp",
+    "Price": "32,000 gp",
     "Page": "555"
   },
   {
@@ -6179,7 +6179,7 @@
     "Name": "Dragonhide armor, high-grade",
     "Grade": "U",
     "Category": "Armor",
-    "Price": "32,000+ gp",
+    "Price": "32,000 gp",
     "Page": "555"
   },
   {
@@ -6188,7 +6188,7 @@
     "Name": "Mithral armor, high-grade",
     "Grade": "U",
     "Category": "Armor",
-    "Price": "32,000+ gp",
+    "Price": "32,000 gp",
     "Page": "556"
   },
   {
@@ -6377,7 +6377,7 @@
     "Name": "Elven chain, high-grade",
     "Grade": "U",
     "Category": "Armor",
-    "Price": "52,000+ gp",
+    "Price": "52,000 gp",
     "Page": "555"
   },
   {
@@ -6386,7 +6386,7 @@
     "Name": "Orichalcum armor, high-grade",
     "Grade": "R",
     "Category": "Armor",
-    "Price": "55,000+ gp",
+    "Price": "55,000 gp",
     "Page": "556"
   },
   {
