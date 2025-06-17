@@ -1,0 +1,6260 @@
+[
+  {
+    "Creature": "Bloodseeker",
+    "Level": -1,
+    "Page": 42,
+    "Book": "Bestiary1"
+  },
+  {
+    "Creature": "Eagle",
+    "Level": -1,
+    "Page": 141,
+    "Book": "Bestiary1"
+  },
+  {
+    "Creature": "Flash beetle",
+    "Level": -1,
+    "Page": 41,
+    "Book": "Bestiary1"
+  },
+  {
+    "Creature": "Giant centipede",
+    "Level": -1,
+    "Page": 61,
+    "Book": "Bestiary1"
+  },
+  {
+    "Creature": "Giant rat",
+    "Level": -1,
+    "Page": 276,
+    "Book": "Bestiary1"
+  },
+  {
+    "Creature": "Goblin warrior",
+    "Level": -1,
+    "Page": 180,
+    "Book": "Bestiary1"
+  },
+  {
+    "Creature": "Guard dog",
+    "Level": -1,
+    "Page": 102,
+    "Book": "Bestiary1"
+  },
+  {
+    "Creature": "Kobold warrior",
+    "Level": -1,
+    "Page": 212,
+    "Book": "Bestiary1"
+  },
+  {
+    "Creature": "Skeleton guard",
+    "Level": -1,
+    "Page": 298,
+    "Book": "Bestiary1"
+  },
+  {
+    "Creature": "Sprite",
+    "Level": -1,
+    "Page": 308,
+    "Book": "Bestiary1"
+  },
+  {
+    "Creature": "Viper",
+    "Level": -1,
+    "Page": 302,
+    "Book": "Bestiary1"
+  },
+  {
+    "Creature": "Zombie shambler",
+    "Level": -1,
+    "Page": 340,
+    "Book": "Bestiary1"
+  },
+  {
+    "Creature": "Duergar sharpshooter",
+    "Level": 0,
+    "Page": 138,
+    "Book": "Bestiary1"
+  },
+  {
+    "Creature": "Homunculus",
+    "Level": 0,
+    "Page": 208,
+    "Book": "Bestiary1"
+  },
+  {
+    "Creature": "Leaf leshy",
+    "Level": 0,
+    "Page": 218,
+    "Book": "Bestiary1"
+  },
+  {
+    "Creature": "Lemure",
+    "Level": 0,
+    "Page": 86,
+    "Book": "Bestiary1"
+  },
+  {
+    "Creature": "Orc brute",
+    "Level": 0,
+    "Page": 256,
+    "Book": "Bestiary1"
+  },
+  {
+    "Creature": "Pugwampi",
+    "Level": 0,
+    "Page": 193,
+    "Book": "Bestiary1"
+  },
+  {
+    "Creature": "Riding pony",
+    "Level": 0,
+    "Page": 209,
+    "Book": "Bestiary1"
+  },
+  {
+    "Creature": "Spider swarm",
+    "Level": 0,
+    "Page": 306,
+    "Book": "Bestiary1"
+  },
+  {
+    "Creature": "Arbiter",
+    "Level": 1,
+    "Page": 8,
+    "Book": "Bestiary1"
+  },
+  {
+    "Creature": "Air mephit",
+    "Level": 1,
+    "Page": 150,
+    "Book": "Bestiary1"
+  },
+  {
+    "Creature": "Ball python",
+    "Level": 1,
+    "Page": 302,
+    "Book": "Bestiary1"
+  },
+  {
+    "Creature": "Boggard scout",
+    "Level": 1,
+    "Page": 4,
+    "Book": "Bestiary1"
+  },
+  {
+    "Creature": "Cacodaemon",
+    "Level": 1,
+    "Page": 70,
+    "Book": "Bestiary1"
+  },
+  {
+    "Creature": "Caligni dancer",
+    "Level": 1,
+    "Page": 50,
+    "Book": "Bestiary1"
+  },
+  {
+    "Creature": "Cassisian",
+    "Level": 1,
+    "Page": 16,
+    "Book": "Bestiary1"
+  },
+  {
+    "Creature": "Catfolk pouncer",
+    "Level": 1,
+    "Page": 54,
+    "Book": "Bestiary1"
+  },
+  {
+    "Creature": "Deep gnome scout",
+    "Level": 1,
+    "Page": 7,
+    "Book": "Bestiary1"
+  },
+  {
+    "Creature": "Duergar bombardier",
+    "Level": 1,
+    "Page": 138,
+    "Book": "Bestiary1"
+  },
+  {
+    "Creature": "Earth mephit",
+    "Level": 1,
+    "Page": 150,
+    "Book": "Bestiary1"
+  },
+  {
+    "Creature": "Electric eel",
+    "Level": 1,
+    "Page": 142,
+    "Book": "Bestiary1"
+  },
+  {
+    "Creature": "Fire mephit",
+    "Level": 1,
+    "Page": 150,
+    "Book": "Bestiary1"
+  },
+  {
+    "Creature": "Ghoul",
+    "Level": 1,
+    "Page": 169,
+    "Book": "Bestiary1"
+  },
+  {
+    "Creature": "Giant gecko",
+    "Level": 1,
+    "Page": 228,
+    "Book": "Bestiary1"
+  },
+  {
+    "Creature": "Goblin commando",
+    "Level": 1,
+    "Page": 180,
+    "Book": "Bestiary1"
+  },
+  {
+    "Creature": "Goblin dog",
+    "Level": 1,
+    "Page": 182,
+    "Book": "Bestiary1"
+  },
+  {
+    "Creature": "Goblin pyro",
+    "Level": 1,
+    "Page": 181,
+    "Book": "Bestiary1"
+  },
+  {
+    "Creature": "Goblin war chanter",
+    "Level": 1,
+    "Page": 181,
+    "Book": "Bestiary1"
+  },
+  {
+    "Creature": "Gourd leshy",
+    "Level": 1,
+    "Page": 218,
+    "Book": "Bestiary1"
+  },
+  {
+    "Creature": "Grig",
+    "Level": 1,
+    "Page": 308,
+    "Book": "Bestiary1"
+  },
+  {
+    "Creature": "Hobgoblin soldier",
+    "Level": 1,
+    "Page": 206,
+    "Book": "Bestiary1"
+  },
+  {
+    "Creature": "Hunting spider",
+    "Level": 1,
+    "Page": 306,
+    "Book": "Bestiary1"
+  },
+  {
+    "Creature": "Hyena",
+    "Level": 1,
+    "Page": 211,
+    "Book": "Bestiary1"
+  },
+  {
+    "Creature": "Imp",
+    "Level": 1,
+    "Page": 87,
+    "Book": "Bestiary1"
+  },
+  {
+    "Creature": "Jinkin",
+    "Level": 1,
+    "Page": 193,
+    "Book": "Bestiary1"
+  },
+  {
+    "Creature": "Kobold scout",
+    "Level": 1,
+    "Page": 213,
+    "Book": "Bestiary1"
+  },
+  {
+    "Creature": "Lantern archon",
+    "Level": 1,
+    "Page": 26,
+    "Book": "Bestiary1"
+  },
+  {
+    "Creature": "Lizardfolk defender",
+    "Level": 1,
+    "Page": 230,
+    "Book": "Bestiary1"
+  },
+  {
+    "Creature": "Lizardfolk scout",
+    "Level": 1,
+    "Page": 231,
+    "Book": "Bestiary1"
+  },
+  {
+    "Creature": "Lyrakien",
+    "Level": 1,
+    "Page": 30,
+    "Book": "Bestiary1"
+  },
+  {
+    "Creature": "Merfolk warrior",
+    "Level": 1,
+    "Page": 235,
+    "Book": "Bestiary1"
+  },
+  {
+    "Creature": "Naiad",
+    "Level": 1,
+    "Page": 246,
+    "Book": "Bestiary1"
+  },
+  {
+    "Creature": "Nosoi",
+    "Level": 1,
+    "Page": 270,
+    "Book": "Bestiary1"
+  },
+  {
+    "Creature": "Orc warrior",
+    "Level": 1,
+    "Page": 25,
+    "Book": "Bestiary1"
+  },
+  {
+    "Creature": "Plague zombie",
+    "Level": 1,
+    "Page": 340,
+    "Book": "Bestiary1"
+  },
+  {
+    "Creature": "Quasit",
+    "Level": 1,
+    "Page": 76,
+    "Book": "Bestiary1"
+  },
+  {
+    "Creature": "Rat swarm",
+    "Level": 1,
+    "Page": 276,
+    "Book": "Bestiary1"
+  },
+  {
+    "Creature": "Reefclaw",
+    "Level": 1,
+    "Page": 279,
+    "Book": "Bestiary1"
+  },
+  {
+    "Creature": "Riding dog",
+    "Level": 1,
+    "Page": 102,
+    "Book": "Bestiary1"
+  },
+  {
+    "Creature": "Riding horse",
+    "Level": 1,
+    "Page": 209,
+    "Book": "Bestiary1"
+  },
+  {
+    "Creature": "Sewer ooze",
+    "Level": 1,
+    "Page": 254,
+    "Book": "Bestiary1"
+  },
+  {
+    "Creature": "Vampire bat swarm",
+    "Level": 1,
+    "Page": 39,
+    "Book": "Bestiary1"
+  },
+  {
+    "Creature": "Velociraptor",
+    "Level": 1,
+    "Page": 96,
+    "Book": "Bestiary1"
+  },
+  {
+    "Creature": "Voidworm",
+    "Level": 1,
+    "Page": 266,
+    "Book": "Bestiary1"
+  },
+  {
+    "Creature": "War pony",
+    "Level": 1,
+    "Page": 209,
+    "Book": "Bestiary1"
+  },
+  {
+    "Creature": "Water mephit",
+    "Level": 1,
+    "Page": 15,
+    "Book": "Bestiary1"
+  },
+  {
+    "Creature": "Wolf",
+    "Level": 1,
+    "Page": 334,
+    "Book": "Bestiary1"
+  },
+  {
+    "Creature": "Xulgath warrior",
+    "Level": 1,
+    "Page": 336,
+    "Book": "Bestiary1"
+  },
+  {
+    "Creature": "Animated armor",
+    "Level": 2,
+    "Page": 20,
+    "Book": "Bestiary1"
+  },
+  {
+    "Creature": "Boar",
+    "Level": 2,
+    "Page": 43,
+    "Book": "Bestiary1"
+  },
+  {
+    "Creature": "Boggard warrior",
+    "Level": 2,
+    "Page": 4,
+    "Book": "Bestiary1"
+  },
+  {
+    "Creature": "Bugbear thug",
+    "Level": 2,
+    "Page": 4,
+    "Book": "Bestiary1"
+  },
+  {
+    "Creature": "Caligni creeper",
+    "Level": 2,
+    "Page": 50,
+    "Book": "Bestiary1"
+  },
+  {
+    "Creature": "Crocodile",
+    "Level": 2,
+    "Page": 67,
+    "Book": "Bestiary1"
+  },
+  {
+    "Creature": "Deep gnome warrior",
+    "Level": 2,
+    "Page": 75,
+    "Book": "Bestiary1"
+  },
+  {
+    "Creature": "Deinonychus",
+    "Level": 2,
+    "Page": 96,
+    "Book": "Bestiary1"
+  },
+  {
+    "Creature": "Dero stalker",
+    "Level": 2,
+    "Page": 84,
+    "Book": "Bestiary1"
+  },
+  {
+    "Creature": "Dhampir wizard",
+    "Level": 2,
+    "Page": 95,
+    "Book": "Bestiary1"
+  },
+  {
+    "Creature": "Drow rogue",
+    "Level": 2,
+    "Page": 137,
+    "Book": "Bestiary1"
+  },
+  {
+    "Creature": "Duergar taskmaster",
+    "Level": 2,
+    "Page": 139,
+    "Book": "Bestiary1"
+  },
+  {
+    "Creature": "Faerie dragon",
+    "Level": 2,
+    "Page": 15,
+    "Book": "Bestiary1"
+  },
+  {
+    "Creature": "Fungus leshy",
+    "Level": 2,
+    "Page": 219,
+    "Book": "Bestiary1"
+  },
+  {
+    "Creature": "Ghast",
+    "Level": 2,
+    "Page": 169,
+    "Book": "Bestiary1"
+  },
+  {
+    "Creature": "Giant bat",
+    "Level": 2,
+    "Page": 39,
+    "Book": "Bestiary1"
+  },
+  {
+    "Creature": "Giant Monitor lizard",
+    "Level": 2,
+    "Page": 228,
+    "Book": "Bestiary1"
+  },
+  {
+    "Creature": "Giant viper",
+    "Level": 2,
+    "Page": 303,
+    "Book": "Bestiary1"
+  },
+  {
+    "Creature": "Gnoll hunter",
+    "Level": 2,
+    "Page": 178,
+    "Book": "Bestiary1"
+  },
+  {
+    "Creature": "Kobold dragon mage",
+    "Level": 2,
+    "Page": 213,
+    "Book": "Bestiary1"
+  },
+  {
+    "Creature": "Leopard",
+    "Level": 2,
+    "Page": 52,
+    "Book": "Bestiary1"
+  },
+  {
+    "Creature": "Lizardfolk stargazer",
+    "Level": 2,
+    "Page": 231,
+    "Book": "Bestiary1"
+  },
+  {
+    "Creature": "Merfolk wavecaller",
+    "Level": 2,
+    "Page": 235,
+    "Book": "Bestiary1"
+  },
+  {
+    "Creature": "Orc warchief",
+    "Level": 2,
+    "Page": 25,
+    "Book": "Bestiary1"
+  },
+  {
+    "Creature": "Pteranodon",
+    "Level": 2,
+    "Page": 272,
+    "Book": "Bestiary1"
+  },
+  {
+    "Creature": "Sea devil scout",
+    "Level": 2,
+    "Page": 286,
+    "Book": "Bestiary1"
+  },
+  {
+    "Creature": "Sinspawn",
+    "Level": 2,
+    "Page": 296,
+    "Book": "Bestiary1"
+  },
+  {
+    "Creature": "Skeletal champion",
+    "Level": 2,
+    "Page": 298,
+    "Book": "Bestiary1"
+  },
+  {
+    "Creature": "Skeletal horse",
+    "Level": 2,
+    "Page": 299,
+    "Book": "Bestiary1"
+  },
+  {
+    "Creature": "Slurk",
+    "Level": 2,
+    "Page": 301,
+    "Book": "Bestiary1"
+  },
+  {
+    "Creature": "Soulbound doll",
+    "Level": 2,
+    "Page": 304,
+    "Book": "Bestiary1"
+  },
+  {
+    "Creature": "Tengu",
+    "Level": 2,
+    "Page": 310,
+    "Book": "Bestiary1"
+  },
+  {
+    "Creature": "War horse",
+    "Level": 2,
+    "Page": 209,
+    "Book": "Bestiary1"
+  },
+  {
+    "Creature": "Warg",
+    "Level": 2,
+    "Page": 322,
+    "Book": "Bestiary1"
+  },
+  {
+    "Creature": "Wererat",
+    "Level": 2,
+    "Page": 329,
+    "Book": "Bestiary1"
+  },
+  {
+    "Creature": "Xulgath skulker",
+    "Level": 2,
+    "Page": 337,
+    "Book": "Bestiary1"
+  },
+  {
+    "Creature": "Zombie brute",
+    "Level": 2,
+    "Page": 341,
+    "Book": "Bestiary1"
+  },
+  {
+    "Creature": "Animated statue",
+    "Level": 3,
+    "Page": 21,
+    "Book": "Bestiary1"
+  },
+  {
+    "Creature": "Ankhrav",
+    "Level": 3,
+    "Page": 22,
+    "Book": "Bestiary1"
+  },
+  {
+    "Creature": "Boggard swampseer",
+    "Level": 3,
+    "Page": 45,
+    "Book": "Bestiary1"
+  },
+  {
+    "Creature": "Brine shark",
+    "Level": 3,
+    "Page": 152,
+    "Book": "Bestiary1"
+  },
+  {
+    "Creature": "Bugbear tormentor",
+    "Level": 3,
+    "Page": 4,
+    "Book": "Bestiary1"
+  },
+  {
+    "Creature": "Bunyip",
+    "Level": 3,
+    "Page": 49,
+    "Book": "Bestiary1"
+  },
+  {
+    "Creature": "Centaur",
+    "Level": 3,
+    "Page": 60,
+    "Book": "Bestiary1"
+  },
+  {
+    "Creature": "Centipede swarm",
+    "Level": 3,
+    "Page": 61,
+    "Book": "Bestiary1"
+  },
+  {
+    "Creature": "Changeling exile",
+    "Level": 3,
+    "Page": 62,
+    "Book": "Bestiary1"
+  },
+  {
+    "Creature": "Cockatrice",
+    "Level": 3,
+    "Page": 66,
+    "Book": "Bestiary1"
+  },
+  {
+    "Creature": "Dero strangler",
+    "Level": 3,
+    "Page": 84,
+    "Book": "Bestiary1"
+  },
+  {
+    "Creature": "Dire wolf",
+    "Level": 3,
+    "Page": 334,
+    "Book": "Bestiary1"
+  },
+  {
+    "Creature": "Doppelganger",
+    "Level": 3,
+    "Page": 103,
+    "Book": "Bestiary1"
+  },
+  {
+    "Creature": "Drow priestess",
+    "Level": 3,
+    "Page": 137,
+    "Book": "Bestiary1"
+  },
+  {
+    "Creature": "Dryad",
+    "Level": 3,
+    "Page": 246,
+    "Book": "Bestiary1"
+  },
+  {
+    "Creature": "Gelatinous cube",
+    "Level": 3,
+    "Page": 254,
+    "Book": "Bestiary1"
+  },
+  {
+    "Creature": "Giant eagle",
+    "Level": 3,
+    "Page": 141,
+    "Book": "Bestiary1"
+  },
+  {
+    "Creature": "Giant mantis",
+    "Level": 3,
+    "Page": 233,
+    "Book": "Bestiary1"
+  },
+  {
+    "Creature": "Giant scorpion",
+    "Level": 3,
+    "Page": 285,
+    "Book": "Bestiary1"
+  },
+  {
+    "Creature": "Giant wasp",
+    "Level": 3,
+    "Page": 32,
+    "Book": "Bestiary1"
+  },
+  {
+    "Creature": "Gnoll cultist",
+    "Level": 3,
+    "Page": 179,
+    "Book": "Bestiary1"
+  },
+  {
+    "Creature": "Gorilla",
+    "Level": 3,
+    "Page": 23,
+    "Book": "Bestiary1"
+  },
+  {
+    "Creature": "Grizzly bear",
+    "Level": 3,
+    "Page": 40,
+    "Book": "Bestiary1"
+  },
+  {
+    "Creature": "Grothlut",
+    "Level": 3,
+    "Page": 158,
+    "Book": "Bestiary1"
+  },
+  {
+    "Creature": "Hell hound",
+    "Level": 3,
+    "Page": 205,
+    "Book": "Bestiary1"
+  },
+  {
+    "Creature": "Hyaenodon",
+    "Level": 3,
+    "Page": 211,
+    "Book": "Bestiary1"
+  },
+  {
+    "Creature": "Lion",
+    "Level": 3,
+    "Page": 52,
+    "Book": "Bestiary1"
+  },
+  {
+    "Creature": "Ogre warrior",
+    "Level": 3,
+    "Page": 252,
+    "Book": "Bestiary1"
+  },
+  {
+    "Creature": "Pegasus",
+    "Level": 3,
+    "Page": 260,
+    "Book": "Bestiary1"
+  },
+  {
+    "Creature": "River drake",
+    "Level": 3,
+    "Page": 131,
+    "Book": "Bestiary1"
+  },
+  {
+    "Creature": "Rust monster",
+    "Level": 3,
+    "Page": 283,
+    "Book": "Bestiary1"
+  },
+  {
+    "Creature": "Sea hag",
+    "Level": 3,
+    "Page": 200,
+    "Book": "Bestiary1"
+  },
+  {
+    "Creature": "Skeletal giant",
+    "Level": 3,
+    "Page": 299,
+    "Book": "Bestiary1"
+  },
+  {
+    "Creature": "Sod hound",
+    "Level": 3,
+    "Page": 146,
+    "Book": "Bestiary1"
+  },
+  {
+    "Creature": "Unicorn",
+    "Level": 3,
+    "Page": 316,
+    "Book": "Bestiary1"
+  },
+  {
+    "Creature": "Web lurker",
+    "Level": 3,
+    "Page": 325,
+    "Book": "Bestiary1"
+  },
+  {
+    "Creature": "Werewolf",
+    "Level": 3,
+    "Page": 330,
+    "Book": "Bestiary1"
+  },
+  {
+    "Creature": "Wight",
+    "Level": 3,
+    "Page": 332,
+    "Book": "Bestiary1"
+  },
+  {
+    "Creature": "Xulgath leader",
+    "Level": 3,
+    "Page": 337,
+    "Book": "Bestiary1"
+  },
+  {
+    "Creature": "Zephyr hawk",
+    "Level": 3,
+    "Page": 14,
+    "Book": "Bestiary1"
+  },
+  {
+    "Creature": "Arboreal warden",
+    "Level": 4,
+    "Page": 2,
+    "Book": "Bestiary1"
+  },
+  {
+    "Creature": "Barghest",
+    "Level": 4,
+    "Page": 36,
+    "Book": "Bestiary1"
+  },
+  {
+    "Creature": "Caligni stalker",
+    "Level": 4,
+    "Page": 5,
+    "Book": "Bestiary1"
+  },
+  {
+    "Creature": "Daeodon",
+    "Level": 4,
+    "Page": 43,
+    "Book": "Bestiary1"
+  },
+  {
+    "Creature": "Duskwalker ghost hunter",
+    "Level": 4,
+    "Page": 262,
+    "Book": "Bestiary1"
+  },
+  {
+    "Creature": "Faceless stalker",
+    "Level": 4,
+    "Page": 13,
+    "Book": "Bestiary1"
+  },
+  {
+    "Creature": "Gancanagh",
+    "Level": 4,
+    "Page": 31,
+    "Book": "Bestiary1"
+  },
+  {
+    "Creature": "Gargoyle",
+    "Level": 4,
+    "Page": 161,
+    "Book": "Bestiary1"
+  },
+  {
+    "Creature": "Ghost commoner",
+    "Level": 4,
+    "Page": 167,
+    "Book": "Bestiary1"
+  },
+  {
+    "Creature": "Giant stag beetle",
+    "Level": 4,
+    "Page": 41,
+    "Book": "Bestiary1"
+  },
+  {
+    "Creature": "Gnoll sergeant",
+    "Level": 4,
+    "Page": 179,
+    "Book": "Bestiary1"
+  },
+  {
+    "Creature": "Great white shark",
+    "Level": 4,
+    "Page": 291,
+    "Book": "Bestiary1"
+  },
+  {
+    "Creature": "Green hag",
+    "Level": 4,
+    "Page": 201,
+    "Book": "Bestiary1"
+  },
+  {
+    "Creature": "Hobgoblin archer",
+    "Level": 4,
+    "Page": 207,
+    "Book": "Bestiary1"
+  },
+  {
+    "Creature": "Horned archon",
+    "Level": 4,
+    "Page": 27,
+    "Book": "Bestiary1"
+  },
+  {
+    "Creature": "Janni",
+    "Level": 4,
+    "Page": 162,
+    "Book": "Bestiary1"
+  },
+  {
+    "Creature": "Mimic",
+    "Level": 4,
+    "Page": 236,
+    "Book": "Bestiary1"
+  },
+  {
+    "Creature": "Minotaur",
+    "Level": 4,
+    "Page": 237,
+    "Book": "Bestiary1"
+  },
+  {
+    "Creature": "Ogre glutton",
+    "Level": 4,
+    "Page": 252,
+    "Book": "Bestiary1"
+  },
+  {
+    "Creature": "Otyugh",
+    "Level": 4,
+    "Page": 258,
+    "Book": "Bestiary1"
+  },
+  {
+    "Creature": "Owlbear",
+    "Level": 4,
+    "Page": 259,
+    "Book": "Bestiary1"
+  },
+  {
+    "Creature": "Pixie",
+    "Level": 4,
+    "Page": 310,
+    "Book": "Bestiary1"
+  },
+  {
+    "Creature": "Poracha",
+    "Level": 4,
+    "Page": 265,
+    "Book": "Bestiary1"
+  },
+  {
+    "Creature": "Ratfolk grenadier",
+    "Level": 4,
+    "Page": 27,
+    "Book": "Bestiary1"
+  },
+  {
+    "Creature": "Satyr",
+    "Level": 4,
+    "Page": 284,
+    "Book": "Bestiary1"
+  },
+  {
+    "Creature": "Scorpion swarm",
+    "Level": 4,
+    "Page": 285,
+    "Book": "Bestiary1"
+  },
+  {
+    "Creature": "Sea devil brute",
+    "Level": 4,
+    "Page": 287,
+    "Book": "Bestiary1"
+  },
+  {
+    "Creature": "Shadow",
+    "Level": 4,
+    "Page": 289,
+    "Book": "Bestiary1"
+  },
+  {
+    "Creature": "Tiger",
+    "Level": 4,
+    "Page": 52,
+    "Book": "Bestiary1"
+  },
+  {
+    "Creature": "Vampire spawn rogue",
+    "Level": 4,
+    "Page": 320,
+    "Book": "Bestiary1"
+  },
+  {
+    "Creature": "Wasp swarm",
+    "Level": 4,
+    "Page": 32,
+    "Book": "Bestiary1"
+  },
+  {
+    "Creature": "Werebear",
+    "Level": 4,
+    "Page": 330,
+    "Book": "Bestiary1"
+  },
+  {
+    "Creature": "Aasimar redeemer",
+    "Level": 5,
+    "Page": 263,
+    "Book": "Bestiary1"
+  },
+  {
+    "Creature": "Barbazu",
+    "Level": 5,
+    "Page": 88,
+    "Book": "Bestiary1"
+  },
+  {
+    "Creature": "Basilisk",
+    "Level": 5,
+    "Page": 38,
+    "Book": "Bestiary1"
+  },
+  {
+    "Creature": "Cloaker",
+    "Level": 5,
+    "Page": 65,
+    "Book": "Bestiary1"
+  },
+  {
+    "Creature": "Cyclops",
+    "Level": 5,
+    "Page": 68,
+    "Book": "Bestiary1"
+  },
+  {
+    "Creature": "Dandasuka",
+    "Level": 5,
+    "Page": 27,
+    "Book": "Bestiary1"
+  },
+  {
+    "Creature": "Deep gnome rockwarden",
+    "Level": 5,
+    "Page": 75,
+    "Book": "Bestiary1"
+  },
+  {
+    "Creature": "Dero magister",
+    "Level": 5,
+    "Page": 85,
+    "Book": "Bestiary1"
+  },
+  {
+    "Creature": "Djinni",
+    "Level": 5,
+    "Page": 163,
+    "Book": "Bestiary1"
+  },
+  {
+    "Creature": "Ether spider",
+    "Level": 5,
+    "Page": 155,
+    "Book": "Bestiary1"
+  },
+  {
+    "Creature": "Flame drake",
+    "Level": 5,
+    "Page": 131,
+    "Book": "Bestiary1"
+  },
+  {
+    "Creature": "Giant frilled lizard",
+    "Level": 5,
+    "Page": 229,
+    "Book": "Bestiary1"
+  },
+  {
+    "Creature": "Giant moray eel",
+    "Level": 5,
+    "Page": 142,
+    "Book": "Bestiary1"
+  },
+  {
+    "Creature": "Gibbering mouther",
+    "Level": 5,
+    "Page": 176,
+    "Book": "Bestiary1"
+  },
+  {
+    "Creature": "Harpy",
+    "Level": 5,
+    "Page": 204,
+    "Book": "Bestiary1"
+  },
+  {
+    "Creature": "Living landslide",
+    "Level": 5,
+    "Page": 146,
+    "Book": "Bestiary1"
+  },
+  {
+    "Creature": "Living waterfall",
+    "Level": 5,
+    "Page": 152,
+    "Book": "Bestiary1"
+  },
+  {
+    "Creature": "Living whirlwind",
+    "Level": 5,
+    "Page": 14,
+    "Book": "Bestiary1"
+  },
+  {
+    "Creature": "Ochre jelly",
+    "Level": 5,
+    "Page": 254,
+    "Book": "Bestiary1"
+  },
+  {
+    "Creature": "Poltergeist",
+    "Level": 5,
+    "Page": 264,
+    "Book": "Bestiary1"
+  },
+  {
+    "Creature": "Redcap",
+    "Level": 5,
+    "Page": 278,
+    "Book": "Bestiary1"
+  },
+  {
+    "Creature": "Troll",
+    "Level": 5,
+    "Page": 314,
+    "Book": "Bestiary1"
+  },
+  {
+    "Creature": "Winter wolf",
+    "Level": 5,
+    "Page": 322,
+    "Book": "Bestiary1"
+  },
+  {
+    "Creature": "Yeti",
+    "Level": 5,
+    "Page": 338,
+    "Book": "Bestiary1"
+  },
+  {
+    "Creature": "Awakened tree",
+    "Level": 6,
+    "Page": 25,
+    "Book": "Bestiary1"
+  },
+  {
+    "Creature": "Ankylosaurus",
+    "Level": 6,
+    "Page": 97,
+    "Book": "Bestiary1"
+  },
+  {
+    "Creature": "Annis hag",
+    "Level": 6,
+    "Page": 201,
+    "Book": "Bestiary1"
+  },
+  {
+    "Creature": "Cave bear",
+    "Level": 6,
+    "Page": 40,
+    "Book": "Bestiary1"
+  },
+  {
+    "Creature": "Ceustodaemon",
+    "Level": 6,
+    "Page": 71,
+    "Book": "Bestiary1"
+  },
+  {
+    "Creature": "Choral",
+    "Level": 6,
+    "Page": 16,
+    "Book": "Bestiary1"
+  },
+  {
+    "Creature": "Drider",
+    "Level": 6,
+    "Page": 159,
+    "Book": "Bestiary1"
+  },
+  {
+    "Creature": "Elananx",
+    "Level": 6,
+    "Page": 143,
+    "Book": "Bestiary1"
+  },
+  {
+    "Creature": "Ettin",
+    "Level": 6,
+    "Page": 156,
+    "Book": "Bestiary1"
+  },
+  {
+    "Creature": "Giant tarantula",
+    "Level": 6,
+    "Page": 307,
+    "Book": "Bestiary1"
+  },
+  {
+    "Creature": "Hobgoblin general",
+    "Level": 6,
+    "Page": 207,
+    "Book": "Bestiary1"
+  },
+  {
+    "Creature": "Hydra",
+    "Level": 6,
+    "Page": 210,
+    "Book": "Bestiary1"
+  },
+  {
+    "Creature": "Jungle drake",
+    "Level": 6,
+    "Page": 132,
+    "Book": "Bestiary1"
+  },
+  {
+    "Creature": "Lamia",
+    "Level": 6,
+    "Page": 216,
+    "Book": "Bestiary1"
+  },
+  {
+    "Creature": "Manticore",
+    "Level": 6,
+    "Page": 232,
+    "Book": "Bestiary1"
+  },
+  {
+    "Creature": "Mummy guardian",
+    "Level": 6,
+    "Page": 2,
+    "Book": "Bestiary1"
+  },
+  {
+    "Creature": "Nightmare",
+    "Level": 6,
+    "Page": 2,
+    "Book": "Bestiary1"
+  },
+  {
+    "Creature": "Sea devil baron",
+    "Level": 6,
+    "Page": 287,
+    "Book": "Bestiary1"
+  },
+  {
+    "Creature": "Shambler",
+    "Level": 6,
+    "Page": 290,
+    "Book": "Bestiary1"
+  },
+  {
+    "Creature": "Smilodon",
+    "Level": 6,
+    "Page": 53,
+    "Book": "Bestiary1"
+  },
+  {
+    "Creature": "Vampire count",
+    "Level": 6,
+    "Page": 320,
+    "Book": "Bestiary1"
+  },
+  {
+    "Creature": "Wraith",
+    "Level": 6,
+    "Page": 335,
+    "Book": "Bestiary1"
+  },
+  {
+    "Creature": "Wyvern",
+    "Level": 6,
+    "Page": 133,
+    "Book": "Bestiary1"
+  },
+  {
+    "Creature": "Young white dragon",
+    "Level": 6,
+    "Page": 113,
+    "Book": "Bestiary1"
+  },
+  {
+    "Creature": "Zombie hulk",
+    "Level": 6,
+    "Page": 341,
+    "Book": "Bestiary1"
+  },
+  {
+    "Creature": "Alghollthu master",
+    "Level": 7,
+    "Page": 14,
+    "Book": "Bestiary1"
+  },
+  {
+    "Creature": "Black pudding",
+    "Level": 7,
+    "Page": 255,
+    "Book": "Bestiary1"
+  },
+  {
+    "Creature": "Chuul",
+    "Level": 7,
+    "Page": 64,
+    "Book": "Bestiary1"
+  },
+  {
+    "Creature": "Dark naga",
+    "Level": 7,
+    "Page": 2,
+    "Book": "Bestiary1"
+  },
+  {
+    "Creature": "Dullahan",
+    "Level": 7,
+    "Page": 140,
+    "Book": "Bestiary1"
+  },
+  {
+    "Creature": "Elephant",
+    "Level": 7,
+    "Page": 154,
+    "Book": "Bestiary1"
+  },
+  {
+    "Creature": "Frost drake",
+    "Level": 7,
+    "Page": 134,
+    "Book": "Bestiary1"
+  },
+  {
+    "Creature": "Giant animated statue",
+    "Level": 7,
+    "Page": 21,
+    "Book": "Bestiary1"
+  },
+  {
+    "Creature": "Greater barghest",
+    "Level": 7,
+    "Page": 36,
+    "Book": "Bestiary1"
+  },
+  {
+    "Creature": "Hill giant",
+    "Level": 7,
+    "Page": 170,
+    "Book": "Bestiary1"
+  },
+  {
+    "Creature": "Invisible stalker",
+    "Level": 7,
+    "Page": 14,
+    "Book": "Bestiary1"
+  },
+  {
+    "Creature": "Legion archon",
+    "Level": 7,
+    "Page": 28,
+    "Book": "Bestiary1"
+  },
+  {
+    "Creature": "Lillend",
+    "Level": 7,
+    "Page": 32,
+    "Book": "Bestiary1"
+  },
+  {
+    "Creature": "Medusa",
+    "Level": 7,
+    "Page": 234,
+    "Book": "Bestiary1"
+  },
+  {
+    "Creature": "Naiad queen",
+    "Level": 7,
+    "Page": 2,
+    "Book": "Bestiary1"
+  },
+  {
+    "Creature": "Naunet",
+    "Level": 7,
+    "Page": 267,
+    "Book": "Bestiary1"
+  },
+  {
+    "Creature": "Ogre boss",
+    "Level": 7,
+    "Page": 253,
+    "Book": "Bestiary1"
+  },
+  {
+    "Creature": "Quatoid",
+    "Level": 7,
+    "Page": 152,
+    "Book": "Bestiary1"
+  },
+  {
+    "Creature": "Quetzalcoatlus",
+    "Level": 7,
+    "Page": 272,
+    "Book": "Bestiary1"
+  },
+  {
+    "Creature": "Remorhaz",
+    "Level": 7,
+    "Page": 280,
+    "Book": "Bestiary1"
+  },
+  {
+    "Creature": "Shaitan",
+    "Level": 7,
+    "Page": 163,
+    "Book": "Bestiary1"
+  },
+  {
+    "Creature": "Skeletal hulk",
+    "Level": 7,
+    "Page": 299,
+    "Book": "Bestiary1"
+  },
+  {
+    "Creature": "Stegosaurus",
+    "Level": 7,
+    "Page": 98,
+    "Book": "Bestiary1"
+  },
+  {
+    "Creature": "Succubus",
+    "Level": 7,
+    "Page": 7,
+    "Book": "Bestiary1"
+  },
+  {
+    "Creature": "Xorn",
+    "Level": 7,
+    "Page": 146,
+    "Book": "Bestiary1"
+  },
+  {
+    "Creature": "Young black dragon",
+    "Level": 7,
+    "Page": 105,
+    "Book": "Bestiary1"
+  },
+  {
+    "Creature": "Young brass dragon",
+    "Level": 7,
+    "Page": 117,
+    "Book": "Bestiary1"
+  },
+  {
+    "Creature": "Axiomite",
+    "Level": 8,
+    "Page": 9,
+    "Book": "Bestiary1"
+  },
+  {
+    "Creature": "Arboreal regent",
+    "Level": 8,
+    "Page": 25,
+    "Book": "Bestiary1"
+  },
+  {
+    "Creature": "Balisse",
+    "Level": 8,
+    "Page": 18,
+    "Book": "Bestiary1"
+  },
+  {
+    "Creature": "Brain collector",
+    "Level": 8,
+    "Page": 46,
+    "Book": "Bestiary1"
+  },
+  {
+    "Creature": "Bulette",
+    "Level": 8,
+    "Page": 48,
+    "Book": "Bestiary1"
+  },
+  {
+    "Creature": "Chimera",
+    "Level": 8,
+    "Page": 63,
+    "Book": "Bestiary1"
+  },
+  {
+    "Creature": "Desert drake",
+    "Level": 8,
+    "Page": 135,
+    "Book": "Bestiary1"
+  },
+  {
+    "Creature": "Erinys",
+    "Level": 8,
+    "Page": 89,
+    "Book": "Bestiary1"
+  },
+  {
+    "Creature": "Flesh golem",
+    "Level": 8,
+    "Page": 184,
+    "Book": "Bestiary1"
+  },
+  {
+    "Creature": "Giant anaconda",
+    "Level": 8,
+    "Page": 303,
+    "Book": "Bestiary1"
+  },
+  {
+    "Creature": "Giant octopus",
+    "Level": 8,
+    "Page": 250,
+    "Book": "Bestiary1"
+  },
+  {
+    "Creature": "Hive mother",
+    "Level": 8,
+    "Page": 22,
+    "Book": "Bestiary1"
+  },
+  {
+    "Creature": "Krooth",
+    "Level": 8,
+    "Page": 215,
+    "Book": "Bestiary1"
+  },
+  {
+    "Creature": "Lamia matriarch",
+    "Level": 8,
+    "Page": 217,
+    "Book": "Bestiary1"
+  },
+  {
+    "Creature": "Megaprimatus",
+    "Level": 8,
+    "Page": 23,
+    "Book": "Bestiary1"
+  },
+  {
+    "Creature": "Sphinx",
+    "Level": 8,
+    "Page": 305,
+    "Book": "Bestiary1"
+  },
+  {
+    "Creature": "Stone giant",
+    "Level": 8,
+    "Page": 170,
+    "Book": "Bestiary1"
+  },
+  {
+    "Creature": "Triceratops",
+    "Level": 8,
+    "Page": 98,
+    "Book": "Bestiary1"
+  },
+  {
+    "Creature": "Young copper dragon",
+    "Level": 8,
+    "Page": 121,
+    "Book": "Bestiary1"
+  },
+  {
+    "Creature": "Young green dragon",
+    "Level": 8,
+    "Page": 109,
+    "Book": "Bestiary1"
+  },
+  {
+    "Creature": "Alchemical golem",
+    "Level": 9,
+    "Page": 185,
+    "Book": "Bestiary1"
+  },
+  {
+    "Creature": "Deinosuchus",
+    "Level": 9,
+    "Page": 67,
+    "Book": "Bestiary1"
+  },
+  {
+    "Creature": "Dragon turtle",
+    "Level": 9,
+    "Page": 128,
+    "Book": "Bestiary1"
+  },
+  {
+    "Creature": "Drakauthix",
+    "Level": 9,
+    "Page": 129,
+    "Book": "Bestiary1"
+  },
+  {
+    "Creature": "Efreeti",
+    "Level": 9,
+    "Page": 164,
+    "Book": "Bestiary1"
+  },
+  {
+    "Creature": "Frost giant",
+    "Level": 9,
+    "Page": 171,
+    "Book": "Bestiary1"
+  },
+  {
+    "Creature": "Leukodaemon",
+    "Level": 9,
+    "Page": 71,
+    "Book": "Bestiary1"
+  },
+  {
+    "Creature": "Marid",
+    "Level": 9,
+    "Page": 165,
+    "Book": "Bestiary1"
+  },
+  {
+    "Creature": "Megalodon",
+    "Level": 9,
+    "Page": 291,
+    "Book": "Bestiary1"
+  },
+  {
+    "Creature": "Nessian warhound",
+    "Level": 9,
+    "Page": 205,
+    "Book": "Bestiary1"
+  },
+  {
+    "Creature": "Night hag",
+    "Level": 9,
+    "Page": 202,
+    "Book": "Bestiary1"
+  },
+  {
+    "Creature": "Roc",
+    "Level": 9,
+    "Page": 281,
+    "Book": "Bestiary1"
+  },
+  {
+    "Creature": "Stone mauler",
+    "Level": 9,
+    "Page": 14,
+    "Book": "Bestiary1"
+  },
+  {
+    "Creature": "Storm lord",
+    "Level": 9,
+    "Page": 145,
+    "Book": "Bestiary1"
+  },
+  {
+    "Creature": "Tidal master",
+    "Level": 9,
+    "Page": 153,
+    "Book": "Bestiary1"
+  },
+  {
+    "Creature": "Vampire mastermind",
+    "Level": 9,
+    "Page": 321,
+    "Book": "Bestiary1"
+  },
+  {
+    "Creature": "Vrock",
+    "Level": 9,
+    "Page": 78,
+    "Book": "Bestiary1"
+  },
+  {
+    "Creature": "Young blue dragon",
+    "Level": 9,
+    "Page": 107,
+    "Book": "Bestiary1"
+  },
+  {
+    "Creature": "Young bronze dragon",
+    "Level": 9,
+    "Page": 119,
+    "Book": "Bestiary1"
+  },
+  {
+    "Creature": "Adult white dragon",
+    "Level": 10,
+    "Page": 114,
+    "Book": "Bestiary1"
+  },
+  {
+    "Creature": "Brontosaurus",
+    "Level": 10,
+    "Page": 99,
+    "Book": "Bestiary1"
+  },
+  {
+    "Creature": "Clay golem",
+    "Level": 10,
+    "Page": 186,
+    "Book": "Bestiary1"
+  },
+  {
+    "Creature": "Phistophilus",
+    "Level": 10,
+    "Page": 89,
+    "Book": "Bestiary1"
+  },
+  {
+    "Creature": "Dezullon",
+    "Level": 10,
+    "Page": 94,
+    "Book": "Bestiary1"
+  },
+  {
+    "Creature": "Fire giant",
+    "Level": 10,
+    "Page": 172,
+    "Book": "Bestiary1"
+  },
+  {
+    "Creature": "Ghost mage",
+    "Level": 10,
+    "Page": 167,
+    "Book": "Bestiary1"
+  },
+  {
+    "Creature": "Graveknight",
+    "Level": 10,
+    "Page": 190,
+    "Book": "Bestiary1"
+  },
+  {
+    "Creature": "Guardian naga",
+    "Level": 10,
+    "Page": 2,
+    "Book": "Bestiary1"
+  },
+  {
+    "Creature": "Gug",
+    "Level": 10,
+    "Page": 198,
+    "Book": "Bestiary1"
+  },
+  {
+    "Creature": "Mammoth",
+    "Level": 10,
+    "Page": 154,
+    "Book": "Bestiary1"
+  },
+  {
+    "Creature": "Nilith",
+    "Level": 10,
+    "Page": 2,
+    "Book": "Bestiary1"
+  },
+  {
+    "Creature": "Ofalth",
+    "Level": 10,
+    "Page": 25,
+    "Book": "Bestiary1"
+  },
+  {
+    "Creature": "Raja rakshasa",
+    "Level": 10,
+    "Page": 275,
+    "Book": "Bestiary1"
+  },
+  {
+    "Creature": "Roper",
+    "Level": 10,
+    "Page": 282,
+    "Book": "Bestiary1"
+  },
+  {
+    "Creature": "Shield archon",
+    "Level": 10,
+    "Page": 29,
+    "Book": "Bestiary1"
+  },
+  {
+    "Creature": "Troll king",
+    "Level": 10,
+    "Page": 314,
+    "Book": "Bestiary1"
+  },
+  {
+    "Creature": "Tyrannosaurus",
+    "Level": 10,
+    "Page": 100,
+    "Book": "Bestiary1"
+  },
+  {
+    "Creature": "Young red dragon",
+    "Level": 10,
+    "Page": 112,
+    "Book": "Bestiary1"
+  },
+  {
+    "Creature": "Young silver dragon",
+    "Level": 10,
+    "Page": 126,
+    "Book": "Bestiary1"
+  },
+  {
+    "Creature": "Adult black dragon",
+    "Level": 11,
+    "Page": 105,
+    "Book": "Bestiary1"
+  },
+  {
+    "Creature": "Adult brass dragon",
+    "Level": 11,
+    "Page": 118,
+    "Book": "Bestiary1"
+  },
+  {
+    "Creature": "Cloud giant",
+    "Level": 11,
+    "Page": 173,
+    "Book": "Bestiary1"
+  },
+  {
+    "Creature": "Deadly mantis",
+    "Level": 11,
+    "Page": 233,
+    "Book": "Bestiary1"
+  },
+  {
+    "Creature": "Elemental avalanche",
+    "Level": 11,
+    "Page": 14,
+    "Book": "Bestiary1"
+  },
+  {
+    "Creature": "Elemental hurricane",
+    "Level": 11,
+    "Page": 145,
+    "Book": "Bestiary1"
+  },
+  {
+    "Creature": "Elemental tsunami",
+    "Level": 11,
+    "Page": 153,
+    "Book": "Bestiary1"
+  },
+  {
+    "Creature": "Goliath spider",
+    "Level": 11,
+    "Page": 307,
+    "Book": "Bestiary1"
+  },
+  {
+    "Creature": "Greater nightmare",
+    "Level": 11,
+    "Page": 2,
+    "Book": "Bestiary1"
+  },
+  {
+    "Creature": "Stone golem",
+    "Level": 11,
+    "Page": 187,
+    "Book": "Bestiary1"
+  },
+  {
+    "Creature": "Young gold dragon",
+    "Level": 11,
+    "Page": 12,
+    "Book": "Bestiary1"
+  },
+  {
+    "Creature": "Adult copper dragon",
+    "Level": 12,
+    "Page": 122,
+    "Book": "Bestiary1"
+  },
+  {
+    "Creature": "Adult green dragon",
+    "Level": 12,
+    "Page": 110,
+    "Book": "Bestiary1"
+  },
+  {
+    "Creature": "Cauthooj",
+    "Level": 12,
+    "Page": 55,
+    "Book": "Bestiary1"
+  },
+  {
+    "Creature": "Gimmerling",
+    "Level": 12,
+    "Page": 17,
+    "Book": "Bestiary1"
+  },
+  {
+    "Creature": "Gogiteth",
+    "Level": 12,
+    "Page": 183,
+    "Book": "Bestiary1"
+  },
+  {
+    "Creature": "Great cyclops",
+    "Level": 12,
+    "Page": 69,
+    "Book": "Bestiary1"
+  },
+  {
+    "Creature": "Kolyarut",
+    "Level": 12,
+    "Page": 10,
+    "Book": "Bestiary1"
+  },
+  {
+    "Creature": "Sea serpent",
+    "Level": 12,
+    "Page": 288,
+    "Book": "Bestiary1"
+  },
+  {
+    "Creature": "Shining child",
+    "Level": 12,
+    "Page": 292,
+    "Book": "Bestiary1"
+  },
+  {
+    "Creature": "Adult blue dragon",
+    "Level": 13,
+    "Page": 108,
+    "Book": "Bestiary1"
+  },
+  {
+    "Creature": "Adult bronze dragon",
+    "Level": 13,
+    "Page": 120,
+    "Book": "Bestiary1"
+  },
+  {
+    "Creature": "Dryad queen",
+    "Level": 13,
+    "Page": 2,
+    "Book": "Bestiary1"
+  },
+  {
+    "Creature": "Ghaele",
+    "Level": 13,
+    "Page": 33,
+    "Book": "Bestiary1"
+  },
+  {
+    "Creature": "Glabrezu",
+    "Level": 13,
+    "Page": 79,
+    "Book": "Bestiary1"
+  },
+  {
+    "Creature": "Gelugon",
+    "Level": 13,
+    "Page": 91,
+    "Book": "Bestiary1"
+  },
+  {
+    "Creature": "Iron golem",
+    "Level": 13,
+    "Page": 188,
+    "Book": "Bestiary1"
+  },
+  {
+    "Creature": "Purple worm",
+    "Level": 13,
+    "Page": 56,
+    "Book": "Bestiary1"
+  },
+  {
+    "Creature": "Storm giant",
+    "Level": 13,
+    "Page": 17,
+    "Book": "Bestiary1"
+  },
+  {
+    "Creature": "Adult red dragon",
+    "Level": 14,
+    "Page": 112,
+    "Book": "Bestiary1"
+  },
+  {
+    "Creature": "Adult silver dragon",
+    "Level": 14,
+    "Page": 126,
+    "Book": "Bestiary1"
+  },
+  {
+    "Creature": "Astral deva",
+    "Level": 14,
+    "Page": 18,
+    "Book": "Bestiary1"
+  },
+  {
+    "Creature": "Crag linnorm",
+    "Level": 14,
+    "Page": 22,
+    "Book": "Bestiary1"
+  },
+  {
+    "Creature": "Grikkitog",
+    "Level": 14,
+    "Page": 195,
+    "Book": "Bestiary1"
+  },
+  {
+    "Creature": "Uthul",
+    "Level": 14,
+    "Page": 317,
+    "Book": "Bestiary1"
+  },
+  {
+    "Creature": "Adult gold dragon",
+    "Level": 15,
+    "Page": 12,
+    "Book": "Bestiary1"
+  },
+  {
+    "Creature": "Ancient white dragon",
+    "Level": 15,
+    "Page": 115,
+    "Book": "Bestiary1"
+  },
+  {
+    "Creature": "Azure worm",
+    "Level": 15,
+    "Page": 5,
+    "Book": "Bestiary1"
+  },
+  {
+    "Creature": "Morrigna",
+    "Level": 15,
+    "Page": 270,
+    "Book": "Bestiary1"
+  },
+  {
+    "Creature": "Mukradi",
+    "Level": 15,
+    "Page": 239,
+    "Book": "Bestiary1"
+  },
+  {
+    "Creature": "Quelaunt",
+    "Level": 15,
+    "Page": 273,
+    "Book": "Bestiary1"
+  },
+  {
+    "Creature": "Wemmuth",
+    "Level": 15,
+    "Page": 326,
+    "Book": "Bestiary1"
+  },
+  {
+    "Creature": "Ancient black dragon",
+    "Level": 16,
+    "Page": 106,
+    "Book": "Bestiary1"
+  },
+  {
+    "Creature": "Ancient brass dragon",
+    "Level": 16,
+    "Page": 118,
+    "Book": "Bestiary1"
+  },
+  {
+    "Creature": "Astradaemon",
+    "Level": 16,
+    "Page": 72,
+    "Book": "Bestiary1"
+  },
+  {
+    "Creature": "Rune giant",
+    "Level": 16,
+    "Page": 17,
+    "Book": "Bestiary1"
+  },
+  {
+    "Creature": "Shemhazian",
+    "Level": 16,
+    "Page": 80,
+    "Book": "Bestiary1"
+  },
+  {
+    "Creature": "Warsworn",
+    "Level": 16,
+    "Page": 323,
+    "Book": "Bestiary1"
+  },
+  {
+    "Creature": "Zaramuun",
+    "Level": 16,
+    "Page": 339,
+    "Book": "Bestiary1"
+  },
+  {
+    "Creature": "Ancient copper dragon",
+    "Level": 17,
+    "Page": 122,
+    "Book": "Bestiary1"
+  },
+  {
+    "Creature": "Ancient green dragon",
+    "Level": 17,
+    "Page": 110,
+    "Book": "Bestiary1"
+  },
+  {
+    "Creature": "Banshee",
+    "Level": 17,
+    "Page": 34,
+    "Book": "Bestiary1"
+  },
+  {
+    "Creature": "Ice linnorm",
+    "Level": 17,
+    "Page": 225,
+    "Book": "Bestiary1"
+  },
+  {
+    "Creature": "Keketar",
+    "Level": 17,
+    "Page": 268,
+    "Book": "Bestiary1"
+  },
+  {
+    "Creature": "Marilith",
+    "Level": 17,
+    "Page": 81,
+    "Book": "Bestiary1"
+  },
+  {
+    "Creature": "Wendigo",
+    "Level": 17,
+    "Page": 327,
+    "Book": "Bestiary1"
+  },
+  {
+    "Creature": "Ancient blue dragon",
+    "Level": 18,
+    "Page": 108,
+    "Book": "Bestiary1"
+  },
+  {
+    "Creature": "Ancient bronze dragon",
+    "Level": 18,
+    "Page": 120,
+    "Book": "Bestiary1"
+  },
+  {
+    "Creature": "Kraken",
+    "Level": 18,
+    "Page": 214,
+    "Book": "Bestiary1"
+  },
+  {
+    "Creature": "Skulltaker",
+    "Level": 18,
+    "Page": 300,
+    "Book": "Bestiary1"
+  },
+  {
+    "Creature": "Ancient red dragon",
+    "Level": 19,
+    "Page": 112,
+    "Book": "Bestiary1"
+  },
+  {
+    "Creature": "Ancient silver dragon",
+    "Level": 19,
+    "Page": 127,
+    "Book": "Bestiary1"
+  },
+  {
+    "Creature": "Ancient gold dragon",
+    "Level": 20,
+    "Page": 125,
+    "Book": "Bestiary1"
+  },
+  {
+    "Creature": "Balor",
+    "Level": 20,
+    "Page": 82,
+    "Book": "Bestiary1"
+  },
+  {
+    "Creature": "Baomal",
+    "Level": 20,
+    "Page": 35,
+    "Book": "Bestiary1"
+  },
+  {
+    "Creature": "Pleroma",
+    "Level": 20,
+    "Page": 10,
+    "Book": "Bestiary1"
+  },
+  {
+    "Creature": "Tarn linnorm",
+    "Level": 20,
+    "Page": 226,
+    "Book": "Bestiary1"
+  },
+  {
+    "Creature": "Grim Reaper",
+    "Level": 21,
+    "Page": 196,
+    "Book": "Bestiary1"
+  },
+  {
+    "Creature": "Mu spore",
+    "Level": 21,
+    "Page": 238,
+    "Book": "Bestiary1"
+  },
+  {
+    "Creature": "Tor linnorm",
+    "Level": 21,
+    "Page": 227,
+    "Book": "Bestiary1"
+  },
+  {
+    "Creature": "Treerazer",
+    "Level": 25,
+    "Page": 312,
+    "Book": "Bestiary1"
+  },
+ {
+    "Creature": "Compsognathus",
+    "Level": -1,
+    "Page": 80,
+    "Book": "Bestiary2"
+  },
+  {
+    "Creature": "Crawling hand",
+    "Level": -1,
+    "Page": 56,
+    "Book": "Bestiary2"
+  },
+  {
+    "Creature": "Raven",
+    "Level": -1,
+    "Page": 221,
+    "Book": "Bestiary2"
+  },
+  {
+    "Creature": "Snapping turtle",
+    "Level": -1,
+    "Page": 269,
+    "Book": "Bestiary2"
+  },
+  {
+    "Creature": "Yellow musk thrall",
+    "Level": -1,
+    "Page": 300,
+    "Book": "Bestiary2"
+  },
+  {
+    "Creature": "Badger",
+    "Level": 0,
+    "Page": 32,
+    "Book": "Bestiary2"
+  },
+  {
+    "Creature": "Blue–ringed octopus",
+    "Level": 0,
+    "Page": 187,
+    "Book": "Bestiary2"
+  },
+  {
+    "Creature": "Bottlenose dolphin",
+    "Level": 0,
+    "Page": 84,
+    "Book": "Bestiary2"
+  },
+  {
+    "Creature": "Dream spider",
+    "Level": 0,
+    "Page": 249,
+    "Book": "Bestiary2"
+  },
+  {
+    "Creature": "Giant maggot",
+    "Level": 0,
+    "Page": 120,
+    "Book": "Bestiary2"
+  },
+  {
+    "Creature": "Grindylow",
+    "Level": 0,
+    "Page": 138,
+    "Book": "Bestiary2"
+  },
+  {
+    "Creature": "Sea snake",
+    "Level": 0,
+    "Page": 245,
+    "Book": "Bestiary2"
+  },
+  {
+    "Creature": "Spear frog",
+    "Level": 0,
+    "Page": 121,
+    "Book": "Bestiary2"
+  },
+  {
+    "Creature": "Stingray",
+    "Level": 0,
+    "Page": 226,
+    "Book": "Bestiary2"
+  },
+  {
+    "Creature": "Vampire squid",
+    "Level": 0,
+    "Page": 254,
+    "Book": "Bestiary2"
+  },
+  {
+    "Creature": "Akata",
+    "Level": 1,
+    "Page": 13,
+    "Book": "Bestiary2"
+  },
+  {
+    "Creature": "Amoeba swarm",
+    "Level": 1,
+    "Page": 192,
+    "Book": "Bestiary2"
+  },
+  {
+    "Creature": "Augur",
+    "Level": 1,
+    "Page": 280,
+    "Book": "Bestiary2"
+  },
+  {
+    "Creature": "Brownie",
+    "Level": 1,
+    "Page": 44,
+    "Book": "Bestiary2"
+  },
+  {
+    "Creature": "Carbuncle",
+    "Level": 1,
+    "Page": 47,
+    "Book": "Bestiary2"
+  },
+  {
+    "Creature": "Cave scorpion",
+    "Level": 1,
+    "Page": 234,
+    "Book": "Bestiary2"
+  },
+  {
+    "Creature": "Cythnigot",
+    "Level": 1,
+    "Page": 212,
+    "Book": "Bestiary2"
+  },
+  {
+    "Creature": "Dust mephit",
+    "Level": 1,
+    "Page": 112,
+    "Book": "Bestiary2"
+  },
+  {
+    "Creature": "Fetchling scout",
+    "Level": 1,
+    "Page": 117,
+    "Book": "Bestiary2"
+  },
+  {
+    "Creature": "Giant amoeba",
+    "Level": 1,
+    "Page": 192,
+    "Book": "Bestiary2"
+  },
+  {
+    "Creature": "Giant cockroach",
+    "Level": 1,
+    "Page": 53,
+    "Book": "Bestiary2"
+  },
+  {
+    "Creature": "Giant fly",
+    "Level": 1,
+    "Page": 120,
+    "Book": "Bestiary2"
+  },
+  {
+    "Creature": "Giant frog",
+    "Level": 1,
+    "Page": 121,
+    "Book": "Bestiary2"
+  },
+  {
+    "Creature": "Giant solifugid",
+    "Level": 1,
+    "Page": 246,
+    "Book": "Bestiary2"
+  },
+  {
+    "Creature": "Giant tick",
+    "Level": 1,
+    "Page": 260,
+    "Book": "Bestiary2"
+  },
+  {
+    "Creature": "Grippli scout",
+    "Level": 1,
+    "Page": 139,
+    "Book": "Bestiary2"
+  },
+  {
+    "Creature": "Hippocampus",
+    "Level": 1,
+    "Page": 142,
+    "Book": "Bestiary2"
+  },
+  {
+    "Creature": "Ice mephit",
+    "Level": 1,
+    "Page": 112,
+    "Book": "Bestiary2"
+  },
+  {
+    "Creature": "Ifrit pyrochemist",
+    "Level": 1,
+    "Page": 200,
+    "Book": "Bestiary2"
+  },
+  {
+    "Creature": "Manta ray",
+    "Level": 1,
+    "Page": 226,
+    "Book": "Bestiary2"
+  },
+  {
+    "Creature": "Nixie",
+    "Level": 1,
+    "Page": 183,
+    "Book": "Bestiary2"
+  },
+  {
+    "Creature": "Ooze mephit",
+    "Level": 1,
+    "Page": 113,
+    "Book": "Bestiary2"
+  },
+  {
+    "Creature": "Oread guard",
+    "Level": 1,
+    "Page": 200,
+    "Book": "Bestiary2"
+  },
+  {
+    "Creature": "Petitioner",
+    "Level": 1,
+    "Page": 198,
+    "Book": "Bestiary2"
+  },
+  {
+    "Creature": "Reef octopus",
+    "Level": 1,
+    "Page": 187,
+    "Book": "Bestiary2"
+  },
+  {
+    "Creature": "Skulk",
+    "Level": 1,
+    "Page": 243,
+    "Book": "Bestiary2"
+  },
+  {
+    "Creature": "Steam mephit",
+    "Level": 1,
+    "Page": 113,
+    "Book": "Bestiary2"
+  },
+  {
+    "Creature": "Suli dune danger",
+    "Level": 1,
+    "Page": 201,
+    "Book": "Bestiary2"
+  },
+  {
+    "Creature": "Sunflower leshy",
+    "Level": 1,
+    "Page": 160,
+    "Book": "Bestiary2"
+  },
+  {
+    "Creature": "Sylph sneak",
+    "Level": 1,
+    "Page": 202,
+    "Book": "Bestiary2"
+  },
+  {
+    "Creature": "Undine hydromancer",
+    "Level": 1,
+    "Page": 203,
+    "Book": "Bestiary2"
+  },
+  {
+    "Creature": "Vexgit",
+    "Level": 1,
+    "Page": 134,
+    "Book": "Bestiary2"
+  },
+  {
+    "Creature": "Void zombie",
+    "Level": 1,
+    "Page": 288,
+    "Book": "Bestiary2"
+  },
+  {
+    "Creature": "Black bear",
+    "Level": 2,
+    "Page": 36,
+    "Book": "Bestiary2"
+  },
+  {
+    "Creature": "Blindheim",
+    "Level": 2,
+    "Page": 39,
+    "Book": "Bestiary2"
+  },
+  {
+    "Creature": "Blink dog",
+    "Level": 2,
+    "Page": 40,
+    "Book": "Bestiary2"
+  },
+  {
+    "Creature": "Bog strider",
+    "Level": 2,
+    "Page": 43,
+    "Book": "Bestiary2"
+  },
+  {
+    "Creature": "Cave fisher",
+    "Level": 2,
+    "Page": 49,
+    "Book": "Bestiary2"
+  },
+  {
+    "Creature": "Choker",
+    "Level": 2,
+    "Page": 51,
+    "Book": "Bestiary2"
+  },
+  {
+    "Creature": "Cockroach swarm",
+    "Level": 2,
+    "Page": 53,
+    "Book": "Bestiary2"
+  },
+  {
+    "Creature": "Draugr",
+    "Level": 2,
+    "Page": 102,
+    "Book": "Bestiary2"
+  },
+  {
+    "Creature": "Ember fox",
+    "Level": 2,
+    "Page": 110,
+    "Book": "Bestiary2"
+  },
+  {
+    "Creature": "Giant ant",
+    "Level": 2,
+    "Page": 20,
+    "Book": "Bestiary2"
+  },
+  {
+    "Creature": "Giant badger",
+    "Level": 2,
+    "Page": 32,
+    "Book": "Bestiary2"
+  },
+  {
+    "Creature": "Giant crab",
+    "Level": 2,
+    "Page": 55,
+    "Book": "Bestiary2"
+  },
+  {
+    "Creature": "Giant leech",
+    "Level": 2,
+    "Page": 156,
+    "Book": "Bestiary2"
+  },
+  {
+    "Creature": "Giant toad",
+    "Level": 2,
+    "Page": 261,
+    "Book": "Bestiary2"
+  },
+  {
+    "Creature": "Hippogriff",
+    "Level": 2,
+    "Page": 143,
+    "Book": "Bestiary2"
+  },
+  {
+    "Creature": "Icicle snake",
+    "Level": 2,
+    "Page": 114,
+    "Book": "Bestiary2"
+  },
+  {
+    "Creature": "Leprechaun",
+    "Level": 2,
+    "Page": 158,
+    "Book": "Bestiary2"
+  },
+  {
+    "Creature": "Living boulder",
+    "Level": 2,
+    "Page": 108,
+    "Book": "Bestiary2"
+  },
+  {
+    "Creature": "Morlock",
+    "Level": 2,
+    "Page": 174,
+    "Book": "Bestiary2"
+  },
+  {
+    "Creature": "Mudwretch",
+    "Level": 2,
+    "Page": 176,
+    "Book": "Bestiary2"
+  },
+  {
+    "Creature": "Nuglub",
+    "Level": 2,
+    "Page": 135,
+    "Book": "Bestiary2"
+  },
+  {
+    "Creature": "Shadow drake",
+    "Level": 2,
+    "Page": 100,
+    "Book": "Bestiary2"
+  },
+  {
+    "Creature": "Shocker lizard",
+    "Level": 2,
+    "Page": 240,
+    "Book": "Bestiary2"
+  },
+  {
+    "Creature": "Slime mold",
+    "Level": 2,
+    "Page": 193,
+    "Book": "Bestiary2"
+  },
+  {
+    "Creature": "Spark bat",
+    "Level": 2,
+    "Page": 106,
+    "Book": "Bestiary2"
+  },
+  {
+    "Creature": "Tatzlwyrm",
+    "Level": 2,
+    "Page": 256,
+    "Book": "Bestiary2"
+  },
+  {
+    "Creature": "Triton",
+    "Level": 2,
+    "Page": 263,
+    "Book": "Bestiary2"
+  },
+  {
+    "Creature": "Wereboar",
+    "Level": 2,
+    "Page": 290,
+    "Book": "Bestiary2"
+  },
+  {
+    "Creature": "Wolverine",
+    "Level": 2,
+    "Page": 295,
+    "Book": "Bestiary2"
+  },
+  {
+    "Creature": "Yellow musk brute",
+    "Level": 2,
+    "Page": 301,
+    "Book": "Bestiary2"
+  },
+  {
+    "Creature": "Yellow musk creeper",
+    "Level": 2,
+    "Page": 300,
+    "Book": "Bestiary2"
+  },
+  {
+    "Creature": "Zyss serpentfolk",
+    "Level": 2,
+    "Page": 237,
+    "Book": "Bestiary2"
+  },
+  {
+    "Creature": "Aapoph serpentfolk",
+    "Level": 3,
+    "Page": 237,
+    "Book": "Bestiary2"
+  },
+  {
+    "Creature": "Akizendri",
+    "Level": 3,
+    "Page": 204,
+    "Book": "Bestiary2"
+  },
+  {
+    "Creature": "Assassin vine",
+    "Level": 3,
+    "Page": 26,
+    "Book": "Bestiary2"
+  },
+  {
+    "Creature": "Caligni slayer",
+    "Level": 3,
+    "Page": 46,
+    "Book": "Bestiary2"
+  },
+  {
+    "Creature": "Chupacabra",
+    "Level": 3,
+    "Page": 52,
+    "Book": "Bestiary2"
+  },
+  {
+    "Creature": "D’ziriak",
+    "Level": 3,
+    "Page": 104,
+    "Book": "Bestiary2"
+  },
+  {
+    "Creature": "Esobok",
+    "Level": 3,
+    "Page": 208,
+    "Book": "Bestiary2"
+  },
+  {
+    "Creature": "Fen mosquito swarm",
+    "Level": 3,
+    "Page": 175,
+    "Book": "Bestiary2"
+  },
+  {
+    "Creature": "Giant chameleon",
+    "Level": 3,
+    "Page": 168,
+    "Book": "Bestiary2"
+  },
+  {
+    "Creature": "Giant dragonfly nymph",
+    "Level": 3,
+    "Page": 98,
+    "Book": "Bestiary2"
+  },
+  {
+    "Creature": "Giant whiptail centipede",
+    "Level": 3,
+    "Page": 50,
+    "Book": "Bestiary2"
+  },
+  {
+    "Creature": "Necrophidius",
+    "Level": 3,
+    "Page": 180,
+    "Book": "Bestiary2"
+  },
+  {
+    "Creature": "Pachycephalosaurus",
+    "Level": 3,
+    "Page": 80,
+    "Book": "Bestiary2"
+  },
+  {
+    "Creature": "Quickling",
+    "Level": 3,
+    "Page": 218,
+    "Book": "Bestiary2"
+  },
+  {
+    "Creature": "Raven swarm",
+    "Level": 3,
+    "Page": 221,
+    "Book": "Bestiary2"
+  },
+  {
+    "Creature": "Spriggan bully",
+    "Level": 3,
+    "Page": 252,
+    "Book": "Bestiary2"
+  },
+  {
+    "Creature": "Trollhound",
+    "Level": 3,
+    "Page": 268,
+    "Book": "Bestiary2"
+  },
+  {
+    "Creature": "Twigjack",
+    "Level": 3,
+    "Page": 270,
+    "Book": "Bestiary2"
+  },
+  {
+    "Creature": "Urdefhan warrior",
+    "Level": 3,
+    "Page": 272,
+    "Book": "Bestiary2"
+  },
+  {
+    "Creature": "Vampiric mist",
+    "Level": 3,
+    "Page": 278,
+    "Book": "Bestiary2"
+  },
+  {
+    "Creature": "Violet fungus",
+    "Level": 3,
+    "Page": 286,
+    "Book": "Bestiary2"
+  },
+  {
+    "Creature": "Yeth hound",
+    "Level": 3,
+    "Page": 302,
+    "Book": "Bestiary2"
+  },
+  {
+    "Creature": "Zebub",
+    "Level": 3,
+    "Page": 72,
+    "Book": "Bestiary2"
+  },
+  {
+    "Creature": "Attic whisperer",
+    "Level": 4,
+    "Page": 28,
+    "Book": "Bestiary2"
+  },
+  {
+    "Creature": "Brood leech swarm",
+    "Level": 4,
+    "Page": 156,
+    "Book": "Bestiary2"
+  },
+  {
+    "Creature": "Cairn wight",
+    "Level": 4,
+    "Page": 292,
+    "Book": "Bestiary2"
+  },
+  {
+    "Creature": "Calathgar",
+    "Level": 4,
+    "Page": 45,
+    "Book": "Bestiary2"
+  },
+  {
+    "Creature": "Carrion golem",
+    "Level": 4,
+    "Page": 128,
+    "Book": "Bestiary2"
+  },
+  {
+    "Creature": "Coil spy",
+    "Level": 4,
+    "Page": 238,
+    "Book": "Bestiary2"
+  },
+  {
+    "Creature": "Earthen destrier",
+    "Level": 4,
+    "Page": 108,
+    "Book": "Bestiary2"
+  },
+  {
+    "Creature": "Filth fire",
+    "Level": 4,
+    "Page": 110,
+    "Book": "Bestiary2"
+  },
+  {
+    "Creature": "Flytrap leshy",
+    "Level": 4,
+    "Page": 161,
+    "Book": "Bestiary2"
+  },
+  {
+    "Creature": "Frost troll",
+    "Level": 4,
+    "Page": 264,
+    "Book": "Bestiary2"
+  },
+  {
+    "Creature": "Giant dragonfly",
+    "Level": 4,
+    "Page": 98,
+    "Book": "Bestiary2"
+  },
+  {
+    "Creature": "Giant wolverine",
+    "Level": 4,
+    "Page": 295,
+    "Book": "Bestiary2"
+  },
+  {
+    "Creature": "Gray ooze",
+    "Level": 4,
+    "Page": 193,
+    "Book": "Bestiary2"
+  },
+  {
+    "Creature": "Hadrosaurid",
+    "Level": 4,
+    "Page": 81,
+    "Book": "Bestiary2"
+  },
+  {
+    "Creature": "Hound archon",
+    "Level": 4,
+    "Page": 22,
+    "Book": "Bestiary2"
+  },
+  {
+    "Creature": "Kelpie",
+    "Level": 4,
+    "Page": 154,
+    "Book": "Bestiary2"
+  },
+  {
+    "Creature": "Korred",
+    "Level": 4,
+    "Page": 155,
+    "Book": "Bestiary2"
+  },
+  {
+    "Creature": "Living thunderclap",
+    "Level": 4,
+    "Page": 106,
+    "Book": "Bestiary2"
+  },
+  {
+    "Creature": "Mandragora",
+    "Level": 4,
+    "Page": 170,
+    "Book": "Bestiary2"
+  },
+  {
+    "Creature": "Mist stalker",
+    "Level": 4,
+    "Page": 114,
+    "Book": "Bestiary2"
+  },
+  {
+    "Creature": "Peryton",
+    "Level": 4,
+    "Page": 197,
+    "Book": "Bestiary2"
+  },
+  {
+    "Creature": "Rhinoceros",
+    "Level": 4,
+    "Page": 228,
+    "Book": "Bestiary2"
+  },
+  {
+    "Creature": "Scarecrow",
+    "Level": 4,
+    "Page": 232,
+    "Book": "Bestiary2"
+  },
+  {
+    "Creature": "Weretiger",
+    "Level": 4,
+    "Page": 291,
+    "Book": "Bestiary2"
+  },
+  {
+    "Creature": "Army ant swarm",
+    "Level": 5,
+    "Page": 20,
+    "Book": "Bestiary2"
+  },
+  {
+    "Creature": "Azuretzi",
+    "Level": 5,
+    "Page": 205,
+    "Book": "Bestiary2"
+  },
+  {
+    "Creature": "Basidirond",
+    "Level": 5,
+    "Page": 34,
+    "Book": "Bestiary2"
+  },
+  {
+    "Creature": "Bog mummy",
+    "Level": 5,
+    "Page": 177,
+    "Book": "Bestiary2"
+  },
+  {
+    "Creature": "Catrina",
+    "Level": 5,
+    "Page": 209,
+    "Book": "Bestiary2"
+  },
+  {
+    "Creature": "Dig–widget",
+    "Level": 5,
+    "Page": 79,
+    "Book": "Bestiary2"
+  },
+  {
+    "Creature": "Emperor cobra",
+    "Level": 5,
+    "Page": 245,
+    "Book": "Bestiary2"
+  },
+  {
+    "Creature": "Giant crawling hand",
+    "Level": 5,
+    "Page": 56,
+    "Book": "Bestiary2"
+  },
+  {
+    "Creature": "Grimstalker",
+    "Level": 5,
+    "Page": 137,
+    "Book": "Bestiary2"
+  },
+  {
+    "Creature": "Grodair",
+    "Level": 5,
+    "Page": 140,
+    "Book": "Bestiary2"
+  },
+  {
+    "Creature": "Hippopotamus",
+    "Level": 5,
+    "Page": 144,
+    "Book": "Bestiary2"
+  },
+  {
+    "Creature": "Ice golem",
+    "Level": 5,
+    "Page": 129,
+    "Book": "Bestiary2"
+  },
+  {
+    "Creature": "Leucrotta",
+    "Level": 5,
+    "Page": 162,
+    "Book": "Bestiary2"
+  },
+  {
+    "Creature": "Lurker in light",
+    "Level": 5,
+    "Page": 169,
+    "Book": "Bestiary2"
+  },
+  {
+    "Creature": "Ogre spider",
+    "Level": 5,
+    "Page": 249,
+    "Book": "Bestiary2"
+  },
+  {
+    "Creature": "Orca",
+    "Level": 5,
+    "Page": 84,
+    "Book": "Bestiary2"
+  },
+  {
+    "Creature": "Ostiarius",
+    "Level": 5,
+    "Page": 281,
+    "Book": "Bestiary2"
+  },
+  {
+    "Creature": "Polar bear",
+    "Level": 5,
+    "Page": 36,
+    "Book": "Bestiary2"
+  },
+  {
+    "Creature": "Skaveling",
+    "Level": 5,
+    "Page": 241,
+    "Book": "Bestiary2"
+  },
+  {
+    "Creature": "Urdefhan tormentor",
+    "Level": 5,
+    "Page": 273,
+    "Book": "Bestiary2"
+  },
+  {
+    "Creature": "Ahuizotl",
+    "Level": 6,
+    "Page": 12,
+    "Book": "Bestiary2"
+  },
+  {
+    "Creature": "Babau",
+    "Level": 6,
+    "Page": 64,
+    "Book": "Bestiary2"
+  },
+  {
+    "Creature": "Baobhan sith",
+    "Level": 6,
+    "Page": 33,
+    "Book": "Bestiary2"
+  },
+  {
+    "Creature": "Belker",
+    "Level": 6,
+    "Page": 106,
+    "Book": "Bestiary2"
+  },
+  {
+    "Creature": "Blizzardborn",
+    "Level": 6,
+    "Page": 114,
+    "Book": "Bestiary2"
+  },
+  {
+    "Creature": "Blodeuwedd",
+    "Level": 6,
+    "Page": 41,
+    "Book": "Bestiary2"
+  },
+  {
+    "Creature": "Bralani",
+    "Level": 6,
+    "Page": 30,
+    "Book": "Bestiary2"
+  },
+  {
+    "Creature": "Cavern troll",
+    "Level": 6,
+    "Page": 264,
+    "Book": "Bestiary2"
+  },
+  {
+    "Creature": "Evangelist",
+    "Level": 6,
+    "Page": 281,
+    "Book": "Bestiary2"
+  },
+  {
+    "Creature": "Fire jellyfish swarm",
+    "Level": 6,
+    "Page": 152,
+    "Book": "Bestiary2"
+  },
+  {
+    "Creature": "Giant mosquito",
+    "Level": 6,
+    "Page": 175,
+    "Book": "Bestiary2"
+  },
+  {
+    "Creature": "Hodag",
+    "Level": 6,
+    "Page": 145,
+    "Book": "Bestiary2"
+  },
+  {
+    "Creature": "Iguanodon",
+    "Level": 6,
+    "Page": 82,
+    "Book": "Bestiary2"
+  },
+  {
+    "Creature": "Lunar naga",
+    "Level": 6,
+    "Page": 178,
+    "Book": "Bestiary2"
+  },
+  {
+    "Creature": "Revenant",
+    "Level": 6,
+    "Page": 227,
+    "Book": "Bestiary2"
+  },
+  {
+    "Creature": "Sand sentry",
+    "Level": 6,
+    "Page": 108,
+    "Book": "Bestiary2"
+  },
+  {
+    "Creature": "Scythe tree",
+    "Level": 6,
+    "Page": 235,
+    "Book": "Bestiary2"
+  },
+  {
+    "Creature": "Sea drake",
+    "Level": 6,
+    "Page": 101,
+    "Book": "Bestiary2"
+  },
+  {
+    "Creature": "Skrik nettle",
+    "Level": 6,
+    "Page": 242,
+    "Book": "Bestiary2"
+  },
+  {
+    "Creature": "Striding fire",
+    "Level": 6,
+    "Page": 111,
+    "Book": "Bestiary2"
+  },
+  {
+    "Creature": "Verdurous ooze",
+    "Level": 6,
+    "Page": 194,
+    "Book": "Bestiary2"
+  },
+  {
+    "Creature": "Vrykolakas spawn",
+    "Level": 6,
+    "Page": 276,
+    "Book": "Bestiary2"
+  },
+  {
+    "Creature": "Witchwyrd",
+    "Level": 6,
+    "Page": 294,
+    "Book": "Bestiary2"
+  },
+  {
+    "Creature": "Wood giant",
+    "Level": 6,
+    "Page": 124,
+    "Book": "Bestiary2"
+  },
+  {
+    "Creature": "Wood golem",
+    "Level": 6,
+    "Page": 130,
+    "Book": "Bestiary2"
+  },
+  {
+    "Creature": "Woolly rhinoceros",
+    "Level": 6,
+    "Page": 228,
+    "Book": "Bestiary2"
+  },
+  {
+    "Creature": "Xill",
+    "Level": 6,
+    "Page": 299,
+    "Book": "Bestiary2"
+  },
+  {
+    "Creature": "Culdewen",
+    "Level": 7,
+    "Page": 57,
+    "Book": "Bestiary2"
+  },
+  {
+    "Creature": "Drainberry bush",
+    "Level": 7,
+    "Page": 99,
+    "Book": "Bestiary2"
+  },
+  {
+    "Creature": "Dweomercat",
+    "Level": 7,
+    "Page": 103,
+    "Book": "Bestiary2"
+  },
+  {
+    "Creature": "Elasmosaurus",
+    "Level": 7,
+    "Page": 105,
+    "Book": "Bestiary2"
+  },
+  {
+    "Creature": "Giant jellyfish",
+    "Level": 7,
+    "Page": 152,
+    "Book": "Bestiary2"
+  },
+  {
+    "Creature": "Hellcat",
+    "Level": 7,
+    "Page": 141,
+    "Book": "Bestiary2"
+  },
+  {
+    "Creature": "Hound of Tindalos",
+    "Level": 7,
+    "Page": 146,
+    "Book": "Bestiary2"
+  },
+  {
+    "Creature": "Invidiak",
+    "Level": 7,
+    "Page": 65,
+    "Book": "Bestiary2"
+  },
+  {
+    "Creature": "Megalania",
+    "Level": 7,
+    "Page": 168,
+    "Book": "Bestiary2"
+  },
+  {
+    "Creature": "Sceaduinar",
+    "Level": 7,
+    "Page": 233,
+    "Book": "Bestiary2"
+  },
+  {
+    "Creature": "Shoggti",
+    "Level": 7,
+    "Page": 213,
+    "Book": "Bestiary2"
+  },
+  {
+    "Creature": "Soul eater",
+    "Level": 7,
+    "Page": 247,
+    "Book": "Bestiary2"
+  },
+  {
+    "Creature": "Spectre",
+    "Level": 7,
+    "Page": 248,
+    "Book": "Bestiary2"
+  },
+  {
+    "Creature": "Sportlebore swarm",
+    "Level": 7,
+    "Page": 251,
+    "Book": "Bestiary2"
+  },
+  {
+    "Creature": "Spriggan warlord",
+    "Level": 7,
+    "Page": 253,
+    "Book": "Bestiary2"
+  },
+  {
+    "Creature": "Stygira",
+    "Level": 7,
+    "Page": 255,
+    "Book": "Bestiary2"
+  },
+  {
+    "Creature": "Tendriculos",
+    "Level": 7,
+    "Page": 257,
+    "Book": "Bestiary2"
+  },
+  {
+    "Creature": "Theletos",
+    "Level": 7,
+    "Page": 8,
+    "Book": "Bestiary2"
+  },
+  {
+    "Creature": "Totenmaske",
+    "Level": 7,
+    "Page": 262,
+    "Book": "Bestiary2"
+  },
+  {
+    "Creature": "Vanth",
+    "Level": 7,
+    "Page": 210,
+    "Book": "Bestiary2"
+  },
+  {
+    "Creature": "Young crystal dragon",
+    "Level": 7,
+    "Page": 91,
+    "Book": "Bestiary2"
+  },
+  {
+    "Creature": "Anancus",
+    "Level": 8,
+    "Page": 116,
+    "Book": "Bestiary2"
+  },
+  {
+    "Creature": "Animate dream",
+    "Level": 8,
+    "Page": 18,
+    "Book": "Bestiary2"
+  },
+  {
+    "Creature": "Behir",
+    "Level": 8,
+    "Page": 38,
+    "Book": "Bestiary2"
+  },
+  {
+    "Creature": "Bodak",
+    "Level": 8,
+    "Page": 42,
+    "Book": "Bestiary2"
+  },
+  {
+    "Creature": "Bone prophet",
+    "Level": 8,
+    "Page": 239,
+    "Book": "Bestiary2"
+  },
+  {
+    "Creature": "Denizen of Leng",
+    "Level": 8,
+    "Page": 70,
+    "Book": "Bestiary2"
+  },
+  {
+    "Creature": "Destrachan",
+    "Level": 8,
+    "Page": 71,
+    "Book": "Bestiary2"
+  },
+  {
+    "Creature": "Giant hippocampus",
+    "Level": 8,
+    "Page": 142,
+    "Book": "Bestiary2"
+  },
+  {
+    "Creature": "Giant slug",
+    "Level": 8,
+    "Page": 244,
+    "Book": "Bestiary2"
+  },
+  {
+    "Creature": "Glass golem",
+    "Level": 8,
+    "Page": 131,
+    "Book": "Bestiary2"
+  },
+  {
+    "Creature": "Gorgon",
+    "Level": 8,
+    "Page": 132,
+    "Book": "Bestiary2"
+  },
+  {
+    "Creature": "Granite glyptodont",
+    "Level": 8,
+    "Page": 109,
+    "Book": "Bestiary2"
+  },
+  {
+    "Creature": "Intellect devourer",
+    "Level": 8,
+    "Page": 147,
+    "Book": "Bestiary2"
+  },
+  {
+    "Creature": "Magma scorpion",
+    "Level": 8,
+    "Page": 111,
+    "Book": "Bestiary2"
+  },
+  {
+    "Creature": "Marsh giant",
+    "Level": 8,
+    "Page": 125,
+    "Book": "Bestiary2"
+  },
+  {
+    "Creature": "Mohrg",
+    "Level": 8,
+    "Page": 172,
+    "Book": "Bestiary2"
+  },
+  {
+    "Creature": "Moonflower",
+    "Level": 8,
+    "Page": 173,
+    "Book": "Bestiary2"
+  },
+  {
+    "Creature": "Nabasu",
+    "Level": 8,
+    "Page": 65,
+    "Book": "Bestiary2"
+  },
+  {
+    "Creature": "Onidoshi",
+    "Level": 8,
+    "Page": 188,
+    "Book": "Bestiary2"
+  },
+  {
+    "Creature": "Sandpoint Devil",
+    "Level": 8,
+    "Page": 230,
+    "Book": "Bestiary2"
+  },
+  {
+    "Creature": "Sarglagon",
+    "Level": 8,
+    "Page": 72,
+    "Book": "Bestiary2"
+  },
+  {
+    "Creature": "Two–headed troll",
+    "Level": 8,
+    "Page": 265,
+    "Book": "Bestiary2"
+  },
+  {
+    "Creature": "Young brine dragon",
+    "Level": 8,
+    "Page": 87,
+    "Book": "Bestiary2"
+  },
+  {
+    "Creature": "Aurumvorax",
+    "Level": 9,
+    "Page": 29,
+    "Book": "Bestiary2"
+  },
+  {
+    "Creature": "Dracolisk",
+    "Level": 9,
+    "Page": 35,
+    "Book": "Bestiary2"
+  },
+  {
+    "Creature": "Dread wraith",
+    "Level": 9,
+    "Page": 298,
+    "Book": "Bestiary2"
+  },
+  {
+    "Creature": "Giant snapping turtle",
+    "Level": 9,
+    "Page": 269,
+    "Book": "Bestiary2"
+  },
+  {
+    "Creature": "Giant squid",
+    "Level": 9,
+    "Page": 254,
+    "Book": "Bestiary2"
+  },
+  {
+    "Creature": "Irnakurse",
+    "Level": 9,
+    "Page": 118,
+    "Book": "Bestiary2"
+  },
+  {
+    "Creature": "Jyoti",
+    "Level": 9,
+    "Page": 153,
+    "Book": "Bestiary2"
+  },
+  {
+    "Creature": "Mastodon",
+    "Level": 9,
+    "Page": 116,
+    "Book": "Bestiary2"
+  },
+  {
+    "Creature": "Nuckelavee",
+    "Level": 9,
+    "Page": 186,
+    "Book": "Bestiary2"
+  },
+  {
+    "Creature": "Osyluth",
+    "Level": 9,
+    "Page": 73,
+    "Book": "Bestiary2"
+  },
+  {
+    "Creature": "Spirit naga",
+    "Level": 9,
+    "Page": 179,
+    "Book": "Bestiary2"
+  },
+  {
+    "Creature": "Tick swarm",
+    "Level": 9,
+    "Page": 260,
+    "Book": "Bestiary2"
+  },
+  {
+    "Creature": "Titan centipede",
+    "Level": 9,
+    "Page": 50,
+    "Book": "Bestiary2"
+  },
+  {
+    "Creature": "Witchfire",
+    "Level": 9,
+    "Page": 293,
+    "Book": "Bestiary2"
+  },
+  {
+    "Creature": "Young magma dragon",
+    "Level": 9,
+    "Page": 94,
+    "Book": "Bestiary2"
+  },
+  {
+    "Creature": "Zelekhut",
+    "Level": 9,
+    "Page": 9,
+    "Book": "Bestiary2"
+  },
+  {
+    "Creature": "Bebilith",
+    "Level": 10,
+    "Page": 37,
+    "Book": "Bestiary2"
+  },
+  {
+    "Creature": "Behemoth hippopotamus",
+    "Level": 10,
+    "Page": 144,
+    "Book": "Bestiary2"
+  },
+  {
+    "Creature": "Ghonhatine",
+    "Level": 10,
+    "Page": 119,
+    "Book": "Bestiary2"
+  },
+  {
+    "Creature": "Icewyrm",
+    "Level": 10,
+    "Page": 115,
+    "Book": "Bestiary2"
+  },
+  {
+    "Creature": "Imentesh",
+    "Level": 10,
+    "Page": 207,
+    "Book": "Bestiary2"
+  },
+  {
+    "Creature": "Melody on the wind",
+    "Level": 10,
+    "Page": 107,
+    "Book": "Bestiary2"
+  },
+  {
+    "Creature": "Movanic deva",
+    "Level": 10,
+    "Page": 14,
+    "Book": "Bestiary2"
+  },
+  {
+    "Creature": "Nereid",
+    "Level": 10,
+    "Page": 182,
+    "Book": "Bestiary2"
+  },
+  {
+    "Creature": "Nyogoth",
+    "Level": 10,
+    "Page": 213,
+    "Book": "Bestiary2"
+  },
+  {
+    "Creature": "Peluda",
+    "Level": 10,
+    "Page": 196,
+    "Book": "Bestiary2"
+  },
+  {
+    "Creature": "Piscodaemon",
+    "Level": 10,
+    "Page": 58,
+    "Book": "Bestiary2"
+  },
+  {
+    "Creature": "Quetz couatl",
+    "Level": 10,
+    "Page": 54,
+    "Book": "Bestiary2"
+  },
+  {
+    "Creature": "Sacristan",
+    "Level": 10,
+    "Page": 282,
+    "Book": "Bestiary2"
+  },
+  {
+    "Creature": "Vrykolakas master",
+    "Level": 10,
+    "Page": 276,
+    "Book": "Bestiary2"
+  },
+  {
+    "Creature": "Water orm",
+    "Level": 10,
+    "Page": 289,
+    "Book": "Bestiary2"
+  },
+  {
+    "Creature": "Young cloud dragon",
+    "Level": 10,
+    "Page": 89,
+    "Book": "Bestiary2"
+  },
+  {
+    "Creature": "Adult crystal dragon",
+    "Level": 11,
+    "Page": 92,
+    "Book": "Bestiary2"
+  },
+  {
+    "Creature": "Devourer",
+    "Level": 11,
+    "Page": 78,
+    "Book": "Bestiary2"
+  },
+  {
+    "Creature": "Gosreg",
+    "Level": 11,
+    "Page": 133,
+    "Book": "Bestiary2"
+  },
+  {
+    "Creature": "Hamatula",
+    "Level": 11,
+    "Page": 74,
+    "Book": "Bestiary2"
+  },
+  {
+    "Creature": "Hezrou",
+    "Level": 11,
+    "Page": 66,
+    "Book": "Bestiary2"
+  },
+  {
+    "Creature": "Isqulug",
+    "Level": 11,
+    "Page": 149,
+    "Book": "Bestiary2"
+  },
+  {
+    "Creature": "Meladaemon",
+    "Level": 11,
+    "Page": 58,
+    "Book": "Bestiary2"
+  },
+  {
+    "Creature": "Quoppopak",
+    "Level": 11,
+    "Page": 219,
+    "Book": "Bestiary2"
+  },
+  {
+    "Creature": "Spinosaurus",
+    "Level": 11,
+    "Page": 82,
+    "Book": "Bestiary2"
+  },
+  {
+    "Creature": "Spiral centurion",
+    "Level": 11,
+    "Page": 250,
+    "Book": "Bestiary2"
+  },
+  {
+    "Creature": "Thunderbird",
+    "Level": 11,
+    "Page": 259,
+    "Book": "Bestiary2"
+  },
+  {
+    "Creature": "Young umbral dragon",
+    "Level": 11,
+    "Page": 96,
+    "Book": "Bestiary2"
+  },
+  {
+    "Creature": "Adult brine dragon",
+    "Level": 12,
+    "Page": 87,
+    "Book": "Bestiary2"
+  },
+  {
+    "Creature": "Athach",
+    "Level": 12,
+    "Page": 27,
+    "Book": "Bestiary2"
+  },
+  {
+    "Creature": "Catoblepas",
+    "Level": 12,
+    "Page": 48,
+    "Book": "Bestiary2"
+  },
+  {
+    "Creature": "Chernobue",
+    "Level": 12,
+    "Page": 214,
+    "Book": "Bestiary2"
+  },
+  {
+    "Creature": "Derghodaemon",
+    "Level": 12,
+    "Page": 59,
+    "Book": "Bestiary2"
+  },
+  {
+    "Creature": "Frost worm",
+    "Level": 12,
+    "Page": 123,
+    "Book": "Bestiary2"
+  },
+  {
+    "Creature": "Interlocutor",
+    "Level": 12,
+    "Page": 283,
+    "Book": "Bestiary2"
+  },
+  {
+    "Creature": "Monadic deva",
+    "Level": 12,
+    "Page": 15,
+    "Book": "Bestiary2"
+  },
+  {
+    "Creature": "Rusalka",
+    "Level": 12,
+    "Page": 229,
+    "Book": "Bestiary2"
+  },
+  {
+    "Creature": "Taiga giant",
+    "Level": 12,
+    "Page": 126,
+    "Book": "Bestiary2"
+  },
+  {
+    "Creature": "Adult magma dragon",
+    "Level": 13,
+    "Page": 94,
+    "Book": "Bestiary2"
+  },
+  {
+    "Creature": "Carnivorous blob",
+    "Level": 13,
+    "Page": 195,
+    "Book": "Bestiary2"
+  },
+  {
+    "Creature": "Froghemoth",
+    "Level": 13,
+    "Page": 122,
+    "Book": "Bestiary2"
+  },
+  {
+    "Creature": "Ice yai",
+    "Level": 13,
+    "Page": 189,
+    "Book": "Bestiary2"
+  },
+  {
+    "Creature": "Irlgaunt",
+    "Level": 13,
+    "Page": 148,
+    "Book": "Bestiary2"
+  },
+  {
+    "Creature": "Leng spider",
+    "Level": 13,
+    "Page": 157,
+    "Book": "Bestiary2"
+  },
+  {
+    "Creature": "Shadow giant",
+    "Level": 13,
+    "Page": 127,
+    "Book": "Bestiary2"
+  },
+  {
+    "Creature": "Thanadaemon",
+    "Level": 13,
+    "Page": 60,
+    "Book": "Bestiary2"
+  },
+  {
+    "Creature": "Viper vine",
+    "Level": 13,
+    "Page": 287,
+    "Book": "Bestiary2"
+  },
+  {
+    "Creature": "Vrykolakas ancient",
+    "Level": 13,
+    "Page": 277,
+    "Book": "Bestiary2"
+  },
+  {
+    "Creature": "Adult cloud dragon",
+    "Level": 14,
+    "Page": 90,
+    "Book": "Bestiary2"
+  },
+  {
+    "Creature": "Ankou",
+    "Level": 14,
+    "Page": 19,
+    "Book": "Bestiary2"
+  },
+  {
+    "Creature": "Augnagar",
+    "Level": 14,
+    "Page": 215,
+    "Book": "Bestiary2"
+  },
+  {
+    "Creature": "Doprillu",
+    "Level": 14,
+    "Page": 85,
+    "Book": "Bestiary2"
+  },
+  {
+    "Creature": "Fire yai",
+    "Level": 14,
+    "Page": 190,
+    "Book": "Bestiary2"
+  },
+  {
+    "Creature": "Gylou",
+    "Level": 14,
+    "Page": 75,
+    "Book": "Bestiary2"
+  },
+  {
+    "Creature": "Nalfeshnee",
+    "Level": 14,
+    "Page": 67,
+    "Book": "Bestiary2"
+  },
+  {
+    "Creature": "Ravener husk",
+    "Level": 14,
+    "Page": 224,
+    "Book": "Bestiary2"
+  },
+  {
+    "Creature": "Trumpet archon",
+    "Level": 14,
+    "Page": 23,
+    "Book": "Bestiary2"
+  },
+  {
+    "Creature": "Worm that walks cultist",
+    "Level": 14,
+    "Page": 297,
+    "Book": "Bestiary2"
+  },
+  {
+    "Creature": "Adult umbral dragon",
+    "Level": 15,
+    "Page": 96,
+    "Book": "Bestiary2"
+  },
+  {
+    "Creature": "Black scorpion",
+    "Level": 15,
+    "Page": 234,
+    "Book": "Bestiary2"
+  },
+  {
+    "Creature": "Jotund troll",
+    "Level": 15,
+    "Page": 267,
+    "Book": "Bestiary2"
+  },
+  {
+    "Creature": "Marrmora",
+    "Level": 15,
+    "Page": 171,
+    "Book": "Bestiary2"
+  },
+  {
+    "Creature": "Marut",
+    "Level": 15,
+    "Page": 10,
+    "Book": "Bestiary2"
+  },
+  {
+    "Creature": "Neothelid",
+    "Level": 15,
+    "Page": 181,
+    "Book": "Bestiary2"
+  },
+  {
+    "Creature": "Shoal linnorm",
+    "Level": 15,
+    "Page": 164,
+    "Book": "Bestiary2"
+  },
+  {
+    "Creature": "Umonlee",
+    "Level": 15,
+    "Page": 271,
+    "Book": "Bestiary2"
+  },
+  {
+    "Creature": "Ancient crystal dragon",
+    "Level": 16,
+    "Page": 92,
+    "Book": "Bestiary2"
+  },
+  {
+    "Creature": "Bythos",
+    "Level": 16,
+    "Page": 11,
+    "Book": "Bestiary2"
+  },
+  {
+    "Creature": "Cornugon",
+    "Level": 16,
+    "Page": 76,
+    "Book": "Bestiary2"
+  },
+  {
+    "Creature": "Fjord linnorm",
+    "Level": 16,
+    "Page": 165,
+    "Book": "Bestiary2"
+  },
+  {
+    "Creature": "Planetar",
+    "Level": 16,
+    "Page": 15,
+    "Book": "Bestiary2"
+  },
+  {
+    "Creature": "Zomok",
+    "Level": 16,
+    "Page": 303,
+    "Book": "Bestiary2"
+  },
+  {
+    "Creature": "Ancient brine dragon",
+    "Level": 17,
+    "Page": 88,
+    "Book": "Bestiary2"
+  },
+  {
+    "Creature": "Leydroth",
+    "Level": 17,
+    "Page": 163,
+    "Book": "Bestiary2"
+  },
+  {
+    "Creature": "Radiant warden",
+    "Level": 17,
+    "Page": 220,
+    "Book": "Bestiary2"
+  },
+  {
+    "Creature": "Thrasfyr",
+    "Level": 17,
+    "Page": 258,
+    "Book": "Bestiary2"
+  },
+  {
+    "Creature": "Vaspercham",
+    "Level": 17,
+    "Page": 279,
+    "Book": "Bestiary2"
+  },
+  {
+    "Creature": "Water yai",
+    "Level": 17,
+    "Page": 191,
+    "Book": "Bestiary2"
+  },
+  {
+    "Creature": "Ancient magma dragon",
+    "Level": 18,
+    "Page": 95,
+    "Book": "Bestiary2"
+  },
+  {
+    "Creature": "Aolaz",
+    "Level": 18,
+    "Page": 21,
+    "Book": "Bestiary2"
+  },
+  {
+    "Creature": "Cairn linnorm",
+    "Level": 18,
+    "Page": 166,
+    "Book": "Bestiary2"
+  },
+  {
+    "Creature": "Duneshaker solifugid",
+    "Level": 18,
+    "Page": 246,
+    "Book": "Bestiary2"
+  },
+  {
+    "Creature": "Purrodaemon",
+    "Level": 18,
+    "Page": 61,
+    "Book": "Bestiary2"
+  },
+  {
+    "Creature": "Thulgant",
+    "Level": 18,
+    "Page": 216,
+    "Book": "Bestiary2"
+  },
+  {
+    "Creature": "Ancient cloud dragon",
+    "Level": 19,
+    "Page": 90,
+    "Book": "Bestiary2"
+  },
+  {
+    "Creature": "Grendel",
+    "Level": 19,
+    "Page": 136,
+    "Book": "Bestiary2"
+  },
+  {
+    "Creature": "Sard",
+    "Level": 19,
+    "Page": 231,
+    "Book": "Bestiary2"
+  },
+  {
+    "Creature": "Star archon",
+    "Level": 19,
+    "Page": 23,
+    "Book": "Bestiary2"
+  },
+  {
+    "Creature": "Taiga linnorm",
+    "Level": 19,
+    "Page": 167,
+    "Book": "Bestiary2"
+  },
+  {
+    "Creature": "Vrolikai",
+    "Level": 19,
+    "Page": 68,
+    "Book": "Bestiary2"
+  },
+  {
+    "Creature": "Ancient umbral dragon",
+    "Level": 20,
+    "Page": 97,
+    "Book": "Bestiary2"
+  },
+  {
+    "Creature": "Bastion archon",
+    "Level": 20,
+    "Page": 24,
+    "Book": "Bestiary2"
+  },
+  {
+    "Creature": "Eremite",
+    "Level": 20,
+    "Page": 284,
+    "Book": "Bestiary2"
+  },
+  {
+    "Creature": "Norn",
+    "Level": 20,
+    "Page": 184,
+    "Book": "Bestiary2"
+  },
+  {
+    "Creature": "Olethrodaemon",
+    "Level": 20,
+    "Page": 63,
+    "Book": "Bestiary2"
+  },
+  {
+    "Creature": "Veranallia",
+    "Level": 20,
+    "Page": 31,
+    "Book": "Bestiary2"
+  },
+  {
+    "Creature": "Yamaraj",
+    "Level": 20,
+    "Page": 211,
+    "Book": "Bestiary2"
+  },
+  {
+    "Creature": "Lerritan",
+    "Level": 21,
+    "Page": 159,
+    "Book": "Bestiary2"
+  },
+  {
+    "Creature": "Ravener",
+    "Level": 21,
+    "Page": 224,
+    "Book": "Bestiary2"
+  },
+  {
+    "Creature": "Jabberwock",
+    "Level": 23,
+    "Page": 150,
+    "Book": "Bestiary2"
+  },
+  {
+    "Creature": "Solar",
+    "Level": 23,
+    "Page": 16,
+    "Book": "Bestiary2"
+  },
+  {
+    "Creature": "Clockwork spy",
+    "Level": -1,
+    "Page": 48,
+    "Book": "Bestiary3"
+  },
+  {
+    "Creature": "Common eurypterid",
+    "Level": -1,
+    "Page": 97,
+    "Book": "Bestiary3"
+  },
+  {
+    "Creature": "Grimple",
+    "Level": -1,
+    "Page": 120,
+    "Book": "Bestiary3"
+  },
+  {
+    "Creature": "Haniver",
+    "Level": -1,
+    "Page": 120,
+    "Book": "Bestiary3"
+  },
+  {
+    "Creature": "Monkey",
+    "Level": -1,
+    "Page": 172,
+    "Book": "Bestiary3"
+  },
+  {
+    "Creature": "Nyktera",
+    "Level": -1,
+    "Page": 254,
+    "Book": "Bestiary3"
+  },
+  {
+    "Creature": "Pufferfish",
+    "Level": -1,
+    "Page": 99,
+    "Book": "Bestiary3"
+  },
+  {
+    "Creature": "Red fox",
+    "Level": -1,
+    "Page": 102,
+    "Book": "Bestiary3"
+  },
+  {
+    "Creature": "Severed head",
+    "Level": -1,
+    "Page": 30,
+    "Book": "Bestiary3"
+  },
+  {
+    "Creature": "Skunk",
+    "Level": -1,
+    "Page": 246,
+    "Book": "Bestiary3"
+  },
+  {
+    "Creature": "Three-toed sloth",
+    "Level": -1,
+    "Page": 248,
+    "Book": "Bestiary3"
+  },
+  {
+    "Creature": "Tooth fairy",
+    "Level": -1,
+    "Page": 273,
+    "Book": "Bestiary3"
+  },
+  {
+    "Creature": "Trilobite",
+    "Level": -1,
+    "Page": 275,
+    "Book": "Bestiary3"
+  },
+  {
+    "Creature": "Weasel",
+    "Level": -1,
+    "Page": 291,
+    "Book": "Bestiary3"
+  },
+  {
+    "Creature": "Air wisp",
+    "Level": 0,
+    "Page": 90,
+    "Book": "Bestiary3"
+  },
+  {
+    "Creature": "Earth wisp",
+    "Level": 0,
+    "Page": 90,
+    "Book": "Bestiary3"
+  },
+  {
+    "Creature": "Fire wisp",
+    "Level": 0,
+    "Page": 91,
+    "Book": "Bestiary3"
+  },
+  {
+    "Creature": "Ioton",
+    "Level": 0,
+    "Page": 92,
+    "Book": "Bestiary3"
+  },
+  {
+    "Creature": "Kangaroo",
+    "Level": 0,
+    "Page": 146,
+    "Book": "Bestiary3"
+  },
+  {
+    "Creature": "Melixie",
+    "Level": 0,
+    "Page": 254,
+    "Book": "Bestiary3"
+  },
+  {
+    "Creature": "Ringhorn ram",
+    "Level": 0,
+    "Page": 212,
+    "Book": "Bestiary3"
+  },
+  {
+    "Creature": "Vine leshy",
+    "Level": 0,
+    "Page": 160,
+    "Book": "Bestiary3"
+  },
+  {
+    "Creature": "Water wisp",
+    "Level": 0,
+    "Page": 91,
+    "Book": "Bestiary3"
+  },
+  {
+    "Creature": "Animated silverware swarm",
+    "Level": 1,
+    "Page": 18,
+    "Book": "Bestiary3"
+  },
+  {
+    "Creature": "Camel",
+    "Level": 1,
+    "Page": 43,
+    "Book": "Bestiary3"
+  },
+  {
+    "Creature": "Coral capuchin",
+    "Level": 1,
+    "Page": 54,
+    "Book": "Bestiary3"
+  },
+  {
+    "Creature": "Cunning fox",
+    "Level": 1,
+    "Page": 252,
+    "Book": "Bestiary3"
+  },
+  {
+    "Creature": "Doru",
+    "Level": 1,
+    "Page": 68,
+    "Book": "Bestiary3"
+  },
+  {
+    "Creature": "Esipil",
+    "Level": 1,
+    "Page": 218,
+    "Book": "Bestiary3"
+  },
+  {
+    "Creature": "Festrog",
+    "Level": 1,
+    "Page": 98,
+    "Book": "Bestiary3"
+  },
+  {
+    "Creature": "Flumph",
+    "Level": 1,
+    "Page": 100,
+    "Book": "Bestiary3"
+  },
+  {
+    "Creature": "Fuath",
+    "Level": 1,
+    "Page": 121,
+    "Book": "Bestiary3"
+  },
+  {
+    "Creature": "Gathlain wanderer",
+    "Level": 1,
+    "Page": 105,
+    "Book": "Bestiary3"
+  },
+  {
+    "Creature": "Giant skunk",
+    "Level": 1,
+    "Page": 246,
+    "Book": "Bestiary3"
+  },
+  {
+    "Creature": "Grioth scout",
+    "Level": 1,
+    "Page": 122,
+    "Book": "Bestiary3"
+  },
+  {
+    "Creature": "House drake",
+    "Level": 1,
+    "Page": 135,
+    "Book": "Bestiary3"
+  },
+  {
+    "Creature": "Ostovite",
+    "Level": 1,
+    "Page": 193,
+    "Book": "Bestiary3"
+  },
+  {
+    "Creature": "Raktavarna",
+    "Level": 1,
+    "Page": 210,
+    "Book": "Bestiary3"
+  },
+  {
+    "Creature": "Samsaran anchorite",
+    "Level": 1,
+    "Page": 224,
+    "Book": "Bestiary3"
+  },
+  {
+    "Creature": "Shaukeen",
+    "Level": 1,
+    "Page": 22,
+    "Book": "Bestiary3"
+  },
+  {
+    "Creature": "Shikigami",
+    "Level": 1,
+    "Page": 142,
+    "Book": "Bestiary3"
+  },
+  {
+    "Creature": "Silvanshee",
+    "Level": 1,
+    "Page": 10,
+    "Book": "Bestiary3"
+  },
+  {
+    "Creature": "Squirrel swarm",
+    "Level": 1,
+    "Page": 257,
+    "Book": "Bestiary3"
+  },
+  {
+    "Creature": "Stheno harpist",
+    "Level": 1,
+    "Page": 258,
+    "Book": "Bestiary3"
+  },
+  {
+    "Creature": "Vanara disciple",
+    "Level": 1,
+    "Page": 286,
+    "Book": "Bestiary3"
+  },
+  {
+    "Creature": "Wayang whisperblade",
+    "Level": 1,
+    "Page": 290,
+    "Book": "Bestiary3"
+  },
+  {
+    "Creature": "Wyrwood sneak",
+    "Level": 1,
+    "Page": 298,
+    "Book": "Bestiary3"
+  },
+  {
+    "Creature": "Yzobu",
+    "Level": 1,
+    "Page": 300,
+    "Book": "Bestiary3"
+  },
+  {
+    "Creature": "Android infiltrator",
+    "Level": 2,
+    "Page": 16,
+    "Book": "Bestiary3"
+  },
+  {
+    "Creature": "Angheuvore flesh-gnawer",
+    "Level": 2,
+    "Page": 174,
+    "Book": "Bestiary3"
+  },
+  {
+    "Creature": "Azarketi explorer",
+    "Level": 2,
+    "Page": 26,
+    "Book": "Bestiary3"
+  },
+  {
+    "Creature": "Azer",
+    "Level": 2,
+    "Page": 27,
+    "Book": "Bestiary3"
+  },
+  {
+    "Creature": "Cactus leshy",
+    "Level": 2,
+    "Page": 160,
+    "Book": "Bestiary3"
+  },
+  {
+    "Creature": "Cobbleswarm",
+    "Level": 2,
+    "Page": 52,
+    "Book": "Bestiary3"
+  },
+  {
+    "Creature": "Domovoi",
+    "Level": 2,
+    "Page": 136,
+    "Book": "Bestiary3"
+  },
+  {
+    "Creature": "Dretch",
+    "Level": 2,
+    "Page": 60,
+    "Book": "Bestiary3"
+  },
+  {
+    "Creature": "Duende",
+    "Level": 2,
+    "Page": 87,
+    "Book": "Bestiary3"
+  },
+  {
+    "Creature": "Fading fox",
+    "Level": 2,
+    "Page": 102,
+    "Book": "Bestiary3"
+  },
+  {
+    "Creature": "Flaming skull",
+    "Level": 2,
+    "Page": 30,
+    "Book": "Bestiary3"
+  },
+  {
+    "Creature": "Giant flying squirrel",
+    "Level": 2,
+    "Page": 257,
+    "Book": "Bestiary3"
+  },
+  {
+    "Creature": "Giant opossum",
+    "Level": 2,
+    "Page": 192,
+    "Book": "Bestiary3"
+  },
+  {
+    "Creature": "Giant porcupine",
+    "Level": 2,
+    "Page": 207,
+    "Book": "Bestiary3"
+  },
+  {
+    "Creature": "Herexen",
+    "Level": 2,
+    "Page": 134,
+    "Book": "Bestiary3"
+  },
+  {
+    "Creature": "Incutilis",
+    "Level": 2,
+    "Page": 140,
+    "Book": "Bestiary3"
+  },
+  {
+    "Creature": "Ittan-momen",
+    "Level": 2,
+    "Page": 276,
+    "Book": "Bestiary3"
+  },
+  {
+    "Creature": "Kappa",
+    "Level": 2,
+    "Page": 147,
+    "Book": "Bestiary3"
+  },
+  {
+    "Creature": "Kitsune trickster",
+    "Level": 2,
+    "Page": 150,
+    "Book": "Bestiary3"
+  },
+  {
+    "Creature": "Ledalusca",
+    "Level": 2,
+    "Page": 159,
+    "Book": "Bestiary3"
+  },
+  {
+    "Creature": "Monkey swarm",
+    "Level": 2,
+    "Page": 172,
+    "Book": "Bestiary3"
+  },
+  {
+    "Creature": "Munavri spellblade",
+    "Level": 2,
+    "Page": 180,
+    "Book": "Bestiary3"
+  },
+  {
+    "Creature": "Nagaji soldier",
+    "Level": 2,
+    "Page": 182,
+    "Book": "Bestiary3"
+  },
+  {
+    "Creature": "Rat snake swarm",
+    "Level": 2,
+    "Page": 249,
+    "Book": "Bestiary3"
+  },
+  {
+    "Creature": "Rokurokubi",
+    "Level": 2,
+    "Page": 216,
+    "Book": "Bestiary3"
+  },
+  {
+    "Creature": "Rosethorn ram",
+    "Level": 2,
+    "Page": 212,
+    "Book": "Bestiary3"
+  },
+  {
+    "Creature": "Sasquatch",
+    "Level": 2,
+    "Page": 225,
+    "Book": "Bestiary3"
+  },
+  {
+    "Creature": "Squirming swill",
+    "Level": 2,
+    "Page": 256,
+    "Book": "Bestiary3"
+  },
+  {
+    "Creature": "Stone lion cub",
+    "Level": 2,
+    "Page": 124,
+    "Book": "Bestiary3"
+  },
+  {
+    "Creature": "Strix kinmate",
+    "Level": 2,
+    "Page": 259,
+    "Book": "Bestiary3"
+  },
+  {
+    "Creature": "Terror bird",
+    "Level": 2,
+    "Page": 264,
+    "Book": "Bestiary3"
+  },
+  {
+    "Creature": "Werebat",
+    "Level": 2,
+    "Page": 292,
+    "Book": "Bestiary3"
+  },
+  {
+    "Creature": "Werecrocodile",
+    "Level": 2,
+    "Page": 293,
+    "Book": "Bestiary3"
+  },
+  {
+    "Creature": "Buso farmer",
+    "Level": 3,
+    "Page": 39,
+    "Book": "Bestiary3"
+  },
+  {
+    "Creature": "Draxie",
+    "Level": 3,
+    "Page": 255,
+    "Book": "Bestiary3"
+  },
+  {
+    "Creature": "Dvorovoi",
+    "Level": 3,
+    "Page": 137,
+    "Book": "Bestiary3"
+  },
+  {
+    "Creature": "Ganzi martial artist",
+    "Level": 3,
+    "Page": 205,
+    "Book": "Bestiary3"
+  },
+  {
+    "Creature": "Ghoran manipulator",
+    "Level": 3,
+    "Page": 106,
+    "Book": "Bestiary3"
+  },
+  {
+    "Creature": "Giant seahorse",
+    "Level": 3,
+    "Page": 227,
+    "Book": "Bestiary3"
+  },
+  {
+    "Creature": "Giant vulture",
+    "Level": 3,
+    "Page": 289,
+    "Book": "Bestiary3"
+  },
+  {
+    "Creature": "Grioth cultist",
+    "Level": 3,
+    "Page": 123,
+    "Book": "Bestiary3"
+  },
+  {
+    "Creature": "Kovintus geomancer",
+    "Level": 3,
+    "Page": 153,
+    "Book": "Bestiary3"
+  },
+  {
+    "Creature": "Locathah hunter",
+    "Level": 3,
+    "Page": 164,
+    "Book": "Bestiary3"
+  },
+  {
+    "Creature": "MEGALICTIS",
+    "Level": 3,
+    "Page": 291,
+    "Book": "Bestiary3"
+  },
+  {
+    "Creature": "Moose",
+    "Level": 3,
+    "Page": 173,
+    "Book": "Bestiary3"
+  },
+  {
+    "Creature": "Narwhal",
+    "Level": 3,
+    "Page": 184,
+    "Book": "Bestiary3"
+  },
+  {
+    "Creature": "Oil living graffiti",
+    "Level": 3,
+    "Page": 162,
+    "Book": "Bestiary3"
+  },
+  {
+    "Creature": "Piranha swarm",
+    "Level": 3,
+    "Page": 99,
+    "Book": "Bestiary3"
+  },
+  {
+    "Creature": "Platecarpus",
+    "Level": 3,
+    "Page": 178,
+    "Book": "Bestiary3"
+  },
+  {
+    "Creature": "Scalescribe",
+    "Level": 3,
+    "Page": 226,
+    "Book": "Bestiary3"
+  },
+  {
+    "Creature": "Seaweed leshy",
+    "Level": 3,
+    "Page": 161,
+    "Book": "Bestiary3"
+  },
+  {
+    "Creature": "Shulsaga",
+    "Level": 3,
+    "Page": 93,
+    "Book": "Bestiary3"
+  },
+  {
+    "Creature": "Street skelm",
+    "Level": 3,
+    "Page": 238,
+    "Book": "Bestiary3"
+  },
+  {
+    "Creature": "Tattoo guardian",
+    "Level": 3,
+    "Page": 262,
+    "Book": "Bestiary3"
+  },
+  {
+    "Creature": "Tooth fairy swarm",
+    "Level": 3,
+    "Page": 273,
+    "Book": "Bestiary3"
+  },
+  {
+    "Creature": "Trailgaunt",
+    "Level": 3,
+    "Page": 274,
+    "Book": "Bestiary3"
+  },
+  {
+    "Creature": "Trilobite swarm",
+    "Level": 3,
+    "Page": 275,
+    "Book": "Bestiary3"
+  },
+  {
+    "Creature": "Vishkanya infiltrator",
+    "Level": 3,
+    "Page": 288,
+    "Book": "Bestiary3"
+  },
+  {
+    "Creature": "Wolliped",
+    "Level": 3,
+    "Page": 295,
+    "Book": "Bestiary3"
+  },
+  {
+    "Creature": "Abrikandilu",
+    "Level": 4,
+    "Page": 61,
+    "Book": "Bestiary3"
+  },
+  {
+    "Creature": "Aghash",
+    "Level": 4,
+    "Page": 69,
+    "Book": "Bestiary3"
+  },
+  {
+    "Creature": "Amphisbaena",
+    "Level": 4,
+    "Page": 15,
+    "Book": "Bestiary3"
+  },
+  {
+    "Creature": "Aphorite sharpshooter",
+    "Level": 4,
+    "Page": 204,
+    "Book": "Bestiary3"
+  },
+  {
+    "Creature": "Bison",
+    "Level": 4,
+    "Page": 32,
+    "Book": "Bestiary3"
+  },
+  {
+    "Creature": "Corrupted relic",
+    "Level": 4,
+    "Page": 55,
+    "Book": "Bestiary3"
+  },
+  {
+    "Creature": "Giant pangolin",
+    "Level": 4,
+    "Page": 199,
+    "Book": "Bestiary3"
+  },
+  {
+    "Creature": "Hellbound attorney",
+    "Level": 4,
+    "Page": 64,
+    "Book": "Bestiary3"
+  },
+  {
+    "Creature": "Hermit crab swarm",
+    "Level": 4,
+    "Page": 58,
+    "Book": "Bestiary3"
+  },
+  {
+    "Creature": "Huldra",
+    "Level": 4,
+    "Page": 138,
+    "Book": "Bestiary3"
+  },
+  {
+    "Creature": "Kasa-obake",
+    "Level": 4,
+    "Page": 276,
+    "Book": "Bestiary3"
+  },
+  {
+    "Creature": "Kushtaka",
+    "Level": 4,
+    "Page": 158,
+    "Book": "Bestiary3"
+  },
+  {
+    "Creature": "Lovelorn",
+    "Level": 4,
+    "Page": 165,
+    "Book": "Bestiary3"
+  },
+  {
+    "Creature": "Myceloid",
+    "Level": 4,
+    "Page": 181,
+    "Book": "Bestiary3"
+  },
+  {
+    "Creature": "Nightgaunt",
+    "Level": 4,
+    "Page": 186,
+    "Book": "Bestiary3"
+  },
+  {
+    "Creature": "Nucol",
+    "Level": 4,
+    "Page": 219,
+    "Book": "Bestiary3"
+  },
+  {
+    "Creature": "Ovinnik",
+    "Level": 4,
+    "Page": 137,
+    "Book": "Bestiary3"
+  },
+  {
+    "Creature": "Phantom knight",
+    "Level": 4,
+    "Page": 202,
+    "Book": "Bestiary3"
+  },
+  {
+    "Creature": "Shabti redeemer",
+    "Level": 4,
+    "Page": 229,
+    "Book": "Bestiary3"
+  },
+  {
+    "Creature": "Shae",
+    "Level": 4,
+    "Page": 230,
+    "Book": "Bestiary3"
+  },
+  {
+    "Creature": "Shambler troop",
+    "Level": 4,
+    "Page": 302,
+    "Book": "Bestiary3"
+  },
+  {
+    "Creature": "Stone lion",
+    "Level": 4,
+    "Page": 125,
+    "Book": "Bestiary3"
+  },
+  {
+    "Creature": "Terror shrike",
+    "Level": 4,
+    "Page": 264,
+    "Book": "Bestiary3"
+  },
+  {
+    "Creature": "Viper swarm",
+    "Level": 4,
+    "Page": 249,
+    "Book": "Bestiary3"
+  },
+  {
+    "Creature": "Bore worm swarm",
+    "Level": 5,
+    "Page": 36,
+    "Book": "Bestiary3"
+  },
+  {
+    "Creature": "Brimorak",
+    "Level": 5,
+    "Page": 62,
+    "Book": "Bestiary3"
+  },
+  {
+    "Creature": "Caligni vanguard",
+    "Level": 5,
+    "Page": 40,
+    "Book": "Bestiary3"
+  },
+  {
+    "Creature": "Cecaelia trapper",
+    "Level": 5,
+    "Page": 45,
+    "Book": "Bestiary3"
+  },
+  {
+    "Creature": "City guard squadron",
+    "Level": 5,
+    "Page": 47,
+    "Book": "Bestiary3"
+  },
+  {
+    "Creature": "Divine warden of Nethys",
+    "Level": 5,
+    "Page": 72,
+    "Book": "Bestiary3"
+  },
+  {
+    "Creature": "Eunemvro",
+    "Level": 5,
+    "Page": 96,
+    "Book": "Bestiary3"
+  },
+  {
+    "Creature": "Giant hermit crab",
+    "Level": 5,
+    "Page": 58,
+    "Book": "Bestiary3"
+  },
+  {
+    "Creature": "Globster",
+    "Level": 5,
+    "Page": 115,
+    "Book": "Bestiary3"
+  },
+  {
+    "Creature": "Harpy skeleton",
+    "Level": 5,
+    "Page": 236,
+    "Book": "Bestiary3"
+  },
+  {
+    "Creature": "Hieracosphinx",
+    "Level": 5,
+    "Page": 250,
+    "Book": "Bestiary3"
+  },
+  {
+    "Creature": "Kodama",
+    "Level": 5,
+    "Page": 143,
+    "Book": "Bestiary3"
+  },
+  {
+    "Creature": "Lampad",
+    "Level": 5,
+    "Page": 188,
+    "Book": "Bestiary3"
+  },
+  {
+    "Creature": "Megatherium",
+    "Level": 5,
+    "Page": 248,
+    "Book": "Bestiary3"
+  },
+  {
+    "Creature": "Namorrodor",
+    "Level": 5,
+    "Page": 183,
+    "Book": "Bestiary3"
+  },
+  {
+    "Creature": "Penanggalan",
+    "Level": 5,
+    "Page": 200,
+    "Book": "Bestiary3"
+  },
+  {
+    "Creature": "Sabosan",
+    "Level": 5,
+    "Page": 217,
+    "Book": "Bestiary3"
+  },
+  {
+    "Creature": "Shrine skelm",
+    "Level": 5,
+    "Page": 239,
+    "Book": "Bestiary3"
+  },
+  {
+    "Creature": "Skinstitch",
+    "Level": 5,
+    "Page": 242,
+    "Book": "Bestiary3"
+  },
+  {
+    "Creature": "Spiny eurypterid",
+    "Level": 5,
+    "Page": 97,
+    "Book": "Bestiary3"
+  },
+  {
+    "Creature": "Storm hag",
+    "Level": 5,
+    "Page": 128,
+    "Book": "Bestiary3"
+  },
+  {
+    "Creature": "Wizard sponge",
+    "Level": 5,
+    "Page": 294,
+    "Book": "Bestiary3"
+  },
+  {
+    "Creature": "Abandoned zealot",
+    "Level": 6,
+    "Page": 8,
+    "Book": "Bestiary3"
+  },
+  {
+    "Creature": "Bauble beast",
+    "Level": 6,
+    "Page": 28,
+    "Book": "Bestiary3"
+  },
+  {
+    "Creature": "Caligni caller",
+    "Level": 6,
+    "Page": 41,
+    "Book": "Bestiary3"
+  },
+  {
+    "Creature": "Cave giant",
+    "Level": 6,
+    "Page": 108,
+    "Book": "Bestiary3"
+  },
+  {
+    "Creature": "Chouchin-obake",
+    "Level": 6,
+    "Page": 277,
+    "Book": "Bestiary3"
+  },
+  {
+    "Creature": "Clockwork soldier",
+    "Level": 6,
+    "Page": 49,
+    "Book": "Bestiary3"
+  },
+  {
+    "Creature": "Gurgist mauler",
+    "Level": 6,
+    "Page": 175,
+    "Book": "Bestiary3"
+  },
+  {
+    "Creature": "Kurobozu",
+    "Level": 6,
+    "Page": 157,
+    "Book": "Bestiary3"
+  },
+  {
+    "Creature": "Maftet guardian",
+    "Level": 6,
+    "Page": 166,
+    "Book": "Bestiary3"
+  },
+  {
+    "Creature": "Mi-go",
+    "Level": 6,
+    "Page": 168,
+    "Book": "Bestiary3"
+  },
+  {
+    "Creature": "Owb",
+    "Level": 6,
+    "Page": 196,
+    "Book": "Bestiary3"
+  },
+  {
+    "Creature": "Rhu-chalik",
+    "Level": 6,
+    "Page": 214,
+    "Book": "Bestiary3"
+  },
+  {
+    "Creature": "Skull peeler",
+    "Level": 6,
+    "Page": 243,
+    "Book": "Bestiary3"
+  },
+  {
+    "Creature": "Sulfur zombie",
+    "Level": 6,
+    "Page": 303,
+    "Book": "Bestiary3"
+  },
+  {
+    "Creature": "Terra-cotta soldier",
+    "Level": 6,
+    "Page": 263,
+    "Book": "Bestiary3"
+  },
+  {
+    "Creature": "Umasi",
+    "Level": 6,
+    "Page": 280,
+    "Book": "Bestiary3"
+  },
+  {
+    "Creature": "Vulpinal",
+    "Level": 6,
+    "Page": 11,
+    "Book": "Bestiary3"
+  },
+  {
+    "Creature": "Wihsaak",
+    "Level": 6,
+    "Page": 220,
+    "Book": "Bestiary3"
+  },
+  {
+    "Creature": "Adhukait",
+    "Level": 7,
+    "Page": 23,
+    "Book": "Bestiary3"
+  },
+  {
+    "Creature": "Arboreal reaper",
+    "Level": 7,
+    "Page": 20,
+    "Book": "Bestiary3"
+  },
+  {
+    "Creature": "Caulborn",
+    "Level": 7,
+    "Page": 94,
+    "Book": "Bestiary3"
+  },
+  {
+    "Creature": "Crossroads guardian",
+    "Level": 7,
+    "Page": 59,
+    "Book": "Bestiary3"
+  },
+  {
+    "Creature": "Empress bore worm",
+    "Level": 7,
+    "Page": 37,
+    "Book": "Bestiary3"
+  },
+  {
+    "Creature": "Fortune eater",
+    "Level": 7,
+    "Page": 101,
+    "Book": "Bestiary3"
+  },
+  {
+    "Creature": "Kirin",
+    "Level": 7,
+    "Page": 148,
+    "Book": "Bestiary3"
+  },
+  {
+    "Creature": "Levaloch",
+    "Level": 7,
+    "Page": 65,
+    "Book": "Bestiary3"
+  },
+  {
+    "Creature": "Manticore paaridar",
+    "Level": 7,
+    "Page": 198,
+    "Book": "Bestiary3"
+  },
+  {
+    "Creature": "Mothman",
+    "Level": 7,
+    "Page": 179,
+    "Book": "Bestiary3"
+  },
+  {
+    "Creature": "Pairaka",
+    "Level": 7,
+    "Page": 70,
+    "Book": "Bestiary3"
+  },
+  {
+    "Creature": "Pukwudgie",
+    "Level": 7,
+    "Page": 208,
+    "Book": "Bestiary3"
+  },
+  {
+    "Creature": "Slithering pit",
+    "Level": 7,
+    "Page": 247,
+    "Book": "Bestiary3"
+  },
+  {
+    "Creature": "Tiddalik",
+    "Level": 7,
+    "Page": 265,
+    "Book": "Bestiary3"
+  },
+  {
+    "Creature": "Tupilaq",
+    "Level": 7,
+    "Page": 278,
+    "Book": "Bestiary3"
+  },
+  {
+    "Creature": "Winter hag",
+    "Level": 7,
+    "Page": 129,
+    "Book": "Bestiary3"
+  },
+  {
+    "Creature": "Young underworld dragon",
+    "Level": 7,
+    "Page": 83,
+    "Book": "Bestiary3"
+  },
+  {
+    "Creature": "Zetogeki",
+    "Level": 7,
+    "Page": 301,
+    "Book": "Bestiary3"
+  },
+  {
+    "Creature": "Angazhani",
+    "Level": 8,
+    "Page": 17,
+    "Book": "Bestiary3"
+  },
+  {
+    "Creature": "Blood hag",
+    "Level": 8,
+    "Page": 130,
+    "Book": "Bestiary3"
+  },
+  {
+    "Creature": "Hellknight cavalry brigade",
+    "Level": 8,
+    "Page": 44,
+    "Book": "Bestiary3"
+  },
+  {
+    "Creature": "Girtablilu sentry",
+    "Level": 8,
+    "Page": 113,
+    "Book": "Bestiary3"
+  },
+  {
+    "Creature": "Guecubu",
+    "Level": 8,
+    "Page": 126,
+    "Book": "Bestiary3"
+  },
+  {
+    "Creature": "Hadrinnex",
+    "Level": 8,
+    "Page": 127,
+    "Book": "Bestiary3"
+  },
+  {
+    "Creature": "Hellwasp swarm",
+    "Level": 8,
+    "Page": 133,
+    "Book": "Bestiary3"
+  },
+  {
+    "Creature": "Kishi",
+    "Level": 8,
+    "Page": 149,
+    "Book": "Bestiary3"
+  },
+  {
+    "Creature": "Lifeleecher brawler",
+    "Level": 8,
+    "Page": 176,
+    "Book": "Bestiary3"
+  },
+  {
+    "Creature": "Mix couatl",
+    "Level": 8,
+    "Page": 56,
+    "Book": "Bestiary3"
+  },
+  {
+    "Creature": "Nosferatu thrall",
+    "Level": 8,
+    "Page": 284,
+    "Book": "Bestiary3"
+  },
+  {
+    "Creature": "Palace skelm",
+    "Level": 8,
+    "Page": 240,
+    "Book": "Bestiary3"
+  },
+  {
+    "Creature": "Phantom beast",
+    "Level": 8,
+    "Page": 203,
+    "Book": "Bestiary3"
+  },
+  {
+    "Creature": "Procyal",
+    "Level": 8,
+    "Page": 11,
+    "Book": "Bestiary3"
+  },
+  {
+    "Creature": "Shantak",
+    "Level": 8,
+    "Page": 231,
+    "Book": "Bestiary3"
+  },
+  {
+    "Creature": "Tylosaurus",
+    "Level": 8,
+    "Page": 178,
+    "Book": "Bestiary3"
+  },
+  {
+    "Creature": "Young sea dragon",
+    "Level": 8,
+    "Page": 77,
+    "Book": "Bestiary3"
+  },
+  {
+    "Creature": "Animated furnace",
+    "Level": 9,
+    "Page": 18,
+    "Book": "Bestiary3"
+  },
+  {
+    "Creature": "Baykok",
+    "Level": 9,
+    "Page": 29,
+    "Book": "Bestiary3"
+  },
+  {
+    "Creature": "Blood painter",
+    "Level": 9,
+    "Page": 33,
+    "Book": "Bestiary3"
+  },
+  {
+    "Creature": "Clockwork mage",
+    "Level": 9,
+    "Page": 50,
+    "Book": "Bestiary3"
+  },
+  {
+    "Creature": "Desert giant",
+    "Level": 9,
+    "Page": 109,
+    "Book": "Bestiary3"
+  },
+  {
+    "Creature": "Galvo",
+    "Level": 9,
+    "Page": 103,
+    "Book": "Bestiary3"
+  },
+  {
+    "Creature": "Garuda",
+    "Level": 9,
+    "Page": 104,
+    "Book": "Bestiary3"
+  },
+  {
+    "Creature": "Gliminal",
+    "Level": 9,
+    "Page": 114,
+    "Book": "Bestiary3"
+  },
+  {
+    "Creature": "Hesperid",
+    "Level": 9,
+    "Page": 189,
+    "Book": "Bestiary3"
+  },
+  {
+    "Creature": "Khravgodon",
+    "Level": 9,
+    "Page": 192,
+    "Book": "Bestiary3"
+  },
+  {
+    "Creature": "Mokele-mbembe",
+    "Level": 9,
+    "Page": 171,
+    "Book": "Bestiary3"
+  },
+  {
+    "Creature": "Pakalchi",
+    "Level": 9,
+    "Page": 220,
+    "Book": "Bestiary3"
+  },
+  {
+    "Creature": "Roiling incant",
+    "Level": 9,
+    "Page": 215,
+    "Book": "Bestiary3"
+  },
+  {
+    "Creature": "Tikbalang",
+    "Level": 9,
+    "Page": 267,
+    "Book": "Bestiary3"
+  },
+  {
+    "Creature": "Tyrannosaurus skeleton",
+    "Level": 9,
+    "Page": 236,
+    "Book": "Bestiary3"
+  },
+  {
+    "Creature": "Yithian",
+    "Level": 9,
+    "Page": 299,
+    "Book": "Bestiary3"
+  },
+  {
+    "Creature": "Young sky dragon",
+    "Level": 9,
+    "Page": 79,
+    "Book": "Bestiary3"
+  },
+  {
+    "Creature": "Zombie dragon",
+    "Level": 9,
+    "Page": 303,
+    "Book": "Bestiary3"
+  },
+  {
+    "Creature": "Adlet",
+    "Level": 10,
+    "Page": 9,
+    "Book": "Bestiary3"
+  },
+  {
+    "Creature": "Chyzaedu",
+    "Level": 10,
+    "Page": 46,
+    "Book": "Bestiary3"
+  },
+  {
+    "Creature": "Clacking skull swarm",
+    "Level": 10,
+    "Page": 244,
+    "Book": "Bestiary3"
+  },
+  {
+    "Creature": "Einherji",
+    "Level": 10,
+    "Page": 89,
+    "Book": "Bestiary3"
+  },
+  {
+    "Creature": "Etioling blightmage",
+    "Level": 10,
+    "Page": 177,
+    "Book": "Bestiary3"
+  },
+  {
+    "Creature": "Feathered bear",
+    "Level": 10,
+    "Page": 253,
+    "Book": "Bestiary3"
+  },
+  {
+    "Creature": "Leng ghoul",
+    "Level": 10,
+    "Page": 107,
+    "Book": "Bestiary3"
+  },
+  {
+    "Creature": "Mobogo",
+    "Level": 10,
+    "Page": 170,
+    "Book": "Bestiary3"
+  },
+  {
+    "Creature": "Moon hag",
+    "Level": 10,
+    "Page": 131,
+    "Book": "Bestiary3"
+  },
+  {
+    "Creature": "Nosferatu malefactor",
+    "Level": 10,
+    "Page": 285,
+    "Book": "Bestiary3"
+  },
+  {
+    "Creature": "Quintessivore",
+    "Level": 10,
+    "Page": 209,
+    "Book": "Bestiary3"
+  },
+  {
+    "Creature": "Soul skelm",
+    "Level": 10,
+    "Page": 241,
+    "Book": "Bestiary3"
+  },
+  {
+    "Creature": "Swordkeeper",
+    "Level": 10,
+    "Page": 261,
+    "Book": "Bestiary3"
+  },
+  {
+    "Creature": "Young forest dragon",
+    "Level": 10,
+    "Page": 74,
+    "Book": "Bestiary3"
+  },
+  {
+    "Creature": "Zuishin",
+    "Level": 10,
+    "Page": 144,
+    "Book": "Bestiary3"
+  },
+  {
+    "Creature": "Adult underworld dragon",
+    "Level": 11,
+    "Page": 84,
+    "Book": "Bestiary3"
+  },
+  {
+    "Creature": "Brainchild",
+    "Level": 11,
+    "Page": 38,
+    "Book": "Bestiary3"
+  },
+  {
+    "Creature": "Harmona",
+    "Level": 11,
+    "Page": 132,
+    "Book": "Bestiary3"
+  },
+  {
+    "Creature": "Kongamato",
+    "Level": 11,
+    "Page": 152,
+    "Book": "Bestiary3"
+  },
+  {
+    "Creature": "Munagola",
+    "Level": 11,
+    "Page": 66,
+    "Book": "Bestiary3"
+  },
+  {
+    "Creature": "Rancorous priesthood",
+    "Level": 11,
+    "Page": 213,
+    "Book": "Bestiary3"
+  },
+  {
+    "Creature": "Seething spirit",
+    "Level": 11,
+    "Page": 228,
+    "Book": "Bestiary3"
+  },
+  {
+    "Creature": "Skeleton infantry",
+    "Level": 11,
+    "Page": 237,
+    "Book": "Bestiary3"
+  },
+  {
+    "Creature": "Young sovereign dragon",
+    "Level": 11,
+    "Page": 81,
+    "Book": "Bestiary3"
+  },
+  {
+    "Creature": "Adult sea dragon",
+    "Level": 12,
+    "Page": 78,
+    "Book": "Bestiary3"
+  },
+  {
+    "Creature": "Arboreal archive",
+    "Level": 12,
+    "Page": 21,
+    "Book": "Bestiary3"
+  },
+  {
+    "Creature": "Betobeto-san",
+    "Level": 12,
+    "Page": 32,
+    "Book": "Bestiary3"
+  },
+  {
+    "Creature": "Calikang",
+    "Level": 12,
+    "Page": 42,
+    "Book": "Bestiary3"
+  },
+  {
+    "Creature": "Feral skull swarm",
+    "Level": 12,
+    "Page": 244,
+    "Book": "Bestiary3"
+  },
+  {
+    "Creature": "Fossil golem",
+    "Level": 12,
+    "Page": 116,
+    "Book": "Bestiary3"
+  },
+  {
+    "Creature": "Girtablilu seer",
+    "Level": 12,
+    "Page": 112,
+    "Book": "Bestiary3"
+  },
+  {
+    "Creature": "Japalisura",
+    "Level": 12,
+    "Page": 23,
+    "Book": "Bestiary3"
+  },
+  {
+    "Creature": "Kokogiak",
+    "Level": 12,
+    "Page": 151,
+    "Book": "Bestiary3"
+  },
+  {
+    "Creature": "Misery siktempora",
+    "Level": 12,
+    "Page": 232,
+    "Book": "Bestiary3"
+  },
+  {
+    "Creature": "Omox",
+    "Level": 12,
+    "Page": 63,
+    "Book": "Bestiary3"
+  },
+  {
+    "Creature": "Tidehawk",
+    "Level": 12,
+    "Page": 266,
+    "Book": "Bestiary3"
+  },
+  {
+    "Creature": "Tomb giant",
+    "Level": 12,
+    "Page": 110,
+    "Book": "Bestiary3"
+  },
+  {
+    "Creature": "Valkyrie",
+    "Level": 12,
+    "Page": 281,
+    "Book": "Bestiary3"
+  },
+  {
+    "Creature": "Xiuh couatl",
+    "Level": 12,
+    "Page": 57,
+    "Book": "Bestiary3"
+  },
+  {
+    "Creature": "Adachros",
+    "Level": 13,
+    "Page": 95,
+    "Book": "Bestiary3"
+  },
+  {
+    "Creature": "Adult sky dragon",
+    "Level": 13,
+    "Page": 80,
+    "Book": "Bestiary3"
+  },
+  {
+    "Creature": "Amalgamite",
+    "Level": 13,
+    "Page": 14,
+    "Book": "Bestiary3"
+  },
+  {
+    "Creature": "Animated trebuchet",
+    "Level": 13,
+    "Page": 19,
+    "Book": "Bestiary3"
+  },
+  {
+    "Creature": "Arcane living rune",
+    "Level": 13,
+    "Page": 163,
+    "Book": "Bestiary3"
+  },
+  {
+    "Creature": "Consonite choir",
+    "Level": 13,
+    "Page": 53,
+    "Book": "Bestiary3"
+  },
+  {
+    "Creature": "Jorogumo",
+    "Level": 13,
+    "Page": 141,
+    "Book": "Bestiary3"
+  },
+  {
+    "Creature": "Millindemalion",
+    "Level": 13,
+    "Page": 169,
+    "Book": "Bestiary3"
+  },
+  {
+    "Creature": "Owb prophet",
+    "Level": 13,
+    "Page": 197,
+    "Book": "Bestiary3"
+  },
+  {
+    "Creature": "Terra-cotta garrison",
+    "Level": 13,
+    "Page": 263,
+    "Book": "Bestiary3"
+  },
+  {
+    "Creature": "Adult forest dragon",
+    "Level": 14,
+    "Page": 75,
+    "Book": "Bestiary3"
+  },
+  {
+    "Creature": "Dramofir",
+    "Level": 14,
+    "Page": 86,
+    "Book": "Bestiary3"
+  },
+  {
+    "Creature": "Kuchisake-onna",
+    "Level": 14,
+    "Page": 156,
+    "Book": "Bestiary3"
+  },
+  {
+    "Creature": "Mezlan",
+    "Level": 14,
+    "Page": 167,
+    "Book": "Bestiary3"
+  },
+  {
+    "Creature": "Nightmarchers",
+    "Level": 14,
+    "Page": 187,
+    "Book": "Bestiary3"
+  },
+  {
+    "Creature": "Nikaramsa",
+    "Level": 14,
+    "Page": 25,
+    "Book": "Bestiary3"
+  },
+  {
+    "Creature": "Peri",
+    "Level": 14,
+    "Page": 201,
+    "Book": "Bestiary3"
+  },
+  {
+    "Creature": "Plague giant",
+    "Level": 14,
+    "Page": 111,
+    "Book": "Bestiary3"
+  },
+  {
+    "Creature": "Sepid",
+    "Level": 14,
+    "Page": 71,
+    "Book": "Bestiary3"
+  },
+  {
+    "Creature": "Sorcerous skull swarm",
+    "Level": 14,
+    "Page": 245,
+    "Book": "Bestiary3"
+  },
+  {
+    "Creature": "Triumph siktempora",
+    "Level": 14,
+    "Page": 233,
+    "Book": "Bestiary3"
+  },
+  {
+    "Creature": "Adult sovereign dragon",
+    "Level": 15,
+    "Page": 82,
+    "Book": "Bestiary3"
+  },
+  {
+    "Creature": "Animated colossus",
+    "Level": 15,
+    "Page": 19,
+    "Book": "Bestiary3"
+  },
+  {
+    "Creature": "Dybbuk",
+    "Level": 15,
+    "Page": 88,
+    "Book": "Bestiary3"
+  },
+  {
+    "Creature": "Hyakume",
+    "Level": 15,
+    "Page": 139,
+    "Book": "Bestiary3"
+  },
+  {
+    "Creature": "Lampad queen",
+    "Level": 15,
+    "Page": 189,
+    "Book": "Bestiary3"
+  },
+  {
+    "Creature": "Nemhaith",
+    "Level": 15,
+    "Page": 185,
+    "Book": "Bestiary3"
+  },
+  {
+    "Creature": "Nosferatu overlord",
+    "Level": 15,
+    "Page": 285,
+    "Book": "Bestiary3"
+  },
+  {
+    "Creature": "Popobawa",
+    "Level": 15,
+    "Page": 206,
+    "Book": "Bestiary3"
+  },
+  {
+    "Creature": "Tolokand",
+    "Level": 15,
+    "Page": 272,
+    "Book": "Bestiary3"
+  },
+  {
+    "Creature": "Toshigami",
+    "Level": 15,
+    "Page": 145,
+    "Book": "Bestiary3"
+  },
+  {
+    "Creature": "Ancient underworld dragon",
+    "Level": 16,
+    "Page": 85,
+    "Book": "Bestiary3"
+  },
+  {
+    "Creature": "Clockwork dragon",
+    "Level": 16,
+    "Page": 51,
+    "Book": "Bestiary3"
+  },
+  {
+    "Creature": "Elder sphinx",
+    "Level": 16,
+    "Page": 250,
+    "Book": "Bestiary3"
+  },
+  {
+    "Creature": "Love siktempora",
+    "Level": 16,
+    "Page": 234,
+    "Book": "Bestiary3"
+  },
+  {
+    "Creature": "Mithral golem",
+    "Level": 16,
+    "Page": 117,
+    "Book": "Bestiary3"
+  },
+  {
+    "Creature": "Sumbreiva",
+    "Level": 16,
+    "Page": 260,
+    "Book": "Bestiary3"
+  },
+  {
+    "Creature": "Vilderavn",
+    "Level": 16,
+    "Page": 287,
+    "Book": "Bestiary3"
+  },
+  {
+    "Creature": "Ancient sea dragon",
+    "Level": 17,
+    "Page": 78,
+    "Book": "Bestiary3"
+  },
+  {
+    "Creature": "Deimavigga",
+    "Level": 17,
+    "Page": 66,
+    "Book": "Bestiary3"
+  },
+  {
+    "Creature": "Wyrmwraith",
+    "Level": 17,
+    "Page": 296,
+    "Book": "Bestiary3"
+  },
+  {
+    "Creature": "Ximtal",
+    "Level": 17,
+    "Page": 221,
+    "Book": "Bestiary3"
+  },
+  {
+    "Creature": "Ancient sky dragon",
+    "Level": 18,
+    "Page": 80,
+    "Book": "Bestiary3"
+  },
+  {
+    "Creature": "Bone ship",
+    "Level": 18,
+    "Page": 34,
+    "Book": "Bestiary3"
+  },
+  {
+    "Creature": "Hatred siktempora",
+    "Level": 18,
+    "Page": 235,
+    "Book": "Bestiary3"
+  },
+  {
+    "Creature": "Ancient forest dragon",
+    "Level": 19,
+    "Page": 76,
+    "Book": "Bestiary3"
+  },
+  {
+    "Creature": "Hesperid queen",
+    "Level": 19,
+    "Page": 191,
+    "Book": "Bestiary3"
+  },
+  {
+    "Creature": "Sturzstromer",
+    "Level": 19,
+    "Page": 52,
+    "Book": "Bestiary3"
+  },
+  {
+    "Creature": "Tzitzimitl",
+    "Level": 19,
+    "Page": 279,
+    "Book": "Bestiary3"
+  },
+  {
+    "Creature": "Ancient sovereign dragon",
+    "Level": 20,
+    "Page": 83,
+    "Book": "Bestiary3"
+  },
+  {
+    "Creature": "Draconal",
+    "Level": 20,
+    "Page": 13,
+    "Book": "Bestiary3"
+  },
+  {
+    "Creature": "Kimenhul",
+    "Level": 20,
+    "Page": 222,
+    "Book": "Bestiary3"
+  },
+  {
+    "Creature": "Maharaja",
+    "Level": 20,
+    "Page": 211,
+    "Book": "Bestiary3"
+  },
+  {
+    "Creature": "Elysian titan",
+    "Level": 21,
+    "Page": 268,
+    "Book": "Bestiary3"
+  },
+  {
+    "Creature": "Krampus",
+    "Level": 21,
+    "Page": 154,
+    "Book": "Bestiary3"
+  },
+  {
+    "Creature": "Ouroboros",
+    "Level": 21,
+    "Page": 194,
+    "Book": "Bestiary3"
+  },
+  {
+    "Creature": "Thanatotic titan",
+    "Level": 22,
+    "Page": 269,
+    "Book": "Bestiary3"
+  },
+  {
+    "Creature": "Danava titan",
+    "Level": 23,
+    "Page": 270,
+    "Book": "Bestiary3"
+  },
+  {
+    "Creature": "Elder wyrmwraith",
+    "Level": 23,
+    "Page": 297,
+    "Book": "Bestiary3"
+  },
+  {
+    "Creature": "Green man",
+    "Level": 24,
+    "Page": 118,
+    "Book": "Bestiary3"
+  },
+  {
+    "Creature": "Hekatonkheires titan",
+    "Level": 24,
+    "Page": 271,
+    "Book": "Bestiary3"
+  }
+]
