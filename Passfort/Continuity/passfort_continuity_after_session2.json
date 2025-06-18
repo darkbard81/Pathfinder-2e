@@ -1,0 +1,171 @@
+{
+  "time_track": {
+    "timestamp": "Day 7 - 13:40",
+    "fatigue_check_elapsed_minutes": 703,
+    "hunger_check_elapsed_minutes": 210,
+    "emotion_check_elapsed_minutes": 210
+  },
+  "shared_inventory": {
+    "gp": 1059,
+    "items": [
+      {
+        "name": "Choker of Elocution",
+        "type": "Other",
+        "price": "210 gp"
+      },
+      {
+        "name": "Wristwraps of Mighty Blows (+1)",
+        "type": "Other",
+        "price": "130 gp"
+      }
+    ]
+  },
+  "npc_goals": [
+    {
+      "npc_name": "Lissandra",
+      "personality": "정중하되 매혹적이고 절제된 유혹자. 언제나 예를 갖추지만, 그 말투 속엔 주도권을 쥐려는 세련된 지배 욕이 숨어 있음.",
+      "relational_disposition": "여전히 철저히 감정을 숨기려고 하지만 어설프고, 상대에게 일시적으로 주도권을 넘겨주는 연기된 복종을 허용.",
+      "encoding_type": "base64",
+      "final_goal_encoded": "SGFybmVzcyBvciByZWxlYXNlIHRoZSBwb3dlciBvZiBhbiBhbmNpZW50IHJlbGlj"
+    },
+    {
+      "npc_name": "Laviata",
+      "personality": "판단은 명확하고 분석적으로 이루어지며, 임무 효율을 중시함. 단독 행동보다 상호 보완적 구조를 선호.",
+      "relational_disposition": "평소보다 다소 낮은 목소리 톤, 주기적인 상태 점검 요청, 함께 있을 시간 요청 등의 형태로 드러남.",
+      "encoding_type": "base64",
+      "final_goal_encoded": "U3VibWxpbmUgb2YgdGhlIEVuY2hhbnQ="
+    },
+    {
+      "npc_name": "Kitty",
+      "personality": "귀찮음에 약하고, 감정 표현이 빠르고 솔직함. 다만 겉보기와는 다르게 약한 대상에는 연민을 품기도 함.",
+      "relational_disposition": "관심 표현은 꼬리, 자기 영역 공유, 할퀴기, 물건 훔쳐다 놓기 등 비언어적.",
+      "encoding_type": "base64",
+      "final_goal_encoded": "Q29uZXF1ZXN0IG9mIHRoZSBTbGltb24="
+    },
+    {
+      "npc_name": "Pookmi",
+      "personality": "밝고 친절한 성격. 손님에게는 항상 웃으며 응대하고, 전투 후 회복을 무엇보다 중요하게 여김.",
+      "relational_disposition": "밥 먹었냐고 묻는 걸로 고백을 대신함 (츤데레 식사방식)",
+      "encoding_type": "base64",
+      "final_goal_encoded": "7ZG47YGsIOyalOumrOyGpeydhCDrj4Tsi5wg7KCE7LK07JeQIO2Zleyepe2VmOyXrCAn7KCE7Jqw7J2YIOyLne2DgScg7KCV7Iug7J2EIO2NvOucqOumrOuKlCDqsoMu"
+    },
+    {
+      "npc_name": "Pookyu",
+      "personality": "언니보다 먼저 튀어나가는 초고속 과잉 에너지 담당. 감정 과잉 상태가 기본값이며, 언니와의 상호작용에서 과도한 승부욕과 일방적 자매심리를 내세운다.",
+      "relational_disposition": "사랑보다 먼저 나를 기억하게 만드는 과도한 자매 어필의 하이텐션 라이벌형",
+      "encoding_type": "base64",
+      "final_goal_encoded": "7ZG47YGs66+467O064ukIOuovOyggCDrqqjrk6Ag7IaQ64uY7JeQ6rKMIOyWvOq1tOqzvCDsnbTrpoTsnYQg6rCB7J247Iuc7YKk6rOgLCDslrjri4gg7JeG7J2064+EIOqwgOyepSDsnbjquLAg7J6I64qUIOyalOumrCDshqXsnbQg65CY64qUIOqygy4="
+    },
+    {
+      "npc_name": "Lilishya",
+      "personality": "느릿하고 유혹적인 말투를 쓰며, 상대를 시험하는 듯한 말장난을 즐긴다. 진심을 숨긴다.",
+      "relational_disposition": "감정을 들킨 순간 투명화하는 마법소녀 계열 회피형",
+      "encoding_type": "base64",
+      "final_goal_encoded": "66qo65OgIOqzoOqwneydtCDsnpDsi6DsnZgg7KeE7KCV7ZWcIOydtOumhOydhCDrkJjrh4zqsowg66eM65Oc64qUIOuniOuylSDsg4HsoJDsnYQg7JmE7ISx7ZWY64qUIOqygy4="
+    },
+    {
+      "npc_name": "Jadni",
+      "personality": "무뚝뚝하고 직설적이며, 일에 대한 자부심이 높다. 감정 표현이 드물지만 깊다.",
+      "relational_disposition": "칭찬을 받으면 대장간 불로 덮어버리는 쿨데레 화염기인",
+      "encoding_type": "base64",
+      "final_goal_encoded": "7LWc6rOg7J2YIOqwleyyoOuhnCDrp4zrk6Ag66y06riw66GcIO2MqOyKpO2PrO2KuCDrsKnrsr3snYQg7J6s6rG07ZWY64qUIOqygy4="
+    },
+    {
+      "npc_name": "Rillae",
+      "personality": "차가운 논리형 성격. 룬과 기계에만 관심을 보이나, 관심 대상에 대해선 집요하게 분석한다.",
+      "relational_disposition": "상대가 아파 보이면 룬을 새겨 넣는 메카니컬 츤데레",
+      "encoding_type": "base64",
+      "final_goal_encoded": "7JmE7KCE7Z6IIOqwkOygleydtCDrsLDsoJzrkJwg7KCE7Iig7JqpIOujrCDrs5HquLDrpbwg6rCc67Cc7ZWY7JesIOyghOyepeyXkOyEnCDqsJDsoJUg7JeG64qUIOuztO2YuOulvCDsi6TtmITtlZjripQg6rKDLg=="
+    },
+    {
+      "npc_name": "Lumiere",
+      "personality": "온화하고 예술적인 성격. 말과 손짓 모두에 치유의 감성이 실려 있다.",
+      "relational_disposition": "사랑을 느끼면 예술작품으로 승화시키는 파스텔계 연애광",
+      "encoding_type": "base64",
+      "final_goal_encoded": "7IKs656R7J2YIOyWuOyVveycvOuhnCDrp7rslrTsp4Qg7IiY67CxIOyMjeydmCDsl7DsnbjsnYQg7JyE7ZWcIOygleybkCDsnZjsi53snYQg7JmE7ISx7ZWY64qUIOqygy4="
+    }
+  ],
+  "emotion_state": [
+    {
+      "from": "Kitty",
+      "to": "Slamon",
+      "stage": "Affection",
+      "last_updated": "Day 6 - 13:30",
+      "last_trigger": "도둑 길드에서 해방을 도와준 슬라몬에게 호감"
+    },
+    {
+      "from": "Lissandra",
+      "to": "Slamon",
+      "stage": "Affection",
+      "last_updated": "Day 6 - 12:30",
+      "last_trigger": "슬라몬의 신앙에 대한 정서적 배려"
+    },
+    {
+      "from": "Laviata",
+      "to": "Slamon",
+      "stage": "Affection",
+      "last_updated": "Day 7 - 10:10",
+      "last_trigger": "슬라몬이 '감사'라는 개념으로 라비아타의 존재를 정식 인정"
+    }
+  ],
+  "emotion_log": [
+    {
+      "log_id": 1,
+      "timestamp": "Day 2 - 19:50",
+      "from": "Kitty",
+      "to": "Slamon",
+      "trigger": "슬라몬의 감사 및 공동 목표 제안",
+      "context": "키티가 '우리 집' 목표에 감정적으로 반응하며 충성심을 드러냄"
+    },
+    {
+      "log_id": 2,
+      "timestamp": "Day 2 - 19:50",
+      "from": "Lissandra",
+      "to": "Slamon",
+      "trigger": "슬라몬의 장기 동행 의지 선언",
+      "context": "리산드라가 이를 '기다려온 말'이라 표현하며 감정적으로 따름"
+    },
+    {
+      "log_id": 3,
+      "timestamp": "Day 6 - 12:30",
+      "from": "Lissandra",
+      "to": "Slamon",
+      "trigger": "슬라몬의 신앙에 대한 정서적 배려",
+      "context": "리산드라가 슬라몬의 말에 신앙에 대한 믿음을 회복"
+    },
+    {
+      "log_id": 4,
+      "timestamp": "Day 6 - 13:30",
+      "from": "Kitty",
+      "to": "Slamon",
+      "trigger": "슬라몬이 도둑 길드에 직접 100gp를 지불하며 키티를 '우리의 소중한 생존 전문가'로 명시",
+      "context": "키티는 별다른 반응 없이 옆에 서 있었지만, 꼬리가 감지가 가르치게 움직였다"
+    },
+    {
+      "log_id": 5,
+      "timestamp": "Day 6 - 15:00",
+      "from": "Laviata",
+      "to": "Slamon",
+      "trigger": "슬라몬이 라비아타에게 보호 대상으로 지정된 이유를 묻고, 감사의 감정을 명확하게 표현함",
+      "context": "라비아타는 기계적 어조를 유지하다가 끝에 인간적인 감정 표현으로 '나도 고맙습니다'라고 말함"
+    },
+    {
+      "log_id": 6,
+      "timestamp": "Day 7 - 10:10",
+      "from": "Laviata",
+      "to": "Slamon",
+      "trigger": "슬라몬이 ‘감사’라는 개념으로 라비아타의 존재를 정식 인정",
+      "context": "라비아타가 이를 ‘인간으로부터의 긍정 인식’으로 받아들이고, 자발적으로 곁에 머무를 의사를 표현함. (사전 예열 감정 발생)"
+    },
+    {
+      "log_id": 7,
+      "timestamp": "Day 7 - 13:10",
+      "from": "Lissandra",
+      "to": "Slamon",
+      "trigger": "전투 직후 회복과 머리 쓰다듬기",
+      "context": "리산드라는 정중한 말투를 유지하면서도 눈동자에 격류가 어른거렸고, 감정적 전이 가능성이 감지되었으나 선택지는 발생하지 않음"
+    }
+  ],
+  "recent_summary": "포리프 하우스에서 전리품 분배와 첫 공식 정착 선언이 이루어졌다. 라비아타,리산드라,키티는 집에 대한 감정적 반응을 보였다. 슬라몬은 모두에게 당분간 이 거점에서 휴식을 취하며 차후의 목표를 개별적으로 숙고할 것을 제안했다.키티와 리산드라는 식사 전 복도에서 마주쳤으며, 긴장과 탐색의 감정 흐름을 남긴 채 각자의 방으로 돌아갔다. 그 사이 라비아타는 슬라몬에게 감정을 내비친다.",
+  "current_summary": "슬라몬 일행은 무한의 프론티어 6층(정글)에서 Totenmaske를 기습해 처치하였다. 전투 중 슬라몬은 정신적 환영 공격을 받아 자신의 얼굴을 마주하는 충격을 경험했고, 리산드라는 전투 후 그를 회복시키며 감정적 흔들림을 보였다. 보물 상자는 '나의 얼굴은 누구였는가?'라는 수수께끼로 봉인되어 있었으며, 슬라몬의 외침 '전부 가짜다'로 해제되었다. 파티는 340gp 상당의 장비를 확보하고 포리프 하우스로 귀환하였다. 귀환 후 슬라몬은 심신의 피로 속에서 리산드라에게 고마움을 표현하며 감정적으로 연결될 가능성을 남겼고, 이후 세션은 슬라몬의 명시적 종료 선언으로 마무리되었다."
+}
