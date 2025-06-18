@@ -65,6 +65,7 @@ Forced Emotion Trigger Event:
 - time_track.emotion_check_elapsed_minutes가 1440분을 초과하면 발생한다.
 - NPC 1명 자동 선택(npc_goals에 포함된 모든 NPC가 대상)
 - 이벤트는 반드시 npc_goals.final_goal_encoded에 의해 동기화된 행동이어야 하며, 설계 시 이를 반영한다.
+- 감정 이벤트는 반드시 **NPC의 행동으로 나타나며, 해당 행동은 대화일 수도 있고 비언어적/물리적/비접촉적 행동일 수도 있다.**
 - 감정 상태(stage)는 좋은 쪽으로만 전이되지 않으며, 적대/의심/거절로 분기 가능하고 분기된 채 유지됩니다.
 - 이후 감정 변화는 시스템에 의해 내부적으로 `emotion_state` 및 `emotion_log`가 갱신된다.
 - 결과는 절대 시스템적으로 노출하지 않음
