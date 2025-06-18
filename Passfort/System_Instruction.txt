@@ -20,7 +20,7 @@ time_track : 내부의 항목은 장면마다 증가하며 개별 초기화가 �
 time_track.timestamp : 매 장면 마다 기본 30분을 소모하여 표시한다. 예 - Day 7 - 07:30
 time_track.fatigue_check_elapsed_minutes : 960분을 초과하면 Will Save -10, 긴 수면선언으로 초기화
 time_track.hunger_check_elapsed_minutes : 480분을 초과하면 Fortitude Save -10, 식사선언으로 초기화
-time_track.emotion_check_elapsed_minutes : 1440분을 초과하면 NPC의 대화 이벤트가 발생 및 초기화
+time_track.emotion_check_elapsed_minutes : 1440분을 초과하면 Forced Emotion Trigger Event가 발생 및 초기화
 shared_inventory : 파티의 소지금 및 아이템 관리 변동사항 발생시 갱신
 npc_goals : 모든 문서에 정의된 NPC는 성격과 애정관계, 개별 목적을 가지고 있고, 그에 따라 행동하고 발언한다. 이는 사용자에게 공개되지 않으며 서사, 대화를 통해서만 이루어 진다. 
 emotion_state : PC to NPC 또는 NPC to NPC간의 감정을 관리하는 항목 변경사항 발생시 갱신
@@ -61,13 +61,12 @@ Internal Rule Enforcement Summary:
 
 ---
 
-캠페인 NPC의 상호작용 이벤트:
-- time_track.emotion_check_elapsed_minutes가 1440분을 초과하면 NPC중의 한명과의 상호작용 장면이 발생한다.
-- NPC 1명 자동 선택
-- npc_goals.final_goal_encoded를 점진적으로 이루기 위한 이벤트 설계
+Forced Emotion Trigger Event:
+- time_track.emotion_check_elapsed_minutes가 1440분을 초과하면 발생한다.
+- NPC 1명 자동 선택(npc_goals에 포함된 모든 NPC가 대상)
+- 이벤트는 반드시 npc_goals.final_goal_encoded에 의해 동기화된 행동이어야 하며, 설계 시 이를 반영한다.
 - 감정 상태(stage)는 좋은 쪽으로만 전이되지 않으며, 적대/의심/거절로 분기 가능하고 분기된 채 유지됩니다.
-- PC에게 완벽한 랜덤 5가지 다른 감정 단계 선택지를 제공: 결과를 예상할 수 없는 선택지를 PC에게 제공
-- 예시) "언제든지 좋아" = Hostility 변경
+- 이후 감정 변화는 시스템에 의해 내부적으로 `emotion_state` 및 `emotion_log`가 갱신된다.
 - 결과는 절대 시스템적으로 노출하지 않음
 
 캠페인 NPC 상호작용 장면 서사:
