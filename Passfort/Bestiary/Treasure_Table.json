@@ -5,7 +5,7 @@
     "Name": "Shining ammunition",
     "Grade": "N",
     "Category": "Ammunition",
-    "Price": "3 gp",
+    "Price": 3,
     "Page": "560"
   },
   {
@@ -14,7 +14,7 @@
     "Name": "Acid flask, lesser",
     "Grade": "N",
     "Category": "Bomb",
-    "Price": "3 gp",
+    "Price": 3,
     "Page": "544"
   },
   {
@@ -23,7 +23,7 @@
     "Name": "Alchemist’s fire, lesser",
     "Grade": "N",
     "Category": "Bomb",
-    "Price": "3 gp",
+    "Price": 3,
     "Page": "545"
   },
   {
@@ -32,7 +32,7 @@
     "Name": "Bottled lightning, lesser",
     "Grade": "N",
     "Category": "Bomb",
-    "Price": "3 gp",
+    "Price": 3,
     "Page": "545"
   },
   {
@@ -41,7 +41,7 @@
     "Name": "Frost vial, lesser",
     "Grade": "N",
     "Category": "Bomb",
-    "Price": "3 gp",
+    "Price": 3,
     "Page": "545"
   },
   {
@@ -50,7 +50,7 @@
     "Name": "Tanglefoot bag, lesser",
     "Grade": "N",
     "Category": "Bomb",
-    "Price": "3 gp",
+    "Price": 3,
     "Page": "545"
   },
   {
@@ -59,7 +59,7 @@
     "Name": "Thunderstone, lesser",
     "Grade": "N",
     "Category": "Bomb",
-    "Price": "3 gp",
+    "Price": 3,
     "Page": "545"
   },
   {
@@ -68,7 +68,7 @@
     "Name": "Feather token, ladder",
     "Grade": "N",
     "Category": "Consumable",
-    "Price": "3 gp",
+    "Price": 3,
     "Page": "570"
   },
   {
@@ -77,7 +77,7 @@
     "Name": "Holy water",
     "Grade": "N",
     "Category": "Consumable",
-    "Price": "3 gp",
+    "Price": 3,
     "Page": "571"
   },
   {
@@ -86,7 +86,7 @@
     "Name": "Runestone",
     "Grade": "N",
     "Category": "Consumable",
-    "Price": "3 gp",
+    "Price": 3,
     "Page": "571"
   },
   {
@@ -95,7 +95,7 @@
     "Name": "Unholy water",
     "Grade": "N",
     "Category": "Consumable",
-    "Price": "3 gp",
+    "Price": 3,
     "Page": "571"
   },
   {
@@ -104,7 +104,7 @@
     "Name": "Antidote, lesser",
     "Grade": "N",
     "Category": "Elixir",
-    "Price": "3 gp",
+    "Price": 3,
     "Page": "546"
   },
   {
@@ -113,7 +113,7 @@
     "Name": "Antiplague, lesser",
     "Grade": "N",
     "Category": "Elixir",
-    "Price": "3 gp",
+    "Price": 3,
     "Page": "546"
   },
   {
@@ -122,7 +122,7 @@
     "Name": "Bestial mutagen, lesser",
     "Grade": "N",
     "Category": "Elixir",
-    "Price": "4 gp",
+    "Price": 4,
     "Page": "546"
   },
   {
@@ -131,7 +131,7 @@
     "Name": "Cheetah’s elixir, lesser",
     "Grade": "N",
     "Category": "Elixir",
-    "Price": "3 gp",
+    "Price": 3,
     "Page": "547"
   },
   {
@@ -140,7 +140,7 @@
     "Name": "Cognitive mutagen, lesser",
     "Grade": "N",
     "Category": "Elixir",
-    "Price": "4 gp",
+    "Price": 4,
     "Page": "547"
   },
   {
@@ -149,7 +149,7 @@
     "Name": "Eagle-eye elixir, lesser",
     "Grade": "N",
     "Category": "Elixir",
-    "Price": "4 gp",
+    "Price": 4,
     "Page": "548"
   },
   {
@@ -158,7 +158,7 @@
     "Name": "Elixir of life, minor",
     "Grade": "N",
     "Category": "Elixir",
-    "Price": "3 gp",
+    "Price": 3,
     "Page": "548"
   },
   {
@@ -167,7 +167,7 @@
     "Name": "Juggernaut mutagen, lesser",
     "Grade": "N",
     "Category": "Elixir",
-    "Price": "4 gp",
+    "Price": 4,
     "Page": "548"
   },
   {
@@ -176,7 +176,7 @@
     "Name": "Leaper’s elixir, lesser",
     "Grade": "N",
     "Category": "Elixir",
-    "Price": "3 gp",
+    "Price": 3,
     "Page": "549"
   },
   {
@@ -185,7 +185,7 @@
     "Name": "Quicksilver mutagen, lesser",
     "Grade": "N",
     "Category": "Elixir",
-    "Price": "4 gp",
+    "Price": 4,
     "Page": "549"
   },
   {
@@ -194,7 +194,7 @@
     "Name": "Serene mutagen, lesser",
     "Grade": "N",
     "Category": "Elixir",
-    "Price": "4 gp",
+    "Price": 4,
     "Page": "549"
   },
   {
@@ -203,7 +203,7 @@
     "Name": "Silvertongue mutagen, lesser",
     "Grade": "N",
     "Category": "Elixir",
-    "Price": "4 gp",
+    "Price": 4,
     "Page": "550"
   },
   {
@@ -212,7 +212,7 @@
     "Name": "Nectar of purification",
     "Grade": "N",
     "Category": "Oil",
-    "Price": "3 gp",
+    "Price": 3,
     "Page": "561"
   },
   {
@@ -221,7 +221,7 @@
     "Name": "Arsenic",
     "Grade": "N",
     "Category": "Poison",
-    "Price": "3 gp",
+    "Price": 3,
     "Page": "550"
   },
   {
@@ -230,7 +230,7 @@
     "Name": "Giant centipede venom",
     "Grade": "N",
     "Category": "Poison",
-    "Price": "4 gp",
+    "Price": 4,
     "Page": "551"
   },
   {
@@ -239,7 +239,7 @@
     "Name": "Healing potion, minor",
     "Grade": "N",
     "Category": "Potion",
-    "Price": "4 gp",
+    "Price": 4,
     "Page": "563"
   },
   {
@@ -248,7 +248,7 @@
     "Name": "Scroll of 1st-level spell",
     "Grade": "N",
     "Category": "Scroll",
-    "Price": "4 gp",
+    "Price": 4,
     "Page": "565"
   },
   {
@@ -257,7 +257,7 @@
     "Name": "Alarm snare",
     "Grade": "N",
     "Category": "Snare",
-    "Price": "3 gp",
+    "Price": 3,
     "Page": "589"
   },
   {
@@ -266,7 +266,7 @@
     "Name": "Caltrop snare",
     "Grade": "N",
     "Category": "Snare",
-    "Price": "3 gp",
+    "Price": 3,
     "Page": "590"
   },
   {
@@ -275,7 +275,7 @@
     "Name": "Hampering snare",
     "Grade": "N",
     "Category": "Snare",
-    "Price": "3 gp",
+    "Price": 3,
     "Page": "590"
   },
   {
@@ -284,7 +284,7 @@
     "Name": "Marking snare",
     "Grade": "N",
     "Category": "Snare",
-    "Price": "3 gp",
+    "Price": 3,
     "Page": "590"
   },
   {
@@ -293,7 +293,7 @@
     "Name": "Signaling snare",
     "Grade": "N",
     "Category": "Snare",
-    "Price": "3 gp",
+    "Price": 3,
     "Page": "591"
   },
   {
@@ -302,7 +302,7 @@
     "Name": "Spike snare",
     "Grade": "N",
     "Category": "Snare",
-    "Price": "3 gp",
+    "Price": 3,
     "Page": "591"
   },
   {
@@ -311,7 +311,7 @@
     "Name": "Owlbear claw",
     "Grade": "N",
     "Category": "Talisman",
-    "Price": "3 gp",
+    "Price": 3,
     "Page": "569"
   },
   {
@@ -320,7 +320,7 @@
     "Name": "Potency crystal",
     "Grade": "N",
     "Category": "Talisman",
-    "Price": "4 gp",
+    "Price": 4,
     "Page": "569"
   },
   {
@@ -329,7 +329,7 @@
     "Name": "Wolf fang",
     "Grade": "N",
     "Category": "Talisman",
-    "Price": "4 gp",
+    "Price": 4,
     "Page": "570"
   },
   {
@@ -338,7 +338,7 @@
     "Name": "Smokestick, lesser",
     "Grade": "N",
     "Category": "Tool",
-    "Price": "3 gp",
+    "Price": 3,
     "Page": "554"
   },
   {
@@ -347,7 +347,7 @@
     "Name": "Snake oil",
     "Grade": "N",
     "Category": "Tool",
-    "Price": "2 gp",
+    "Price": 2,
     "Page": "554"
   },
   {
@@ -356,7 +356,7 @@
     "Name": "Sunrod",
     "Grade": "N",
     "Category": "Tool",
-    "Price": "3 gp",
+    "Price": 3,
     "Page": "554"
   },
   {
@@ -365,7 +365,7 @@
     "Name": "Tindertwig",
     "Grade": "N",
     "Category": "Tool",
-    "Price": "1 gp",
+    "Price": 1,
     "Page": "554"
   },
   {
@@ -374,7 +374,7 @@
     "Name": "Half plate",
     "Grade": "N",
     "Category": "Armor",
-    "Price": "18 gp",
+    "Price": 18,
     "Page": "276"
   },
   {
@@ -383,7 +383,7 @@
     "Name": "Splint mail",
     "Grade": "N",
     "Category": "Armor",
-    "Price": "13 gp",
+    "Price": 13,
     "Page": "276"
   },
   {
@@ -392,7 +392,7 @@
     "Name": "Everburning torch",
     "Grade": "N",
     "Category": "Held",
-    "Price": "15 gp",
+    "Price": 15,
     "Page": "573"
   },
   {
@@ -401,7 +401,7 @@
     "Name": "Aeon stone, dull gray",
     "Grade": "U",
     "Category": "Worn",
-    "Price": "9 gp",
+    "Price": 9,
     "Page": "604"
   },
   {
@@ -410,7 +410,7 @@
     "Name": "Feather token, holly bush",
     "Grade": "N",
     "Category": "Consumable",
-    "Price": "6 gp",
+    "Price": 6,
     "Page": "570"
   },
   {
@@ -419,7 +419,7 @@
     "Name": "Bravo’s brew, lesser",
     "Grade": "N",
     "Category": "Elixir",
-    "Price": "7 gp",
+    "Price": 7,
     "Page": "547"
   },
   {
@@ -428,7 +428,7 @@
     "Name": "Cat’s eye elixir",
     "Grade": "N",
     "Category": "Elixir",
-    "Price": "7 gp",
+    "Price": 7,
     "Page": "547"
   },
   {
@@ -437,7 +437,7 @@
     "Name": "Comprehension elixir, lesser",
     "Grade": "N",
     "Category": "Elixir",
-    "Price": "7 gp",
+    "Price": 7,
     "Page": "547"
   },
   {
@@ -446,7 +446,7 @@
     "Name": "Darkvision elixir, lesser",
     "Grade": "N",
     "Category": "Elixir",
-    "Price": "6 gp",
+    "Price": 6,
     "Page": "547"
   },
   {
@@ -455,7 +455,7 @@
     "Name": "Infiltrator’s elixir",
     "Grade": "N",
     "Category": "Elixir",
-    "Price": "6 gp",
+    "Price": 6,
     "Page": "548"
   },
   {
@@ -464,7 +464,7 @@
     "Name": "Oil of potency",
     "Grade": "N",
     "Category": "Oil",
-    "Price": "7 gp",
+    "Price": 7,
     "Page": "562"
   },
   {
@@ -473,7 +473,7 @@
     "Name": "Oil of weightlessness",
     "Grade": "N",
     "Category": "Oil",
-    "Price": "6 gp",
+    "Price": 6,
     "Page": "562"
   },
   {
@@ -482,7 +482,7 @@
     "Name": "Belladonna",
     "Grade": "N",
     "Category": "Poison",
-    "Price": "5 gp",
+    "Price": 5,
     "Page": "551"
   },
   {
@@ -491,7 +491,7 @@
     "Name": "Black adder venom",
     "Grade": "N",
     "Category": "Poison",
-    "Price": "6 gp",
+    "Price": 6,
     "Page": "551"
   },
   {
@@ -500,7 +500,7 @@
     "Name": "Lethargy poison",
     "Grade": "U",
     "Category": "Poison",
-    "Price": "7 gp",
+    "Price": 7,
     "Page": "552"
   },
   {
@@ -509,7 +509,7 @@
     "Name": "Bronze bull pendant",
     "Grade": "N",
     "Category": "Talisman",
-    "Price": "7 gp",
+    "Price": 7,
     "Page": "566"
   },
   {
@@ -518,7 +518,7 @@
     "Name": "Crying angel pendant",
     "Grade": "N",
     "Category": "Talisman",
-    "Price": "7 gp",
+    "Price": 7,
     "Page": "566"
   },
   {
@@ -527,7 +527,7 @@
     "Name": "Effervescent ampoule",
     "Grade": "N",
     "Category": "Talisman",
-    "Price": "7 gp",
+    "Price": 7,
     "Page": "566"
   },
   {
@@ -536,7 +536,7 @@
     "Name": "Hunter’s bane",
     "Grade": "N",
     "Category": "Talisman",
-    "Price": "6 gp",
+    "Price": 6,
     "Page": "567"
   },
   {
@@ -545,7 +545,7 @@
     "Name": "Jade cat",
     "Grade": "N",
     "Category": "Talisman",
-    "Price": "6 gp",
+    "Price": 6,
     "Page": "568"
   },
   {
@@ -554,7 +554,7 @@
     "Name": "Mesmerizing opal",
     "Grade": "N",
     "Category": "Talisman",
-    "Price": "7 gp",
+    "Price": 7,
     "Page": "568"
   },
   {
@@ -563,7 +563,7 @@
     "Name": "Monkey pin",
     "Grade": "N",
     "Category": "Talisman",
-    "Price": "6 gp",
+    "Price": 6,
     "Page": "568"
   },
   {
@@ -572,7 +572,7 @@
     "Name": "Onyx panther",
     "Grade": "N",
     "Category": "Talisman",
-    "Price": "7 gp",
+    "Price": 7,
     "Page": "569"
   },
   {
@@ -581,7 +581,7 @@
     "Name": "Savior spike",
     "Grade": "N",
     "Category": "Talisman",
-    "Price": "7 gp",
+    "Price": 7,
     "Page": "569"
   },
   {
@@ -590,7 +590,7 @@
     "Name": "Silversheen",
     "Grade": "N",
     "Category": "Tool",
-    "Price": "6 gp",
+    "Price": 6,
     "Page": "554"
   },
   {
@@ -599,7 +599,7 @@
     "Name": "Full plate",
     "Grade": "N",
     "Category": "Armor",
-    "Price": "30 gp",
+    "Price": 30,
     "Page": "276"
   },
   {
@@ -608,7 +608,7 @@
     "Name": "Wondrous figurine, onyx dog",
     "Grade": "N",
     "Category": "Held",
-    "Price": "34 gp",
+    "Price": 34,
     "Page": "576"
   },
   {
@@ -617,7 +617,7 @@
     "Name": "+1 weapon potency",
     "Grade": "N",
     "Category": "Rune",
-    "Price": "35 gp",
+    "Price": 35,
     "Page": "581"
   },
   {
@@ -626,7 +626,7 @@
     "Name": "Cold iron buckler, low-grade",
     "Grade": "N",
     "Category": "Shield",
-    "Price": "30 gp",
+    "Price": 30,
     "Page": "586"
   },
   {
@@ -635,7 +635,7 @@
     "Name": "Cold iron shield, low-grade",
     "Grade": "N",
     "Category": "Shield",
-    "Price": "34 gp",
+    "Price": 34,
     "Page": "586"
   },
   {
@@ -644,7 +644,7 @@
     "Name": "Silver buckler, low-grade",
     "Grade": "N",
     "Category": "Shield",
-    "Price": "30 gp",
+    "Price": 30,
     "Page": "587"
   },
   {
@@ -653,7 +653,7 @@
     "Name": "Silver shield, low-grade",
     "Grade": "N",
     "Category": "Shield",
-    "Price": "34 gp",
+    "Price": 34,
     "Page": "587"
   },
   {
@@ -662,7 +662,7 @@
     "Name": "+1 weapon",
     "Grade": "N",
     "Category": "Weapon",
-    "Price": "35 gp",
+    "Price": 35,
     "Page": "599"
   },
   {
@@ -671,7 +671,7 @@
     "Name": "Cold iron weapon, low-grade",
     "Grade": "N",
     "Category": "Weapon",
-    "Price": "40 gp",
+    "Price": 40,
     "Page": "599"
   },
   {
@@ -680,7 +680,7 @@
     "Name": "Silver weapon, low-grade",
     "Grade": "N",
     "Category": "Weapon",
-    "Price": "40 gp",
+    "Price": 40,
     "Page": "599"
   },
   {
@@ -689,7 +689,7 @@
     "Name": "+1 handwraps of mighty blows",
     "Grade": "N",
     "Category": "Worn",
-    "Price": "35 gp",
+    "Price": 35,
     "Page": "611"
   },
   {
@@ -698,7 +698,7 @@
     "Name": "Brooch of shielding",
     "Grade": "U",
     "Category": "Worn",
-    "Price": "30 gp",
+    "Price": 30,
     "Page": "607"
   },
   {
@@ -707,7 +707,7 @@
     "Name": "Hand of the mage",
     "Grade": "N",
     "Category": "Worn",
-    "Price": "30 gp",
+    "Price": 30,
     "Page": "611"
   },
   {
@@ -716,7 +716,7 @@
     "Name": "Hat of disguise",
     "Grade": "N",
     "Category": "Worn",
-    "Price": "30 gp",
+    "Price": 30,
     "Page": "611"
   },
   {
@@ -725,7 +725,7 @@
     "Name": "Wayfinder",
     "Grade": "U",
     "Category": "Worn",
-    "Price": "28 gp",
+    "Price": 28,
     "Page": "617"
   },
   {
@@ -734,7 +734,7 @@
     "Name": "Beacon shot",
     "Grade": "N",
     "Category": "Ammunition",
-    "Price": "10 gp",
+    "Price": 10,
     "Page": "559"
   },
   {
@@ -743,7 +743,7 @@
     "Name": "Sleep arrow",
     "Grade": "N",
     "Category": "Ammunition",
-    "Price": "11 gp",
+    "Price": 11,
     "Page": "560"
   },
   {
@@ -752,7 +752,7 @@
     "Name": "Spellstrike ammunition 1st",
     "Grade": "N",
     "Category": "Ammunition",
-    "Price": "12 gp",
+    "Price": 12,
     "Page": "560"
   },
   {
@@ -761,7 +761,7 @@
     "Name": "Vine arrow",
     "Grade": "N",
     "Category": "Ammunition",
-    "Price": "10 gp",
+    "Price": 10,
     "Page": "560"
   },
   {
@@ -770,7 +770,7 @@
     "Name": "Acid flask, moderate",
     "Grade": "N",
     "Category": "Bomb",
-    "Price": "10 gp",
+    "Price": 10,
     "Page": "544"
   },
   {
@@ -779,7 +779,7 @@
     "Name": "Alchemist’s fire, moderate",
     "Grade": "N",
     "Category": "Bomb",
-    "Price": "10 gp",
+    "Price": 10,
     "Page": "545"
   },
   {
@@ -788,7 +788,7 @@
     "Name": "Bottled lightning, moderate",
     "Grade": "N",
     "Category": "Bomb",
-    "Price": "10 gp",
+    "Price": 10,
     "Page": "545"
   },
   {
@@ -797,7 +797,7 @@
     "Name": "Frost vial, moderate",
     "Grade": "N",
     "Category": "Bomb",
-    "Price": "10 gp",
+    "Price": 10,
     "Page": "545"
   },
   {
@@ -806,7 +806,7 @@
     "Name": "Tanglefoot bag, moderate",
     "Grade": "N",
     "Category": "Bomb",
-    "Price": "10 gp",
+    "Price": 10,
     "Page": "545"
   },
   {
@@ -815,7 +815,7 @@
     "Name": "Thunderstone, moderate",
     "Grade": "N",
     "Category": "Bomb",
-    "Price": "10 gp",
+    "Price": 10,
     "Page": "545"
   },
   {
@@ -824,7 +824,7 @@
     "Name": "Feather token, bird",
     "Grade": "N",
     "Category": "Consumable",
-    "Price": "8 gp",
+    "Price": 8,
     "Page": "570"
   },
   {
@@ -833,7 +833,7 @@
     "Name": "Feather token, chest",
     "Grade": "N",
     "Category": "Consumable",
-    "Price": "10 gp",
+    "Price": 10,
     "Page": "570"
   },
   {
@@ -842,7 +842,7 @@
     "Name": "Bestial mutagen, moderate",
     "Grade": "N",
     "Category": "Elixir",
-    "Price": "12 gp",
+    "Price": 12,
     "Page": "546"
   },
   {
@@ -851,7 +851,7 @@
     "Name": "Cognitive mutagen, moderate",
     "Grade": "N",
     "Category": "Elixir",
-    "Price": "12 gp",
+    "Price": 12,
     "Page": "547"
   },
   {
@@ -860,7 +860,7 @@
     "Name": "Juggernaut mutagen, moderate",
     "Grade": "N",
     "Category": "Elixir",
-    "Price": "12 gp",
+    "Price": 12,
     "Page": "548"
   },
   {
@@ -869,7 +869,7 @@
     "Name": "Quicksilver mutagen, moderate",
     "Grade": "N",
     "Category": "Elixir",
-    "Price": "12 gp",
+    "Price": 12,
     "Page": "549"
   },
   {
@@ -878,7 +878,7 @@
     "Name": "Serene mutagen, moderate",
     "Grade": "N",
     "Category": "Elixir",
-    "Price": "12 gp",
+    "Price": 12,
     "Page": "549"
   },
   {
@@ -887,7 +887,7 @@
     "Name": "Silvertongue mutagen, moderate",
     "Grade": "N",
     "Category": "Elixir",
-    "Price": "12 gp",
+    "Price": 12,
     "Page": "550"
   },
   {
@@ -896,7 +896,7 @@
     "Name": "Oil of mending",
     "Grade": "N",
     "Category": "Oil",
-    "Price": "9 gp",
+    "Price": 9,
     "Page": "561"
   },
   {
@@ -905,7 +905,7 @@
     "Name": "Cytillesh oil",
     "Grade": "N",
     "Category": "Poison",
-    "Price": "10 gp",
+    "Price": 10,
     "Page": "551"
   },
   {
@@ -914,7 +914,7 @@
     "Name": "Graveroot",
     "Grade": "N",
     "Category": "Poison",
-    "Price": "10 gp",
+    "Price": 10,
     "Page": "552"
   },
   {
@@ -923,7 +923,7 @@
     "Name": "Healing potion, lesser",
     "Grade": "N",
     "Category": "Potion",
-    "Price": "12 gp",
+    "Price": 12,
     "Page": "563"
   },
   {
@@ -932,7 +932,7 @@
     "Name": "Potion of water breathing",
     "Grade": "N",
     "Category": "Potion",
-    "Price": "11 gp",
+    "Price": 11,
     "Page": "564"
   },
   {
@@ -941,7 +941,7 @@
     "Name": "Scroll of 2nd-level spell",
     "Grade": "N",
     "Category": "Scroll",
-    "Price": "12 gp",
+    "Price": 12,
     "Page": "565"
   },
   {
@@ -950,7 +950,7 @@
     "Name": "Feather step stone",
     "Grade": "N",
     "Category": "Talisman",
-    "Price": "8 gp",
+    "Price": 8,
     "Page": "567"
   },
   {
@@ -959,7 +959,7 @@
     "Name": "Maestro’s instrument, lesser",
     "Grade": "N",
     "Category": "Held",
-    "Price": "60 gp",
+    "Price": 60,
     "Page": "574"
   },
   {
@@ -968,7 +968,7 @@
     "Name": "Thurible of revelation, lesser",
     "Grade": "N",
     "Category": "Held",
-    "Price": "55 gp",
+    "Price": 55,
     "Page": "575"
   },
   {
@@ -977,7 +977,7 @@
     "Name": "Returning",
     "Grade": "N",
     "Category": "Rune",
-    "Price": "55 gp",
+    "Price": 55,
     "Page": "584"
   },
   {
@@ -986,7 +986,7 @@
     "Name": "Staff of fire",
     "Grade": "N",
     "Category": "Staff",
-    "Price": "60 gp",
+    "Price": 60,
     "Page": "594"
   },
   {
@@ -995,7 +995,7 @@
     "Name": "Wand of 1st-level spell",
     "Grade": "N",
     "Category": "Wand",
-    "Price": "60 gp",
+    "Price": 60,
     "Page": "597"
   },
   {
@@ -1004,7 +1004,7 @@
     "Name": "Fighter’s fork",
     "Grade": "N",
     "Category": "Weapon",
-    "Price": "50 gp",
+    "Price": 50,
     "Page": "600"
   },
   {
@@ -1013,7 +1013,7 @@
     "Name": "Retribution axe",
     "Grade": "N",
     "Category": "Weapon",
-    "Price": "60 gp",
+    "Price": 60,
     "Page": "602"
   },
   {
@@ -1022,7 +1022,7 @@
     "Name": "Bracelet of dashing",
     "Grade": "N",
     "Category": "Worn",
-    "Price": "58 gp",
+    "Price": 58,
     "Page": "607"
   },
   {
@@ -1031,7 +1031,7 @@
     "Name": "Bracers of missile deflection",
     "Grade": "N",
     "Category": "Worn",
-    "Price": "52 gp",
+    "Price": 52,
     "Page": "607"
   },
   {
@@ -1040,7 +1040,7 @@
     "Name": "Channel protection amulet",
     "Grade": "U",
     "Category": "Worn",
-    "Price": "56 gp",
+    "Price": 56,
     "Page": "608"
   },
   {
@@ -1049,7 +1049,7 @@
     "Name": "Coyote cloak",
     "Grade": "N",
     "Category": "Worn",
-    "Price": "60 gp",
+    "Price": 60,
     "Page": "609"
   },
   {
@@ -1058,7 +1058,7 @@
     "Name": "Crafter’s eyepiece",
     "Grade": "N",
     "Category": "Worn",
-    "Price": "60 gp",
+    "Price": 60,
     "Page": "609"
   },
   {
@@ -1067,7 +1067,7 @@
     "Name": "Dancing scarf",
     "Grade": "N",
     "Category": "Worn",
-    "Price": "60 gp",
+    "Price": 60,
     "Page": "609"
   },
   {
@@ -1076,7 +1076,7 @@
     "Name": "Doubling rings",
     "Grade": "N",
     "Category": "Worn",
-    "Price": "50 gp",
+    "Price": 50,
     "Page": "609"
   },
   {
@@ -1085,7 +1085,7 @@
     "Name": "Hat of the magi",
     "Grade": "N",
     "Category": "Worn",
-    "Price": "50 gp",
+    "Price": 50,
     "Page": "611"
   },
   {
@@ -1094,7 +1094,7 @@
     "Name": "Pendant of the occult",
     "Grade": "N",
     "Category": "Worn",
-    "Price": "60 gp",
+    "Price": 60,
     "Page": "613"
   },
   {
@@ -1103,7 +1103,7 @@
     "Name": "Persona mask",
     "Grade": "N",
     "Category": "Worn",
-    "Price": "50 gp",
+    "Price": 50,
     "Page": "613"
   },
   {
@@ -1112,7 +1112,7 @@
     "Name": "Tracker’s goggles",
     "Grade": "N",
     "Category": "Worn",
-    "Price": "60 gp",
+    "Price": 60,
     "Page": "616"
   },
   {
@@ -1121,7 +1121,7 @@
     "Name": "Ventriloquist’s ring",
     "Grade": "N",
     "Category": "Worn",
-    "Price": "60 gp",
+    "Price": 60,
     "Page": "617"
   },
   {
@@ -1130,7 +1130,7 @@
     "Name": "Climbing bolt",
     "Grade": "N",
     "Category": "Ammunition",
-    "Price": "15 gp",
+    "Price": 15,
     "Page": "559"
   },
   {
@@ -1139,7 +1139,7 @@
     "Name": "Viper arrow",
     "Grade": "N",
     "Category": "Ammunition",
-    "Price": "17 gp",
+    "Price": 17,
     "Page": "561"
   },
   {
@@ -1148,7 +1148,7 @@
     "Name": "Feather token, fan",
     "Grade": "N",
     "Category": "Consumable",
-    "Price": "15 gp",
+    "Price": 15,
     "Page": "570"
   },
   {
@@ -1157,7 +1157,7 @@
     "Name": "Bomber’s eye elixir, lesser",
     "Grade": "N",
     "Category": "Elixir",
-    "Price": "14 gp",
+    "Price": 14,
     "Page": "547"
   },
   {
@@ -1166,7 +1166,7 @@
     "Name": "Darkvision elixir, moderate",
     "Grade": "N",
     "Category": "Elixir",
-    "Price": "11 gp",
+    "Price": 11,
     "Page": "547"
   },
   {
@@ -1175,7 +1175,7 @@
     "Name": "Mistform elixir, lesser",
     "Grade": "N",
     "Category": "Elixir",
-    "Price": "18 gp",
+    "Price": 18,
     "Page": "549"
   },
   {
@@ -1184,7 +1184,7 @@
     "Name": "Salamander elixir, lesser",
     "Grade": "N",
     "Category": "Elixir",
-    "Price": "15 gp",
+    "Price": 15,
     "Page": "549"
   },
   {
@@ -1193,7 +1193,7 @@
     "Name": "Stone fist elixir",
     "Grade": "N",
     "Category": "Elixir",
-    "Price": "13 gp",
+    "Price": 13,
     "Page": "550"
   },
   {
@@ -1202,7 +1202,7 @@
     "Name": "Winter wolf elixir, lesser",
     "Grade": "N",
     "Category": "Elixir",
-    "Price": "15 gp",
+    "Price": 15,
     "Page": "550"
   },
   {
@@ -1211,7 +1211,7 @@
     "Name": "Barkskin potion",
     "Grade": "N",
     "Category": "Potion",
-    "Price": "15 gp",
+    "Price": 15,
     "Page": "562"
   },
   {
@@ -1220,7 +1220,7 @@
     "Name": "Invisibility potion",
     "Grade": "U",
     "Category": "Potion",
-    "Price": "20 gp",
+    "Price": 20,
     "Page": "563"
   },
   {
@@ -1229,7 +1229,7 @@
     "Name": "Shrinking potion",
     "Grade": "N",
     "Category": "Potion",
-    "Price": "15 gp",
+    "Price": 15,
     "Page": "564"
   },
   {
@@ -1238,7 +1238,7 @@
     "Name": "Biting snare",
     "Grade": "N",
     "Category": "Snare",
-    "Price": "15 gp",
+    "Price": 15,
     "Page": "589"
   },
   {
@@ -1247,7 +1247,7 @@
     "Name": "Hobbling snare",
     "Grade": "U",
     "Category": "Snare",
-    "Price": "15 gp",
+    "Price": 15,
     "Page": "590"
   },
   {
@@ -1256,7 +1256,7 @@
     "Name": "Stalker bane snare",
     "Grade": "U",
     "Category": "Snare",
-    "Price": "15 gp",
+    "Price": 15,
     "Page": "591"
   },
   {
@@ -1265,7 +1265,7 @@
     "Name": "Trip snare",
     "Grade": "N",
     "Category": "Snare",
-    "Price": "15 gp",
+    "Price": 15,
     "Page": "591"
   },
   {
@@ -1274,7 +1274,7 @@
     "Name": "Warning snare",
     "Grade": "N",
     "Category": "Snare",
-    "Price": "15 gp",
+    "Price": 15,
     "Page": "591"
   },
   {
@@ -1283,7 +1283,7 @@
     "Name": "Bloodseeker beak",
     "Grade": "N",
     "Category": "Talisman",
-    "Price": "20 gp",
+    "Price": 20,
     "Page": "565"
   },
   {
@@ -1292,7 +1292,7 @@
     "Name": "Dragon turtle scale",
     "Grade": "N",
     "Category": "Talisman",
-    "Price": "13 gp",
+    "Price": 13,
     "Page": "566"
   },
   {
@@ -1301,7 +1301,7 @@
     "Name": "Fear gem",
     "Grade": "N",
     "Category": "Talisman",
-    "Price": "20 gp",
+    "Price": 20,
     "Page": "566"
   },
   {
@@ -1310,7 +1310,7 @@
     "Name": "Bag of holding type I",
     "Grade": "N",
     "Category": "Held",
-    "Price": "75 gp",
+    "Price": 75,
     "Page": "572"
   },
   {
@@ -1319,7 +1319,7 @@
     "Name": "Ghost touch",
     "Grade": "N",
     "Category": "Rune",
-    "Price": "75 gp",
+    "Price": 75,
     "Page": "584"
   },
   {
@@ -1328,7 +1328,7 @@
     "Name": "Striking",
     "Grade": "N",
     "Category": "Rune",
-    "Price": "65 gp",
+    "Price": 65,
     "Page": "581"
   },
   {
@@ -1337,7 +1337,7 @@
     "Name": "Sturdy shield, minor",
     "Grade": "N",
     "Category": "Shield",
-    "Price": "100 gp",
+    "Price": 100,
     "Page": "588"
   },
   {
@@ -1346,7 +1346,7 @@
     "Name": "Animal staff",
     "Grade": "N",
     "Category": "Staff",
-    "Price": "90 gp",
+    "Price": 90,
     "Page": "592"
   },
   {
@@ -1355,7 +1355,7 @@
     "Name": "Mentalist’s staff",
     "Grade": "N",
     "Category": "Staff",
-    "Price": "90 gp",
+    "Price": 90,
     "Page": "592"
   },
   {
@@ -1364,7 +1364,7 @@
     "Name": "Staff of healing",
     "Grade": "N",
     "Category": "Staff",
-    "Price": "90 gp",
+    "Price": 90,
     "Page": "594"
   },
   {
@@ -1373,7 +1373,7 @@
     "Name": "Wand of widening 1st",
     "Grade": "N",
     "Category": "Wand",
-    "Price": "100 gp",
+    "Price": 100,
     "Page": "598"
   },
   {
@@ -1382,7 +1382,7 @@
     "Name": "+1 striking weapon",
     "Grade": "N",
     "Category": "Weapon",
-    "Price": "100 gp",
+    "Price": 100,
     "Page": "599"
   },
   {
@@ -1391,7 +1391,7 @@
     "Name": "Alchemist goggles",
     "Grade": "N",
     "Category": "Worn",
-    "Price": "100 gp",
+    "Price": 100,
     "Page": "605"
   },
   {
@@ -1400,7 +1400,7 @@
     "Name": "+1 striking handwraps of mighty blows",
     "Grade": "N",
     "Category": "Worn",
-    "Price": "100 gp",
+    "Price": 100,
     "Page": "611"
   },
   {
@@ -1409,7 +1409,7 @@
     "Name": "Demon mask",
     "Grade": "N",
     "Category": "Worn",
-    "Price": "85 gp",
+    "Price": 85,
     "Page": "609"
   },
   {
@@ -1418,7 +1418,7 @@
     "Name": "Healer’s gloves",
     "Grade": "N",
     "Category": "Worn",
-    "Price": "80 gp",
+    "Price": 80,
     "Page": "612"
   },
   {
@@ -1427,7 +1427,7 @@
     "Name": "Lifting belt",
     "Grade": "N",
     "Category": "Worn",
-    "Price": "80 gp",
+    "Price": 80,
     "Page": "613"
   },
   {
@@ -1436,7 +1436,7 @@
     "Name": "Spellstrike ammunition 2nd",
     "Grade": "N",
     "Category": "Ammunition",
-    "Price": "30 gp",
+    "Price": 30,
     "Page": "560"
   },
   {
@@ -1445,7 +1445,7 @@
     "Name": "Cheetah’s elixir, moderate",
     "Grade": "N",
     "Category": "Elixir",
-    "Price": "25 gp",
+    "Price": 25,
     "Page": "547"
   },
   {
@@ -1454,7 +1454,7 @@
     "Name": "Eagle-eye elixir, moderate",
     "Grade": "N",
     "Category": "Elixir",
-    "Price": "27 gp",
+    "Price": 27,
     "Page": "548"
   },
   {
@@ -1463,7 +1463,7 @@
     "Name": "Elixir of life, lesser",
     "Grade": "N",
     "Category": "Elixir",
-    "Price": "30 gp",
+    "Price": 30,
     "Page": "548"
   },
   {
@@ -1472,7 +1472,7 @@
     "Name": "Sea touch elixir, lesser",
     "Grade": "N",
     "Category": "Elixir",
-    "Price": "22 gp",
+    "Price": 22,
     "Page": "549"
   },
   {
@@ -1481,7 +1481,7 @@
     "Name": "Salve of slipperiness",
     "Grade": "N",
     "Category": "Oil",
-    "Price": "25 gp",
+    "Price": 25,
     "Page": "562"
   },
   {
@@ -1490,7 +1490,7 @@
     "Name": "Hunting spider venom",
     "Grade": "N",
     "Category": "Poison",
-    "Price": "25 gp",
+    "Price": 25,
     "Page": "552"
   },
   {
@@ -1499,7 +1499,7 @@
     "Name": "Potion of leaping",
     "Grade": "N",
     "Category": "Potion",
-    "Price": "21 gp",
+    "Price": 21,
     "Page": "563"
   },
   {
@@ -1508,7 +1508,7 @@
     "Name": "Scroll of 3rd-level spell",
     "Grade": "N",
     "Category": "Scroll",
-    "Price": "30 gp",
+    "Price": 30,
     "Page": "565"
   },
   {
@@ -1517,7 +1517,7 @@
     "Name": "Emerald grasshopper",
     "Grade": "N",
     "Category": "Talisman",
-    "Price": "30 gp",
+    "Price": 30,
     "Page": "566"
   },
   {
@@ -1526,7 +1526,7 @@
     "Name": "Shark tooth charm",
     "Grade": "N",
     "Category": "Talisman",
-    "Price": "23 gp",
+    "Price": 23,
     "Page": "569"
   },
   {
@@ -1535,7 +1535,7 @@
     "Name": "Sneaky key",
     "Grade": "N",
     "Category": "Talisman",
-    "Price": "22 gp",
+    "Price": 22,
     "Page": "569"
   },
   {
@@ -1544,7 +1544,7 @@
     "Name": "Tiger menuki",
     "Grade": "N",
     "Category": "Talisman",
-    "Price": "30 gp",
+    "Price": 30,
     "Page": "569"
   },
   {
@@ -1553,7 +1553,7 @@
     "Name": "+1 armor",
     "Grade": "N",
     "Category": "Armor",
-    "Price": "160 gp",
+    "Price": 160,
     "Page": "556"
   },
   {
@@ -1562,7 +1562,7 @@
     "Name": "Cold iron armor, low-grade",
     "Grade": "N",
     "Category": "Armor",
-    "Price": "140 gp",
+    "Price": 140,
     "Page": "555"
   },
   {
@@ -1571,7 +1571,7 @@
     "Name": "Silver armor, low-grade",
     "Grade": "N",
     "Category": "Armor",
-    "Price": "140 gp",
+    "Price": 140,
     "Page": "556"
   },
   {
@@ -1580,7 +1580,7 @@
     "Name": "Holy prayer beads",
     "Grade": "U",
     "Category": "Held",
-    "Price": "160 gp",
+    "Price": 160,
     "Page": "573"
   },
   {
@@ -1589,7 +1589,7 @@
     "Name": "Skeleton key",
     "Grade": "N",
     "Category": "Held",
-    "Price": "125 gp",
+    "Price": 125,
     "Page": "575"
   },
   {
@@ -1598,7 +1598,7 @@
     "Name": "+1 armor potency",
     "Grade": "N",
     "Category": "Rune",
-    "Price": "160 gp",
+    "Price": 160,
     "Page": "581"
   },
   {
@@ -1607,7 +1607,7 @@
     "Name": "Glamered",
     "Grade": "N",
     "Category": "Rune",
-    "Price": "140 gp",
+    "Price": 140,
     "Page": "583"
   },
   {
@@ -1616,7 +1616,7 @@
     "Name": "Disrupting",
     "Grade": "N",
     "Category": "Rune",
-    "Price": "150 gp",
+    "Price": 150,
     "Page": "584"
   },
   {
@@ -1625,7 +1625,7 @@
     "Name": "Shadow",
     "Grade": "N",
     "Category": "Rune",
-    "Price": "55 gp",
+    "Price": 55,
     "Page": "583"
   },
   {
@@ -1634,7 +1634,7 @@
     "Name": "Slick",
     "Grade": "N",
     "Category": "Rune",
-    "Price": "45 gp",
+    "Price": 45,
     "Page": "583"
   },
   {
@@ -1643,7 +1643,7 @@
     "Name": "Pocket stage",
     "Grade": "N",
     "Category": "Structure",
-    "Price": "138 gp",
+    "Price": 138,
     "Page": "596"
   },
   {
@@ -1652,7 +1652,7 @@
     "Name": "Wand of 2nd-level spell",
     "Grade": "N",
     "Category": "Wand",
-    "Price": "160 gp",
+    "Price": 160,
     "Page": "597"
   },
   {
@@ -1661,7 +1661,7 @@
     "Name": "Wand of continuation 1st",
     "Grade": "N",
     "Category": "Wand",
-    "Price": "160 gp",
+    "Price": 160,
     "Page": "598"
   },
   {
@@ -1670,7 +1670,7 @@
     "Name": "Wand of manifold missiles 1st",
     "Grade": "N",
     "Category": "Wand",
-    "Price": "160 gp",
+    "Price": 160,
     "Page": "598"
   },
   {
@@ -1679,7 +1679,7 @@
     "Name": "Caterwaul sling",
     "Grade": "N",
     "Category": "Weapon",
-    "Price": "155 gp",
+    "Price": 155,
     "Page": "600"
   },
   {
@@ -1688,7 +1688,7 @@
     "Name": "Dagger of venom",
     "Grade": "N",
     "Category": "Weapon",
-    "Price": "150 gp",
+    "Price": 150,
     "Page": "600"
   },
   {
@@ -1697,7 +1697,7 @@
     "Name": "Boots of elvenkind",
     "Grade": "N",
     "Category": "Worn",
-    "Price": "145 gp",
+    "Price": 145,
     "Page": "606"
   },
   {
@@ -1706,7 +1706,7 @@
     "Name": "Diplomat’s badge",
     "Grade": "N",
     "Category": "Worn",
-    "Price": "125 gp",
+    "Price": 125,
     "Page": "609"
   },
   {
@@ -1715,7 +1715,7 @@
     "Name": "Goggles of night",
     "Grade": "N",
     "Category": "Worn",
-    "Price": "150 gp",
+    "Price": 150,
     "Page": "610"
   },
   {
@@ -1724,7 +1724,7 @@
     "Name": "Necklace of fireballs type I",
     "Grade": "N",
     "Category": "Worn",
-    "Price": "44 gp",
+    "Price": 44,
     "Page": "613"
   },
   {
@@ -1733,7 +1733,7 @@
     "Name": "Dust of appearance",
     "Grade": "N",
     "Category": "Consumable",
-    "Price": "50 gp",
+    "Price": 50,
     "Page": "570"
   },
   {
@@ -1742,7 +1742,7 @@
     "Name": "Feather token, tree",
     "Grade": "N",
     "Category": "Consumable",
-    "Price": "38 gp",
+    "Price": 38,
     "Page": "570"
   },
   {
@@ -1751,7 +1751,7 @@
     "Name": "Antidote, moderate",
     "Grade": "N",
     "Category": "Elixir",
-    "Price": "35 gp",
+    "Price": 35,
     "Page": "546"
   },
   {
@@ -1760,7 +1760,7 @@
     "Name": "Antiplague, moderate",
     "Grade": "N",
     "Category": "Elixir",
-    "Price": "35 gp",
+    "Price": 35,
     "Page": "546"
   },
   {
@@ -1769,7 +1769,7 @@
     "Name": "Mistform elixir, moderate",
     "Grade": "N",
     "Category": "Elixir",
-    "Price": "56 gp",
+    "Price": 56,
     "Page": "549"
   },
   {
@@ -1778,7 +1778,7 @@
     "Name": "Oil of weightlessness, greater",
     "Grade": "N",
     "Category": "Oil",
-    "Price": "36 gp",
+    "Price": 36,
     "Page": "562"
   },
   {
@@ -1787,7 +1787,7 @@
     "Name": "Salve of antiparalysis",
     "Grade": "N",
     "Category": "Oil",
-    "Price": "40 gp",
+    "Price": 40,
     "Page": "562"
   },
   {
@@ -1796,7 +1796,7 @@
     "Name": "Giant scorpion venom",
     "Grade": "N",
     "Category": "Poison",
-    "Price": "40 gp",
+    "Price": 40,
     "Page": "551"
   },
   {
@@ -1805,7 +1805,7 @@
     "Name": "Healing potion, moderate",
     "Grade": "N",
     "Category": "Potion",
-    "Price": "50 gp",
+    "Price": 50,
     "Page": "563"
   },
   {
@@ -1814,7 +1814,7 @@
     "Name": "Potion of resistance, lesser",
     "Grade": "N",
     "Category": "Potion",
-    "Price": "45 gp",
+    "Price": 45,
     "Page": "563"
   },
   {
@@ -1823,7 +1823,7 @@
     "Name": "Potion of swimming",
     "Grade": "N",
     "Category": "Potion",
-    "Price": "50 gp",
+    "Price": 50,
     "Page": "563"
   },
   {
@@ -1832,7 +1832,7 @@
     "Name": "Truth potion",
     "Grade": "U",
     "Category": "Potion",
-    "Price": "46 gp",
+    "Price": 46,
     "Page": "564"
   },
   {
@@ -1841,7 +1841,7 @@
     "Name": "Iron cube",
     "Grade": "N",
     "Category": "Talisman",
-    "Price": "50 gp",
+    "Price": 50,
     "Page": "567"
   },
   {
@@ -1850,7 +1850,7 @@
     "Name": "Ghoul hide",
     "Grade": "U",
     "Category": "Armor",
-    "Price": "220 gp",
+    "Price": 220,
     "Page": "558"
   },
   {
@@ -1859,7 +1859,7 @@
     "Name": "Chime of opening",
     "Grade": "U",
     "Category": "Held",
-    "Price": "235 gp",
+    "Price": 235,
     "Page": "572"
   },
   {
@@ -1868,7 +1868,7 @@
     "Name": "Horn of fog",
     "Grade": "N",
     "Category": "Held",
-    "Price": "230 gp",
+    "Price": 230,
     "Page": "573"
   },
   {
@@ -1877,7 +1877,7 @@
     "Name": "Primeval mistletoe",
     "Grade": "N",
     "Category": "Held",
-    "Price": "230 gp",
+    "Price": 230,
     "Page": "574"
   },
   {
@@ -1886,7 +1886,7 @@
     "Name": "Traveler’s any-tool",
     "Grade": "N",
     "Category": "Held",
-    "Price": "200 gp",
+    "Price": 200,
     "Page": "576"
   },
   {
@@ -1895,7 +1895,7 @@
     "Name": "Shifting",
     "Grade": "N",
     "Category": "Rune",
-    "Price": "225 gp",
+    "Price": 225,
     "Page": "585"
   },
   {
@@ -1904,7 +1904,7 @@
     "Name": "Lion’s shield",
     "Grade": "N",
     "Category": "Shield",
-    "Price": "245 gp",
+    "Price": 245,
     "Page": "588"
   },
   {
@@ -1913,7 +1913,7 @@
     "Name": "Spellguard shield",
     "Grade": "N",
     "Category": "Shield",
-    "Price": "250 gp",
+    "Price": 250,
     "Page": "588"
   },
   {
@@ -1922,7 +1922,7 @@
     "Name": "Staff of abjuration",
     "Grade": "N",
     "Category": "Staff",
-    "Price": "230 gp",
+    "Price": 230,
     "Page": "593"
   },
   {
@@ -1931,7 +1931,7 @@
     "Name": "Staff of conjuration",
     "Grade": "N",
     "Category": "Staff",
-    "Price": "230 gp",
+    "Price": 230,
     "Page": "593"
   },
   {
@@ -1940,7 +1940,7 @@
     "Name": "Staff of divination",
     "Grade": "N",
     "Category": "Staff",
-    "Price": "230 gp",
+    "Price": 230,
     "Page": "593"
   },
   {
@@ -1949,7 +1949,7 @@
     "Name": "Staff of enchantment",
     "Grade": "N",
     "Category": "Staff",
-    "Price": "230 gp",
+    "Price": 230,
     "Page": "593"
   },
   {
@@ -1958,7 +1958,7 @@
     "Name": "Staff of evocation",
     "Grade": "N",
     "Category": "Staff",
-    "Price": "230 gp",
+    "Price": 230,
     "Page": "593"
   },
   {
@@ -1967,7 +1967,7 @@
     "Name": "Staff of illusion",
     "Grade": "N",
     "Category": "Staff",
-    "Price": "230 gp",
+    "Price": 230,
     "Page": "594"
   },
   {
@@ -1976,7 +1976,7 @@
     "Name": "Staff of necromancy",
     "Grade": "N",
     "Category": "Staff",
-    "Price": "230 gp",
+    "Price": 230,
     "Page": "594"
   },
   {
@@ -1985,7 +1985,7 @@
     "Name": "Staff of transmutation",
     "Grade": "N",
     "Category": "Staff",
-    "Price": "230 gp",
+    "Price": 230,
     "Page": "595"
   },
   {
@@ -1994,7 +1994,7 @@
     "Name": "Verdant staff",
     "Grade": "N",
     "Category": "Staff",
-    "Price": "225 gp",
+    "Price": 225,
     "Page": "595"
   },
   {
@@ -2003,7 +2003,7 @@
     "Name": "Wand of widening 2nd",
     "Grade": "N",
     "Category": "Wand",
-    "Price": "250 gp",
+    "Price": 250,
     "Page": "598"
   },
   {
@@ -2012,7 +2012,7 @@
     "Name": "Bloodletting kukri",
     "Grade": "U",
     "Category": "Weapon",
-    "Price": "240 gp",
+    "Price": 240,
     "Page": "600"
   },
   {
@@ -2021,7 +2021,7 @@
     "Name": "Twining staff",
     "Grade": "N",
     "Category": "Weapon",
-    "Price": "250 gp",
+    "Price": 250,
     "Page": "602"
   },
   {
@@ -2030,7 +2030,7 @@
     "Name": "Aeon stone, gold nodule",
     "Grade": "U",
     "Category": "Worn",
-    "Price": "230 gp",
+    "Price": 230,
     "Page": "604"
   },
   {
@@ -2039,7 +2039,7 @@
     "Name": "Choker of elocution",
     "Grade": "N",
     "Category": "Worn",
-    "Price": "200 gp",
+    "Price": 200,
     "Page": "608"
   },
   {
@@ -2048,7 +2048,7 @@
     "Name": "Clandestine cloak",
     "Grade": "U",
     "Category": "Worn",
-    "Price": "230 gp",
+    "Price": 230,
     "Page": "608"
   },
   {
@@ -2057,7 +2057,7 @@
     "Name": "Ring of energy resistance",
     "Grade": "N",
     "Category": "Worn",
-    "Price": "245 gp",
+    "Price": 245,
     "Page": "614"
   },
   {
@@ -2066,7 +2066,7 @@
     "Name": "Ring of the ram",
     "Grade": "N",
     "Category": "Worn",
-    "Price": "220 gp",
+    "Price": 220,
     "Page": "615"
   },
   {
@@ -2075,7 +2075,7 @@
     "Name": "Spellstrike ammunition 3rd",
     "Grade": "N",
     "Category": "Ammunition",
-    "Price": "70 gp",
+    "Price": 70,
     "Page": "560"
   },
   {
@@ -2084,7 +2084,7 @@
     "Name": "Feather token, anchor",
     "Grade": "N",
     "Category": "Consumable",
-    "Price": "55 gp",
+    "Price": 55,
     "Page": "570"
   },
   {
@@ -2093,7 +2093,7 @@
     "Name": "Comprehension elixir, greater",
     "Grade": "N",
     "Category": "Elixir",
-    "Price": "54 gp",
+    "Price": 54,
     "Page": "547"
   },
   {
@@ -2102,7 +2102,7 @@
     "Name": "Leaper’s elixir, greater",
     "Grade": "N",
     "Category": "Elixir",
-    "Price": "55 gp",
+    "Price": 55,
     "Page": "549"
   },
   {
@@ -2111,7 +2111,7 @@
     "Name": "Giant wasp venom",
     "Grade": "N",
     "Category": "Poison",
-    "Price": "55 gp",
+    "Price": 55,
     "Page": "552"
   },
   {
@@ -2120,7 +2120,7 @@
     "Name": "Malyass root paste",
     "Grade": "N",
     "Category": "Poison",
-    "Price": "55 gp",
+    "Price": 55,
     "Page": "552"
   },
   {
@@ -2129,7 +2129,7 @@
     "Name": "Dragon’s breath potion, young",
     "Grade": "N",
     "Category": "Potion",
-    "Price": "70 gp",
+    "Price": 70,
     "Page": "562"
   },
   {
@@ -2138,7 +2138,7 @@
     "Name": "Serum of sex shift",
     "Grade": "N",
     "Category": "Potion",
-    "Price": "60 gp",
+    "Price": 60,
     "Page": "564"
   },
   {
@@ -2147,7 +2147,7 @@
     "Name": "Scroll of 4th-level spell",
     "Grade": "N",
     "Category": "Scroll",
-    "Price": "70 gp",
+    "Price": 70,
     "Page": "565"
   },
   {
@@ -2156,7 +2156,7 @@
     "Name": "Grim trophy",
     "Grade": "N",
     "Category": "Talisman",
-    "Price": "55 gp",
+    "Price": 55,
     "Page": "567"
   },
   {
@@ -2165,7 +2165,7 @@
     "Name": "Murderer’s knot",
     "Grade": "N",
     "Category": "Talisman",
-    "Price": "66 gp",
+    "Price": 66,
     "Page": "568"
   },
   {
@@ -2174,7 +2174,7 @@
     "Name": "Swift block cabochon",
     "Grade": "U",
     "Category": "Talisman",
-    "Price": "70 gp",
+    "Price": 70,
     "Page": "569"
   },
   {
@@ -2183,7 +2183,7 @@
     "Name": "Smokestick, greater",
     "Grade": "N",
     "Category": "Tool",
-    "Price": "53 gp",
+    "Price": 53,
     "Page": "554"
   },
   {
@@ -2192,7 +2192,7 @@
     "Name": "Moonlit chain",
     "Grade": "N",
     "Category": "Armor",
-    "Price": "360 gp",
+    "Price": 360,
     "Page": "558"
   },
   {
@@ -2201,7 +2201,7 @@
     "Name": "Horseshoes of speed",
     "Grade": "N",
     "Category": "Companion",
-    "Price": "340 gp",
+    "Price": 340,
     "Page": "604"
   },
   {
@@ -2210,7 +2210,7 @@
     "Name": "Bag of holding type II",
     "Grade": "N",
     "Category": "Held",
-    "Price": "300 gp",
+    "Price": 300,
     "Page": "572"
   },
   {
@@ -2219,7 +2219,7 @@
     "Name": "Bottled air",
     "Grade": "N",
     "Category": "Held",
-    "Price": "320 gp",
+    "Price": 320,
     "Page": "572"
   },
   {
@@ -2228,7 +2228,7 @@
     "Name": "Decanter of endless water",
     "Grade": "N",
     "Category": "Held",
-    "Price": "320 gp",
+    "Price": 320,
     "Page": "573"
   },
   {
@@ -2237,7 +2237,7 @@
     "Name": "Wondrous figurine, jade serpent",
     "Grade": "N",
     "Category": "Held",
-    "Price": "340 gp",
+    "Price": 340,
     "Page": "576"
   },
   {
@@ -2246,7 +2246,7 @@
     "Name": "Wounding",
     "Grade": "N",
     "Category": "Rune",
-    "Price": "340 gp",
+    "Price": 340,
     "Page": "585"
   },
   {
@@ -2255,7 +2255,7 @@
     "Name": "Cold iron buckler, standard-grade",
     "Grade": "N",
     "Category": "Shield",
-    "Price": "300 gp",
+    "Price": 300,
     "Page": "586"
   },
   {
@@ -2264,7 +2264,7 @@
     "Name": "Cold iron shield, standard-grade",
     "Grade": "N",
     "Category": "Shield",
-    "Price": "340 gp",
+    "Price": 340,
     "Page": "586"
   },
   {
@@ -2273,7 +2273,7 @@
     "Name": "Silver buckler, standard-grade",
     "Grade": "N",
     "Category": "Shield",
-    "Price": "300 gp",
+    "Price": 300,
     "Page": "587"
   },
   {
@@ -2282,7 +2282,7 @@
     "Name": "Silver shield, standard-grade",
     "Grade": "N",
     "Category": "Shield",
-    "Price": "340 gp",
+    "Price": 340,
     "Page": "587"
   },
   {
@@ -2291,7 +2291,7 @@
     "Name": "Spined shield",
     "Grade": "N",
     "Category": "Shield",
-    "Price": "360 gp",
+    "Price": 360,
     "Page": "588"
   },
   {
@@ -2300,7 +2300,7 @@
     "Name": "Sturdy shield, lesser",
     "Grade": "N",
     "Category": "Shield",
-    "Price": "360 gp",
+    "Price": 360,
     "Page": "588"
   },
   {
@@ -2309,7 +2309,7 @@
     "Name": "Wand of 3rd-level spell",
     "Grade": "N",
     "Category": "Wand",
-    "Price": "360 gp",
+    "Price": 360,
     "Page": "597"
   },
   {
@@ -2318,7 +2318,7 @@
     "Name": "Wand of continuation 2nd",
     "Grade": "N",
     "Category": "Wand",
-    "Price": "360 gp",
+    "Price": 360,
     "Page": "598"
   },
   {
@@ -2327,7 +2327,7 @@
     "Name": "Aeon stone, clear spindle",
     "Grade": "U",
     "Category": "Worn",
-    "Price": "325 gp",
+    "Price": 325,
     "Page": "604"
   },
   {
@@ -2336,7 +2336,7 @@
     "Name": "Aeon stone, tourmaline sphere",
     "Grade": "U",
     "Category": "Worn",
-    "Price": "350 gp",
+    "Price": 350,
     "Page": "604"
   },
   {
@@ -2345,7 +2345,7 @@
     "Name": "Boots of bounding",
     "Grade": "N",
     "Category": "Worn",
-    "Price": "340 gp",
+    "Price": 340,
     "Page": "606"
   },
   {
@@ -2354,7 +2354,7 @@
     "Name": "Cloak of elvenkind",
     "Grade": "N",
     "Category": "Worn",
-    "Price": "360 gp",
+    "Price": 360,
     "Page": "608"
   },
   {
@@ -2363,7 +2363,7 @@
     "Name": "Gloves of storing",
     "Grade": "U",
     "Category": "Worn",
-    "Price": "340 gp",
+    "Price": 340,
     "Page": "610"
   },
   {
@@ -2372,7 +2372,7 @@
     "Name": "Hat of disguise, greater",
     "Grade": "N",
     "Category": "Worn",
-    "Price": "340 gp",
+    "Price": 340,
     "Page": "611"
   },
   {
@@ -2381,7 +2381,7 @@
     "Name": "Necklace of fireballs type II",
     "Grade": "N",
     "Category": "Worn",
-    "Price": "115 gp",
+    "Price": 115,
     "Page": "613"
   },
   {
@@ -2390,7 +2390,7 @@
     "Name": "Ring of sustenance",
     "Grade": "U",
     "Category": "Worn",
-    "Price": "325 gp",
+    "Price": 325,
     "Page": "615"
   },
   {
@@ -2399,7 +2399,7 @@
     "Name": "Ring of wizardry type I",
     "Grade": "U",
     "Category": "Worn",
-    "Price": "360 gp",
+    "Price": 360,
     "Page": "615"
   },
   {
@@ -2408,7 +2408,7 @@
     "Name": "Slippers of spider climbing",
     "Grade": "N",
     "Category": "Worn",
-    "Price": "325 gp",
+    "Price": 325,
     "Page": "616"
   },
   {
@@ -2417,7 +2417,7 @@
     "Name": "Candle of truth",
     "Grade": "U",
     "Category": "Consumable",
-    "Price": "75 gp",
+    "Price": 75,
     "Page": "570"
   },
   {
@@ -2426,7 +2426,7 @@
     "Name": "Feather token, swan boat",
     "Grade": "N",
     "Category": "Consumable",
-    "Price": "76 gp",
+    "Price": 76,
     "Page": "570"
   },
   {
@@ -2435,7 +2435,7 @@
     "Name": "Darkvision elixir, greater",
     "Grade": "N",
     "Category": "Elixir",
-    "Price": "90 gp",
+    "Price": 90,
     "Page": "547"
   },
   {
@@ -2444,7 +2444,7 @@
     "Name": "Nettleweed residue",
     "Grade": "N",
     "Category": "Poison",
-    "Price": "75 gp",
+    "Price": 75,
     "Page": "553"
   },
   {
@@ -2453,7 +2453,7 @@
     "Name": "Wyvern poison",
     "Grade": "N",
     "Category": "Poison",
-    "Price": "80 gp",
+    "Price": 80,
     "Page": "554"
   },
   {
@@ -2462,7 +2462,7 @@
     "Name": "Potion of flying",
     "Grade": "N",
     "Category": "Potion",
-    "Price": "100 gp",
+    "Price": 100,
     "Page": "563"
   },
   {
@@ -2471,7 +2471,7 @@
     "Name": "Potion of quickness",
     "Grade": "N",
     "Category": "Potion",
-    "Price": "90 gp",
+    "Price": 90,
     "Page": "563"
   },
   {
@@ -2480,7 +2480,7 @@
     "Name": "Shrinking potion, greater",
     "Grade": "N",
     "Category": "Potion",
-    "Price": "90 gp",
+    "Price": 90,
     "Page": "564"
   },
   {
@@ -2489,7 +2489,7 @@
     "Name": "Bomb snare",
     "Grade": "N",
     "Category": "Snare",
-    "Price": "75 gp",
+    "Price": 75,
     "Page": "589"
   },
   {
@@ -2498,7 +2498,7 @@
     "Name": "Grasping snare",
     "Grade": "U",
     "Category": "Snare",
-    "Price": "75 gp",
+    "Price": 75,
     "Page": "590"
   },
   {
@@ -2507,7 +2507,7 @@
     "Name": "Striking snare",
     "Grade": "N",
     "Category": "Snare",
-    "Price": "75 gp",
+    "Price": 75,
     "Page": "591"
   },
   {
@@ -2516,7 +2516,7 @@
     "Name": "Gallows tooth",
     "Grade": "N",
     "Category": "Talisman",
-    "Price": "100 gp",
+    "Price": 100,
     "Page": "567"
   },
   {
@@ -2525,7 +2525,7 @@
     "Name": "Jade bauble",
     "Grade": "N",
     "Category": "Talisman",
-    "Price": "100 gp",
+    "Price": 100,
     "Page": "568"
   },
   {
@@ -2534,7 +2534,7 @@
     "Name": "+1 resilient armor",
     "Grade": "N",
     "Category": "Armor",
-    "Price": "500 gp",
+    "Price": 500,
     "Page": "556"
   },
   {
@@ -2543,7 +2543,7 @@
     "Name": "Collar of inconspicuousness",
     "Grade": "N",
     "Category": "Companion",
-    "Price": "475 gp",
+    "Price": 475,
     "Page": "604"
   },
   {
@@ -2552,7 +2552,7 @@
     "Name": "Rod of wonder",
     "Grade": "R",
     "Category": "Held",
-    "Price": "465 gp",
+    "Price": 465,
     "Page": "575"
   },
   {
@@ -2561,7 +2561,7 @@
     "Name": "Corrosive",
     "Grade": "N",
     "Category": "Rune",
-    "Price": "500 gp",
+    "Price": 500,
     "Page": "583"
   },
   {
@@ -2570,7 +2570,7 @@
     "Name": "Energy-resistant",
     "Grade": "N",
     "Category": "Rune",
-    "Price": "420 gp",
+    "Price": 420,
     "Page": "582"
   },
   {
@@ -2579,7 +2579,7 @@
     "Name": "Flaming",
     "Grade": "N",
     "Category": "Rune",
-    "Price": "500 gp",
+    "Price": 500,
     "Page": "584"
   },
   {
@@ -2588,7 +2588,7 @@
     "Name": "Frost",
     "Grade": "N",
     "Category": "Rune",
-    "Price": "500 gp",
+    "Price": 500,
     "Page": "584"
   },
   {
@@ -2597,7 +2597,7 @@
     "Name": "Invisibility",
     "Grade": "N",
     "Category": "Rune",
-    "Price": "500 gp",
+    "Price": 500,
     "Page": "583"
   },
   {
@@ -2606,7 +2606,7 @@
     "Name": "Resilient",
     "Grade": "N",
     "Category": "Rune",
-    "Price": "340 gp",
+    "Price": 340,
     "Page": "581"
   },
   {
@@ -2615,7 +2615,7 @@
     "Name": "Shock",
     "Grade": "N",
     "Category": "Rune",
-    "Price": "500 gp",
+    "Price": 500,
     "Page": "585"
   },
   {
@@ -2624,7 +2624,7 @@
     "Name": "Slick, greater",
     "Grade": "N",
     "Category": "Rune",
-    "Price": "450 gp",
+    "Price": 450,
     "Page": "583"
   },
   {
@@ -2633,7 +2633,7 @@
     "Name": "Thundering",
     "Grade": "N",
     "Category": "Rune",
-    "Price": "500 gp",
+    "Price": 500,
     "Page": "585"
   },
   {
@@ -2642,7 +2642,7 @@
     "Name": "Adamantine buckler, standard-grade",
     "Grade": "U",
     "Category": "Shield",
-    "Price": "400 gp",
+    "Price": 400,
     "Page": "586"
   },
   {
@@ -2651,7 +2651,7 @@
     "Name": "Adamantine shield, standard-grade",
     "Grade": "U",
     "Category": "Shield",
-    "Price": "440 gp",
+    "Price": 440,
     "Page": "586"
   },
   {
@@ -2660,7 +2660,7 @@
     "Name": "Darkwood buckler, standard-grade",
     "Grade": "U",
     "Category": "Shield",
-    "Price": "400 gp",
+    "Price": 400,
     "Page": "586"
   },
   {
@@ -2669,7 +2669,7 @@
     "Name": "Darkwood shield, standard-grade",
     "Grade": "U",
     "Category": "Shield",
-    "Price": "440 gp",
+    "Price": 440,
     "Page": "586"
   },
   {
@@ -2678,7 +2678,7 @@
     "Name": "Darkwood tower shield, standard-grade",
     "Grade": "U",
     "Category": "Shield",
-    "Price": "560 gp",
+    "Price": 560,
     "Page": "586"
   },
   {
@@ -2687,7 +2687,7 @@
     "Name": "Dragonhide buckler, standard-grade",
     "Grade": "U",
     "Category": "Shield",
-    "Price": "400 gp",
+    "Price": 400,
     "Page": "586"
   },
   {
@@ -2696,7 +2696,7 @@
     "Name": "Dragonhide shield, standard-grade",
     "Grade": "U",
     "Category": "Shield",
-    "Price": "440 gp",
+    "Price": 440,
     "Page": "586"
   },
   {
@@ -2705,7 +2705,7 @@
     "Name": "Mithral buckler, standard-grade",
     "Grade": "U",
     "Category": "Shield",
-    "Price": "400 gp",
+    "Price": 400,
     "Page": "586"
   },
   {
@@ -2714,7 +2714,7 @@
     "Name": "Mithral shield, standard-grade",
     "Grade": "U",
     "Category": "Shield",
-    "Price": "440 gp",
+    "Price": 440,
     "Page": "586"
   },
   {
@@ -2723,7 +2723,7 @@
     "Name": "Animal staff, greater",
     "Grade": "N",
     "Category": "Staff",
-    "Price": "460 gp",
+    "Price": 460,
     "Page": "592"
   },
   {
@@ -2732,7 +2732,7 @@
     "Name": "Mentalist’s staff, greater",
     "Grade": "N",
     "Category": "Staff",
-    "Price": "450 gp",
+    "Price": 450,
     "Page": "592"
   },
   {
@@ -2741,7 +2741,7 @@
     "Name": "Staff of fire, greater",
     "Grade": "N",
     "Category": "Staff",
-    "Price": "450 gp",
+    "Price": 450,
     "Page": "594"
   },
   {
@@ -2750,7 +2750,7 @@
     "Name": "Staff of healing, greater",
     "Grade": "N",
     "Category": "Staff",
-    "Price": "470 gp",
+    "Price": 470,
     "Page": "594"
   },
   {
@@ -2759,7 +2759,7 @@
     "Name": "Staff of illumination",
     "Grade": "N",
     "Category": "Staff",
-    "Price": "425 gp",
+    "Price": 425,
     "Page": "594"
   },
   {
@@ -2768,7 +2768,7 @@
     "Name": "Wand of smoldering fireballs 3rd",
     "Grade": "N",
     "Category": "Wand",
-    "Price": "500 gp",
+    "Price": 500,
     "Page": "598"
   },
   {
@@ -2777,7 +2777,7 @@
     "Name": "Wand of widening 3rd",
     "Grade": "N",
     "Category": "Wand",
-    "Price": "500 gp",
+    "Price": 500,
     "Page": "598"
   },
   {
@@ -2786,7 +2786,7 @@
     "Name": "Bracers of armor type I",
     "Grade": "N",
     "Category": "Worn",
-    "Price": "450 gp",
+    "Price": 450,
     "Page": "607"
   },
   {
@@ -2795,7 +2795,7 @@
     "Name": "Explosive ammunition",
     "Grade": "N",
     "Category": "Ammunition",
-    "Price": "130 gp",
+    "Price": 130,
     "Page": "559"
   },
   {
@@ -2804,7 +2804,7 @@
     "Name": "Spellstrike ammunition 4th",
     "Grade": "N",
     "Category": "Ammunition",
-    "Price": "150 gp",
+    "Price": 150,
     "Page": "560"
   },
   {
@@ -2813,7 +2813,7 @@
     "Name": "Storm arrow",
     "Grade": "N",
     "Category": "Ammunition",
-    "Price": "130 gp",
+    "Price": 130,
     "Page": "560"
   },
   {
@@ -2822,7 +2822,7 @@
     "Name": "Dust of disappearance",
     "Grade": "U",
     "Category": "Consumable",
-    "Price": "135 gp",
+    "Price": 135,
     "Page": "570"
   },
   {
@@ -2831,7 +2831,7 @@
     "Name": "Feather token, whip",
     "Grade": "N",
     "Category": "Consumable",
-    "Price": "130 gp",
+    "Price": 130,
     "Page": "570"
   },
   {
@@ -2840,7 +2840,7 @@
     "Name": "Javelin of lightning",
     "Grade": "N",
     "Category": "Consumable",
-    "Price": "110 gp",
+    "Price": 110,
     "Page": "571"
   },
   {
@@ -2849,7 +2849,7 @@
     "Name": "Cheetah’s elixir, greater",
     "Grade": "N",
     "Category": "Elixir",
-    "Price": "110 gp",
+    "Price": 110,
     "Page": "547"
   },
   {
@@ -2858,7 +2858,7 @@
     "Name": "Elixir of life, moderate",
     "Grade": "N",
     "Category": "Elixir",
-    "Price": "150 gp",
+    "Price": 150,
     "Page": "548"
   },
   {
@@ -2867,7 +2867,7 @@
     "Name": "Aligned oil",
     "Grade": "N",
     "Category": "Oil",
-    "Price": "140 gp",
+    "Price": 140,
     "Page": "561"
   },
   {
@@ -2876,7 +2876,7 @@
     "Name": "Lich dust",
     "Grade": "N",
     "Category": "Poison",
-    "Price": "110 gp",
+    "Price": 110,
     "Page": "552"
   },
   {
@@ -2885,7 +2885,7 @@
     "Name": "Spider root",
     "Grade": "N",
     "Category": "Poison",
-    "Price": "110 gp",
+    "Price": 110,
     "Page": "553"
   },
   {
@@ -2894,7 +2894,7 @@
     "Name": "Scroll of 5th-level spell",
     "Grade": "N",
     "Category": "Scroll",
-    "Price": "150 gp",
+    "Price": 150,
     "Page": "565"
   },
   {
@@ -2903,7 +2903,7 @@
     "Name": "Rhino hide",
     "Grade": "N",
     "Category": "Armor",
-    "Price": "700 gp",
+    "Price": 700,
     "Page": "558"
   },
   {
@@ -2912,7 +2912,7 @@
     "Name": "Collar of empathy",
     "Grade": "N",
     "Category": "Companion",
-    "Price": "600 gp",
+    "Price": 600,
     "Page": "604"
   },
   {
@@ -2921,7 +2921,7 @@
     "Name": "Horn of blasting",
     "Grade": "N",
     "Category": "Held",
-    "Price": "700 gp",
+    "Price": 700,
     "Page": "573"
   },
   {
@@ -2930,7 +2930,7 @@
     "Name": "Immovable rod",
     "Grade": "N",
     "Category": "Held",
-    "Price": "600 gp",
+    "Price": 600,
     "Page": "574"
   },
   {
@@ -2939,7 +2939,7 @@
     "Name": "Triton’s conch",
     "Grade": "N",
     "Category": "Held",
-    "Price": "640 gp",
+    "Price": 640,
     "Page": "576"
   },
   {
@@ -2948,7 +2948,7 @@
     "Name": "Grievous",
     "Grade": "N",
     "Category": "Rune",
-    "Price": "700 gp",
+    "Price": 700,
     "Page": "584"
   },
   {
@@ -2957,7 +2957,7 @@
     "Name": "Shadow, greater",
     "Grade": "N",
     "Category": "Rune",
-    "Price": "650 gp",
+    "Price": 650,
     "Page": "583"
   },
   {
@@ -2966,7 +2966,7 @@
     "Name": "Dragonslayer’s shield",
     "Grade": "U",
     "Category": "Shield",
-    "Price": "670 gp",
+    "Price": 670,
     "Page": "587"
   },
   {
@@ -2975,7 +2975,7 @@
     "Name": "Force shield",
     "Grade": "U",
     "Category": "Shield",
-    "Price": "650 gp",
+    "Price": 650,
     "Page": "587"
   },
   {
@@ -2984,7 +2984,7 @@
     "Name": "Wand of 4th-level spell",
     "Grade": "N",
     "Category": "Wand",
-    "Price": "700 gp",
+    "Price": 700,
     "Page": "597"
   },
   {
@@ -2993,7 +2993,7 @@
     "Name": "Wand of continuation 3rd",
     "Grade": "N",
     "Category": "Wand",
-    "Price": "700 gp",
+    "Price": 700,
     "Page": "598"
   },
   {
@@ -3002,7 +3002,7 @@
     "Name": "Wand of manifold missiles 3rd",
     "Grade": "N",
     "Category": "Wand",
-    "Price": "700 gp",
+    "Price": 700,
     "Page": "598"
   },
   {
@@ -3011,7 +3011,7 @@
     "Name": "Gloom blade",
     "Grade": "N",
     "Category": "Weapon",
-    "Price": "700 gp",
+    "Price": 700,
     "Page": "601"
   },
   {
@@ -3020,7 +3020,7 @@
     "Name": "Armbands of athleticism",
     "Grade": "N",
     "Category": "Worn",
-    "Price": "645 gp",
+    "Price": 645,
     "Page": "605"
   },
   {
@@ -3029,7 +3029,7 @@
     "Name": "Belt of the five kings",
     "Grade": "U",
     "Category": "Worn",
-    "Price": "650 gp",
+    "Price": 650,
     "Page": "606"
   },
   {
@@ -3038,7 +3038,7 @@
     "Name": "Bracers of missile deflection, greater",
     "Grade": "N",
     "Category": "Worn",
-    "Price": "650 gp",
+    "Price": 650,
     "Page": "607"
   },
   {
@@ -3047,7 +3047,7 @@
     "Name": "Coyote cloak, greater",
     "Grade": "N",
     "Category": "Worn",
-    "Price": "650 gp",
+    "Price": 650,
     "Page": "609"
   },
   {
@@ -3056,7 +3056,7 @@
     "Name": "Dancing scarf, greater",
     "Grade": "N",
     "Category": "Worn",
-    "Price": "650 gp",
+    "Price": 650,
     "Page": "609"
   },
   {
@@ -3065,7 +3065,7 @@
     "Name": "Eye of the eagle",
     "Grade": "N",
     "Category": "Worn",
-    "Price": "700 gp",
+    "Price": 700,
     "Page": "610"
   },
   {
@@ -3074,7 +3074,7 @@
     "Name": "Hat of the magi, greater",
     "Grade": "N",
     "Category": "Worn",
-    "Price": "650 gp",
+    "Price": 650,
     "Page": "611"
   },
   {
@@ -3083,7 +3083,7 @@
     "Name": "Healer’s gloves, greater",
     "Grade": "N",
     "Category": "Worn",
-    "Price": "700 gp",
+    "Price": 700,
     "Page": "612"
   },
   {
@@ -3092,7 +3092,7 @@
     "Name": "Knapsack of halflingkind",
     "Grade": "U",
     "Category": "Worn",
-    "Price": "675 gp",
+    "Price": 675,
     "Page": "612"
   },
   {
@@ -3101,7 +3101,7 @@
     "Name": "Messenger’s ring",
     "Grade": "N",
     "Category": "Worn",
-    "Price": "700 gp",
+    "Price": 700,
     "Page": "613"
   },
   {
@@ -3110,7 +3110,7 @@
     "Name": "Necklace of fireballs type III",
     "Grade": "N",
     "Category": "Worn",
-    "Price": "300 gp",
+    "Price": 300,
     "Page": "613"
   },
   {
@@ -3119,7 +3119,7 @@
     "Name": "Pendant of the occult, greater",
     "Grade": "N",
     "Category": "Worn",
-    "Price": "650 gp",
+    "Price": 650,
     "Page": "613"
   },
   {
@@ -3128,7 +3128,7 @@
     "Name": "Persona mask, greater",
     "Grade": "N",
     "Category": "Worn",
-    "Price": "650 gp",
+    "Price": 650,
     "Page": "613"
   },
   {
@@ -3137,7 +3137,7 @@
     "Name": "Phylactery of faithfulness",
     "Grade": "N",
     "Category": "Worn",
-    "Price": "680 gp",
+    "Price": 680,
     "Page": "614"
   },
   {
@@ -3146,7 +3146,7 @@
     "Name": "Tracker’s goggles, greater",
     "Grade": "N",
     "Category": "Worn",
-    "Price": "660 gp",
+    "Price": 660,
     "Page": "616"
   },
   {
@@ -3155,7 +3155,7 @@
     "Name": "Ventriloquist’s ring, greater",
     "Grade": "N",
     "Category": "Worn",
-    "Price": "670 gp",
+    "Price": 670,
     "Page": "617"
   },
   {
@@ -3164,7 +3164,7 @@
     "Name": "Elemental gem",
     "Grade": "N",
     "Category": "Consumable",
-    "Price": "200 gp",
+    "Price": 200,
     "Page": "570"
   },
   {
@@ -3173,7 +3173,7 @@
     "Name": "Antidote, greater",
     "Grade": "N",
     "Category": "Elixir",
-    "Price": "160 gp",
+    "Price": 160,
     "Page": "546"
   },
   {
@@ -3182,7 +3182,7 @@
     "Name": "Antiplague, greater",
     "Grade": "N",
     "Category": "Elixir",
-    "Price": "160 gp",
+    "Price": 160,
     "Page": "546"
   },
   {
@@ -3191,7 +3191,7 @@
     "Name": "Bravo’s brew, moderate",
     "Grade": "N",
     "Category": "Elixir",
-    "Price": "150 gp",
+    "Price": 150,
     "Page": "547"
   },
   {
@@ -3200,7 +3200,7 @@
     "Name": "Eagle-eye elixir, greater",
     "Grade": "N",
     "Category": "Elixir",
-    "Price": "200 gp",
+    "Price": 200,
     "Page": "548"
   },
   {
@@ -3209,7 +3209,7 @@
     "Name": "Mistform elixir, greater",
     "Grade": "N",
     "Category": "Elixir",
-    "Price": "180 gp",
+    "Price": 180,
     "Page": "549"
   },
   {
@@ -3218,7 +3218,7 @@
     "Name": "Shadow essence",
     "Grade": "N",
     "Category": "Poison",
-    "Price": "160 gp",
+    "Price": 160,
     "Page": "553"
   },
   {
@@ -3227,7 +3227,7 @@
     "Name": "Wolfsbane",
     "Grade": "N",
     "Category": "Poison",
-    "Price": "155 gp",
+    "Price": 155,
     "Page": "553"
   },
   {
@@ -3236,7 +3236,7 @@
     "Name": "Potion of resistance, moderate",
     "Grade": "N",
     "Category": "Potion",
-    "Price": "180 gp",
+    "Price": 180,
     "Page": "563"
   },
   {
@@ -3245,7 +3245,7 @@
     "Name": "Iron medallion",
     "Grade": "N",
     "Category": "Talisman",
-    "Price": "175 gp",
+    "Price": 175,
     "Page": "568"
   },
   {
@@ -3254,7 +3254,7 @@
     "Name": "Mummified bat",
     "Grade": "N",
     "Category": "Talisman",
-    "Price": "175 gp",
+    "Price": 175,
     "Page": "568"
   },
   {
@@ -3263,7 +3263,7 @@
     "Name": "Vanishing coin",
     "Grade": "N",
     "Category": "Talisman",
-    "Price": "160 gp",
+    "Price": 160,
     "Page": "569"
   },
   {
@@ -3272,7 +3272,7 @@
     "Name": "Breastplate of command",
     "Grade": "N",
     "Category": "Armor",
-    "Price": "1,000 gp",
+    "Price": 1000,
     "Page": "557"
   },
   {
@@ -3281,7 +3281,7 @@
     "Name": "Electric eelskin",
     "Grade": "N",
     "Category": "Armor",
-    "Price": "950 gp",
+    "Price": 950,
     "Page": "557"
   },
   {
@@ -3290,7 +3290,7 @@
     "Name": "Barding of the zephyr",
     "Grade": "N",
     "Category": "Companion",
-    "Price": "900 gp",
+    "Price": 900,
     "Page": "604"
   },
   {
@@ -3299,7 +3299,7 @@
     "Name": "Maestro’s instrument, moderate",
     "Grade": "N",
     "Category": "Held",
-    "Price": "900 gp",
+    "Price": 900,
     "Page": "574"
   },
   {
@@ -3308,7 +3308,7 @@
     "Name": "Thurible of revelation, moderate",
     "Grade": "N",
     "Category": "Held",
-    "Price": "900 gp",
+    "Price": 900,
     "Page": "575"
   },
   {
@@ -3317,7 +3317,7 @@
     "Name": "Wondrous figurine, golden lions",
     "Grade": "N",
     "Category": "Held",
-    "Price": "900 gp",
+    "Price": 900,
     "Page": "576"
   },
   {
@@ -3326,7 +3326,7 @@
     "Name": "+2 weapon potency",
     "Grade": "N",
     "Category": "Rune",
-    "Price": "935 gp",
+    "Price": 935,
     "Page": "581"
   },
   {
@@ -3335,7 +3335,7 @@
     "Name": "Invisibility, greater",
     "Grade": "N",
     "Category": "Rune",
-    "Price": "1,000 gp",
+    "Price": 1000,
     "Page": "583"
   },
   {
@@ -3344,7 +3344,7 @@
     "Name": "Forge warden",
     "Grade": "U",
     "Category": "Shield",
-    "Price": "975 gp",
+    "Price": 975,
     "Page": "587"
   },
   {
@@ -3353,7 +3353,7 @@
     "Name": "Sturdy shield, moderate",
     "Grade": "N",
     "Category": "Shield",
-    "Price": "1,000 gp",
+    "Price": 1000,
     "Page": "588"
   },
   {
@@ -3362,7 +3362,7 @@
     "Name": "Staff of abjuration, greater",
     "Grade": "N",
     "Category": "Staff",
-    "Price": "900 gp",
+    "Price": 900,
     "Page": "593"
   },
   {
@@ -3371,7 +3371,7 @@
     "Name": "Staff of conjuration, greater",
     "Grade": "N",
     "Category": "Staff",
-    "Price": "900 gp",
+    "Price": 900,
     "Page": "593"
   },
   {
@@ -3380,7 +3380,7 @@
     "Name": "Staff of divination, greater",
     "Grade": "N",
     "Category": "Staff",
-    "Price": "900 gp",
+    "Price": 900,
     "Page": "593"
   },
   {
@@ -3389,7 +3389,7 @@
     "Name": "Staff of enchantment, greater",
     "Grade": "N",
     "Category": "Staff",
-    "Price": "900 gp",
+    "Price": 900,
     "Page": "593"
   },
   {
@@ -3398,7 +3398,7 @@
     "Name": "Staff of evocation, greater",
     "Grade": "N",
     "Category": "Staff",
-    "Price": "900 gp",
+    "Price": 900,
     "Page": "593"
   },
   {
@@ -3407,7 +3407,7 @@
     "Name": "Staff of illusion, greater",
     "Grade": "N",
     "Category": "Staff",
-    "Price": "900 gp",
+    "Price": 900,
     "Page": "594"
   },
   {
@@ -3416,7 +3416,7 @@
     "Name": "Staff of necromancy, greater",
     "Grade": "N",
     "Category": "Staff",
-    "Price": "900 gp",
+    "Price": 900,
     "Page": "594"
   },
   {
@@ -3425,7 +3425,7 @@
     "Name": "Staff of transmutation, greater",
     "Grade": "N",
     "Category": "Staff",
-    "Price": "900 gp",
+    "Price": 900,
     "Page": "595"
   },
   {
@@ -3434,7 +3434,7 @@
     "Name": "Explorer’s yurt",
     "Grade": "N",
     "Category": "Structure",
-    "Price": "880 gp",
+    "Price": 880,
     "Page": "596"
   },
   {
@@ -3443,7 +3443,7 @@
     "Name": "Wand of widening 4th",
     "Grade": "N",
     "Category": "Wand",
-    "Price": "1,000 gp",
+    "Price": 1000,
     "Page": "598"
   },
   {
@@ -3452,7 +3452,7 @@
     "Name": "+2 striking weapon",
     "Grade": "N",
     "Category": "Weapon",
-    "Price": "1,000 gp",
+    "Price": 1000,
     "Page": "599"
   },
   {
@@ -3461,7 +3461,7 @@
     "Name": "Cold iron weapon, standard-grade",
     "Grade": "N",
     "Category": "Weapon",
-    "Price": "880 gp",
+    "Price": 880,
     "Page": "599"
   },
   {
@@ -3470,7 +3470,7 @@
     "Name": "Silver weapon, standard-grade",
     "Grade": "N",
     "Category": "Weapon",
-    "Price": "880 gp",
+    "Price": 880,
     "Page": "599"
   },
   {
@@ -3479,7 +3479,7 @@
     "Name": "+2 striking handwraps of mighty blows",
     "Grade": "N",
     "Category": "Worn",
-    "Price": "1,000 gp",
+    "Price": 1000,
     "Page": "611"
   },
   {
@@ -3488,7 +3488,7 @@
     "Name": "Cape of the mountebank",
     "Grade": "U",
     "Category": "Worn",
-    "Price": "980 gp",
+    "Price": 980,
     "Page": "607"
   },
   {
@@ -3497,7 +3497,7 @@
     "Name": "Choker of elocution, greater",
     "Grade": "N",
     "Category": "Worn",
-    "Price": "850 gp",
+    "Price": 850,
     "Page": "608"
   },
   {
@@ -3506,7 +3506,7 @@
     "Name": "Clandestine cloak, greater",
     "Grade": "U",
     "Category": "Worn",
-    "Price": "900 gp",
+    "Price": 900,
     "Page": "608"
   },
   {
@@ -3515,7 +3515,7 @@
     "Name": "Cloak of the bat",
     "Grade": "N",
     "Category": "Worn",
-    "Price": "950 gp",
+    "Price": 950,
     "Page": "608"
   },
   {
@@ -3524,7 +3524,7 @@
     "Name": "Daredevil boots",
     "Grade": "N",
     "Category": "Worn",
-    "Price": "900 gp",
+    "Price": 900,
     "Page": "609"
   },
   {
@@ -3533,7 +3533,7 @@
     "Name": "Demon mask, greater",
     "Grade": "N",
     "Category": "Worn",
-    "Price": "900 gp",
+    "Price": 900,
     "Page": "609"
   },
   {
@@ -3542,7 +3542,7 @@
     "Name": "Druid’s vestments",
     "Grade": "N",
     "Category": "Worn",
-    "Price": "1,000 gp",
+    "Price": 1000,
     "Page": "610"
   },
   {
@@ -3551,7 +3551,7 @@
     "Name": "Ring of counterspells",
     "Grade": "U",
     "Category": "Worn",
-    "Price": "925 gp",
+    "Price": 925,
     "Page": "614"
   },
   {
@@ -3560,7 +3560,7 @@
     "Name": "Ring of energy resistance, greater",
     "Grade": "N",
     "Category": "Worn",
-    "Price": "975 gp",
+    "Price": 975,
     "Page": "614"
   },
   {
@@ -3569,7 +3569,7 @@
     "Name": "Ring of lies",
     "Grade": "U",
     "Category": "Worn",
-    "Price": "850 gp",
+    "Price": 850,
     "Page": "614"
   },
   {
@@ -3578,7 +3578,7 @@
     "Name": "Ring of wizardry type IIU",
     "Grade": "N",
     "Category": "Worn",
-    "Price": "1,000 gp",
+    "Price": 1000,
     "Page": "615"
   },
   {
@@ -3587,7 +3587,7 @@
     "Name": "Winged boots",
     "Grade": "N",
     "Category": "Worn",
-    "Price": "850 gp",
+    "Price": 850,
     "Page": "617"
   },
   {
@@ -3596,7 +3596,7 @@
     "Name": "Spellstrike ammunition 5th",
     "Grade": "N",
     "Category": "Ammunition",
-    "Price": "300 gp",
+    "Price": 300,
     "Page": "560"
   },
   {
@@ -3605,7 +3605,7 @@
     "Name": "Acid flask, greater",
     "Grade": "N",
     "Category": "Bomb",
-    "Price": "250 gp",
+    "Price": 250,
     "Page": "544"
   },
   {
@@ -3614,7 +3614,7 @@
     "Name": "Alchemist’s fire, greater",
     "Grade": "N",
     "Category": "Bomb",
-    "Price": "250 gp",
+    "Price": 250,
     "Page": "545"
   },
   {
@@ -3623,7 +3623,7 @@
     "Name": "Bottled lightning, greater",
     "Grade": "N",
     "Category": "Bomb",
-    "Price": "250 gp",
+    "Price": 250,
     "Page": "545"
   },
   {
@@ -3632,7 +3632,7 @@
     "Name": "Frost vial, greater",
     "Grade": "N",
     "Category": "Bomb",
-    "Price": "250 gp",
+    "Price": 250,
     "Page": "545"
   },
   {
@@ -3641,7 +3641,7 @@
     "Name": "Tanglefoot bag, greater",
     "Grade": "N",
     "Category": "Bomb",
-    "Price": "250 gp",
+    "Price": 250,
     "Page": "545"
   },
   {
@@ -3650,7 +3650,7 @@
     "Name": "Thunderstone, greater",
     "Grade": "N",
     "Category": "Bomb",
-    "Price": "250 gp",
+    "Price": 250,
     "Page": "545"
   },
   {
@@ -3659,7 +3659,7 @@
     "Name": "Bestial mutagen, greater",
     "Grade": "N",
     "Category": "Elixir",
-    "Price": "300 gp",
+    "Price": 300,
     "Page": "546"
   },
   {
@@ -3668,7 +3668,7 @@
     "Name": "Cognitive mutagen, greater",
     "Grade": "N",
     "Category": "Elixir",
-    "Price": "300 gp",
+    "Price": 300,
     "Page": "547"
   },
   {
@@ -3677,7 +3677,7 @@
     "Name": "Juggernaut mutagen, greater",
     "Grade": "N",
     "Category": "Elixir",
-    "Price": "300 gp",
+    "Price": 300,
     "Page": "548"
   },
   {
@@ -3686,7 +3686,7 @@
     "Name": "Quicksilver mutagen, greater",
     "Grade": "N",
     "Category": "Elixir",
-    "Price": "300 gp",
+    "Price": 300,
     "Page": "549"
   },
   {
@@ -3695,7 +3695,7 @@
     "Name": "Serene mutagen, greater",
     "Grade": "N",
     "Category": "Elixir",
-    "Price": "300 gp",
+    "Price": 300,
     "Page": "549"
   },
   {
@@ -3704,7 +3704,7 @@
     "Name": "Silvertongue mutagen, greater",
     "Grade": "N",
     "Category": "Elixir",
-    "Price": "300 gp",
+    "Price": 300,
     "Page": "550"
   },
   {
@@ -3713,7 +3713,7 @@
     "Name": "Oil of keen edges",
     "Grade": "U",
     "Category": "Oil",
-    "Price": "250 gp",
+    "Price": 250,
     "Page": "561"
   },
   {
@@ -3722,7 +3722,7 @@
     "Name": "Oil of repulsion",
     "Grade": "N",
     "Category": "Oil",
-    "Price": "175 gp",
+    "Price": 175,
     "Page": "562"
   },
   {
@@ -3731,7 +3731,7 @@
     "Name": "Blightburn resin",
     "Grade": "N",
     "Category": "Poison",
-    "Price": "225 gp",
+    "Price": 225,
     "Page": "551"
   },
   {
@@ -3740,7 +3740,7 @@
     "Name": "Potion of swimming, greater",
     "Grade": "N",
     "Category": "Potion",
-    "Price": "250 gp",
+    "Price": 250,
     "Page": "563"
   },
   {
@@ -3749,7 +3749,7 @@
     "Name": "Scroll of 6th-level spell",
     "Grade": "N",
     "Category": "Scroll",
-    "Price": "300 gp",
+    "Price": 300,
     "Page": "565"
   },
   {
@@ -3758,7 +3758,7 @@
     "Name": "+2 resilient armor",
     "Grade": "N",
     "Category": "Armor",
-    "Price": "1,400 gp",
+    "Price": 1400,
     "Page": "556"
   },
   {
@@ -3767,7 +3767,7 @@
     "Name": "Cold iron armor, standard-grade",
     "Grade": "N",
     "Category": "Armor",
-    "Price": "1,200 gp",
+    "Price": 1200,
     "Page": "555"
   },
   {
@@ -3776,7 +3776,7 @@
     "Name": "Silver armor, standard-grade",
     "Grade": "N",
     "Category": "Armor",
-    "Price": "1,200 gp",
+    "Price": 1200,
     "Page": "556"
   },
   {
@@ -3785,7 +3785,7 @@
     "Name": "Bag of holding type III",
     "Grade": "N",
     "Category": "Held",
-    "Price": "1,200 gp",
+    "Price": 1200,
     "Page": "572"
   },
   {
@@ -3794,7 +3794,7 @@
     "Name": "Holy prayer beads, greater",
     "Grade": "U",
     "Category": "Held",
-    "Price": "1,400 gp",
+    "Price": 1400,
     "Page": "573"
   },
   {
@@ -3803,7 +3803,7 @@
     "Name": "Skeleton key, greater",
     "Grade": "N",
     "Category": "Held",
-    "Price": "1,250 gp",
+    "Price": 1250,
     "Page": "575"
   },
   {
@@ -3812,7 +3812,7 @@
     "Name": "+2 armor potency",
     "Grade": "N",
     "Category": "Rune",
-    "Price": "1,060 gp",
+    "Price": 1060,
     "Page": "581"
   },
   {
@@ -3821,7 +3821,7 @@
     "Name": "Anarchic",
     "Grade": "N",
     "Category": "Rune",
-    "Price": "1,400 gp",
+    "Price": 1400,
     "Page": "583"
   },
   {
@@ -3830,7 +3830,7 @@
     "Name": "Axiomatic",
     "Grade": "N",
     "Category": "Rune",
-    "Price": "1,400 gp",
+    "Price": 1400,
     "Page": "583"
   },
   {
@@ -3839,7 +3839,7 @@
     "Name": "Holy",
     "Grade": "N",
     "Category": "Rune",
-    "Price": "1,400 gp",
+    "Price": 1400,
     "Page": "584"
   },
   {
@@ -3848,7 +3848,7 @@
     "Name": "Unholy",
     "Grade": "N",
     "Category": "Rune",
-    "Price": "1,400 gp",
+    "Price": 1400,
     "Page": "585"
   },
   {
@@ -3857,7 +3857,7 @@
     "Name": "Arrow-catching shield",
     "Grade": "N",
     "Category": "Shield",
-    "Price": "1,350 gp",
+    "Price": 1350,
     "Page": "587"
   },
   {
@@ -3866,7 +3866,7 @@
     "Name": "Floating shield",
     "Grade": "U",
     "Category": "Shield",
-    "Price": "1,250 gp",
+    "Price": 1250,
     "Page": "587"
   },
   {
@@ -3875,7 +3875,7 @@
     "Name": "Wand of 5th-level spell",
     "Grade": "N",
     "Category": "Wand",
-    "Price": "1,500 gp",
+    "Price": 1500,
     "Page": "597"
   },
   {
@@ -3884,7 +3884,7 @@
     "Name": "Wand of continuation 4th",
     "Grade": "N",
     "Category": "Wand",
-    "Price": "1,400 gp",
+    "Price": 1400,
     "Page": "598"
   },
   {
@@ -3893,7 +3893,7 @@
     "Name": "Adamantine weapon, standard-grade",
     "Grade": "U",
     "Category": "Weapon",
-    "Price": "1,400 gp",
+    "Price": 1400,
     "Page": "599"
   },
   {
@@ -3902,7 +3902,7 @@
     "Name": "Darkwood weapon, standard-grade",
     "Grade": "U",
     "Category": "Weapon",
-    "Price": "1,400 gp",
+    "Price": 1400,
     "Page": "599"
   },
   {
@@ -3911,7 +3911,7 @@
     "Name": "Mithral weapon, standard-grade",
     "Grade": "U",
     "Category": "Weapon",
-    "Price": "1,400 gp",
+    "Price": 1400,
     "Page": "599"
   },
   {
@@ -3920,7 +3920,7 @@
     "Name": "Oathbow",
     "Grade": "N",
     "Category": "Weapon",
-    "Price": "1,300 gp",
+    "Price": 1300,
     "Page": "602"
   },
   {
@@ -3929,7 +3929,7 @@
     "Name": "Alchemist goggles, greater",
     "Grade": "N",
     "Category": "Worn",
-    "Price": "1,400 gp",
+    "Price": 1400,
     "Page": "605"
   },
   {
@@ -3938,7 +3938,7 @@
     "Name": "Boots of elvenkind, greater",
     "Grade": "N",
     "Category": "Worn",
-    "Price": "1,250 gp",
+    "Price": 1250,
     "Page": "606"
   },
   {
@@ -3947,7 +3947,7 @@
     "Name": "Cassock of devotion",
     "Grade": "N",
     "Category": "Worn",
-    "Price": "1,150 gp",
+    "Price": 1150,
     "Page": "607"
   },
   {
@@ -3956,7 +3956,7 @@
     "Name": "Crafter’s eyepiece, greater",
     "Grade": "N",
     "Category": "Worn",
-    "Price": "1,200 gp",
+    "Price": 1200,
     "Page": "609"
   },
   {
@@ -3965,7 +3965,7 @@
     "Name": "Doubling rings, greater",
     "Grade": "N",
     "Category": "Worn",
-    "Price": "1,300 gp",
+    "Price": 1300,
     "Page": "609"
   },
   {
@@ -3974,7 +3974,7 @@
     "Name": "Goggles of night, greater",
     "Grade": "N",
     "Category": "Worn",
-    "Price": "1,250 gp",
+    "Price": 1250,
     "Page": "610"
   },
   {
@@ -3983,7 +3983,7 @@
     "Name": "Gorget of the primal roar",
     "Grade": "N",
     "Category": "Worn",
-    "Price": "1,250 gp",
+    "Price": 1250,
     "Page": "611"
   },
   {
@@ -3992,7 +3992,7 @@
     "Name": "Necklace of fireballs type IV",
     "Grade": "N",
     "Category": "Worn",
-    "Price": "700 gp",
+    "Price": 700,
     "Page": "613"
   },
   {
@@ -4001,7 +4001,7 @@
     "Name": "Ring of maniacal devices",
     "Grade": "N",
     "Category": "Worn",
-    "Price": "1,175 gp",
+    "Price": 1175,
     "Page": "614"
   },
   {
@@ -4010,7 +4010,7 @@
     "Name": "Penetrating ammunition",
     "Grade": "N",
     "Category": "Ammunition",
-    "Price": "400 gp",
+    "Price": 400,
     "Page": "560"
   },
   {
@@ -4019,7 +4019,7 @@
     "Name": "Salamander elixir, moderate",
     "Grade": "N",
     "Category": "Elixir",
-    "Price": "320 gp",
+    "Price": 320,
     "Page": "549"
   },
   {
@@ -4028,7 +4028,7 @@
     "Name": "Sea touch elixir, moderate",
     "Grade": "N",
     "Category": "Elixir",
-    "Price": "300 gp",
+    "Price": 300,
     "Page": "549"
   },
   {
@@ -4037,7 +4037,7 @@
     "Name": "Winter wolf elixir, moderate",
     "Grade": "N",
     "Category": "Elixir",
-    "Price": "320 gp",
+    "Price": 320,
     "Page": "550"
   },
   {
@@ -4046,7 +4046,7 @@
     "Name": "Oil of animation",
     "Grade": "U",
     "Category": "Oil",
-    "Price": "330 gp",
+    "Price": 330,
     "Page": "561"
   },
   {
@@ -4055,7 +4055,7 @@
     "Name": "Salve of antiparalysis, greater",
     "Grade": "N",
     "Category": "Oil",
-    "Price": "325 gp",
+    "Price": 325,
     "Page": "562"
   },
   {
@@ -4064,7 +4064,7 @@
     "Name": "Slumber wine",
     "Grade": "N",
     "Category": "Poison",
-    "Price": "325 gp",
+    "Price": 325,
     "Page": "553"
   },
   {
@@ -4073,7 +4073,7 @@
     "Name": "Dragon’s breath potion, adult",
     "Grade": "N",
     "Category": "Potion",
-    "Price": "400 gp",
+    "Price": 400,
     "Page": "562"
   },
   {
@@ -4082,7 +4082,7 @@
     "Name": "Healing potion, greater",
     "Grade": "N",
     "Category": "Potion",
-    "Price": "400 gp",
+    "Price": 400,
     "Page": "563"
   },
   {
@@ -4091,7 +4091,7 @@
     "Name": "Potion of tongues",
     "Grade": "U",
     "Category": "Potion",
-    "Price": "320 gp",
+    "Price": 320,
     "Page": "563"
   },
   {
@@ -4100,7 +4100,7 @@
     "Name": "Bleeding spines snare",
     "Grade": "N",
     "Category": "Snare",
-    "Price": "320 gp",
+    "Price": 320,
     "Page": "589"
   },
   {
@@ -4109,7 +4109,7 @@
     "Name": "Scything blade snare",
     "Grade": "N",
     "Category": "Snare",
-    "Price": "320 gp",
+    "Price": 320,
     "Page": "591"
   },
   {
@@ -4118,7 +4118,7 @@
     "Name": "Stunning snare",
     "Grade": "N",
     "Category": "Snare",
-    "Price": "320 gp",
+    "Price": 320,
     "Page": "591"
   },
   {
@@ -4127,7 +4127,7 @@
     "Name": "Eye of apprehension",
     "Grade": "N",
     "Category": "Talisman",
-    "Price": "400 gp",
+    "Price": 400,
     "Page": "566"
   },
   {
@@ -4136,7 +4136,7 @@
     "Name": "Fade band",
     "Grade": "N",
     "Category": "Talisman",
-    "Price": "320 gp",
+    "Price": 320,
     "Page": "566"
   },
   {
@@ -4145,7 +4145,7 @@
     "Name": "Iron equalizer",
     "Grade": "N",
     "Category": "Talisman",
-    "Price": "400 gp",
+    "Price": 400,
     "Page": "567"
   },
   {
@@ -4154,7 +4154,7 @@
     "Name": "Adamantine armor, standard-grade",
     "Grade": "U",
     "Category": "Armor",
-    "Price": "1,600 gp",
+    "Price": 1600,
     "Page": "555"
   },
   {
@@ -4163,7 +4163,7 @@
     "Name": "Darkwood armor, standard-grade",
     "Grade": "U",
     "Category": "Armor",
-    "Price": "1,600 gp",
+    "Price": 1600,
     "Page": "555"
   },
   {
@@ -4172,7 +4172,7 @@
     "Name": "Dragonhide armor, standard-grade",
     "Grade": "U",
     "Category": "Armor",
-    "Price": "1,600 gp",
+    "Price": 1600,
     "Page": "555"
   },
   {
@@ -4181,7 +4181,7 @@
     "Name": "Mithral armor, standard-grade",
     "Grade": "U",
     "Category": "Armor",
-    "Price": "1,600 gp",
+    "Price": 1600,
     "Page": "556"
   },
   {
@@ -4190,7 +4190,7 @@
     "Name": "Broom of flying",
     "Grade": "N",
     "Category": "Held",
-    "Price": "1,900 gp",
+    "Price": 1900,
     "Page": "572"
   },
   {
@@ -4199,7 +4199,7 @@
     "Name": "Marvelous medicines",
     "Grade": "N",
     "Category": "Held",
-    "Price": "1,800 gp",
+    "Price": 1800,
     "Page": "574"
   },
   {
@@ -4208,7 +4208,7 @@
     "Name": "Energy-resistant, greater",
     "Grade": "N",
     "Category": "Rune",
-    "Price": "1,650 gp",
+    "Price": 1650,
     "Page": "582"
   },
   {
@@ -4217,7 +4217,7 @@
     "Name": "Fortification",
     "Grade": "N",
     "Category": "Rune",
-    "Price": "2,000 gp",
+    "Price": 2000,
     "Page": "582"
   },
   {
@@ -4226,7 +4226,7 @@
     "Name": "Striking, greater",
     "Grade": "N",
     "Category": "Rune",
-    "Price": "1,065 gp",
+    "Price": 1065,
     "Page": "581"
   },
   {
@@ -4235,7 +4235,7 @@
     "Name": "Animal staff, major",
     "Grade": "N",
     "Category": "Staff",
-    "Price": "1,900 gp",
+    "Price": 1900,
     "Page": "592"
   },
   {
@@ -4244,7 +4244,7 @@
     "Name": "Mentalist’s staff, major",
     "Grade": "N",
     "Category": "Staff",
-    "Price": "1,800 gp",
+    "Price": 1800,
     "Page": "592"
   },
   {
@@ -4253,7 +4253,7 @@
     "Name": "Staff of fire, major",
     "Grade": "N",
     "Category": "Staff",
-    "Price": "1,800 gp",
+    "Price": 1800,
     "Page": "594"
   },
   {
@@ -4262,7 +4262,7 @@
     "Name": "Staff of healing, major",
     "Grade": "N",
     "Category": "Staff",
-    "Price": "1,800 gp",
+    "Price": 1800,
     "Page": "594"
   },
   {
@@ -4271,7 +4271,7 @@
     "Name": "Verdant staff, greater",
     "Grade": "N",
     "Category": "Staff",
-    "Price": "1,750 gp",
+    "Price": 1750,
     "Page": "595"
   },
   {
@@ -4280,7 +4280,7 @@
     "Name": "Wand of smoldering fireballs 5th",
     "Grade": "N",
     "Category": "Wand",
-    "Price": "2,000 gp",
+    "Price": 2000,
     "Page": "598"
   },
   {
@@ -4289,7 +4289,7 @@
     "Name": "Wand of widening 5th",
     "Grade": "N",
     "Category": "Wand",
-    "Price": "2,000 gp",
+    "Price": 2000,
     "Page": "598"
   },
   {
@@ -4298,7 +4298,7 @@
     "Name": "+2 greater striking weapon",
     "Grade": "N",
     "Category": "Weapon",
-    "Price": "2,000 gp",
+    "Price": 2000,
     "Page": "599"
   },
   {
@@ -4307,7 +4307,7 @@
     "Name": "+2 greater striking handwraps of mighty blows",
     "Grade": "N",
     "Category": "Worn",
-    "Price": "2,000 gp",
+    "Price": 2000,
     "Page": "611"
   },
   {
@@ -4316,7 +4316,7 @@
     "Name": "Aeon stone, pink rhomboid",
     "Grade": "U",
     "Category": "Worn",
-    "Price": "1,900 gp",
+    "Price": 1900,
     "Page": "604"
   },
   {
@@ -4325,7 +4325,7 @@
     "Name": "Berserker’s cloak",
     "Grade": "N",
     "Category": "Worn",
-    "Price": "2,000 gp",
+    "Price": 2000,
     "Page": "606"
   },
   {
@@ -4334,7 +4334,7 @@
     "Name": "Cloak of elvenkind, greater",
     "Grade": "N",
     "Category": "Worn",
-    "Price": "1,750 gp",
+    "Price": 1750,
     "Page": "608"
   },
   {
@@ -4343,7 +4343,7 @@
     "Name": "Ring of climbing",
     "Grade": "N",
     "Category": "Worn",
-    "Price": "1,750 gp",
+    "Price": 1750,
     "Page": "614"
   },
   {
@@ -4352,7 +4352,7 @@
     "Name": "Ring of swimming",
     "Grade": "N",
     "Category": "Worn",
-    "Price": "1,750 gp",
+    "Price": 1750,
     "Page": "615"
   },
   {
@@ -4361,7 +4361,7 @@
     "Name": "Ring of wizardry type III",
     "Grade": "U",
     "Category": "Worn",
-    "Price": "2,000 gp",
+    "Price": 2000,
     "Page": "615"
   },
   {
@@ -4370,7 +4370,7 @@
     "Name": "Explosive ammunition, greater",
     "Grade": "N",
     "Category": "Ammunition",
-    "Price": "520 gp",
+    "Price": 520,
     "Page": "559"
   },
   {
@@ -4379,7 +4379,7 @@
     "Name": "Spellstrike ammunition 6th",
     "Grade": "N",
     "Category": "Ammunition",
-    "Price": "600 gp",
+    "Price": 600,
     "Page": "560"
   },
   {
@@ -4388,7 +4388,7 @@
     "Name": "Elixir of life, greater",
     "Grade": "N",
     "Category": "Elixir",
-    "Price": "600 gp",
+    "Price": 600,
     "Page": "548"
   },
   {
@@ -4397,7 +4397,7 @@
     "Name": "Deathcap powder",
     "Grade": "N",
     "Category": "Poison",
-    "Price": "450 gp",
+    "Price": 450,
     "Page": "551"
   },
   {
@@ -4406,7 +4406,7 @@
     "Name": "Purple worm venom",
     "Grade": "N",
     "Category": "Poison",
-    "Price": "500 gp",
+    "Price": 500,
     "Page": "553"
   },
   {
@@ -4415,7 +4415,7 @@
     "Name": "Panacea",
     "Grade": "U",
     "Category": "Potion",
-    "Price": "450 gp",
+    "Price": 450,
     "Page": "563"
   },
   {
@@ -4424,7 +4424,7 @@
     "Name": "Scroll of 7th-level spell",
     "Grade": "N",
     "Category": "Scroll",
-    "Price": "600 gp",
+    "Price": 600,
     "Page": "565"
   },
   {
@@ -4433,7 +4433,7 @@
     "Name": "Mending lattice",
     "Grade": "U",
     "Category": "Talisman",
-    "Price": "525 gp",
+    "Price": 525,
     "Page": "568"
   },
   {
@@ -4442,7 +4442,7 @@
     "Name": "Celestial armor",
     "Grade": "N",
     "Category": "Armor",
-    "Price": "2,500 gp",
+    "Price": 2500,
     "Page": "557"
   },
   {
@@ -4451,7 +4451,7 @@
     "Name": "Demon armor",
     "Grade": "N",
     "Category": "Armor",
-    "Price": "2,500 gp",
+    "Price": 2500,
     "Page": "557"
   },
   {
@@ -4460,7 +4460,7 @@
     "Name": "Elven chain, standard-grade",
     "Grade": "U",
     "Category": "Armor",
-    "Price": "2,500 gp",
+    "Price": 2500,
     "Page": "555"
   },
   {
@@ -4469,7 +4469,7 @@
     "Name": "Mail of luck",
     "Grade": "N",
     "Category": "Armor",
-    "Price": "2,600 gp",
+    "Price": 2600,
     "Page": "558"
   },
   {
@@ -4478,7 +4478,7 @@
     "Name": "Bag of holding type IV",
     "Grade": "N",
     "Category": "Held",
-    "Price": "2,400 gp",
+    "Price": 2400,
     "Page": "572"
   },
   {
@@ -4487,7 +4487,7 @@
     "Name": "Wondrous figurine, marble elephant",
     "Grade": "N",
     "Category": "Held",
-    "Price": "2,700 gp",
+    "Price": 2700,
     "Page": "576"
   },
   {
@@ -4496,7 +4496,7 @@
     "Name": "Dancing",
     "Grade": "U",
     "Category": "Rune",
-    "Price": "2,700 gp",
+    "Price": 2700,
     "Page": "583"
   },
   {
@@ -4505,7 +4505,7 @@
     "Name": "Keen",
     "Grade": "U",
     "Category": "Rune",
-    "Price": "3,000 gp",
+    "Price": 3000,
     "Page": "584"
   },
   {
@@ -4514,7 +4514,7 @@
     "Name": "Spell-storing",
     "Grade": "U",
     "Category": "Rune",
-    "Price": "2,700 gp",
+    "Price": 2700,
     "Page": "585"
   },
   {
@@ -4523,7 +4523,7 @@
     "Name": "Sturdy shield, greater",
     "Grade": "N",
     "Category": "Shield",
-    "Price": "3,000 gp",
+    "Price": 3000,
     "Page": "588"
   },
   {
@@ -4532,7 +4532,7 @@
     "Name": "Wand of 6th-level spell",
     "Grade": "N",
     "Category": "Wand",
-    "Price": "3,000 gp",
+    "Price": 3000,
     "Page": "597"
   },
   {
@@ -4541,7 +4541,7 @@
     "Name": "Wand of continuation 5th",
     "Grade": "N",
     "Category": "Wand",
-    "Price": "3,000 gp",
+    "Price": 3000,
     "Page": "598"
   },
   {
@@ -4550,7 +4550,7 @@
     "Name": "Wand of manifold missiles 5th",
     "Grade": "N",
     "Category": "Wand",
-    "Price": "3,000 gp",
+    "Price": 3000,
     "Page": "598"
   },
   {
@@ -4559,7 +4559,7 @@
     "Name": "Dwarven thrower",
     "Grade": "N",
     "Category": "Weapon",
-    "Price": "2,750 gp",
+    "Price": 2750,
     "Page": "600"
   },
   {
@@ -4568,7 +4568,7 @@
     "Name": "Flame tongue",
     "Grade": "N",
     "Category": "Weapon",
-    "Price": "2,800 gp",
+    "Price": 2800,
     "Page": "600"
   },
   {
@@ -4577,7 +4577,7 @@
     "Name": "Aeon stone, pale lavender ellipsoid",
     "Grade": "U",
     "Category": "Worn",
-    "Price": "2,200 gp",
+    "Price": 2200,
     "Page": "604"
   },
   {
@@ -4586,7 +4586,7 @@
     "Name": "Boots of speed",
     "Grade": "N",
     "Category": "Worn",
-    "Price": "3,000 gp",
+    "Price": 3000,
     "Page": "606"
   },
   {
@@ -4595,7 +4595,7 @@
     "Name": "Eye of fortune",
     "Grade": "N",
     "Category": "Worn",
-    "Price": "2,700 gp",
+    "Price": 2700,
     "Page": "610"
   },
   {
@@ -4604,7 +4604,7 @@
     "Name": "Knapsack of halflingkind, greater",
     "Grade": "U",
     "Category": "Worn",
-    "Price": "2,850 gp",
+    "Price": 2850,
     "Page": "612"
   },
   {
@@ -4613,7 +4613,7 @@
     "Name": "Necklace of fireballs type V",
     "Grade": "N",
     "Category": "Worn",
-    "Price": "1,600 gp",
+    "Price": 1600,
     "Page": "613"
   },
   {
@@ -4622,7 +4622,7 @@
     "Name": "Ring of the ram, greater",
     "Grade": "N",
     "Category": "Worn",
-    "Price": "2,700 gp",
+    "Price": 2700,
     "Page": "615"
   },
   {
@@ -4631,7 +4631,7 @@
     "Name": "Ghost ammunition",
     "Grade": "N",
     "Category": "Ammunition",
-    "Price": "900 gp",
+    "Price": 900,
     "Page": "559"
   },
   {
@@ -4640,7 +4640,7 @@
     "Name": "Antidote, major",
     "Grade": "N",
     "Category": "Elixir",
-    "Price": "675 gp",
+    "Price": 675,
     "Page": "546"
   },
   {
@@ -4649,7 +4649,7 @@
     "Name": "Antiplague, major",
     "Grade": "N",
     "Category": "Elixir",
-    "Price": "675 gp",
+    "Price": 675,
     "Page": "546"
   },
   {
@@ -4658,7 +4658,7 @@
     "Name": "Bomber’s eye elixir, greater",
     "Grade": "N",
     "Category": "Elixir",
-    "Price": "700 gp",
+    "Price": 700,
     "Page": "547"
   },
   {
@@ -4667,7 +4667,7 @@
     "Name": "Potion of resistance, greater",
     "Grade": "N",
     "Category": "Potion",
-    "Price": "850 gp",
+    "Price": 850,
     "Page": "563"
   },
   {
@@ -4676,7 +4676,7 @@
     "Name": "Dazing Coil",
     "Grade": "N",
     "Category": "Talisman",
-    "Price": "900 gp",
+    "Price": 900,
     "Page": "566"
   },
   {
@@ -4685,7 +4685,7 @@
     "Name": "Iron cudgel",
     "Grade": "N",
     "Category": "Talisman",
-    "Price": "900 gp",
+    "Price": 900,
     "Page": "567"
   },
   {
@@ -4694,7 +4694,7 @@
     "Name": "Viper’s fang",
     "Grade": "N",
     "Category": "Talisman",
-    "Price": "850 gp",
+    "Price": 850,
     "Page": "569"
   },
   {
@@ -4703,7 +4703,7 @@
     "Name": "+2 greater resilient armor",
     "Grade": "N",
     "Category": "Armor",
-    "Price": "4,500 gp",
+    "Price": 4500,
     "Page": "556"
   },
   {
@@ -4712,7 +4712,7 @@
     "Name": "Horseshoes of speed, greater",
     "Grade": "N",
     "Category": "Companion",
-    "Price": "4,250 gp",
+    "Price": 4250,
     "Page": "604"
   },
   {
@@ -4721,7 +4721,7 @@
     "Name": "Crystal ball, clear quartz",
     "Grade": "U",
     "Category": "Held",
-    "Price": "3,800 gp",
+    "Price": 3800,
     "Page": "572"
   },
   {
@@ -4730,7 +4730,7 @@
     "Name": "Primeval mistletoe, greater",
     "Grade": "N",
     "Category": "Held",
-    "Price": "3,900 gp",
+    "Price": 3900,
     "Page": "574"
   },
   {
@@ -4739,7 +4739,7 @@
     "Name": "Rod of negation",
     "Grade": "N",
     "Category": "Held",
-    "Price": "4,300 gp",
+    "Price": 4300,
     "Page": "574"
   },
   {
@@ -4748,7 +4748,7 @@
     "Name": "Disrupting, greater",
     "Grade": "U",
     "Category": "Rune",
-    "Price": "4,300 gp",
+    "Price": 4300,
     "Page": "584"
   },
   {
@@ -4757,7 +4757,7 @@
     "Name": "Resilient, greater",
     "Grade": "N",
     "Category": "Rune",
-    "Price": "3,440 gp",
+    "Price": 3440,
     "Page": "581"
   },
   {
@@ -4766,7 +4766,7 @@
     "Name": "Staff of abjuration, major",
     "Grade": "N",
     "Category": "Staff",
-    "Price": "4,000 gp",
+    "Price": 4000,
     "Page": "593"
   },
   {
@@ -4775,7 +4775,7 @@
     "Name": "Staff of conjuration, major",
     "Grade": "N",
     "Category": "Staff",
-    "Price": "4,000 gp",
+    "Price": 4000,
     "Page": "593"
   },
   {
@@ -4784,7 +4784,7 @@
     "Name": "Staff of divination, major",
     "Grade": "N",
     "Category": "Staff",
-    "Price": "4,000 gp",
+    "Price": 4000,
     "Page": "593"
   },
   {
@@ -4793,7 +4793,7 @@
     "Name": "Staff of enchantment, major",
     "Grade": "N",
     "Category": "Staff",
-    "Price": "4,000 gp",
+    "Price": 4000,
     "Page": "593"
   },
   {
@@ -4802,7 +4802,7 @@
     "Name": "Staff of evocation, major",
     "Grade": "N",
     "Category": "Staff",
-    "Price": "4,000 gp",
+    "Price": 4000,
     "Page": "593"
   },
   {
@@ -4811,7 +4811,7 @@
     "Name": "Staff of illusion, major",
     "Grade": "N",
     "Category": "Staff",
-    "Price": "4,000 gp",
+    "Price": 4000,
     "Page": "594"
   },
   {
@@ -4820,7 +4820,7 @@
     "Name": "Staff of necromancy, major",
     "Grade": "N",
     "Category": "Staff",
-    "Price": "4,000 gp",
+    "Price": 4000,
     "Page": "594"
   },
   {
@@ -4829,7 +4829,7 @@
     "Name": "Staff of transmutation, major",
     "Grade": "N",
     "Category": "Staff",
-    "Price": "4,000 gp",
+    "Price": 4000,
     "Page": "595"
   },
   {
@@ -4838,7 +4838,7 @@
     "Name": "Wand of widening 6th",
     "Grade": "N",
     "Category": "Wand",
-    "Price": "4,500 gp",
+    "Price": 4500,
     "Page": "598"
   },
   {
@@ -4847,7 +4847,7 @@
     "Name": "Holy avenger",
     "Grade": "U",
     "Category": "Weapon",
-    "Price": "4,500 gp",
+    "Price": 4500,
     "Page": "601"
   },
   {
@@ -4856,7 +4856,7 @@
     "Name": "Storm flash",
     "Grade": "N",
     "Category": "Weapon",
-    "Price": "4,000 gp",
+    "Price": 4000,
     "Page": "602"
   },
   {
@@ -4865,7 +4865,7 @@
     "Name": "Boots of bounding, greater",
     "Grade": "N",
     "Category": "Worn",
-    "Price": "4,250 gp",
+    "Price": 4250,
     "Page": "606"
   },
   {
@@ -4874,7 +4874,7 @@
     "Name": "Bracers of armor type II",
     "Grade": "N",
     "Category": "Worn",
-    "Price": "4,000 gp",
+    "Price": 4000,
     "Page": "607"
   },
   {
@@ -4883,7 +4883,7 @@
     "Name": "Ring of energy resistance, major",
     "Grade": "N",
     "Category": "Worn",
-    "Price": "4,400 gp",
+    "Price": 4400,
     "Page": "614"
   },
   {
@@ -4892,7 +4892,7 @@
     "Name": "Ring of wizardry type IVU",
     "Grade": "N",
     "Category": "Worn",
-    "Price": "4,500 gp",
+    "Price": 4500,
     "Page": "615"
   },
   {
@@ -4901,7 +4901,7 @@
     "Name": "Disintegration bolt",
     "Grade": "U",
     "Category": "Ammunition",
-    "Price": "1,300 gp",
+    "Price": 1300,
     "Page": "559"
   },
   {
@@ -4910,7 +4910,7 @@
     "Name": "Spellstrike ammunition 7th",
     "Grade": "N",
     "Category": "Ammunition",
-    "Price": "1,300 gp",
+    "Price": 1300,
     "Page": "560"
   },
   {
@@ -4919,7 +4919,7 @@
     "Name": "Stone bullet",
     "Grade": "N",
     "Category": "Ammunition",
-    "Price": "1,300 gp",
+    "Price": 1300,
     "Page": "560"
   },
   {
@@ -4928,7 +4928,7 @@
     "Name": "Bravo’s brew, greater",
     "Grade": "N",
     "Category": "Elixir",
-    "Price": "700 gp",
+    "Price": 700,
     "Page": "547"
   },
   {
@@ -4937,7 +4937,7 @@
     "Name": "Elixir of life, major",
     "Grade": "N",
     "Category": "Elixir",
-    "Price": "1,300 gp",
+    "Price": 1300,
     "Page": "548"
   },
   {
@@ -4946,7 +4946,7 @@
     "Name": "Sea touch elixir, greater",
     "Grade": "N",
     "Category": "Elixir",
-    "Price": "920 gp",
+    "Price": 920,
     "Page": "549"
   },
   {
@@ -4955,7 +4955,7 @@
     "Name": "Obfuscation oil",
     "Grade": "N",
     "Category": "Oil",
-    "Price": "1,200 gp",
+    "Price": 1200,
     "Page": "561"
   },
   {
@@ -4964,7 +4964,7 @@
     "Name": "Dragon bile",
     "Grade": "N",
     "Category": "Poison",
-    "Price": "925 gp",
+    "Price": 925,
     "Page": "551"
   },
   {
@@ -4973,7 +4973,7 @@
     "Name": "Mindfog mist",
     "Grade": "N",
     "Category": "Poison",
-    "Price": "1,000 gp",
+    "Price": 1000,
     "Page": "553"
   },
   {
@@ -4982,7 +4982,7 @@
     "Name": "Potion of flying, greater",
     "Grade": "N",
     "Category": "Potion",
-    "Price": "1,000 gp",
+    "Price": 1000,
     "Page": "563"
   },
   {
@@ -4991,7 +4991,7 @@
     "Name": "Scroll of 8th-level spell",
     "Grade": "N",
     "Category": "Scroll",
-    "Price": "1,300 gp",
+    "Price": 1300,
     "Page": "565"
   },
   {
@@ -5000,7 +5000,7 @@
     "Name": "Plate armor of the deep",
     "Grade": "U",
     "Category": "Armor",
-    "Price": "6,500 gp",
+    "Price": 6500,
     "Page": "558"
   },
   {
@@ -5009,7 +5009,7 @@
     "Name": "Crystal ball, selenite",
     "Grade": "U",
     "Category": "Held",
-    "Price": "7,000 gp",
+    "Price": 7000,
     "Page": "572"
   },
   {
@@ -5018,7 +5018,7 @@
     "Name": "Wondrous figurine, obsidian steed",
     "Grade": "U",
     "Category": "Held",
-    "Price": "6,000 gp",
+    "Price": 6000,
     "Page": "576"
   },
   {
@@ -5027,7 +5027,7 @@
     "Name": "Antimagic",
     "Grade": "U",
     "Category": "Rune",
-    "Price": "6,500 gp",
+    "Price": 6500,
     "Page": "582"
   },
   {
@@ -5036,7 +5036,7 @@
     "Name": "Corrosive, greater",
     "Grade": "N",
     "Category": "Rune",
-    "Price": "6,500 gp",
+    "Price": 6500,
     "Page": "583"
   },
   {
@@ -5045,7 +5045,7 @@
     "Name": "Flaming, greater",
     "Grade": "N",
     "Category": "Rune",
-    "Price": "6,500 gp",
+    "Price": 6500,
     "Page": "584"
   },
   {
@@ -5054,7 +5054,7 @@
     "Name": "Frost, greater",
     "Grade": "N",
     "Category": "Rune",
-    "Price": "6,500 gp",
+    "Price": 6500,
     "Page": "584"
   },
   {
@@ -5063,7 +5063,7 @@
     "Name": "Shock, greater",
     "Grade": "N",
     "Category": "Rune",
-    "Price": "6,500 gp",
+    "Price": 6500,
     "Page": "585"
   },
   {
@@ -5072,7 +5072,7 @@
     "Name": "Thundering, greater",
     "Grade": "N",
     "Category": "Rune",
-    "Price": "6,500 gp",
+    "Price": 6500,
     "Page": "585"
   },
   {
@@ -5081,7 +5081,7 @@
     "Name": "Cold iron buckler, high-grade",
     "Grade": "N",
     "Category": "Shield",
-    "Price": "5,000 gp",
+    "Price": 5000,
     "Page": "586"
   },
   {
@@ -5090,7 +5090,7 @@
     "Name": "Cold iron shield, high-grade",
     "Grade": "N",
     "Category": "Shield",
-    "Price": "5,500 gp",
+    "Price": 5500,
     "Page": "586"
   },
   {
@@ -5099,7 +5099,7 @@
     "Name": "Silver buckler, high-grade",
     "Grade": "N",
     "Category": "Shield",
-    "Price": "5,000 gp",
+    "Price": 5000,
     "Page": "587"
   },
   {
@@ -5108,7 +5108,7 @@
     "Name": "Silver shield, high-grade",
     "Grade": "N",
     "Category": "Shield",
-    "Price": "5,500 gp",
+    "Price": 5500,
     "Page": "587"
   },
   {
@@ -5117,7 +5117,7 @@
     "Name": "Wand of 7th-level spell",
     "Grade": "N",
     "Category": "Wand",
-    "Price": "6,500 gp",
+    "Price": 6500,
     "Page": "597"
   },
   {
@@ -5126,7 +5126,7 @@
     "Name": "Wand of continuation 6th",
     "Grade": "N",
     "Category": "Wand",
-    "Price": "6,500 gp",
+    "Price": 6500,
     "Page": "598"
   },
   {
@@ -5135,7 +5135,7 @@
     "Name": "Necklace of fireballs type VI",
     "Grade": "N",
     "Category": "Worn",
-    "Price": "4,200 gp",
+    "Price": 4200,
     "Page": "613"
   },
   {
@@ -5144,7 +5144,7 @@
     "Name": "Robe of the archmagi",
     "Grade": "U",
     "Category": "Worn",
-    "Price": "6,500 gp",
+    "Price": 6500,
     "Page": "616"
   },
   {
@@ -5153,7 +5153,7 @@
     "Name": "Eagle-eye elixir, major",
     "Grade": "N",
     "Category": "Elixir",
-    "Price": "2,000 gp",
+    "Price": 2000,
     "Page": "548"
   },
   {
@@ -5162,7 +5162,7 @@
     "Name": "Salamander elixir, greater",
     "Grade": "N",
     "Category": "Elixir",
-    "Price": "1,400 gp",
+    "Price": 1400,
     "Page": "549"
   },
   {
@@ -5171,7 +5171,7 @@
     "Name": "Winter wolf elixir, greater",
     "Grade": "N",
     "Category": "Elixir",
-    "Price": "1,400 gp",
+    "Price": 1400,
     "Page": "550"
   },
   {
@@ -5180,7 +5180,7 @@
     "Name": "Brimstone fumes",
     "Grade": "N",
     "Category": "Poison",
-    "Price": "1,500 gp",
+    "Price": 1500,
     "Page": "551"
   },
   {
@@ -5189,7 +5189,7 @@
     "Name": "Nightmare vapor",
     "Grade": "N",
     "Category": "Poison",
-    "Price": "1,400 gp",
+    "Price": 1400,
     "Page": "553"
   },
   {
@@ -5198,7 +5198,7 @@
     "Name": "Truesight potion",
     "Grade": "N",
     "Category": "Potion",
-    "Price": "1,500 gp",
+    "Price": 1500,
     "Page": "564"
   },
   {
@@ -5207,7 +5207,7 @@
     "Name": "Hail of arrows snare",
     "Grade": "N",
     "Category": "Snare",
-    "Price": "1,500 gp",
+    "Price": 1500,
     "Page": "590"
   },
   {
@@ -5216,7 +5216,7 @@
     "Name": "Omnidirectional spear snare",
     "Grade": "N",
     "Category": "Snare",
-    "Price": "1,500 gp",
+    "Price": 1500,
     "Page": "591"
   },
   {
@@ -5225,7 +5225,7 @@
     "Name": "Flame navette",
     "Grade": "N",
     "Category": "Talisman",
-    "Price": "1,800 gp",
+    "Price": 1800,
     "Page": "567"
   },
   {
@@ -5234,7 +5234,7 @@
     "Name": "Ghost dust",
     "Grade": "N",
     "Category": "Talisman",
-    "Price": "1,800 gp",
+    "Price": 1800,
     "Page": "567"
   },
   {
@@ -5243,7 +5243,7 @@
     "Name": "Dragonplate",
     "Grade": "U",
     "Category": "Armor",
-    "Price": "10,000 gp",
+    "Price": 10000,
     "Page": "557"
   },
   {
@@ -5252,7 +5252,7 @@
     "Name": "Crystal ball, moonstone",
     "Grade": "U",
     "Category": "Held",
-    "Price": "7,500 gp",
+    "Price": 7500,
     "Page": "572"
   },
   {
@@ -5261,7 +5261,7 @@
     "Name": "+3 weapon potency",
     "Grade": "N",
     "Category": "Rune",
-    "Price": "8,935 gp",
+    "Price": 8935,
     "Page": "581"
   },
   {
@@ -5270,7 +5270,7 @@
     "Name": "Slick, major",
     "Grade": "N",
     "Category": "Rune",
-    "Price": "9,000 gp",
+    "Price": 9000,
     "Page": "583"
   },
   {
@@ -5279,7 +5279,7 @@
     "Name": "Speed",
     "Grade": "R",
     "Category": "Rune",
-    "Price": "10,000 gp",
+    "Price": 10000,
     "Page": "585"
   },
   {
@@ -5288,7 +5288,7 @@
     "Name": "Adamantine buckler, high-grade",
     "Grade": "U",
     "Category": "Shield",
-    "Price": "8,000 gp",
+    "Price": 8000,
     "Page": "586"
   },
   {
@@ -5297,7 +5297,7 @@
     "Name": "Adamantine shield, high-grade",
     "Grade": "U",
     "Category": "Shield",
-    "Price": "8,800 gp",
+    "Price": 8800,
     "Page": "586"
   },
   {
@@ -5306,7 +5306,7 @@
     "Name": "Darkwood buckler, high-grade",
     "Grade": "U",
     "Category": "Shield",
-    "Price": "8,000 gp",
+    "Price": 8000,
     "Page": "586"
   },
   {
@@ -5315,7 +5315,7 @@
     "Name": "Darkwood shield, high-grade",
     "Grade": "U",
     "Category": "Shield",
-    "Price": "8,800 gp",
+    "Price": 8800,
     "Page": "586"
   },
   {
@@ -5324,7 +5324,7 @@
     "Name": "Darkwood tower shield, high-grade",
     "Grade": "U",
     "Category": "Shield",
-    "Price": "11,200 gp",
+    "Price": 11200,
     "Page": "586"
   },
   {
@@ -5333,7 +5333,7 @@
     "Name": "Dragonhide buckler, high-grade",
     "Grade": "U",
     "Category": "Shield",
-    "Price": "8,000 gp",
+    "Price": 8000,
     "Page": "586"
   },
   {
@@ -5342,7 +5342,7 @@
     "Name": "Dragonhide shield, high-grade",
     "Grade": "U",
     "Category": "Shield",
-    "Price": "8,800 gp",
+    "Price": 8800,
     "Page": "586"
   },
   {
@@ -5351,7 +5351,7 @@
     "Name": "Floating shield, greater",
     "Grade": "N",
     "Category": "Shield",
-    "Price": "9,000 gp",
+    "Price": 9000,
     "Page": "587"
   },
   {
@@ -5360,7 +5360,7 @@
     "Name": "Mithral buckler, high-grade",
     "Grade": "U",
     "Category": "Shield",
-    "Price": "8,000 gp",
+    "Price": 8000,
     "Page": "586"
   },
   {
@@ -5369,7 +5369,7 @@
     "Name": "Mithral shield, high-grade",
     "Grade": "U",
     "Category": "Shield",
-    "Price": "8,800 gp",
+    "Price": 8800,
     "Page": "586"
   },
   {
@@ -5378,7 +5378,7 @@
     "Name": "Sturdy shield, major",
     "Grade": "N",
     "Category": "Shield",
-    "Price": "10,000 gp",
+    "Price": 10000,
     "Page": "588"
   },
   {
@@ -5387,7 +5387,7 @@
     "Name": "Staff of healing, true",
     "Grade": "N",
     "Category": "Staff",
-    "Price": "9,200 gp",
+    "Price": 9200,
     "Page": "594"
   },
   {
@@ -5396,7 +5396,7 @@
     "Name": "Staff of power",
     "Grade": "R",
     "Category": "Staff",
-    "Price": "10,000 gp",
+    "Price": 10000,
     "Page": "595"
   },
   {
@@ -5405,7 +5405,7 @@
     "Name": "Instant fortress",
     "Grade": "U",
     "Category": "Structure",
-    "Price": "9,300 gp",
+    "Price": 9300,
     "Page": "596"
   },
   {
@@ -5414,7 +5414,7 @@
     "Name": "Wand of slaying 7th",
     "Grade": "N",
     "Category": "Wand",
-    "Price": "10,000 gp",
+    "Price": 10000,
     "Page": "598"
   },
   {
@@ -5423,7 +5423,7 @@
     "Name": "Wand of smoldering fireballs 7th",
     "Grade": "N",
     "Category": "Wand",
-    "Price": "10,000 gp",
+    "Price": 10000,
     "Page": "598"
   },
   {
@@ -5432,7 +5432,7 @@
     "Name": "Wand of widening 7th",
     "Grade": "N",
     "Category": "Wand",
-    "Price": "10,000 gp",
+    "Price": 10000,
     "Page": "598"
   },
   {
@@ -5441,7 +5441,7 @@
     "Name": "+3 greater striking weapon",
     "Grade": "N",
     "Category": "Weapon",
-    "Price": "10,000 gp",
+    "Price": 10000,
     "Page": "599"
   },
   {
@@ -5450,7 +5450,7 @@
     "Name": "Cold iron weapon, high-grade",
     "Grade": "N",
     "Category": "Weapon",
-    "Price": "9,000 gp",
+    "Price": 9000,
     "Page": "599"
   },
   {
@@ -5459,7 +5459,7 @@
     "Name": "Frost brand",
     "Grade": "N",
     "Category": "Weapon",
-    "Price": "10,000 gp",
+    "Price": 10000,
     "Page": "601"
   },
   {
@@ -5468,7 +5468,7 @@
     "Name": "Silver weapon, high-grade",
     "Grade": "N",
     "Category": "Weapon",
-    "Price": "9,000 gp",
+    "Price": 9000,
     "Page": "599"
   },
   {
@@ -5477,7 +5477,7 @@
     "Name": "+3 greater striking handwraps of mighty blows",
     "Grade": "N",
     "Category": "Worn",
-    "Price": "10,000 gp",
+    "Price": 10000,
     "Page": "611"
   },
   {
@@ -5486,7 +5486,7 @@
     "Name": "Aeon stone, orange prism",
     "Grade": "U",
     "Category": "Worn",
-    "Price": "9,750 gp",
+    "Price": 9750,
     "Page": "604"
   },
   {
@@ -5495,7 +5495,7 @@
     "Name": "Spellstrike ammunition 8th",
     "Grade": "N",
     "Category": "Ammunition",
-    "Price": "3,000 gp",
+    "Price": 3000,
     "Page": "560"
   },
   {
@@ -5504,7 +5504,7 @@
     "Name": "Acid flask, major",
     "Grade": "N",
     "Category": "Bomb",
-    "Price": "2,500 gp",
+    "Price": 2500,
     "Page": "544"
   },
   {
@@ -5513,7 +5513,7 @@
     "Name": "Alchemist’s fire, major",
     "Grade": "N",
     "Category": "Bomb",
-    "Price": "2,500 gp",
+    "Price": 2500,
     "Page": "545"
   },
   {
@@ -5522,7 +5522,7 @@
     "Name": "Bottled lightning, major",
     "Grade": "N",
     "Category": "Bomb",
-    "Price": "2,500 gp",
+    "Price": 2500,
     "Page": "545"
   },
   {
@@ -5531,7 +5531,7 @@
     "Name": "Frost vial, major",
     "Grade": "N",
     "Category": "Bomb",
-    "Price": "2,500 gp",
+    "Price": 2500,
     "Page": "545"
   },
   {
@@ -5540,7 +5540,7 @@
     "Name": "Tanglefoot bag, major",
     "Grade": "N",
     "Category": "Bomb",
-    "Price": "2,500 gp",
+    "Price": 2500,
     "Page": "545"
   },
   {
@@ -5549,7 +5549,7 @@
     "Name": "Thunderstone, major",
     "Grade": "N",
     "Category": "Bomb",
-    "Price": "2,500 gp",
+    "Price": 2500,
     "Page": "545"
   },
   {
@@ -5558,7 +5558,7 @@
     "Name": "Bestial mutagen, major",
     "Grade": "N",
     "Category": "Elixir",
-    "Price": "3,000 gp",
+    "Price": 3000,
     "Page": "546"
   },
   {
@@ -5567,7 +5567,7 @@
     "Name": "Cognitive mutagen, major",
     "Grade": "N",
     "Category": "Elixir",
-    "Price": "3,000 gp",
+    "Price": 3000,
     "Page": "547"
   },
   {
@@ -5576,7 +5576,7 @@
     "Name": "Juggernaut mutagen, major",
     "Grade": "N",
     "Category": "Elixir",
-    "Price": "3,000 gp",
+    "Price": 3000,
     "Page": "548"
   },
   {
@@ -5585,7 +5585,7 @@
     "Name": "Quicksilver mutagen, major",
     "Grade": "N",
     "Category": "Elixir",
-    "Price": "3,000 gp",
+    "Price": 3000,
     "Page": "549"
   },
   {
@@ -5594,7 +5594,7 @@
     "Name": "Serene mutagen, major",
     "Grade": "N",
     "Category": "Elixir",
-    "Price": "3,000 gp",
+    "Price": 3000,
     "Page": "549"
   },
   {
@@ -5603,7 +5603,7 @@
     "Name": "Silvertongue mutagen, major",
     "Grade": "N",
     "Category": "Elixir",
-    "Price": "3,000 gp",
+    "Price": 3000,
     "Page": "550"
   },
   {
@@ -5612,7 +5612,7 @@
     "Name": "Hemlock",
     "Grade": "N",
     "Category": "Poison",
-    "Price": "2,250 gp",
+    "Price": 2250,
     "Page": "552"
   },
   {
@@ -5621,7 +5621,7 @@
     "Name": "Dragon’s breath potion, wyrm",
     "Grade": "N",
     "Category": "Potion",
-    "Price": "3,000 gp",
+    "Price": 3000,
     "Page": "562"
   },
   {
@@ -5630,7 +5630,7 @@
     "Name": "Scroll of 9th-level spell",
     "Grade": "N",
     "Category": "Scroll",
-    "Price": "3,000 gp",
+    "Price": 3000,
     "Page": "565"
   },
   {
@@ -5639,7 +5639,7 @@
     "Name": "Dispelling sliver",
     "Grade": "N",
     "Category": "Talisman",
-    "Price": "2,400 gp",
+    "Price": 2400,
     "Page": "566"
   },
   {
@@ -5648,7 +5648,7 @@
     "Name": "Anklets of alacrity",
     "Grade": "N",
     "Category": "Apex",
-    "Price": "15,000 gp",
+    "Price": 15000,
     "Page": "603"
   },
   {
@@ -5657,7 +5657,7 @@
     "Name": "Belt of giant strength",
     "Grade": "N",
     "Category": "Apex",
-    "Price": "15,000 gp",
+    "Price": 15000,
     "Page": "603"
   },
   {
@@ -5666,7 +5666,7 @@
     "Name": "Belt of regeneration",
     "Grade": "N",
     "Category": "Apex",
-    "Price": "15,000 gp",
+    "Price": 15000,
     "Page": "603"
   },
   {
@@ -5675,7 +5675,7 @@
     "Name": "Circlet of persuasion",
     "Grade": "N",
     "Category": "Apex",
-    "Price": "15,000 gp",
+    "Price": 15000,
     "Page": "603"
   },
   {
@@ -5684,7 +5684,7 @@
     "Name": "Diadem of intellect",
     "Grade": "N",
     "Category": "Apex",
-    "Price": "15,000 gp",
+    "Price": 15000,
     "Page": "603"
   },
   {
@@ -5693,7 +5693,7 @@
     "Name": "Headband of inspired wisdom",
     "Grade": "N",
     "Category": "Apex",
-    "Price": "15,000 gp",
+    "Price": 15000,
     "Page": "604"
   },
   {
@@ -5702,7 +5702,7 @@
     "Name": "Impenetrable scale",
     "Grade": "U",
     "Category": "Armor",
-    "Price": "12,800 gp",
+    "Price": 12800,
     "Page": "558"
   },
   {
@@ -5711,7 +5711,7 @@
     "Name": "Crystal ball, peridot",
     "Grade": "U",
     "Category": "Held",
-    "Price": "12,500 gp",
+    "Price": 12500,
     "Page": "572"
   },
   {
@@ -5720,7 +5720,7 @@
     "Name": "Ethereal",
     "Grade": "U",
     "Category": "Rune",
-    "Price": "13,500 gp",
+    "Price": 13500,
     "Page": "582"
   },
   {
@@ -5729,7 +5729,7 @@
     "Name": "Shadow, major",
     "Grade": "N",
     "Category": "Rune",
-    "Price": "14,000 gp",
+    "Price": 14000,
     "Page": "583"
   },
   {
@@ -5738,7 +5738,7 @@
     "Name": "Vorpal",
     "Grade": "R",
     "Category": "Rune",
-    "Price": "15,000 gp",
+    "Price": 15000,
     "Page": "585"
   },
   {
@@ -5747,7 +5747,7 @@
     "Name": "Orichalcum buckler, high-grade",
     "Grade": "R",
     "Category": "Shield",
-    "Price": "12,000 gp",
+    "Price": 12000,
     "Page": "587"
   },
   {
@@ -5756,7 +5756,7 @@
     "Name": "Orichalcum shield, high-grade",
     "Grade": "R",
     "Category": "Shield",
-    "Price": "13,200 gp",
+    "Price": 13200,
     "Page": "587"
   },
   {
@@ -5765,7 +5765,7 @@
     "Name": "Wand of 8th-level spell",
     "Grade": "N",
     "Category": "Wand",
-    "Price": "15,000 gp",
+    "Price": 15000,
     "Page": "597"
   },
   {
@@ -5774,7 +5774,7 @@
     "Name": "Wand of continuation 7th",
     "Grade": "N",
     "Category": "Wand",
-    "Price": "15,000 gp",
+    "Price": 15000,
     "Page": "598"
   },
   {
@@ -5783,7 +5783,7 @@
     "Name": "Wand of manifold missiles 7th",
     "Grade": "N",
     "Category": "Wand",
-    "Price": "15,000 gp",
+    "Price": 15000,
     "Page": "598"
   },
   {
@@ -5792,7 +5792,7 @@
     "Name": "Adamantine weapon, high-grade",
     "Grade": "U",
     "Category": "Weapon",
-    "Price": "13,500 gp",
+    "Price": 13500,
     "Page": "599"
   },
   {
@@ -5801,7 +5801,7 @@
     "Name": "Darkwood weapon, high-grade",
     "Grade": "U",
     "Category": "Weapon",
-    "Price": "13,500 gp",
+    "Price": 13500,
     "Page": "599"
   },
   {
@@ -5810,7 +5810,7 @@
     "Name": "Flame tongue, greater",
     "Grade": "N",
     "Category": "Weapon",
-    "Price": "13,800 gp",
+    "Price": 13800,
     "Page": "600"
   },
   {
@@ -5819,7 +5819,7 @@
     "Name": "Luck blade",
     "Grade": "R",
     "Category": "Weapon",
-    "Price": "15,000 gp",
+    "Price": 15000,
     "Page": "601"
   },
   {
@@ -5828,7 +5828,7 @@
     "Name": "Mithral weapon, high-grade",
     "Grade": "U",
     "Category": "Weapon",
-    "Price": "13,500 gp",
+    "Price": 13500,
     "Page": "599"
   },
   {
@@ -5837,7 +5837,7 @@
     "Name": "Alchemist goggles, major",
     "Grade": "N",
     "Category": "Worn",
-    "Price": "15,000 gp",
+    "Price": 15000,
     "Page": "605"
   },
   {
@@ -5846,7 +5846,7 @@
     "Name": "Armbands of athleticism, greater",
     "Grade": "N",
     "Category": "Worn",
-    "Price": "13,000 gp",
+    "Price": 13000,
     "Page": "605"
   },
   {
@@ -5855,7 +5855,7 @@
     "Name": "Cloak of the bat, greater",
     "Grade": "N",
     "Category": "Worn",
-    "Price": "13,000 gp",
+    "Price": 13000,
     "Page": "608"
   },
   {
@@ -5864,7 +5864,7 @@
     "Name": "Daredevil boots, greater",
     "Grade": "N",
     "Category": "Worn",
-    "Price": "14,000 gp",
+    "Price": 14000,
     "Page": "609"
   },
   {
@@ -5873,7 +5873,7 @@
     "Name": "Dread blindfold",
     "Grade": "N",
     "Category": "Worn",
-    "Price": "15,000 gp",
+    "Price": 15000,
     "Page": "610"
   },
   {
@@ -5882,7 +5882,7 @@
     "Name": "Messenger’s ring, greater",
     "Grade": "N",
     "Category": "Worn",
-    "Price": "13,500 gp",
+    "Price": 13500,
     "Page": "613"
   },
   {
@@ -5891,7 +5891,7 @@
     "Name": "Necklace of fireballs type VII",
     "Grade": "N",
     "Category": "Worn",
-    "Price": "9,600 gp",
+    "Price": 9600,
     "Page": "613"
   },
   {
@@ -5900,7 +5900,7 @@
     "Name": "Phylactery of faithfulness, greater",
     "Grade": "N",
     "Category": "Worn",
-    "Price": "13,000 gp",
+    "Price": 13000,
     "Page": "614"
   },
   {
@@ -5909,7 +5909,7 @@
     "Name": "Robe of eyes",
     "Grade": "U",
     "Category": "Worn",
-    "Price": "13,000 gp",
+    "Price": 13000,
     "Page": "615"
   },
   {
@@ -5918,7 +5918,7 @@
     "Name": "Voyager’s pack",
     "Grade": "U",
     "Category": "Worn",
-    "Price": "14,800 gp",
+    "Price": 14800,
     "Page": "617"
   },
   {
@@ -5927,7 +5927,7 @@
     "Name": "King’s sleep",
     "Grade": "N",
     "Category": "Poison",
-    "Price": "4,000 gp",
+    "Price": 4000,
     "Page": "552"
   },
   {
@@ -5936,7 +5936,7 @@
     "Name": "Healing potion, major",
     "Grade": "N",
     "Category": "Potion",
-    "Price": "5,000 gp",
+    "Price": 5000,
     "Page": "563"
   },
   {
@@ -5945,7 +5945,7 @@
     "Name": "Potion of undetectability",
     "Grade": "N",
     "Category": "Potion",
-    "Price": "4,400 gp",
+    "Price": 4400,
     "Page": "563"
   },
   {
@@ -5954,7 +5954,7 @@
     "Name": "+3 greater resilient armor",
     "Grade": "N",
     "Category": "Armor",
-    "Price": "24,000 gp",
+    "Price": 24000,
     "Page": "556"
   },
   {
@@ -5963,7 +5963,7 @@
     "Name": "Breastplate of command, greater",
     "Grade": "N",
     "Category": "Armor",
-    "Price": "22,000 gp",
+    "Price": 22000,
     "Page": "557"
   },
   {
@@ -5972,7 +5972,7 @@
     "Name": "Cold iron armor, high-grade",
     "Grade": "N",
     "Category": "Armor",
-    "Price": "20,000 gp",
+    "Price": 20000,
     "Page": "555"
   },
   {
@@ -5981,7 +5981,7 @@
     "Name": "Silver armor, high-grade",
     "Grade": "N",
     "Category": "Armor",
-    "Price": "20,000 gp",
+    "Price": 20000,
     "Page": "556"
   },
   {
@@ -5990,7 +5990,7 @@
     "Name": "Maestro’s instrument, greater",
     "Grade": "N",
     "Category": "Held",
-    "Price": "19,000 gp",
+    "Price": 19000,
     "Page": "574"
   },
   {
@@ -5999,7 +5999,7 @@
     "Name": "Marvelous medicines, greater",
     "Grade": "N",
     "Category": "Held",
-    "Price": "19,000 gp",
+    "Price": 19000,
     "Page": "574"
   },
   {
@@ -6008,7 +6008,7 @@
     "Name": "Possibility tome",
     "Grade": "N",
     "Category": "Held",
-    "Price": "22,000 gp",
+    "Price": 22000,
     "Page": "574"
   },
   {
@@ -6017,7 +6017,7 @@
     "Name": "Thurible of revelation, greater",
     "Grade": "N",
     "Category": "Held",
-    "Price": "19,000 gp",
+    "Price": 19000,
     "Page": "575"
   },
   {
@@ -6026,7 +6026,7 @@
     "Name": "+3 armor potency",
     "Grade": "N",
     "Category": "Rune",
-    "Price": "20,560 gp",
+    "Price": 20560,
     "Page": "581"
   },
   {
@@ -6035,7 +6035,7 @@
     "Name": "Fortification, greater",
     "Grade": "N",
     "Category": "Rune",
-    "Price": "24,000 gp",
+    "Price": 24000,
     "Page": "582"
   },
   {
@@ -6044,7 +6044,7 @@
     "Name": "Indestructible shield",
     "Grade": "R",
     "Category": "Shield",
-    "Price": "24,000 gp",
+    "Price": 24000,
     "Page": "588"
   },
   {
@@ -6053,7 +6053,7 @@
     "Name": "Reflecting shield",
     "Grade": "U",
     "Category": "Shield",
-    "Price": "18,000 gp",
+    "Price": 18000,
     "Page": "588"
   },
   {
@@ -6062,7 +6062,7 @@
     "Name": "Wand of slaying 8th",
     "Grade": "N",
     "Category": "Wand",
-    "Price": "24,000 gp",
+    "Price": 24000,
     "Page": "598"
   },
   {
@@ -6071,7 +6071,7 @@
     "Name": "Wand of widening 8th",
     "Grade": "N",
     "Category": "Wand",
-    "Price": "24,000 gp",
+    "Price": 24000,
     "Page": "598"
   },
   {
@@ -6080,7 +6080,7 @@
     "Name": "Orichalcum weapon, high-grade",
     "Grade": "R",
     "Category": "Weapon",
-    "Price": "22,500 gp",
+    "Price": 22500,
     "Page": "599"
   },
   {
@@ -6089,7 +6089,7 @@
     "Name": "Storm flash, greater",
     "Grade": "N",
     "Category": "Weapon",
-    "Price": "21,000 gp",
+    "Price": 21000,
     "Page": "602"
   },
   {
@@ -6098,7 +6098,7 @@
     "Name": "Goggles of night, major",
     "Grade": "N",
     "Category": "Worn",
-    "Price": "20,000 gp",
+    "Price": 20000,
     "Page": "610"
   },
   {
@@ -6107,7 +6107,7 @@
     "Name": "Inexplicable apparatus",
     "Grade": "N",
     "Category": "Worn",
-    "Price": "19,000 gp",
+    "Price": 19000,
     "Page": "612"
   },
   {
@@ -6116,7 +6116,7 @@
     "Name": "Ring of maniacal devices, greater",
     "Grade": "N",
     "Category": "Worn",
-    "Price": "21,000 gp",
+    "Price": 21000,
     "Page": "614"
   },
   {
@@ -6125,7 +6125,7 @@
     "Name": "Spellstrike ammunition 9th",
     "Grade": "N",
     "Category": "Ammunition",
-    "Price": "8,000 gp",
+    "Price": 8000,
     "Page": "560"
   },
   {
@@ -6134,7 +6134,7 @@
     "Name": "Elixir of life, true",
     "Grade": "N",
     "Category": "Elixir",
-    "Price": "8,000 gp",
+    "Price": 8000,
     "Page": "548"
   },
   {
@@ -6143,7 +6143,7 @@
     "Name": "Black lotus extract",
     "Grade": "N",
     "Category": "Poison",
-    "Price": "6,500 gp",
+    "Price": 6500,
     "Page": "551"
   },
   {
@@ -6152,7 +6152,7 @@
     "Name": "Scroll of 10th-level spell",
     "Grade": "U",
     "Category": "Scroll",
-    "Price": "8,000 gp",
+    "Price": 8000,
     "Page": "565"
   },
   {
@@ -6161,7 +6161,7 @@
     "Name": "Adamantine armor, high-grade",
     "Grade": "U",
     "Category": "Armor",
-    "Price": "32,000 gp",
+    "Price": 32000,
     "Page": "555"
   },
   {
@@ -6170,7 +6170,7 @@
     "Name": "Darkwood armor, high-grade",
     "Grade": "U",
     "Category": "Armor",
-    "Price": "32,000 gp",
+    "Price": 32000,
     "Page": "555"
   },
   {
@@ -6179,7 +6179,7 @@
     "Name": "Dragonhide armor, high-grade",
     "Grade": "U",
     "Category": "Armor",
-    "Price": "32,000 gp",
+    "Price": 32000,
     "Page": "555"
   },
   {
@@ -6188,7 +6188,7 @@
     "Name": "Mithral armor, high-grade",
     "Grade": "U",
     "Category": "Armor",
-    "Price": "32,000 gp",
+    "Price": 32000,
     "Page": "556"
   },
   {
@@ -6197,7 +6197,7 @@
     "Name": "Crystal ball, obsidian",
     "Grade": "U",
     "Category": "Held",
-    "Price": "32,000 gp",
+    "Price": 32000,
     "Page": "572"
   },
   {
@@ -6206,7 +6206,7 @@
     "Name": "Striking, major",
     "Grade": "N",
     "Category": "Rune",
-    "Price": "31,065 gp",
+    "Price": 31065,
     "Page": "581"
   },
   {
@@ -6215,7 +6215,7 @@
     "Name": "Sturdy shield, supreme",
     "Grade": "N",
     "Category": "Shield",
-    "Price": "40,000 gp",
+    "Price": 40000,
     "Page": "588"
   },
   {
@@ -6224,7 +6224,7 @@
     "Name": "Wand of 9th-level spell",
     "Grade": "N",
     "Category": "Wand",
-    "Price": "40,000 gp",
+    "Price": 40000,
     "Page": "597"
   },
   {
@@ -6233,7 +6233,7 @@
     "Name": "Wand of continuation 8th",
     "Grade": "N",
     "Category": "Wand",
-    "Price": "40,000 gp",
+    "Price": 40000,
     "Page": "598"
   },
   {
@@ -6242,7 +6242,7 @@
     "Name": "+3 major striking weapon",
     "Grade": "N",
     "Category": "Weapon",
-    "Price": "40,000 gp",
+    "Price": 40000,
     "Page": "599"
   },
   {
@@ -6251,7 +6251,7 @@
     "Name": "Luck blade, wishing",
     "Grade": "R",
     "Category": "Weapon",
-    "Price": "30,000 gp",
+    "Price": 30000,
     "Page": "601"
   },
   {
@@ -6260,7 +6260,7 @@
     "Name": "Mattock of the titans",
     "Grade": "U",
     "Category": "Weapon",
-    "Price": "36,000 gp",
+    "Price": 36000,
     "Page": "601"
   },
   {
@@ -6269,7 +6269,7 @@
     "Name": "+3 major striking handwraps of mighty blows",
     "Grade": "N",
     "Category": "Worn",
-    "Price": "40,000 gp",
+    "Price": 40000,
     "Page": "611"
   },
   {
@@ -6278,7 +6278,7 @@
     "Name": "Aeon stone, lavender and green ellipsoid",
     "Grade": "U",
     "Category": "Worn",
-    "Price": "30,000 gp",
+    "Price": 30000,
     "Page": "604"
   },
   {
@@ -6287,7 +6287,7 @@
     "Name": "Berserker’s cloak, greater",
     "Grade": "N",
     "Category": "Worn",
-    "Price": "40,000 gp",
+    "Price": 40000,
     "Page": "606"
   },
   {
@@ -6296,7 +6296,7 @@
     "Name": "Robe of the archmagi, greater",
     "Grade": "U",
     "Category": "Worn",
-    "Price": "32,000 gp",
+    "Price": 32000,
     "Page": "616"
   },
   {
@@ -6305,7 +6305,7 @@
     "Name": "Third eye",
     "Grade": "N",
     "Category": "Worn",
-    "Price": "40,000 gp",
+    "Price": 40000,
     "Page": "616"
   },
   {
@@ -6314,7 +6314,7 @@
     "Name": "Elixir of rejuvenation",
     "Grade": "N",
     "Category": "U",
-    "Price": "Elixir —",
+    "Price": 0,
     "Page": "548"
   },
   {
@@ -6323,7 +6323,7 @@
     "Name": "Antimagic oil",
     "Grade": "R",
     "Category": "Oil",
-    "Price": "13,000 gp",
+    "Price": 13000,
     "Page": "561"
   },
   {
@@ -6332,7 +6332,7 @@
     "Name": "Tears of death",
     "Grade": "N",
     "Category": "Poison",
-    "Price": "12,000 gp",
+    "Price": 12000,
     "Page": "553"
   },
   {
@@ -6341,7 +6341,7 @@
     "Name": "Flying blade wheel snare",
     "Grade": "N",
     "Category": "Snare",
-    "Price": "10,000 gp",
+    "Price": 10000,
     "Page": "590"
   },
   {
@@ -6350,7 +6350,7 @@
     "Name": "Instant evisceration snare",
     "Grade": "N",
     "Category": "Snare",
-    "Price": "10,000 gp",
+    "Price": 10000,
     "Page": "590"
   },
   {
@@ -6359,7 +6359,7 @@
     "Name": "Philosopher’s stone",
     "Grade": "N",
     "Category": "U",
-    "Price": "Tool —",
+    "Price": 0,
     "Page": "554"
   },
   {
@@ -6368,7 +6368,7 @@
     "Name": "+3 major resilient armor",
     "Grade": "N",
     "Category": "Armor",
-    "Price": "70,000 gp",
+    "Price": 70000,
     "Page": "556"
   },
   {
@@ -6377,7 +6377,7 @@
     "Name": "Elven chain, high-grade",
     "Grade": "U",
     "Category": "Armor",
-    "Price": "52,000 gp",
+    "Price": 52000,
     "Page": "555"
   },
   {
@@ -6386,7 +6386,7 @@
     "Name": "Orichalcum armor, high-grade",
     "Grade": "R",
     "Category": "Armor",
-    "Price": "55,000 gp",
+    "Price": 55000,
     "Page": "556"
   },
   {
@@ -6395,7 +6395,7 @@
     "Name": "Resilient, major",
     "Grade": "N",
     "Category": "Rune",
-    "Price": "49,440 gp",
+    "Price": 49440,
     "Page": "581"
   },
   {
@@ -6404,7 +6404,7 @@
     "Name": "Staff of the magi",
     "Grade": "R",
     "Category": "Staff",
-    "Price": "90,000 gp",
+    "Price": 90000,
     "Page": "595"
   },
   {
@@ -6413,7 +6413,7 @@
     "Name": "Wand of slaying 9th",
     "Grade": "N",
     "Category": "Wand",
-    "Price": "70,000 gp",
+    "Price": 70000,
     "Page": "598"
   },
   {
@@ -6422,7 +6422,7 @@
     "Name": "Wand of smoldering fireballs 9th",
     "Grade": "N",
     "Category": "Wand",
-    "Price": "70,000 gp",
+    "Price": 70000,
     "Page": "598"
   },
   {
@@ -6431,7 +6431,7 @@
     "Name": "Wand of widening 9th",
     "Grade": "N",
     "Category": "Wand",
-    "Price": "70,000 gp",
+    "Price": 70000,
     "Page": "598"
   },
   {
@@ -6440,7 +6440,7 @@
     "Name": "Skyhammer",
     "Grade": "R",
     "Category": "Weapon",
-    "Price": "70,000 gp",
+    "Price": 70000,
     "Page": "602"
   },
   {
@@ -6449,7 +6449,7 @@
     "Name": "Bracers of armor type III",
     "Grade": "N",
     "Category": "Worn",
-    "Price": "60,000 gp",
+    "Price": 60000,
     "Page": "607"
   },
   {
@@ -6458,7 +6458,7 @@
     "Name": "Ring of spell turning",
     "Grade": "R",
     "Category": "Worn",
-    "Price": "67,000 gp",
+    "Price": 67000,
     "Page": "615"
   },
   {
@@ -6467,7 +6467,7 @@
     "Name": "Whisper of the first lie",
     "Grade": "R",
     "Category": "Worn",
-    "Price": "60,000 gp",
+    "Price": 60000,
     "Page": "617"
   }
 ]
