@@ -101,21 +101,23 @@
       ],
       "2nd_level": [
         "Acid Arrow",
+		"Scorching Ray",
         "Mirror Image"
       ],
       "3rd_level": [
         "Vampiric Touch",
-        "Chromatic Ray"
+        "Blindness",
+		"Paralyze"
       ]
     },
     "prepared": {
       "2nd_level": [
-	    "Ray of Enfeeblement",
-        "Horizon Thunder Sphere",
+	    "Acid Arrow",
+        "Mirror Image",
 	  ],
       "3rd_level": [
         "Vampiric Touch",
-        "Chromatic Ray"
+        "Shocking Grasp"
       ]
     },
     "known_spells": {},
