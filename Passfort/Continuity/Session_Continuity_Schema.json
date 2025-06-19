@@ -60,14 +60,14 @@
             "type":"string",
             "description":"The name of the NPC."
           },
-		  "personality":{
+          "personality":{
             "type":"string",
             "description":"The unique set of characteristics and traits that distinguish one person from another, encompassing their thoughts, feelings, and behaviors."
-		  },
-		  "relational_disposition":{
+          },
+          "relational_disposition":{
             "type":"string",
             "description":"Relationship tendencies with someone you have feelings for more than Love"
-		  },
+          },
           "encoding_type":{
             "type":"string",
             "description":"The encoding type used for the final goal (e.g., base64)."
@@ -79,8 +79,8 @@
         },
         "required":[
           "npc_name",
-		  "personality",
-		  "relational_disposition",
+          "personality",
+          "relational_disposition",
           "encoding_type",
           "final_goal_encoded"
         ]
@@ -178,15 +178,66 @@
         ]
       }
     },
-	"recent_summary": {
-      "type": "string",
-      "description": "A brief summary of recent session events or story progress."
-	  "readOnly": true
+    "mini_quests":{
+      "type":"array",
+      "description":"A list of system-managed multi-stage mini quests, each encoded in base64 for secrecy.",
+      "items":{
+        "type":"object",
+        "properties":{
+          "quest_id":{
+            "type":"string",
+            "description":"Unique identifier for the quest (e.g., mq001)."
+          },
+          "title":{
+            "type":"string",
+            "description":"Quest title shown to the player."
+          },
+          "status":{
+            "type":"string",
+            "enum":[
+              "locked",
+              "ongoing",
+              "completed"
+            ],
+            "description":"Current status of the quest."
+          },
+          "current_stage":{
+            "type":"integer",
+            "description":"The index of the current stage the player is on. Starts at 0."
+          },
+          "npc_involved":{
+            "type":"array",
+            "description":"List of NPC names directly involved in this quest.",
+            "items":{
+              "type":"string"
+            }
+          },
+          "last_trigger":{
+            "type":"string",
+            "description":"The last in-game timestamp when the quest state was updated."
+          },
+          "encoded_plot_base64":{
+            "type":"string",
+            "description":"Base64-encoded array of quest stages. Each stage includes title, description, trigger condition, and involved NPCs."
+          }
+        },
+        "required":[
+          "quest_id",
+          "title",
+          "status",
+          "encoded_plot_base64"
+        ]
+      }
     },
-	"current_summary": {
-      "type": "string",
-      "description": "A brief summary of current session events or story progress."
-	  "readOnly": false
+    "recent_summary":{
+      "type":"string",
+      "description":"A brief summary of recent session events or story progress.",
+      "readOnly":true
+    },
+    "current_summary":{
+      "type":"string",
+      "description":"A brief summary of current session events or story progress.",
+      "readOnly":false
     }
   },
   "required":[
@@ -194,8 +245,9 @@
     "shared_inventory",
     "npc_goals",
     "emotion_state",
-	"emotion_log",
-	"recent_summary",
-	"current_summary"
+    "emotion_log",
+    "mini_quests",
+    "recent_summary",
+    "current_summary"
   ]
 }
