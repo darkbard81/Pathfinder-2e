@@ -104,6 +104,21 @@
             "type":"string",
             "description":"Current emotional stage (relationship status). Must be one of the predefined values.",
             "enum":[
+			  "Burnout",
+			  "Guilt",
+			  "Longing",
+			  "Testing",
+			  "Avoidance",
+			  "Curiosity",
+			  "Doubt",
+			  "Conflict",
+			  "Playfulness",
+			  "Trust",
+			  "Gratitude",
+			  "Contentment",
+			  "Tenderness",
+			  "Delight",
+			  "Security",
               "Indifference",
               "Recognition",
               "Hostility",
@@ -178,57 +193,6 @@
         ]
       }
     },
-    "mini_quests":{
-      "type":"array",
-      "description":"A list of system-managed multi-stage mini quests, each encoded in base64 for secrecy.",
-      "items":{
-        "type":"object",
-        "properties":{
-          "quest_id":{
-            "type":"string",
-            "description":"Unique identifier for the quest (e.g., mq001)."
-          },
-          "title":{
-            "type":"string",
-            "description":"Quest title shown to the player."
-          },
-          "status":{
-            "type":"string",
-            "enum":[
-              "locked",
-              "ongoing",
-              "completed"
-            ],
-            "description":"Current status of the quest."
-          },
-          "current_stage":{
-            "type":"integer",
-            "description":"The index of the current stage the player is on. Starts at 0."
-          },
-          "npc_involved":{
-            "type":"array",
-            "description":"List of NPC names directly involved in this quest.",
-            "items":{
-              "type":"string"
-            }
-          },
-          "last_trigger":{
-            "type":"string",
-            "description":"The last in-game timestamp when the quest state was updated."
-          },
-          "encoded_plot_base64":{
-            "type":"string",
-            "description":"Base64-encoded JSON array of quest stages. After decoding, must conform to $defs.quest_stage."
-          }
-        },
-        "required":[
-          "quest_id",
-          "title",
-          "status",
-          "encoded_plot_base64"
-        ]
-      }
-    },
     "recent_summary":{
       "type":"string",
       "description":"A brief summary of recent session events or story progress.",
@@ -238,58 +202,15 @@
       "type":"string",
       "description":"A brief summary of current session events or story progress.",
       "readOnly":false
-    }
-  },
-  "required":[
-    "time_track",
-    "shared_inventory",
-    "npc_goals",
-    "emotion_state",
-    "emotion_log",
-    "mini_quests",
-    "recent_summary",
-    "current_summary"
-  ],
-  "$defs":{
-    "quest_stage":{
-      "type":"array",
-      "description":"Decoded structure from encoded_plot_base64. Defines step-by-step structure of a multi-stage mini quest.",
-      "items":{
-        "type":"object",
-        "properties":{
-          "stage":{
-            "type":"integer",
-            "minimum":1,
-            "description":"Stage index, starting from 1."
-          },
-          "title":{
-            "type":"string",
-            "description":"Title of the stage."
-          },
-          "description":{
-            "type":"string",
-            "description":"Narrative for this stage."
-          },
-          "trigger":{
-            "type":"string",
-            "description":"Trigger condition or event."
-          },
-          "npc":{
-            "type":"array",
-            "items":{
-              "type":"string"
-            },
-            "description":"List of involved NPCs for this stage."
-          }
-        },
-        "required":[
-          "stage",
-          "title",
-          "description",
-          "trigger",
-          "npc"
-        ]
-      }
-    }
+    },
+    "required":[
+      "time_track",
+      "shared_inventory",
+      "npc_goals",
+      "emotion_state",
+      "emotion_log"
+      "recent_summary",
+      "current_summary"
+    ]
   }
 }
