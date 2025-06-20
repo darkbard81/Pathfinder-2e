@@ -53,4 +53,4 @@
   - `Lost Omens Society Guide.pdf`
   - `Lost Omens World Guide.pdf`
   - `Rage of Elements.pdf`
-  - `Secrets of Magic.pdf` **주인공 Class**
+  - `Secrets of Magic.pdf` **주인공 Class 정보(Magus)**
