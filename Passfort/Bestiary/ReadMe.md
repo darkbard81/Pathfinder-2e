@@ -11,7 +11,7 @@
   }
 ~~~
 - Level필드로 필터링하여 6개체 선정, Encounter 풀(Pool)로 등록
-- 공식 PDF파일의 Parsing Mathod를 가르켜야함 ANIMATED ARMOR CREATURE 2 => MonsterName CREATURE N
+- 공식 PDF파일의 Parsing Method를 가르켜야함 ANIMATED ARMOR CREATURE 2 => MonsterName CREATURE N
 - 위 내용이 지켜지면 몬스터의 상세 능력치를 가져올 수 있다.
 
 ---
