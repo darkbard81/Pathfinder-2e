@@ -35,7 +35,7 @@
   - `Pathfinder 2nd Edition-Bestiary2.pdf`
   - `Pathfinder 2nd Edition-Bestiary3.pdf`
 
-- 별도 Project에 포함시킨 공식 PDF문서`(참조용)`
+- 별도 Project에 포함시킨 공식 PDF문서`(참조,질문용)`
   - `Advanced Players Guide.pdf`
   - `Bestiary1.pdf`
   - `Bestiary2.pdf`
