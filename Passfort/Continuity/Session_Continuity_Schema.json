@@ -86,113 +86,6 @@
         ]
       }
     },
-    "emotion_state":{
-      "type":"array",
-      "description":"A list of current emotional states between characters.",
-      "items":{
-        "type":"object",
-        "properties":{
-          "from":{
-            "type":"string",
-            "description":"Name of the character or NPC expressing the emotion."
-          },
-          "to":{
-            "type":"string",
-            "description":"Name of the character or NPC who is the target of the emotion."
-          },
-          "stage":{
-            "type":"string",
-            "description":"Current emotional stage (relationship status). Must be one of the predefined values.",
-            "enum":[
-			  "Burnout",
-			  "Guilt",
-			  "Longing",
-			  "Testing",
-			  "Avoidance",
-			  "Curiosity",
-			  "Doubt",
-			  "Conflict",
-			  "Playfulness",
-			  "Trust",
-			  "Gratitude",
-			  "Contentment",
-			  "Tenderness",
-			  "Delight",
-			  "Security",
-              "Indifference",
-              "Recognition",
-              "Hostility",
-              "Stability",
-              "Confusion",
-              "Anxiety",
-              "Affection",
-              "Love",
-              "Possessiveness",
-              "Overprotectiveness",
-              "Jealousy",
-              "Dependency",
-              "Reverence"
-            ]
-          },
-          "last_updated":{
-            "type":"string",
-            "description":"The last in-game timestamp when this emotion state was updated. Example: Day 2 - 19:50"
-          },
-          "last_trigger":{
-            "type":"string",
-            "description":"A short description of the most recent event or trigger that changed this state."
-          }
-        },
-        "required":[
-          "from",
-          "to",
-          "stage",
-          "last_updated",
-          "last_trigger"
-        ]
-      }
-    },
-    "emotion_log":{
-      "type":"array",
-      "description":"Chronological log of all significant emotional events between characters.",
-      "items":{
-        "type":"object",
-        "properties":{
-          "log_id":{
-            "type":"integer",
-            "description":"A unique identifier for this log entry."
-          },
-          "timestamp":{
-            "type":"string",
-            "description":"The in-game time when this emotional event occurred. Example: Day 2 - 19:50"
-          },
-          "from":{
-            "type":"string",
-            "description":"Name of the character or NPC initiating the emotion or event."
-          },
-          "to":{
-            "type":"string",
-            "description":"Name of the character or NPC who is the recipient of the emotion or event."
-          },
-          "trigger":{
-            "type":"string",
-            "description":"The specific action or event that caused the emotion change."
-          },
-          "context":{
-            "type":"string",
-            "description":"Additional context or explanation for the emotional event."
-          }
-        },
-        "required":[
-          "log_id",
-          "timestamp",
-          "from",
-          "to",
-          "trigger",
-          "context"
-        ]
-      }
-    },
     "npc_emotion_memory": {
       "type": "object",
       "properties": {
@@ -261,8 +154,6 @@
       "time_track",
       "shared_inventory",
       "npc_goals",
-      "emotion_state",
-      "emotion_log",
       "npc_emotion_memory",
       "recent_summary",
       "current_summary"
