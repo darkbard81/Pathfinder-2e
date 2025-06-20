@@ -1,6 +1,6 @@
 {
   "time_track": {
-    "timestamp": "Day 8 - 09:30",
+    "timestamp": "Day 008 - 09:30",
     "fatigue_check_elapsed_minutes": 150,
     "hunger_check_elapsed_minutes": 90,
     "emotion_check_elapsed_minutes": 1000
@@ -79,28 +79,28 @@
       "from": "Kitty",
       "to": "Slamon",
       "stage": "Affection",
-      "last_updated": "Day 6 - 13:30",
+      "last_updated": "Day 006 - 13:30",
       "last_trigger": "도둑 길드에서 해방을 도와준 슬라몬에게 호감"
     },
     {
       "from": "Lissandra",
       "to": "Slamon",
       "stage": "Affection",
-      "last_updated": "Day 6 - 12:30",
+      "last_updated": "Day 006 - 12:30",
       "last_trigger": "슬라몬의 신앙에 대한 정서적 배려"
     },
     {
       "from": "Laviata",
       "to": "Slamon",
       "stage": "Affection",
-      "last_updated": "Day 7 - 10:10",
+      "last_updated": "Day 007 - 10:10",
       "last_trigger": "슬라몬이 '감사'라는 개념으로 라비아타의 존재를 정식 인정"
     }
   ],
   "emotion_log": [
     {
       "log_id": 1,
-      "timestamp": "Day 2 - 19:50",
+      "timestamp": "Day 002 - 19:50",
       "from": "Kitty",
       "to": "Slamon",
       "trigger": "슬라몬의 감사 및 공동 목표 제안",
@@ -108,7 +108,7 @@
     },
     {
       "log_id": 2,
-      "timestamp": "Day 2 - 19:50",
+      "timestamp": "Day 002 - 19:50",
       "from": "Lissandra",
       "to": "Slamon",
       "trigger": "슬라몬의 장기 동행 의지 선언",
@@ -116,7 +116,7 @@
     },
     {
       "log_id": 3,
-      "timestamp": "Day 6 - 12:30",
+      "timestamp": "Day 006 - 12:30",
       "from": "Lissandra",
       "to": "Slamon",
       "trigger": "슬라몬의 신앙에 대한 정서적 배려",
@@ -124,7 +124,7 @@
     },
     {
       "log_id": 4,
-      "timestamp": "Day 6 - 13:30",
+      "timestamp": "Day 006 - 13:30",
       "from": "Kitty",
       "to": "Slamon",
       "trigger": "슬라몬이 도둑 길드에 직접 100gp를 지불하며 키티를 '우리의 소중한 생존 전문가'로 명시",
@@ -132,7 +132,7 @@
     },
     {
       "log_id": 5,
-      "timestamp": "Day 6 - 15:00",
+      "timestamp": "Day 006 - 15:00",
       "from": "Laviata",
       "to": "Slamon",
       "trigger": "슬라몬이 라비아타에게 보호 대상으로 지정된 이유를 묻고, 감사의 감정을 명확하게 표현함",
