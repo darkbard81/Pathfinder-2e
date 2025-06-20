@@ -86,59 +86,70 @@
         ]
       }
     },
-    "npc_emotion_memory": {
-      "type": "object",
-      "properties": {
-        "owner": {
-          "type": "array",
-          "items": {
-            "type": "object",
-            "properties": {
-              "npc_name": {
-                "type": "string",
-                "description": "기억을 보유한 NPC의 이름"
+    "npc_emotion_memory":{
+      "type":"object",
+      "properties":{
+        "owner":{
+          "type":"array",
+          "items":{
+            "type":"object",
+            "properties":{
+              "npc_name":{
+                "type":"string",
+                "description":"기억을 보유한 NPC의 이름"
               },
-              "emotion_history": {
-                "type": "array",
-                "items": {
-                  "type": "object",
-                  "properties": {
-                    "target": {
-                      "type": "string",
-                      "description": "감정이 향하는 대상"
+              "emotion_history":{
+                "type":"array",
+                "items":{
+                  "type":"object",
+                  "properties":{
+                    "target":{
+                      "type":"string",
+                      "description":"감정이 향하는 대상"
                     },
-                    "timestamp": {
-                      "type": "string",
-                      "description": "기억이 생성된 시간 (예: 'Day 9 - 10:30')"
+                    "timestamp":{
+                      "type":"string",
+                      "description":"기억이 생성된 시간 (예: 'Day 9 - 10:30')"
                     },
-                    "event": {
-                      "type": "string",
-                      "description": "감정이 발생한 사건 요약"
+                    "event":{
+                      "type":"string",
+                      "description":"감정이 발생한 사건 요약"
                     },
-                    "emotion": {
-                      "type": "string",
-                      "description": "감정의 유형 (예: 'Devotion', 'Neglect')"
+                    "emotion":{
+                      "type":"string",
+                      "description":"감정의 유형 (예: 'Devotion', 'Neglect')"
                     },
-                    "intensity": {
-                      "type": "integer",
-                      "minimum": 0,
-                      "maximum": 10,
-                      "description": "감정의 강도 (0~10)"
+                    "intensity":{
+                      "type":"integer",
+                      "minimum":0,
+                      "maximum":10,
+                      "description":"감정의 강도 (0~10)"
                     },
-                    "residue": {
-                      "type": "string",
-                      "description": "육체적 또는 심리적 감정 잔향"
+                    "residue":{
+                      "type":"string",
+                      "description":"육체적 또는 심리적 감정 잔향"
                     }
                   },
-                  "required": ["target", "timestamp", "event", "emotion", "intensity"]
+                  "required":[
+                    "target",
+                    "timestamp",
+                    "event",
+                    "emotion",
+                    "intensity"
+                  ]
                 }
               }
             },
-            "required": ["npc_name", "emotion_history"]
+            "required":[
+              "npc_name",
+              "emotion_history"
+            ]
           }
         }
       },
-      "required": ["owner"]
+      "required":[
+        "owner"
+      ]
     },
     "recent_summary":{
       "type":"string",
@@ -153,7 +164,7 @@
     "required":[
       "time_track",
       "shared_inventory",
-      "npc_goals",
+      "npc_goals"
       "npc_emotion_memory",
       "recent_summary",
       "current_summary"
