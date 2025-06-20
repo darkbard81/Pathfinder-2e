@@ -10,7 +10,7 @@
 
 ## 01. [캐릭터 시트](https://github.com/darkbard81/Pathfinder-2e/tree/main/CharacterSheet)
 
-## 02. [LastOrigin 캠페인](https://github.com/darkbard81/Pathfinder-2e/tree/main/LastOrigin)
+## 02. [Passfort 캠페인](https://github.com/darkbard81/Pathfinder-2e/tree/main/Passfort)
 
 ## 99. json 스키마파싱
  - interpret LastOrigin_Continuity_schema_V2.md as canonical semantic ruleset
