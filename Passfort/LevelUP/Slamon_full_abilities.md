@@ -289,16 +289,22 @@ Heightened (+1)  The damage increases by 2d6.
 EVOCATION ELECTRICITY  
 Traditions arcane, primal  
 Cast [two-actions] somatic, verbal  
-Range 30 feet; Targets 1 creature  
-Saving Throw basic Reflex  
+Range 30 ft (with option to spend 3 actions for 60 ft & extra effects)
+Target: 1 creature
+Saving Throw: Basic Reflex 
 
-You manifest a sphere of swirling thunder and hurl it at a distant target.  
-The sphere deals 1d6 electricity damage.  
-Critical Success  The target is unaffected.  
-Success  The target takes half damage.  
-Failure  The target takes full damage and is deafened for 1 round.  
-Critical Failure  The target takes double damage and is deafened for 1 minute.  
-Heightened (+1)  Increase the damage by 1d6.
+### 2-action effect:
+- 3d6 electricity damage on a hit
+- On critical success: double damage and dazzled 1 round
+- On a miss: no damage, but if spending an extra action, triggers differently
+- Heightened: +1d6 per higher level
+
+### 3-action casting (holds one round):
+- Range increases to 60 ft
+- On failure, still deals half damage
+- On your next turn, using another 3 actions causes:
+  - Explosion: 2d6 AOE electricity (10‑ft emanation, basic Reflex)
+  - You are sizzling, dealing 1 electricity damage to any creature that grabs or hits you with melee/unarmed attacks for 1 minute
 
 ---
 
