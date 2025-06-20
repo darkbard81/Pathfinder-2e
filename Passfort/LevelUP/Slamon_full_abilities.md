@@ -286,12 +286,13 @@ Heightened (+1)  The damage increases by 2d6.
 ---
 
 ## HORIZON THUNDER SPHERE SPELL 1  
-EVOCATION ELECTRICITY  
-Traditions arcane, primal  
-Cast [two-actions] somatic, verbal  
-Range 30 ft (with option to spend 3 actions for 60 ft & extra effects)
-Target: 1 creature
-Saving Throw: Basic Reflex 
+EVOCATION ELECTRICITY   
+Traditions arcane, primal   
+Cast [two-actions] somatic, verbal   
+Range 30 ft (with option to spend 3 actions for 60 ft & extra effects)   
+Target: 1 creature   
+Saving Throw: Basic Reflex   
+
 
 ### 2-action effect:
 - 3d6 electricity damage on a hit
