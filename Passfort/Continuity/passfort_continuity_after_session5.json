@@ -1,8 +1,8 @@
 {
   "time_track": {
-    "timestamp": "Day 009 - 15:30",
-    "fatigue_check_elapsed_minutes": 630,
-    "hunger_check_elapsed_minutes": 300,
+    "timestamp": "Day 010 - 08:00",
+    "fatigue_check_elapsed_minutes": 0,
+    "hunger_check_elapsed_minutes": 0,
     "emotion_check_elapsed_minutes": 330
   },
   "shared_inventory": {
@@ -16,7 +16,8 @@
       "Scroll of Vampiric Exsanguination",
       "Scroll of Lightning Bolt",
       "Moderate Sturdy Shield",
-      "Lilishya's Firefly Jar (RP)"
+      "Lilishya's Firefly Jar (RP)",
+      "Jadni's Hand-Carved Rune Stone (RP)"
     ]
   },
   "npc_emotion_memory": {
@@ -135,6 +136,19 @@
             "residue": "푸크유는 슬라몬에게 질투 아닌 선제적 매력을 어필하며 다음 방문을 약속하게 유도함"
           }
         ]
+      },
+      {
+        "npc_name": "Jadni",
+        "emotion_history": [
+          {
+            "target": "Slamon",
+            "timestamp": "Day 009 - 17:30",
+            "event": "슬라몬이 룬 트랩이 있는 자드니의 폐허 실험실을 조사하고 무사 귀환함",
+            "emotion": "Trust",
+            "intensity": 6,
+            "residue": "말하지 못한 것을 전했다는 후련함과 떨림"
+          }
+        ]
       }
     ]
   },
@@ -204,5 +218,5 @@
     }
   ],
   "recent_summary": "슬라몬은 아침 일찍 포리프 하우스를 나서 릴리샤의 퀘스트를 수행하였다. 공간이 은폐된 창고를 아르카나로 감지하고 성공적으로 침투, 마법 약초와 주문서를 회수하였다. 릴리샤는 감정 기반 보상을 선택한 슬라몬에게 '반딧불 병(RP)'을 건넸고, 이는 신뢰의 상징으로 기록되었다.\n\n정오 전, 슬라몬은 루미에르를 찾아 감정적 내면을 인정하며 그녀의 헌신을 이끌어냈고, 이후 푸크들의 요리솥에서 푸크미에게는 섬세한 선물로, 푸크유에게는 비밀스런 속삭임으로 감정 연결을 넓혔다. 점심엔 4인분 도시락을 포장하여 포리프 하우스로 귀환, 처음으로 키티・리산드라・라비아타와 함께 식탁을 공유하며 ‘집’의 감각을 모두에게 전달하였다.파티는 늪지대 5층에 진입하여 북동 다리에서 안정된 지형을 확보하고, Will-o'-Wisp를 유인해 기습 전투로 격파했다. 이후 남쪽 복수 유적을 회피하고 북쪽에서 Brood Leech Swarm과 Marsh Giant의 복합 인카운터에 맞섰다. 슬라몬은 Horizon Thunder Sphere를 2라운드 시전하여 폭발 효과와 감전 상태를 실전에서 성공시켰고, 라비아타와 키티, 리산드라의 협공으로 Giant를 격파하였다. 보물상자 수수께끼 두 건을 정답으로 해제하여 고급 주문 스크롤과 방패를 확보하였다. 귀환 후 리산드라가 Treat Wounds를 통해 라비아타를 회복시켰으며, 파티는 포리프 하우스로 복귀하였다.",
-  "current_summary": ""
+  "current_summary": "슬라몬은 자드니의 의뢰를 받고 폐허 #017-B의 룬 실험실을 단독으로 조사하였다. 내부에 설치된 감지 룬의 발광 반응을 유발했으나, 아무런 해체 시도 없이 침묵 속에 통과 조건을 만족해 무사히 귀환하였다. 보상으로는 자드니가 손수 깎은 룬 스톤(RP 아이템)을 받았다. 귀환 후 포리프 하우스에서 푸크유가 방문하여 도시락을 전하며 감정을 드러내었고, 슬라몬은 이를 유쾌하게 받아 넘겼다. 감정적 반응은 다른 동료들에게도 파장을 일으켰으며, 하루의 마지막은 따뜻한 식사와 함께 조용히 마무리되었다."
 }
