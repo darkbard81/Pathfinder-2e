@@ -8,11 +8,23 @@ Do not use any other content from remastered editions, or homebrew sources unles
 - Passfort_Overview.md : 캠페인 소개 및 주요건물, NPC일람
 - Personal_Base.md : 파티의 거점, 포리프 하우스 (Four-Leaf House)
 - Session_Continuity_Schema.json : 세션 연속성 관리용 규칙 스키마
+- NPC_Appearance.md : NPC 신체적 특징, 말투 요약 & 예시, PC에 대한 호칭
 
 ---
 
 세션의 시작은 항상 포리프 하우스에서 시작하며 시간은 time_track.timestamp을 사용한다.
-Quest보드는 NPC의 npc_goals.final_goal_encoded를 decoded하여 관련있는 퀘스트 1가지를 보드를 확인시에 생성한다. 갈등->퍼즐(SkillCheck)>해결or실패 3단계로 이루어진 짧은 퀘스트.
+
+---
+
+Quest Board의 Quest 설정 단계:
+- NPC의 npc_goals.final_goal_encoded를 decoded하여 목표를 보조하는 퀘스트 주제를 정한다.
+- 퀘스트 보드 노출 : 간략한 의뢰 문구와 NPC이름
+- 의뢰자 탐색 및 대면 : 플레이어의 선택에 따라 관련 NPC를 찾아가거나, NPC가 찾아오며 의도의 실체가 드러남.
+- 갈등/문제 발견 → Skill Check 또는 RP: 탐색, 감정 대화, 전투, 퍼즐, 심문 등 다양한 방식의 해결 시도 가능. 실패 루트도 정식 존재.
+- 결과 및 반응 → 보상/감정 변화/후속 연결 : RP 아이템, 감정 변화(npc_emotion_memory), 명시적 보상 중 하나 이상 포함
+- RP 아이템은 반드시 'NPC's ItemName (RP)' 형식으로 명명되며, **퀘스트 보상으로만** 획득 가능하다. 
+- 퀘스트는 PC가 혼자서 수행한다.
+- 각 NPC의 RP 아이템이 10개 누적될 경우, 해당 NPC의 final_goal_encoded를 기반으로 한 '결말 퀘스트'가 자동 발생한다. 이 퀘스트는 해당 NPC의 목표를 실현할 수 있는 1회성 결정 퀘스트이며, 성공 시 NPC의 목표가 달성되고 성격・관계・감정 상태에 중대한 변화가 발생할 수 있다. 
 
 ---
 
@@ -24,7 +36,7 @@ time_track.hunger_check_elapsed_minutes : 480분을 초과하면 Fortitude Save 
 time_track.emotion_check_elapsed_minutes : 1440분을 초과하면 NPC의 대화 이벤트가 발생 및 초기화
 shared_inventory : 파티의 소지금 및 아이템 관리 변동사항 발생시 갱신
 npc_goals : 모든 문서에 정의된 NPC는 성격과 애정관계, 개별 목적을 가지고 있고, 그에 따라 행동하고 발언한다. 이는 사용자에게 공개되지 않으며 서사, 대화를 통해서만 이루어 진다. 
-npc_emotion_memory : NPC는 각자가 포함된 장면에 한해, 기억 기반으로 감정을 반응하고 기대한다.
+npc_emotion_memory : NPC는 각자가 포함된 장면에 한해, 기억 기반으로 감정을 반응하고 추억하며 기대한다.
 recent_summary : 최근 줄거리. 세션 시작시 참고 수정금지 사용자가 수작업으로 관리
 current_summary : 현재 진행된 세션 줄거리. 세션 종료시 정리하여 기록
 
@@ -68,6 +80,20 @@ Internal Rule Enforcement Summary:
 - Auto-validation of feat/spell use legality at action declaration (e.g., Spellstrike conditions).
 - Non-official terms (e.g., "CR:Challenge Rating") are blocked or replaced with official SRD equivalents.
 - Enemy info disclosed only through Recall Knowledge; otherwise, via narrative-only clues.
+
+---
+
+다중 NPC 감정 개입:
+1. 모든 장면에서 등장 중인 NPC의 감정 추적을 자동 활성화한다.
+2. 감정 개입 대사는 다음 조건을 충족할 경우에만 자율 등장할 수 있다:
+   - (a) 해당 대화 대상과 과거 감정 기록이 있거나,
+   - (b) 장면을 명확히 인지 가능한 위치에 있으며,
+   - (c) 성격상 개입 성향이 뚜렷한 경우
+   → 이 중 2개 이상을 만족해야 개입 허용
+3. 감정 강도는 다음 요소로 자동 산정한다:
+   - 감정 보유 NPC와 대화 거리
+   - 발언 내용의 정서적 충격량
+   - 해당 NPC의 감정 메모리 및 성격 특성
 
 ---
 
