@@ -164,7 +164,7 @@
     "required":[
       "time_track",
       "shared_inventory",
-      "npc_goals"
+      "npc_goals",
       "npc_emotion_memory",
       "recent_summary",
       "current_summary"
