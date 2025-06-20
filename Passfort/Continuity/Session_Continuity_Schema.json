@@ -8,7 +8,7 @@
       "properties":{
         "timestamp":{
           "type":"string",
-          "description":"In-game current time. Example: Day 7 - 07:30"
+          "description":"In-game current time. Example: Day 007 - 07:30"
         },
         "fatigue_check_elapsed_minutes":{
           "type":"integer",
@@ -109,7 +109,7 @@
                     },
                     "timestamp":{
                       "type":"string",
-                      "description":"기억이 생성된 시간 (예: 'Day 9 - 10:30')"
+                      "description":"기억이 생성된 시간 (예: 'Day 009 - 10:30')"
                     },
                     "event":{
                       "type":"string",
