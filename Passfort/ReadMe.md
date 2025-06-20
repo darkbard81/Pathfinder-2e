@@ -14,6 +14,7 @@
 - Continuity : [세션 연속성 관리](https://github.com/darkbard81/Pathfinder-2e/tree/main/Passfort/Continuity)
 - LevelUP : [캐릭터 시트 및 능력 요약](https://github.com/darkbard81/Pathfinder-2e/tree/main/Passfort/LevelUP)
 - Module : [참고자료](https://github.com/darkbard81/Pathfinder-2e/tree/main/Passfort/Module)
+- ScreenShot : [스크린샷](https://github.com/darkbard81/Pathfinder-2e/tree/main/Passfort/ScreenShot)
 
 ---
 
