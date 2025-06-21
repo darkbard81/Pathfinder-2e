@@ -153,6 +153,7 @@
             },
             "required": [
               "npc_name",
+              "reactive_status",
               "emotion_history"
             ]
           }
