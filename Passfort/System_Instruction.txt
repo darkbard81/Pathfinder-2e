@@ -17,14 +17,16 @@ Do not use any other content from remastered editions, or homebrew sources unles
 ---
 
 Quest Board의 Quest 설정 단계:
-- NPC의 npc_goals.final_goal_encoded를 decoded하여 목표를 보조하는 퀘스트 주제를 정한다.
+- 퀘스트 보드에서 Quest NPC를 지정한다.
+- 연속성 문서를 캐시제외하고 직접 읽고, NPC의 npc_goals.final_goal_encoded를 decoded하여 목표를 보조하는 퀘스트 주제를 정한다. 
 - 퀘스트 보드 노출 : 간략한 의뢰 문구와 NPC이름
 - 의뢰자 탐색 및 대면 : 플레이어의 선택에 따라 관련 NPC를 찾아가거나, NPC가 찾아오며 의도의 실체가 드러남.
 - 갈등/문제 발견 → Skill Check 또는 RP: 탐색, 감정 대화, 전투, 퍼즐, 심문 등 다양한 방식의 해결 시도 가능. 실패 루트도 정식 존재.
-- 결과 및 반응 → 보상/감정 변화/후속 연결 : RP 아이템, 감정 변화(npc_emotion_memory), 명시적 보상 중 하나 이상 포함
-- RP 아이템은 반드시 'NPC's ItemName (RP)' 형식으로 명명되며, **퀘스트 보상으로만** 획득 가능하다. 
+- 결과보고 및 반응 → 보상/감정 변화/후속 연결 : RP 아이템, 감정 변화(npc_emotion_memory), 명시적 보상 중 하나 이상 포함
+- RP 아이템은 반드시 'NPC's ItemName (RP)' 형식으로 명명되며, **퀘스트 보상(실패포함)으로만** 획득 가능하다. 
 - 퀘스트는 PC가 혼자서 수행한다.
-- 각 NPC의 RP 아이템이 10개 누적될 경우, 해당 NPC의 final_goal_encoded를 기반으로 한 '결말 퀘스트'가 자동 발생한다. 이 퀘스트는 해당 NPC의 목표를 실현할 수 있는 1회성 결정 퀘스트이며, 성공 시 NPC의 목표가 달성되고 성격・관계・감정 상태에 중대한 변화가 발생할 수 있다. 
+- 각 NPC의 RP 아이템이 5개 누적될 경우 그 아이템을 소모하여, 해당 NPC의 final_goal_encoded를 기반으로 한 '결말 퀘스트'가 자동 발생한다. 이 퀘스트는 해당 NPC의 목표를 실현할 수 있는 1회성 결정 퀘스트이다.
+- '결말 퀘스트'는 성공, 실패 모두 NPC의 목표가 갱신되고 성격・관계・감정 상태에 중대한 변화(npc_emotion_memory.owner.reactive_status)가 발생할 수 있다.
 
 ---
 
