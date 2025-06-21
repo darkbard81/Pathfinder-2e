@@ -25,7 +25,7 @@
     "owner": [
       {
         "npc_name": "Kitty",
-		"reactive_status": "Nomal",
+		"reactive_status": "Normal",
         "emotion_history": [
           {
             "target": "Slamon",
@@ -47,7 +47,7 @@
       },
       {
         "npc_name": "Lissandra",
-		"reactive_status": "Nomal",
+		"reactive_status": "Normal",
         "emotion_history": [
           {
             "target": "Slamon",
@@ -69,7 +69,7 @@
       },
       {
         "npc_name": "Laviata",
-		"reactive_status": "Nomal",
+		"reactive_status": "Normal",
         "emotion_history": [
           {
             "target": "Slamon",
@@ -83,7 +83,7 @@
       },
       {
         "npc_name": "Lumiere",
-		"reactive_status": "Nomal",
+		"reactive_status": "Normal",
         "emotion_history": [
           {
             "target": "Slamon",
@@ -105,7 +105,7 @@
       },
       {
         "npc_name": "Lilishya",
-		"reactive_status": "Nomal",
+		"reactive_status": "Normal",
         "emotion_history": [
           {
             "target": "Slamon",
@@ -119,7 +119,7 @@
       },
       {
         "npc_name": "Pookmi",
-		"reactive_status": "Nomal",
+		"reactive_status": "Normal",
         "emotion_history": [
           {
             "target": "Slamon",
@@ -133,7 +133,7 @@
       },
       {
         "npc_name": "Pookyu",
-		"reactive_status": "Nomal",
+		"reactive_status": "Normal",
         "emotion_history": [
           {
             "target": "Slamon",
@@ -147,7 +147,7 @@
       },
       {
         "npc_name": "Jadni",
-		"reactive_status": "Nomal",
+		"reactive_status": "Normal",
         "emotion_history": [
           {
             "target": "Slamon",
