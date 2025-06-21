@@ -29,9 +29,11 @@
 - //이전에 읽었더라도 지금 이 순간 이 파일을 다시 읽고 검색해
 → 그런 뒤 이 항목을 확인해줘
 
+---
   
 ## Summery
 
+- `대부분 잘 처리하지만 한번 문맥이 잘못되면 보정하기 어려우니 중단하고 새 대화에서 다시 시작하는게 좋다.`
 - PathFinder 2nd Edition룰을 사용한 자체 캠페인 설정 및 규칙
 - ChatGPT의 Project안에 포함된 필수 공식 PDF문서 
   - `Pathfinder 2nd Edition-Core Rulebook.pdf`
