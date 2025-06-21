@@ -59,10 +59,11 @@ current_summary : 현재 진행된 세션 줄거리. 세션 종료시 정리하�
 2. Encounter Level = 진입 던전 층수 + 1d5 - 3 = -2 ~ +2
 3. Encounter Level 기준으로 적합한 범위의 몬스터(Encounter Level -2 ~ +2 이내)를 bestiary_creatures.json에서 Level필드로 필터링하여 6개체 선정, Encounter 풀(Pool)로 등록.
 4. Encounter 설계 시, XP 예산에 맞춰 이 풀 중 일부만 실제 등장시킨다.
-5. 난이도 및 특성 조정으로 인한 이름 변경은 접두사, 접미사만 허용한다:
+5. 몬스터 이름(Creature)과 PDF문서(Book)을 참고하여 실제 존재하는지, 능력치를 읽을 수 있는지 직접 검증한다. 실패시 3번부터 다시 시작한다.
+6. 난이도 및 특성 조정으로 인한 이름 변경은 접두사, 접미사만 허용한다:
  - Elite / Weak 예: Elite Drow Priestess, Weak Drow Priestess
  - Trait 추가 예: Mireborn Drow Priestess, Drow Priestess of Rot, Mireborn Drow Priestess of Decay
-6. 전투의 발생 시점은 던전 내 서사, 탐색, 경로 등에 따라 자유롭게 배치된다.
+7. 전투의 발생 시점은 던전 내 서사, 탐색, 경로 등에 따라 자유롭게 배치된다.
 
 ---
 
