@@ -35,11 +35,11 @@
 
 - `대부분 잘 처리하지만 한번 문맥이 잘못되면 보정하기 어려우니 중단하고 새 대화에서 다시 시작하는게 좋다.`
 - PathFinder 2nd Edition룰을 사용한 자체 캠페인 설정 및 규칙
-- ChatGPT의 Project안에 포함된 필수 공식 PDF문서 
-  - `Pathfinder 2nd Edition-Core Rulebook.pdf`
-  - `Pathfinder 2nd Edition-Bestiary1.pdf`
-  - `Pathfinder 2nd Edition-Bestiary2.pdf`
-  - `Pathfinder 2nd Edition-Bestiary3.pdf`
+- ChatGPT의 Project안에 포함된 필수 Pathfinder 2nd Edition 공식 PDF문서 
+  - `Core Rulebook.pdf`
+  - `Bestiary1.pdf`
+  - `Bestiary2.pdf`
+  - `Bestiary3.pdf`
 
 - 별도 Project에 포함시킨 공식 PDF문서`(참조,질문용)`
   - `Advanced Players Guide.pdf`
