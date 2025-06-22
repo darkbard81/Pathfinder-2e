@@ -106,7 +106,7 @@
               },
               "reactive_status": {
                 "type": "string",
-                "description": "The current emotional lens through which the NPC interprets PC's words and actions (e.g., 'Normal', 'HostileDenial', 'MoralRejection')."
+                "description": "The current emotional lens through which the NPC interprets PC's words and actions (e.g., 'Normal', 'Negative Filtering', 'Identity Threat')."
               },
               "emotion_history": {
                 "type": "array",
