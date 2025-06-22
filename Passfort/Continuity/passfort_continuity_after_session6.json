@@ -16,7 +16,7 @@
       "Scroll of Vampiric Exsanguination",
       "Scroll of Lightning Bolt",
       "Moderate Sturdy Shield",
-      "Lilishya's Firefly Jar (RP)",
+      "Lilishya's Firefly Jar – 릴리몬 각인됨 (RP)",
       "Jadni's Hand-Carved Rune Stone (RP)",
       "Sea Touch Elixir, Moderate (300gp)"
     ]
@@ -114,6 +114,14 @@
             "emotion": "Trust",
             "intensity": 6,
             "residue": "릴리샤는 슬라몬의 손에 직접 병을 쥐어주며, ‘그때 꼭 가볼게’라고 말함. 감정의 파동은 천천히 오래 남음."
+          },
+          {
+             "target": "Slamon",
+             "timestamp": "Day 010 - 10:20",
+             "event": "슬라몬이 ‘감정 잔재’를 병에 담아 직접 반환하고, ‘릴리몬’이라 이름 붙임",
+             "emotion": "Resonance",
+             "intensity": 6,
+             "residue": "릴리샤는 놀란 듯 웃으며, 끝내 등을 돌리지 않고 눈맞춤을 유지"
           }
         ]
       },
