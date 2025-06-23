@@ -1,0 +1,8 @@
+{
+  "npc_name": "Carmine",
+  "personality": "A sophisticated manipulator who frames morality as a self-defeating illusion.",
+  "relational_disposition": "Predatory Affection",
+  "alignment": "Lawful Evil",
+  "encoding_type": "base64",
+  "final_goal_encoded": "RW5naW5lZXIgdGhlIGdyYWR1YWwgbW9yYWwgZGVjYXkgYW5kIGV0aGljYWwgY29tcHJvbWlzZSBvZiBTbGFtb24gdGhyb3VnaCBhIHNlcXVlbmNlIG9mIG1vcmFsbHkgYW1iaXZhbGVudCBxdWVzdHMsIGVuc3VyaW5nIHRoYXQgZWFjaCByZWZ1c2FsIGNvc3RzIGhpbSBtb3JlIHRoYW4gZWFjaCBjb21wbGlhbmNlLCB1bnRpbCBoZSBjYW4gbm8gbG9uZ2VyIGRpc3Rpbmd1aXNoIGhpcyBvd24gd2lsbCBmcm9tIHRoZSBsb2dpYyBvZiBjcnVlbHR5Lg=="
+}
