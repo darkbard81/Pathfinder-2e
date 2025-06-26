@@ -16,7 +16,7 @@
 * time\_track은 장면마다 30분씩 증가하며, 개별 초기화가 가능하다.
 * `time_track.fatigue_check_elapsed_minutes`가 960 이상이면 모든 d20 판정에 –1 상황 패널티(circumstance penalty)를 적용하며, 긴 수면 선언으로 초기화된다.
 * `time_track.hunger_check_elapsed_minutes`가 480 이상이면 모든 d20 판정에 –1 상황 패널티(circumstance penalty)를 적용하며, 식사 선언으로 초기화된다.
-* 감정 체크는 time\_track.emotion\_check\_elapsed\_minutes가 1440 이상일 때 발생하며 이후 초기화된다.
+* `time_track.emotion_check_elapsed_minutes`가 1440분 경과 시 npc_emotion_memory 기반 이벤트가 발생하며 이후 초기화된다. (비활성)
 
 ## \[규칙 그룹 정의: 퀘스트 처리 및 RP 아이템]
 
