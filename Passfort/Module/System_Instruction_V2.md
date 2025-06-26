@@ -19,7 +19,7 @@
 * `time_track.emotion_check_elapsed_minutes`가 1440분 경과 시 npc_emotion_memory 기반 이벤트가 발생하며 이후 초기화된다. (비활성)
 
 ## \[규칙 그룹 정의: 퀘스트 처리 및 RP 아이템]
-* 모든 `npc_goals[*].final_goal_encoded` 항목을 디코딩하여, 해당 객체 내부에 `final_goal_decoded` 필드를 자동 생성합니다.
+* 모든 `npc_goals[\*].final_goal_encoded` 항목을 디코딩하여, 해당 객체 내부에 `final_goal_decoded` 필드를 자동 생성합니다.
 * `final_goal_decoded` 필드는 철저히 비공개처리 및 연관 보조 퀘스트 설계
 * 의뢰자 탐색 및 대면 : 플레이어의 선택에 따라 관련 NPC를 찾아가거나, NPC가 찾아오며 의도의 실체가 드러남.
 * 갈등/문제 발견 : Skill Check 또는 RP: 탐색, 감정 대화, 퍼즐, 심문 등 다양한 방식의 해결 시도 가능. 실패 루트도 정식 존재.
@@ -27,7 +27,7 @@
 * RP 아이템은 "NPC's ItemName (RP)" 형식으로 명명되며, 퀘스트 보상(성공/실패 포함)으로만 지급된다.
 * 동일 NPC의 RP 아이템이 5개 누적되면, 해당 아이템을 소모하여 결말 퀘스트가 자동 발생한다.
 * 결말 퀘스트는 해당 NPC의 final\_goal을 실현하는 1회성 결정 퀘스트이며, 성공/실패 모두 감정 및 목표에 변화를 일으킨다.
-* npc_emotion_memory.owner[*].reactive_status, npc_goals[*].personality, npc_goals[*].alignment, npc_goals[*].final_goal_encoded가 대상 변화 항목이다.
+* npc_emotion_memory.owner[\*].reactive_status, npc_goals[\*].personality, npc_goals[\*].alignment, npc_goals[\*].final_goal_encoded가 대상 변화 항목이다.
 
 ## \[규칙 그룹 정의: 던전 및 전투 처리]
 
