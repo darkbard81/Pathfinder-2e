@@ -128,3 +128,82 @@ When you gain the transcendence class feature, this evolves to the full benefits
 
 Your eidolon’s angelic power allows them to assuage a variety of ailments, just like most other powerful angels. Your eidolon can cast *remove curse*, *remove disease*, *remove fear*, and *remove paralysis* once per day each as 9th-level divine innate spells.
 
+---
+
+## ANGER PHANTOM EIDOLON
+
+Your eidolon is a lost soul, bound to the mortal world by undying anger or a bitter grudge. Most phantom eidolons are humanoids with a spectral or ectoplasmic appearance, though some take far stranger forms. Your link with your eidolon prevents it from succumbing to corruption and undeath. Together, you will need to decide whether to work with your eidolon to control its anger, or channel its wrath into power.
+
+### Tradition
+
+Occult
+
+### Traits
+
+eidolon, ethereal, phantom
+
+### Home Plane
+
+Ethereal Plane
+
+### Size
+
+Medium or Small
+
+### Suggested Attacks
+
+Fist (bludgeoning), tendril (bludgeoning), unarmed attacks shaped like a weapon
+
+### Eidolon Array
+
+* **Wrathful Berserker**: Str 18, Dex 14, Con 16, Int 8, Wis 10, Cha 12; +2 AC (+3 Dex cap)
+* **Enraged Assassin**: Str 14, Dex 18, Con 16, Int 10, Wis 8, Cha 12; +1 AC (+4 Dex cap)
+
+### Skills
+
+Intimidation, Occultism
+
+### Senses
+
+Darkvision
+
+### Language
+
+One common mortal language the eidolon spoke in life
+
+### Speed
+
+25 feet
+
+### Eidolon Abilities
+
+* **Initial**: Furious Strike
+* **Symbiosis**: Seething Frenzy
+* **Transcendence**: Anger Aura
+
+#### Furious Strike
+
+Your eidolon can infuse an attack with unmitigated rage. It gains the Furious Strike activity.
+
+**FURIOUS STRIKE** \[two-actions]
+**Trait** [EIDOLON]
+Your eidolon channels its anger into a furious attack. It makes a melee Strike. This counts as two attacks when calculating your multiple attack penalty. If this Strike hits, your eidolon deals an extra die of weapon damage and gains a +1 circumstance bonus to the damage roll.
+
+* At 10th level: 2 extra dice, +2 bonus
+* At 18th level: 3 extra dice, +3 bonus
+
+#### Seething Frenzy *(7th)*
+
+Your eidolon can stoke itself into a frenzy. It gains the Seething Frenzy action.
+
+**SEETHING FRENZY** \[one-action]
+**Trait** [CONCENTRATE, EIDOLON, EMOTION, MENTAL]
+Your eidolon’s fury boils over into a reckless, out-of-control frenzy. While frenzied, your eidolon is affected by *boost eidolon* and gains temporary Hit Points equal to your level, but it takes a –2 penalty to AC. It can’t voluntarily end the frenzy or start another while frenzied. The frenzy lasts for 1 minute, after which it’s fatigued for 1 minute and can’t start another for 1 minute.
+
+#### Anger Aura *(17th)*
+
+Your eidolon exudes wrath in an aura around it, rousing the ire of nearby creatures and causing their defenses to crack as they seethe with rage. Your eidolon gains a 20-foot anger aura, which has the **aura**, **emotion**, **enchantment**, **mental**, and **occult** traits.
+
+* The resistances of all creatures in the aura (including you, your allies, your enemies, and your eidolon) are reduced by an amount equal to 3 + your eidolon’s Constitution modifier.
+* Your eidolon can suppress the aura by spending a single action (concentrate). This limits the effect to the eidolon alone. Repeating the action reinstates full effect.
+* Creatures in a **Rage**, **Seething Frenzy**, or similar anger-channeling state are unaffected by the anger aura.
