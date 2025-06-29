@@ -639,3 +639,152 @@ Your eidolon’s fey magic becomes more powerful and mischievous. Your eidolon g
 
 Ever full of tricks, your fey eidolon twists magical protections into your shared life force, granting it a contingency in its back pocket for desperate situations. During your daily preparations, your eidolon can cast a *contingency* spell. The 4th-level spell it chooses must come from the primal or fey gift list, and must either be common or be another spell you have access to.
 
+---
+
+## PLANT EIDOLON
+
+Your eidolon is an intelligent plant, formed from the same disembodied fragments of nature’s life energy that become leshys. Plant eidolons tend to be curious and adaptable, with temperaments based on the parts of mortal culture they feel affinity toward. Despite coming from the same source, plant eidolons don’t always look like leshys. Plant eidolons have forms that vary greatly and can look like almost any kind of plant creature in existence. Some even resemble plant creatures so strange they are impossible to identify.
+
+### Tradition
+
+Primal
+
+### Traits
+
+eidolon, plant
+
+### Home Plane
+
+Material Plane
+
+### Size
+
+Medium
+
+### Suggested Attacks
+
+Vine (bludgeoning), branch (bludgeoning), root (bludgeoning)
+
+### Eidolon Array
+
+* **Guardian Plant**: Str 18, Dex 14, Con 16, Int 8, Wis 12, Cha 10; +2 AC (+3 Dex cap)
+* **Creeping Plant**: Str 12, Dex 18, Con 16, Int 8, Wis 14, Cha 10; +1 AC (+4 Dex cap)
+
+### Skills
+
+Nature, Survival
+
+### Senses
+
+Low-light vision
+
+### Language
+
+Sylvan
+
+### Speed
+
+25 feet
+
+### Eidolon Abilities
+
+* **Initial**: Tendril Strike
+* **Symbiosis**: Growing Vines
+* **Transcendence**: Field of Roots
+
+#### Tendril Strike
+
+**TENDRIL STRIKE** \[one-action]
+**Traits** [EIDOLON]
+Stretching to extend its body to its limits, your eidolon attacks a foe that would normally be beyond its reach. Your eidolon makes a melee unarmed Strike, increasing its reach by 5 feet for that Strike. If the unarmed attack has the disarm, shove, or trip trait, the eidolon can use the corresponding action instead of a Strike.
+
+#### Growing Vines *(7th)*
+
+Your eidolon’s vines and branches lengthen even more. All your eidolon’s melee unarmed attacks gain the reach trait.
+
+#### Field of Roots *(17th)*
+
+**FIELD OF ROOTS** \[two-actions]
+**Traits** [EIDOLON]
+Your eidolon extends its roots underground to entangle and possibly damage all foes nearby. All enemies within your eidolon’s reach take damage of the same type and amount as your eidolon’s most damaging Strike, depending on their Reflex saves. Any ongoing effects of the save last until the enemy either Escapes or leaves your eidolon’s reach.
+
+After using Field of Roots, your eidolon is immobilized until it takes a single action, which has the manipulate trait, to detach from the ground; this also ends any remaining effects on enemies from Field of Roots.
+
+* **Critical Success**: The enemy is unaffected.
+* **Success**: The enemy takes no damage, but takes a –10-foot circumstance penalty to its Speeds.
+* **Failure**: The enemy takes half damage, takes a –10-foot circumstance penalty to its Speeds, and, at the end of each of its turns, takes half damage again.
+* **Critical Failure**: The enemy is immobilized, takes full damage, and, at the end of each of its turns, takes full damage again.
+
+---
+
+## PSYCHOPOMP EIDOLON
+
+Your eidolon is a psychopomp, a creature whose sworn duty is to usher souls safely to the afterlife and maintain the courts of the dead. Psychopomp eidolons have a variety of appearances, but since they often traffic with mortals, their form typically includes an elaborate mask. You and your psychopomp eidolon share an important fate together, whether it relates directly to your own soul or to a mission that will somehow protect the souls of others.
+
+### Tradition
+
+Divine
+
+### Traits
+
+eidolon, monitor, psychopomp
+
+### Alignment
+
+Must be true neutral
+
+### Home Plane
+
+The Boneyard
+
+### Size
+
+Medium
+
+### Suggested Attacks
+
+Beak (piercing), claw (slashing), fist (bludgeoning), jaws (piercing), unarmed attacks shaped like a weapon
+
+### Eidolon Array
+
+* **Soul Guardian**: Str 18, Dex 14, Con 16, Int 10, Wis 12, Cha 8; +2 AC (+3 Dex cap)
+* **Scribe of the Dead**: Str 12, Dex 18, Con 12, Int 14, Wis 12, Cha 10; +1 AC (+4 Dex cap)
+
+### Skills
+
+Intimidation, Religion
+
+### Senses
+
+Darkvision
+
+### Language
+
+Requian
+
+### Speed
+
+25 feet
+
+### Eidolon Abilities
+
+* **Initial**: Spirit Touch
+* **Symbiosis**: Hidden Watcher
+* **Transcendence**: Spirit Taker
+
+#### Spirit Touch
+
+Your eidolon’s attacks possess a psychopomp’s ability to harm the living and the dead. Your eidolon’s unarmed Strikes affect incorporeal creatures as though etched with a ghost touch property rune and deal an extra 1 negative damage to living creatures and an extra 1 positive damage to undead.
+
+#### Hidden Watcher *(7th)*
+
+Your eidolon can render both of you unseen. Once per hour, it can cast *invisibility* targeting you, them, or both of you at once. If the spell targeted both of you, the spell ends for both of you if either of you uses a hostile action.
+
+#### Spirit Taker *(17th)*
+
+Your eidolon is particularly capable when it comes to handling bodiless spirits and putting undead to their final rest. Your eidolon can see incorporeal creatures inside of solid objects and can attack them with Strikes without penalty; an incorporeal creature in a solid object that takes damage from your eidolon’s Strike is expelled from the object to the nearest available space, moving closer to your eidolon if possible.
+
+Additionally, your eidolon can target or affect a creature projecting its consciousness (such as via *project image*) or possessing another creature, even if its body is elsewhere, though your eidolon must know about the possession or projection and choose to do so.
+
+Finally, the spirit of an undead destroyed by your eidolon’s Strikes is sent directly to the Boneyard for judgment; an undead with an ability to avoid such a fate automatically, such as a ghost’s rejuvenation, can attempt a counteract check against your spell DC to return via that ability as normal. In that case, it uses its Will save modifier as its counteract modifier.
+
