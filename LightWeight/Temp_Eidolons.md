@@ -494,3 +494,148 @@ Your eidolon’s dedication makes it extremely challenging for your foes to bend
 
 After fighting at your side for so long, your eidolon has become as devoted to protecting you and your allies as it is to its original cause. It gains a 20-foot devotion aura, which has the abjuration, aura, and occult traits. Whenever one of your eidolon’s allies within the aura takes damage, you can reduce the damage by your eidolon’s Constitution modifier. You lose a number of Hit Points equal to half the amount by which the eidolon reduced the damage, rounded down. If the damage was lower than the Constitution modifier, base the damage you take on the actual amount of damage prevented.
 
+---
+
+## DRAGON EIDOLON
+
+Because dragons have a strong connection to magic, their minds can often leave an echo floating in the Astral Plane. Such an entity is extremely powerful but unable to interact with the outside world on its own. Dragon eidolons manifest in the powerful, scaled forms they had in life; most take the form of true dragons (albeit smaller), but some manifest as drakes or other draconic beings. You have forged a connection with such a dragon eidolon and together, you seek to grow as powerful as an ancient wyrm.
+
+### Tradition
+
+Arcane
+
+### Traits
+
+astral, dragon, eidolon, and one more (see Breath Weapon below)
+
+### Home Plane
+
+Astral Plane
+
+### Size
+
+Medium
+
+### Suggested Attacks
+
+Claw (slashing), jaws (piercing), horn (piercing), tail (bludgeoning), wing (bludgeoning)
+
+### Eidolon Array
+
+* **Marauding Dragon**: Str 18, Dex 14, Con 16, Int 10, Wis 10, Cha 10; +2 AC (+3 Dex cap)
+* **Cunning Dragon**: Str 12, Dex 18, Con 12, Int 14, Wis 10, Cha 12; +1 AC (+4 Dex cap)
+
+### Skills
+
+Arcana, Intimidation
+
+### Senses
+
+Darkvision
+
+### Language
+
+Draconic
+
+### Speed
+
+25 feet
+
+### Eidolon Abilities
+
+* **Initial**: Breath Weapon
+* **Symbiosis**: Draconic Frenzy
+* **Transcendence**: Wyrm’s Breath
+
+#### Breath Weapon
+
+**BREATH WEAPON** \[two-actions]
+**Traits** [ARCANE, EIDOLON, EVOCATION]
+Your eidolon exhales a blast of destructive energy. Your eidolon deals 1d6 damage to all creatures in the area, with a basic Reflex save against your spell DC.
+
+* Choose a damage type from among acid, cold, electricity, fire, negative, piercing, or poison.
+* Choose a 60-foot line or a 30-foot cone.
+* Unless you chose piercing damage, both Breath Weapon and your eidolon gain the trait matching the damage type.
+* Your eidolon then can’t use their Breath Weapon again for the next 1d4 rounds.
+* At 3rd level and every 2 levels thereafter, the damage increases by 1d6.
+
+#### Draconic Frenzy *(7th)*
+
+**DRACONIC FRENZY** \[two-actions]
+**Traits** [EIDOLON]
+Your eidolon makes one Strike with their primary unarmed attack and two Strikes with their secondary unarmed attack (in any order). If any of these attacks critically hits an enemy, your eidolon instantly recovers the use of their Breath Weapon.
+
+#### Wyrm’s Breath *(17th)*
+
+**WYRM’S BREATH** \[free-action]
+**Traits** [CONCENTRATE, EIDOLON]
+**Frequency** once per minute
+Your eidolon gathers the power of the mightiest wyrms to make its magical breath even more spectacular. If your eidolon’s next action is to use Breath Weapon, both the number of damage dice and area of the Breath Weapon are doubled.
+
+---
+
+## FEY EIDOLON
+
+Your eidolon is a fey, a capricious being of the mysterious First World. Many fey appear similar to mortal humanoids with unusual features such as pointed ears, wings, or bodies composed of natural elements, but the full variety of fey is endless, and many others appear completely inhuman. Fey from the First World never truly die, instead forming a new creature. Fey eidolons usually come about when a summoner helps stabilize a difficult reformation. This means your fey eidolon likely lived a different life just before meeting you and might remember fragments of its old memories. Together, you might have to unravel a memory from your eidolon’s past life among the fey.
+
+### Tradition
+
+Primal (but see Fey Gift Spells below)
+
+### Traits
+
+eidolon, fey
+
+### Home Plane
+
+First World
+
+### Size
+
+Small or Medium
+
+### Suggested Attacks
+
+Fist (bludgeoning), wing (bludgeoning), attacks shaped like a weapon
+
+### Eidolon Array
+
+* **Skirmisher Fey**: Str 14, Dex 18, Con 14, Int 10, Wis 10, Cha 12; +1 AC (+4 Dex cap)
+* **Trickster Fey**: Str 12, Dex 18, Con 12, Int 12, Wis 8, Cha 16; +1 AC (+4 Dex cap)
+
+### Skills
+
+Deception, Nature
+
+### Senses
+
+Low-light vision
+
+### Language
+
+Sylvan
+
+### Speed
+
+25 feet
+
+### Eidolon Abilities
+
+* **Initial**: Fey Gift Spells
+* **Symbiosis**: Fey Mischief
+* **Transcendence**: Fey Chicanery
+
+#### Fey Gift Spells
+
+Your eidolon expands your primal magic with enchantment and illusion magic, allowing both of you to wield the power of fey charm and glamour.
+When you add spells to your repertoire, you can choose from the primal list as well as from enchantment and illusion spells that appear on the arcane spell list. As usual for when you add spells of a different tradition to your spell list, you’re still a primal spellcaster, so all of your spells are primal spells.
+Your eidolon gains the *Magical Understudy* summoner feat, despite not meeting the prerequisite level, and it can choose fey gift cantrips in addition to primal cantrips. As usual for a feat you are granted by name, you can’t retrain *Magical Understudy* into another feat.
+
+#### Fey Mischief *(7th)*
+
+Your eidolon’s fey magic becomes more powerful and mischievous. Your eidolon gains the *Magical Adept* feat, despite not meeting the prerequisite level, and can choose from fey gift spells in addition to primal spells.
+
+#### Fey Chicanery *(17th)*
+
+Ever full of tricks, your fey eidolon twists magical protections into your shared life force, granting it a contingency in its back pocket for desperate situations. During your daily preparations, your eidolon can cast a *contingency* spell. The 4th-level spell it chooses must come from the primal or fey gift list, and must either be common or be another spell you have access to.
+
