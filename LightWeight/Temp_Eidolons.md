@@ -346,3 +346,151 @@ Your construct eidolon is particularly easy to reconfigure, gaining an additiona
 
 Your construct eidolon becomes even more customizable. Choose an evolution feat of 16th level or lower. Your eidolon gains that feat. You can spend downtime to adjust it using Crafting, just like the feat from *Reconfigured Evolution*. Many summoners select *Ever-Vigilant Senses* for this ability.
 
+---
+
+## DEMON EIDOLON
+
+Your eidolon is a demon, born of mortal sin congealed amid the chaos and evil of the Abyss, using its link to you to spread chaos at your side. Choose an associated sin for your demon. Demon eidolons have appearances as varied as the infinite Abyss. While demons are inherently untrustworthy, your demon eidolon has reached an accord with you and generally keeps it, though that doesn’t mean your eidolon isn’t actively working to bring your life deeper into its associated sin.
+
+Though a true demon, your demon eidolon’s link to you as a mortal prevents them from casting the abyssal pact ritual, even if they somehow learn it.
+
+### Tradition
+
+Divine
+
+### Traits
+
+demon, eidolon, fiend
+
+### Alignment
+
+Must be chaotic evil
+
+### Home Plane
+
+The Abyss
+
+### Size
+
+Medium or Small
+
+### Suggested Attacks
+
+Claw (slashing), jaws (piercing), horn (piercing), tail (bludgeoning), tentacle (bludgeoning), wing (bludgeoning)
+
+### Eidolon Array
+
+* **Wrecker Demon**: Str 18, Dex 14, Con 16, Int 10, Wis 8, Cha 12; +2 AC (+3 Dex cap)
+* **Tempter Demon**: Str 12, Dex 18, Con 12, Int 10, Wis 10, Cha 16; +1 AC (+4 Dex cap)
+
+### Skills
+
+Intimidation, Religion
+
+### Senses
+
+Darkvision
+
+### Language
+
+Abyssal
+
+### Speed
+
+25 feet
+
+### Eidolon Abilities
+
+* **Initial**: Demonic Strikes
+* **Symbiosis**: Visions of Sin
+* **Transcendence**: Blasphemous Decree
+
+#### Demonic Strikes
+
+Your eidolon’s attacks are corrupted by the Abyss and imbued with pure evil and shifting chaos. All your eidolon’s unarmed Strikes deal an extra 1 evil damage; as usual, this extra damage harms only good creatures or those with a weakness to evil damage. Additionally, choose one of your eidolon’s unarmed attacks that deals physical damage; it gains the versatile trait for a different type of physical damage you choose.
+
+#### Visions of Sin *(7th)*
+
+**VISIONS OF SIN** \[two-actions]
+**Traits** [EIDOLON, EMOTION, MAGIC, MENTAL]
+**Frequency** once per 10 minutes
+Your eidolon summons images of its sin into the mind of a target creature within 30 feet, tormenting and confusing the target. The target must attempt a Will save against your spell DC with the following effects. The effects last until the end of your next turn, but your eidolon can use a single action, which has the concentrate trait, to extend the effects until the end of your next turn (like Sustaining a Spell), to a maximum duration of 1 minute. If the target is evil, it takes a –2 circumstance penalty to its save. Regardless of the result, the target becomes temporarily immune for 1 day.
+
+* **Critical Success**: The target is unaffected.
+* **Success**: The target can’t use reactions.
+* **Failure**: The target is slowed 1 and can’t use reactions.
+* **Critical Failure**: As failure, and the target is also confused for 1 round. The confusion can’t be extended, but the other effects can.
+
+#### Blasphemous Decree *(17th)*
+
+Your demon utters indescribable words writhing with its associated sin. It can cast an evil *divine decree* once per day as a 9th-level spell. You are unaffected by this decree, even if you aren’t evil. At 19th level, this becomes a 10th-level *divine decree* instead.
+
+---
+
+## DEVOTION PHANTOM EIDOLON
+
+Your eidolon is a lost soul, unable to escape the mortal world due to a strong sense of duty, an undying devotion, or a need to complete an important task. Most phantom eidolons are humanoid with a spectral or ectoplasmic appearance, though some take far stranger forms. Your link with your eidolon prevents them from succumbing to corruption and undeath, and together, you will grow in strength and fulfill your phantom’s devotion.
+
+### Tradition
+
+Occult
+
+### Traits
+
+eidolon, ethereal, phantom
+
+### Home Plane
+
+Ethereal Plane
+
+### Size
+
+Medium or Small
+
+### Suggested Attacks
+
+Fist (bludgeoning), tendril (bludgeoning), unarmed attacks shaped like a weapon
+
+### Eidolon Array
+
+* **Stalwart Guardian**: Str 18, Dex 14, Con 16, Int 10, Wis 10, Cha 10; +2 AC (+3 Dex cap)
+* **Swift Protector**: Str 14, Dex 18, Con 16, Int 10, Wis 10, Cha 10; +1 AC (+4 Dex cap)
+
+### Skills
+
+Medicine, Occultism
+
+### Senses
+
+Darkvision
+
+### Language
+
+One common mortal language the eidolon spoke in life
+
+### Speed
+
+25 feet
+
+### Eidolon Abilities
+
+* **Initial**: Dutiful Retaliation
+* **Symbiosis**: Steadfast Devotion
+* **Transcendence**: Devotion Aura
+
+#### Dutiful Retaliation
+
+**DUTIFUL RETALIATION** \[reaction]
+**Traits** [EIDOLON, OCCULT, TRANSMUTATION]
+**Trigger**: An enemy within 15 feet of you hits you with a Strike and deals damage to you.
+**Requirements**: Your eidolon is within 15 feet of you.
+Your eidolon instinctively flashes with ectoplasmic energy, allowing them to strike back against an enemy who dares to harm you. Your eidolon makes a melee unarmed Strike against the triggering enemy, even if that enemy isn’t within your eidolon’s reach.
+
+#### Steadfast Devotion *(7th)*
+
+Your eidolon’s dedication makes it extremely challenging for your foes to bend its mind. Your eidolon gains a +2 circumstance bonus to saving throws against mental effects, and if they roll a success against such an effect, they get a critical success instead. If you have the shared resolve class feature and your eidolon rolls a critical failure against a mental effect, they get a failure instead.
+
+#### Devotion Aura *(17th)*
+
+After fighting at your side for so long, your eidolon has become as devoted to protecting you and your allies as it is to its original cause. It gains a 20-foot devotion aura, which has the abjuration, aura, and occult traits. Whenever one of your eidolon’s allies within the aura takes damage, you can reduce the damage by your eidolon’s Constitution modifier. You lose a number of Hit Points equal to half the amount by which the eidolon reduced the damage, rounded down. If the damage was lower than the Constitution modifier, base the damage you take on the actual amount of damage prevented.
+
