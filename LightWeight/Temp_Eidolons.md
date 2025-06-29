@@ -186,7 +186,7 @@ One common mortal language the eidolon spoke in life
 Your eidolon can infuse an attack with unmitigated rage. It gains the Furious Strike activity.
 
 **FURIOUS STRIKE** \[two-actions]
-**Trait** [EIDOLON]
+**Traits** [EIDOLON]
 Your eidolon channels its anger into a furious attack. It makes a melee Strike. This counts as two attacks when calculating your multiple attack penalty. If this Strike hits, your eidolon deals an extra die of weapon damage and gains a +1 circumstance bonus to the damage roll.
 
 * At 10th level: 2 extra dice, +2 bonus
@@ -197,7 +197,7 @@ Your eidolon channels its anger into a furious attack. It makes a melee Strike. 
 Your eidolon can stoke itself into a frenzy. It gains the Seething Frenzy action.
 
 **SEETHING FRENZY** \[one-action]
-**Trait** [CONCENTRATE, EIDOLON, EMOTION, MENTAL]
+**Traits** [CONCENTRATE, EIDOLON, EMOTION, MENTAL]
 Your eidolon’s fury boils over into a reckless, out-of-control frenzy. While frenzied, your eidolon is affected by *boost eidolon* and gains temporary Hit Points equal to your level, but it takes a –2 penalty to AC. It can’t voluntarily end the frenzy or start another while frenzied. The frenzy lasts for 1 minute, after which it’s fatigued for 1 minute and can’t start another for 1 minute.
 
 #### Anger Aura *(17th)*
