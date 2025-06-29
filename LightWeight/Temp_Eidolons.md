@@ -207,3 +207,142 @@ Your eidolon exudes wrath in an aura around it, rousing the ire of nearby creatu
 * The resistances of all creatures in the aura (including you, your allies, your enemies, and your eidolon) are reduced by an amount equal to 3 + your eidolon’s Constitution modifier.
 * Your eidolon can suppress the aura by spending a single action (concentrate). This limits the effect to the eidolon alone. Repeating the action reinstates full effect.
 * Creatures in a **Rage**, **Seething Frenzy**, or similar anger-channeling state are unaffected by the anger aura.
+
+---
+
+## BEAST EIDOLON
+
+Your eidolon is a manifestation of the life force of nature in the form of a powerful magical beast that often has animal features, possibly even several from different species. You might have learned the way to connect with the world’s life force via a specific philosophy or practice, such as the beliefs of the god callers of Sarkoris, or formed a bond on your own. Regardless, your link to your eidolon allows you both to grow in power and influence to keep your home safe from those who would despoil it.
+
+### Tradition
+
+Primal
+
+### Traits
+
+beast, eidolon
+
+### Home Plane
+
+Material Plane
+
+### Size
+
+Medium
+
+### Suggested Attacks
+
+Claw (slashing), jaws (piercing), fangs (piercing), hoof (bludgeoning), horn (piercing)
+
+### Eidolon Array
+
+* **Brutal Beast**: Str 18, Dex 14, Con 16, Int 8, Wis 12, Cha 10; +2 AC (+3 Dex cap)
+* **Fleet Beast**: Str 14, Dex 18, Con 16, Int 8, Wis 12, Cha 10; +1 AC (+4 Dex cap)
+
+### Skills
+
+Intimidation, Nature
+
+### Senses
+
+Low-light vision
+
+### Language
+
+Sylvan
+
+### Speed
+
+25 feet
+
+### Eidolon Abilities
+
+* **Initial**: Beast’s Charge
+* **Symbiosis**: Primal Roar
+* **Transcendence**: Whirlwind Maul
+
+#### Beast’s Charge
+
+**BEAST’S CHARGE** \[two-actions]
+**EIDOLON**
+Your eidolon rushes forward, using its momentum to increase the power of its attack. Your eidolon Strides twice and then Strikes. If the eidolon moved at least 20 feet away from its starting position and moved entirely in a straight line, it gains a +1 circumstance bonus to this attack roll.
+
+#### Primal Roar *(7th)*
+
+**PRIMAL ROAR** \[two-actions]
+**Traits** [AUDITORY, EIDOLON]
+Your eidolon unleashes a primal roar or other such terrifying noise that fits your eidolon’s form. Your eidolon attempts Intimidation checks to Demoralize each enemy that can hear the roar; these Demoralize attempts don’t take any penalty for not sharing a language.
+
+#### Whirlwind Maul *(17th)*
+
+**WHIRLWIND MAUL** \[two-actions]
+**Traits** [EIDOLON]
+Your eidolon lashes out in all directions. It makes a melee unarmed Strike against up to four enemies within reach. It can choose different unarmed attacks for each enemy. Each attack counts toward your multiple attack penalty, but you don’t increase your penalty until the eidolon has made all its attacks.
+
+---
+
+## CONSTRUCT EIDOLON
+
+Your eidolon is a mental construct based on an astral thoughtform and given physical presence and life by its connection to you, its shape limited only by your imagination. Your eidolon’s appearance and physical form vary based on your shared vision for its construction, from clockworks to stuffed dolls and everything between, and it’s not uncommon for that appearance to change greatly as your construct gains evolutions.
+
+Because it arises from an astral entity, your construct is no mindless servitor, but a fully thinking being with its own ideas, goals, and even emotions. These entities are extremely diverse; while many construct eidolons come from a powerful symbiotic connection with astral denizens, just as many arise from the forgotten memories of ancient empires and craftworks drifting across the Silver Sea of the Astral Plane.
+
+### Tradition
+
+Arcane
+
+### Traits
+
+astral, construct, eidolon
+
+### Home Plane
+
+Astral Plane
+
+### Size
+
+Medium
+
+### Suggested Attacks
+
+Fist (bludgeoning)
+
+### Eidolon Array
+
+* **Warrior Construct**: Str 18, Dex 14, Con 16, Int 12, Wis 10, Cha 8; +2 AC (+3 Dex cap)
+* **Scout Construct**: Str 14, Dex 18, Con 16, Int 12, Wis 10, Cha 8; +1 AC (+4 Dex cap)
+
+### Skills
+
+Arcana, Crafting
+
+### Senses
+
+Darkvision
+
+### Language
+
+One common mortal language
+
+### Speed
+
+25 feet
+
+### Eidolon Abilities
+
+* **Initial**: Construct Heart
+* **Symbiosis**: Reconfigured Evolution
+* **Transcendence**: Ultimate Reconfiguration
+
+#### Construct Heart
+
+Your construct eidolon has a link directly to your life force, which renders it a living creature and therefore susceptible to many ailments that bother only the living, though it does possess some resistances to these effects. It doesn’t have a construct’s normal immunities, but does gain a +2 circumstance bonus to saving throws against death effects, disease, necromancy, and poison effects, as well as effects causing the fatigued or sickened conditions. Additionally, its astral essence bleeds off slowly, and it only needs to succeed at a DC 10 flat check to remove persistent bleed damage (or DC 5 after receiving particularly effective aid).
+
+#### Reconfigured Evolution *(7th)*
+
+Your construct eidolon is particularly easy to reconfigure, gaining an additional evolution that suits both of your whims. Choose one additional evolution feat of 6th level or lower. Your eidolon gains that feat. You can Retrain this feat for any other evolution feat of 6th level or lower with only a single day of downtime if you succeed at a Crafting check, with a standard DC of your eidolon’s level. If you fail, you can try again on a later day. Many summoners choose *Eidolon’s Wrath* for this ability.
+
+#### Ultimate Reconfiguration *(17th)*
+
+Your construct eidolon becomes even more customizable. Choose an evolution feat of 16th level or lower. Your eidolon gains that feat. You can spend downtime to adjust it using Crafting, just like the feat from *Reconfigured Evolution*. Many summoners select *Ever-Vigilant Senses* for this ability.
+
