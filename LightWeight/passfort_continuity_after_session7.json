@@ -8,21 +8,18 @@
   "shared_inventory": {
     "gp": 1473,
     "items": [
+      "Healing Potion (Greater)",
       "Potion of Resistance, Moderate",
+      "Potion of See Invisibility",
       "Scroll of Resist Energy",
       "Scroll of Mirror Image",
       "Scroll of See Invisibility",
-      "Healing Potion (Greater)",
       "Scroll of Vampiric Exsanguination",
       "Scroll of Lightning Bolt",
-      "Sturdy Shield (Moderate)",
-      "Sea Touch Elixir (Moderate)",
       "Scroll of Silence",
       "Scroll of Illusory Disguise",
-      "Potion of See Invisibility",
-      "Oil of Mending (Moderate)",
-      "Sturdy Lockbox (Medium, Secure)",
-      "Lesser Crystalline Dust (Arcane)"
+      "Sturdy Shield (Moderate)",
+      "Sea Touch Elixir (Moderate)"
     ]
   },
   "npc_goals": [
@@ -229,6 +226,6 @@
       }
     ]
   },
-  "recent_summary": "",
-  "current_summary": "슬라몬 일행은 Jungle 지대의 무한의 프론티어 5층에 진입하여 Kapoacinth와 Cloaker를 처치하였다. 키티는 중상을 입었으나 리산드라의 치료로 안정되었고, 슬라몬은 전투 내내 전열을 유지하며 지휘했다. 전투 후 슬라몬은 휴식을 지시하며 경계를 맡았고, 파티원들은 각자 회복하며 감정적으로도 유대가 깊어졌다. 두 개의 보물 상자를 해제하여 스크롤, 물약, 자재 등을 획득했고, 귀환 후 포리프 하우스 1층에서 정비를 마쳤다."
+  "recent_summary": "슬라몬 일행은 Jungle 지대의 무한의 프론티어 5층에 진입하여 Kapoacinth와 Cloaker를 처치하였다. 키티는 중상을 입었으나 리산드라의 치료로 안정되었고, 슬라몬은 전투 내내 전열을 유지하며 지휘했다. 전투 후 슬라몬은 휴식을 지시하며 경계를 맡았고, 파티원들은 각자 회복하며 감정적으로도 유대가 깊어졌다. 두 개의 보물 상자를 해제하여 스크롤, 물약, 자재 등을 획득했고, 귀환 후 포리프 하우스 1층에서 정비를 마쳤다.",
+  "current_summary": ""
 }
