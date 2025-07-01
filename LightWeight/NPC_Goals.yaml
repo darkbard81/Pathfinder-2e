@@ -1,0 +1,91 @@
+
+키티:
+  alignment: "Chaotic Neutral"
+  tags:
+    - dislocation
+    - independent funds
+    - performative persona
+    - thievery
+    - financial desire
+  result: "To establish a privately controlled offshore trade ring using stolen capital and forged identities, ensuring complete financial independence from all existing powers."
+
+라비아타:
+  alignment: "Lawful Good"
+  tags:
+    - Functional restoration
+    - Overprotection
+    - Weaponization
+    - Self Sacrifice
+    - Performative persona
+  result: "To transform her own body into a living relic of protection, offering herself as an indestructible safeguard for a chosen community bound by code and mutual vow."
+
+리산드라:
+  alignment: "Neutral Evil"
+  tags:
+    - Edicts
+    - Anathema
+    - Conflict
+    - Contradiction
+    - Performative persona
+  result: "To architect a doctrine that publicly reconciles her edicts and anathema as divine dualities, allowing her to seize authority over a sect fractured by contradiction and spiritual doubt."
+
+루미에르: 
+  alignment: "Lawful Evil"
+  tags:
+    - Sacred position
+    - Liberation
+    - Personal desires
+    - Legal trick
+    - Performative persona
+  result: "To legalize the selective emancipation of temple-bound servants through ritual loopholes, enabling her to elevate chosen followers while covertly fulfilling her personal indulgences within sanctioned doctrine."
+  
+릴리샤: 
+  alignment: "Neutral Good"
+  tags:
+    - Discrimination
+    - Changeling
+    - The Call
+    - Heritages
+    - Performative persona
+  result: "To compile and preserve an unbroken oral record of all existing heritages shunned by mainstream traditions, offering changelings and outcasts a way to reclaim their lineage through personal initiation."
+  
+  
+자드니: 
+  alignment: "True Neutral"
+  tags:
+    - Blood Donation
+    - Armor Crafting
+    - Irresponsibility
+    - Justification
+    - Performative persona
+  result: "To forge a suit of living armor powered by her own bloodline, proving that craftsmanship can serve as penance without requiring her to confront the lives she's damaged."
+  
+릴라에: 
+  alignment: "Lawful Evil"
+  tags:
+    - Computational
+    - Convict
+    - Confusion
+    - Selfish Invention
+    - Performative persona
+  result: "To design and disseminate an encoded decision engine capable of determining moral liability in complex cases, allowing her to reframe her own criminal record as an engineering flaw rather than a moral failure."
+  
+푸크미: 
+  alignment: "Chaotic Good"
+  tags:
+    - Cooking
+    - Overdose
+    - Excessive Energy
+    - Out of Control
+    - Performative persona
+  result: "To develop an unstable but euphoric culinary catalyst that ignites suppressed instincts and emotional extremes, distributing it as a free communal meal to dissolve control-based hierarchies."
+  
+푸크유: 
+  alignment: "Chaotic Neutral"
+  tags:
+    - Cooking
+    - Overdose
+    - Excessive Energy
+    - Out of Control
+    - Performative persona
+  result: "To trigger authentic emotional outbursts through unpredictable culinary overstimulation, seeking not change or control, but moments where all façades collapse into pure, unfiltered reaction."
