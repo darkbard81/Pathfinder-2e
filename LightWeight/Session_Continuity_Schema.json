@@ -1,0 +1,195 @@
+{
+  "$schema":"http://json-schema.org/draft-07/schema#",
+  "title":"Session_Tracking",
+  "type":"object",
+  "properties":{
+    "time_track":{
+      "type":"object",
+      "properties":{
+        "timestamp":{
+          "type":"string",
+          "description":"In-game current time. Example: Day 007 - 07:30"
+        },
+        "fatigue_check_elapsed_minutes":{
+          "type":"integer",
+          "description":"Minutes elapsed since last sleep/rest."
+        },
+        "hunger_check_elapsed_minutes":{
+          "type":"integer",
+          "description":"Minutes elapsed since last meal."
+        },
+        "faction_check_elapsed_minutes":{
+          "type":"integer",
+          "description":"Minutes elapsed since the last significant factions event."
+        }
+      },
+      "required":[
+        "timestamp",
+        "fatigue_check_elapsed_minutes",
+        "hunger_check_elapsed_minutes",
+        "faction_check_elapsed_minutes"
+      ]
+    },
+    "shared_inventory":{
+      "type":"object",
+      "properties":{
+        "items":{
+          "type":"array",
+          "description":"List of shared items.",
+          "items":{
+            "type":"string"
+          }
+        },
+        "gp":{
+          "type":"integer",
+          "description":"Amount of shared gold pieces (gp)."
+        }
+      },
+      "required":[
+        "items",
+        "gp"
+      ]
+    },
+    "npc_goals":{
+      "type":"array",
+      "description":"A list of NPCs and their encoded final goals.",
+      "items":{
+        "type":"object",
+        "properties":{
+          "npc_name":{
+            "type":"string",
+            "description":"The name of the NPC."
+          },
+          "personality":{
+            "type":"string",
+            "description":"The unique set of characteristics and traits that distinguish one person from another, encompassing their thoughts, feelings, and behaviors."
+          },
+          "relational_disposition":{
+            "type":"string",
+            "description":"Relationship tendencies with someone you have feelings for more than Like"
+          },
+          "alignment": {
+            "type": "string",
+            "description": "The ethical-philosophical framework by which the NPC justifies and pursues their final goal (e.g., 'Lawful Good', 'Neutral Evil')"
+          },
+          "final_goal_decoded":{
+            "type":"string",
+            "description":"The NPC's final goal detail"
+          }
+        },
+        "required":[
+          "npc_name",
+          "personality",
+          "relational_disposition",
+		  "alignment",
+		  "final_goal_decoded"
+        ]
+      }
+    },
+    "npc_emotion_memory": {
+      "type": "object",
+      "description": "Tracks the emotional dynamics of NPCs toward the player or other entities, storing their reactions over time based on interactions.",
+      "properties": {
+        "owner": {
+          "type": "array",
+          "description": "A list of individual NPCs, each maintaining their own emotion log and reactive state.",
+          "items": {
+            "type": "object",
+            "properties": {
+              "npc_name": {
+                "type": "string",
+                "description": "The name of the NPC recording these emotional responses."
+              },
+              "reactive_status": {
+                "type": "string",
+                "description": "The current emotional lens through which the NPC interprets PC's words and actions (e.g., 'Normal', 'Negative Filtering', 'Identity Threat')."
+              },
+              "emotion_history": {
+                "type": "array",
+                "description": "Chronological log of emotional events experienced by this NPC.",
+                "items": {
+                  "type": "object",
+                  "properties": {
+                    "target": {
+                      "type": "string",
+                      "description": "The person or object that the emotion is directed toward."
+                    },
+                    "timestamp": {
+                      "type": "string",
+                      "description": "When the emotional reaction occurred (e.g., 'Day 009 - 10:30')."
+                    },
+                    "event": {
+                      "type": "string",
+                      "description": "Summary of the triggering situation that caused the emotion."
+                    },
+                    "emotion": {
+                      "type": "string",
+                      "description": "The name or type of emotion being recorded (e.g., 'Trust', 'Resentment', 'Longing')."
+                    },
+                    "intensity": {
+                      "type": "integer",
+                      "minimum": 0,
+                      "maximum": 10,
+                      "description": "How strongly the NPC felt this emotion, on a scale from 0 to 10."
+                    },
+                    "residue": {
+                      "type": "string",
+                      "description": "Optional physical or psychological residue from the emotion (e.g., 'Trembling', 'Averted gaze')."
+                    }
+                  },
+                  "required": [
+                    "target",
+                    "timestamp",
+                    "event",
+                    "emotion",
+                    "intensity"
+                  ]
+                }
+              }
+            },
+            "required": [
+              "npc_name",
+              "reactive_status",
+              "emotion_history"
+            ]
+          }
+        }
+      },
+      "required": [
+        "owner"
+      ]
+    },
+	"arcanamirium_report":{
+		          "type": "array",
+          "description": "A list of individual NPCs, each maintaining their own emotion log and reactive state.",
+          "items": {
+            "type": "object",
+            "properties": {
+              "report_id": { "type": "integer"},
+			"description": "When the emotional reaction occurred (e.g., 'Day 009 - 10:30')." },
+				"timestamp": {
+				  "type": "string",
+				  "description": "When the emotional reaction occurred (e.g., 'Day 009 - 10:30')."
+				}
+	}}
+	},
+    "recent_summary":{
+      "type":"string",
+      "description":"A brief summary of recent session events or story progress.",
+      "readOnly":true
+    },
+    "current_summary":{
+      "type":"string",
+      "description":"A brief summary of current session events or story progress.",
+      "readOnly":false
+    },
+    "required":[
+      "time_track",
+      "shared_inventory",
+      "npc_goals",
+      "npc_emotion_memory",
+      "recent_summary",
+      "current_summary"
+    ]
+  }
+}
