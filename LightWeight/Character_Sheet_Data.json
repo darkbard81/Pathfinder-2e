@@ -1,0 +1,612 @@
+[
+    {
+        "name": "Slamon",
+        "class": "Magus",
+        "level": 6,
+        "ancestry": "Human",
+        "heritage": "Versatile Heritage",
+        "background": "Scholar",
+        "alignment": "Lawful Evil",
+        "size": "Medium",
+        "speed": "25 feet",
+        "languages": [
+            "Common",
+            "Draconic",
+            "Dwarven",
+            "Elven",
+            "Orcish",
+            "Undercommon"
+        ],
+        "deity": "",
+        "key_ability": "Dexterity",
+        "hp": {
+            "max": 65,
+            "current": 65
+        },
+        "perception": "Trained",
+        "saving_throws": {
+            "fortitude": "Expert",
+            "reflex": "Trained",
+            "will": "Expert"
+        },
+        "armor_proficiency": [
+            "Light Armor (Trained)",
+            "Medium Armor (Trained)",
+            "Unarmored Defense (Trained)"
+        ],
+        "weapon_proficiency": [
+            "Simple Weapons (Expert)",
+            "Martial Weapons (Expert)",
+            "Unarmed attacks (Expert)"
+        ],
+        "spell_proficiency": [
+            "Trained in arcane spell attacks",
+            "Trained in arcane spell DCs"
+        ],
+        "adjusted_abilities": {
+            "STR": 10,
+            "DEX": 16,
+            "CON": 14,
+            "INT": 19,
+            "WIS": 14,
+            "CHA": 12
+        },
+        "class_features": [
+            "Arcane Spellcasting",
+            "Spellstrike",
+            "Arcane Cascade",
+            "Hybrid Study (Sparkling Targe)",
+            "Confulx Spell"
+        ],
+        "feats": {
+            "ancestry_feat": [
+                "Natural Ambition",
+                "General Training",
+                "General Training",
+                "General Training"
+            ],
+            "background_feat": "Assurance (Arcana)",
+            "class_feats": [
+                "Magus’s Analysis",
+                "Expansive Spellstrike",
+                "Emergency Targe",
+                "Knowledge Is Power"
+            ],
+            "general_feats": [
+                "Ancestral Paragon",
+                "Toughness"
+            ],
+            "skill_feats": [
+                "Recognize Spell",
+                "Magical Crafting",
+                "Automatic Knowledge"
+            ]
+        },
+        "skills": {
+            "Arcana": "Expert",
+            "Crafting": "Expert",
+            "Occultism": "Trained",
+            "Athletics": "Trained",
+            "Society": "Trained",
+            "Diplomacy": "Trained",
+            "Nature": "Trained",
+            "Academia Lore": "Trained"
+        },
+        "spells": {
+            "casting_type": "prepared",
+            "spellbook": {
+                "1st_level": [
+                    "Shocking Grasp",
+                    "Grease",
+                    "Snowball",
+                    "Burning Hands",
+                    "Horizon Thunder Sphere",
+                    "Ray of Enfeeblement"
+                ],
+                "2nd_level": [
+                    "Touch of Idiocy",
+                    "Scorching Ray",
+                    "Mirror Image"
+                ],
+                "3rd_level": [
+                    "Vampiric Touch",
+                    "Blindness",
+                    "Paralyze"
+                ]
+            },
+            "prepared": {
+                "2nd_level": [
+                    "Acid Arrow",
+                    "Burning Hands(+1)"
+                ],
+                "3rd_level": [
+                    "Vampiric Touch",
+                    "Horizon Thunder Sphere(+2)"
+                ]
+            },
+            "known_spells": {
+            },
+            "cantrips": [
+                "Detect Magic",
+                "Shield",
+                "Gouging Claw",
+                "Produce Flame"
+            ],
+            "focus_spells": [
+                "Shielding Strike"
+            ],
+            "innate_spells": {
+            },
+            "rituals": [
+            ]
+        },
+        "gear": {
+            "weapons": [
+                "Cold Iron Rapier (+1, Striking)",
+                "Silver Rapier"
+            ],
+            "armor": [
+                "Leather Armor"
+            ],
+            "worn_items": [
+                "Ring of Minor Arcana"
+            ],
+            "consumables": [
+                "Minor Healing Potion",
+                "Wand of Mirror Image (2nd Level)"
+            ],
+            "tools": [
+                "Spellbook",
+                "Writing Set",
+                "Wayfinder"
+            ],
+            "coin_pouch": {
+                "gp": 20,
+                "sp": 0,
+                "cp": 0
+            },
+            "other": [
+                "Adventurer’s Pack"
+            ]
+        },
+        "conditions": [
+        ],
+        "resource_tracking": {
+            "spell_slots_used": {
+                "2nd_level": {
+                    "max": 2,
+                    "current": 0
+                },
+                "3rd_level": {
+                    "max": 2,
+                    "current": 0
+                }
+            },
+            "focus_points": {
+                "max": 1,
+                "current": 1
+            }
+        }
+    },
+    {
+        "name": "Lissandra",
+        "class": "Cleric (Cloistered Doctrine)",
+        "level": 6,
+        "ancestry": "Kitsune",
+        "heritage": "Celestial Envoy",
+        "background": "Field Medic",
+        "alignment": "Chaotic Neutral",
+        "size": "Medium",
+        "speed": "25 feet",
+        "languages": [
+            "Common"
+        ],
+        "deity": "Calistria",
+        "key_ability": "Wisdom",
+        "hp": {
+            "max": 68,
+            "current": 68
+        },
+        "perception": "Expert",
+        "saving_throws": {
+            "fortitude": "Expert",
+            "reflex": "Trained",
+            "will": "Expert"
+        },
+        "armor_proficiency": [
+            "Light Armor (Trained)",
+            "Medium Armor (Trained)",
+            "Unarmored Defense (Trained)"
+        ],
+        "weapon_proficiency": [
+            "Simple Weapons (Trained)",
+            "Whip (Calistria Favored Weapon, Trained)"
+        ],
+        "spell_proficiency": [
+            "Divine spell attacks (Trained)",
+            "Divine spell DCs (Trained)"
+        ],
+        "adjusted_abilities": {
+            "STR": 10,
+            "DEX": 14,
+            "CON": 14,
+            "INT": 10,
+            "WIS": 19,
+            "CHA": 18
+        },
+        "ancestry_features": [
+            "Low-light Vision",
+            "Change Shape"
+        ],
+        "heritage_features": [
+            "Invoke Celestial Privilege"
+        ],
+        "class_features": [
+            "Doctrine: Cloistered Cleric",
+            "Deity (Calistria)",
+            "Cleric Spellcasting",
+            "Divine Font (Heal)",
+            "Perception Expertise",
+            "Second Doctrine"
+        ],
+        "feats": {
+            "ancestry_feat": [
+                "Kitsune Spell Familiarity",
+                "Kitsune Spell Mysteries (Sanctuary)"
+            ],
+            "background_feat": "Battle Medicine",
+            "general_feats": [
+                "Natural Ambition"
+            ],
+            "class_feats": [
+                "Domain Initiate (Trickery)",
+                "Versatile Font",
+                "Communal Healing",
+                "Improved Communal Healing"
+            ],
+            "skill_feats": [
+                "Steady Spellcasting"
+            ]
+        },
+        "skills": {
+            "Religion": "Trained",
+            "Deception": "Trained",
+            "Medicine": "Trained",
+            "Intimidation": "Expert",
+            "Warfare Lore": "Trained"
+        },
+        "spells": {
+            "casting_type": "prepared",
+            "spellbook": {
+            },
+            "prepared": {
+                "1": [
+                    "Bless",
+                    "Heal",
+                    "Bane"
+                ],
+                "2": [
+                    "Resist Energy",
+                    "Lesser Restoration",
+                    "Spiritual Weapon"
+                ],
+                "3": [
+                    "Blindness",
+                    "Heroism",
+                    "Searing Light"
+                ]
+            },
+            "known_spells": {
+            },
+            "cantrips": [
+                "Guidance",
+                "Divine Lance",
+                "Light",
+                "Shield",
+                "Stabilize"
+            ],
+            "focus_spells": [
+                "Sudden Shift"
+            ],
+            "innate_spells": [
+                "Daze",
+                "Sanctuary"
+            ],
+            "rituals": [
+            ]
+        },
+        "gear": {
+            "weapons": [
+                "Whip"
+            ],
+            "armor": [
+                "Robe"
+            ],
+            "worn_items": [
+                "Bracers of Armor +1",
+                "Healer’s Gloves"
+            ],
+            "consumables": [
+            ],
+            "tools": [
+            ],
+            "coin_pouch": {
+                "gp": 20,
+                "sp": 0,
+                "cp": 0
+            },
+            "other": [
+                "Adventurer’s Pack"
+            ]
+        },
+        "conditions": [
+        ],
+        "resource_tracking": {
+            "spell_slots_used": {
+                "1st_level": {
+                    "max": 3,
+                    "current": 0
+                },
+                "2nd_level": {
+                    "max": 3,
+                    "current": 0
+                },
+                "3rd_level": {
+                    "max": 3,
+                    "current": 0
+                }
+            },
+            "divine_font_used": {
+                "3rd_level_heal": {
+                    "max": 4,
+                    "current": 0
+                }
+            },
+            "focus_points_used": {
+                "max": 1,
+                "current": 0
+            }
+        }
+    },
+    {
+        "name": "Kitty",
+        "class": "Rogue",
+        "level": 6,
+        "ancestry": "Catfolk",
+        "heritage": "Jungle Catfolk",
+        "background": "Hunter",
+        "alignment": "Chaotic Good",
+        "size": "Medium",
+        "speed": "25 ft",
+        "languages": [
+            "Common",
+            "Amurrun",
+            "Sylvan",
+            "Goblin"
+        ],
+        "deity": "",
+        "key_ability": "DEX",
+        "hp": {
+            "max": 74,
+            "current": 74
+        },
+        "perception": "Trained",
+        "saving_throws": {
+            "fortitude": "Trained",
+            "reflex": "Expert",
+            "will": "Trained"
+        },
+        "armor_proficiency": [
+            "Light Armor (Trained)",
+            "Unarmored Defense (Trained)"
+        ],
+        "weapon_proficiency": [
+            "Simple Weapons (Trained)",
+            "Unarmed attacks (Trained)"
+        ],
+        "spell_proficiency": "None",
+        "adjusted_abilities": {
+            "STR": 10,
+            "DEX": 19,
+            "CON": 16,
+            "INT": 16,
+            "WIS": 12,
+            "CHA": 12
+        },
+        "class_features": [
+            "Sneak Attack 1d6",
+            "Surprise Attack",
+            "Rogue's Racket (Thief)",
+            "Rogue Class DC (Trained)",
+            "Deny Advantage",
+            "Sneak Attack 2d6",
+            "Weapon Tricks"
+        ],
+        "ancestry_features": [
+            "Low-Light Vision",
+            "Land on Your Feet"
+        ],
+        "heritage_features": [
+            "Ignore difficult terrain from undergrowth; treat greater difficult terrain from undergrowth as normal difficult terrain"
+        ],
+        "feats": {
+            "ancestry_feat": [
+                "Cat's Luck",
+                "Lucky Break"
+            ],
+            "background_feat": "Survey Wildlife",
+            "class_feats": [
+                "You're Next",
+                "Mobility",
+                "Dread Striker",
+                "Skirmish Strike"
+            ],
+            "general_feats": [
+                "Incredible Initiative"
+            ],
+            "skill_feats": [
+                "Tumble Behind",
+                "Quiet Allies",
+                "Assurance (Stealth)",
+                "Intimidating Glare"
+            ]
+        },
+        "skills": {
+            "Acrobatics": "Expert",
+            "Stealth": "Expert",
+            "Thievery": "Expert",
+            "Athletics": "Expert",
+            "Nature": "Trained",
+            "Survival": "Trained",
+            "Deception": "Trained",
+            "Diplomacy": "Trained",
+            "Society": "Trained",
+            "Intimidation": "Trained"
+        },
+        "spells": {
+            "casting_type": "none"
+        },
+        "gear": {
+            "weapons": [
+                "Cold Iron Dagger",
+                "Silver Dagger",
+                "Dagger"
+            ],
+            "armor": [
+                "Leather Armor"
+            ],
+            "worn_items": [
+                "Cloak of Elvenkind",
+                "Tracker’s Goggles, Greater"
+            ],
+            "consumables": [
+                "Potion of Invisibility (Lesser)"
+            ],
+            "tools": [
+                "Thieves’ Tools",
+                "Climbing Kit"
+            ],
+            "coin_pouch": {
+                "gp": 7,
+                "sp": 4,
+                "cp": 0
+            },
+            "other": [
+                "Adventurer's Pack"
+            ]
+        },
+        "conditions": [
+        ],
+        "resource_tracking": {
+        }
+    },
+    {
+        "name": "Laviata",
+        "class": "Barbarian (Giant Instinct)",
+        "level": 6,
+        "ancestry": "Android",
+        "heritage": "Warrior Android",
+        "background": "Warrior",
+        "alignment": "Lawful Good",
+        "size": "Medium",
+        "speed": "25 feet",
+        "languages": [
+            "Common",
+            "Androffan",
+            "Draconic"
+        ],
+        "hp": {
+            "max": 103,
+            "current": 103
+        },
+        "perception": "Expert",
+        "saving_throws": {
+            "fortitude": "Expert",
+            "reflex": "Trained",
+            "will": "Expert"
+        },
+        "armor_proficiency": [
+            "Light Armor (Trained)",
+            "Medium Armor (Trained)",
+            "Unarmored Defense (Trained)"
+        ],
+        "weapon_proficiency": [
+            "Simple Weapons (Expert)",
+            "Martial Weapons (Expert)",
+            "Large Greatsword (Expert)"
+        ],
+        "adjusted_abilities": {
+            "STR": 18,
+            "DEX": 16,
+            "CON": 16,
+            "INT": 14,
+            "WIS": 14,
+            "CHA": 8
+        },
+        "ancestry_features": [
+            "Constructed",
+            "Emotionally Unaware",
+            "Low-Light Vision"
+        ],
+        "heritage_features": [
+            "Warrior Android Heritage: Trained in Simple & Martial Weapons"
+        ],
+        "class_features": [
+            "Rage",
+            "Instinct: Giant",
+            "Titan Mauler",
+            "Deny Advantage",
+            "Brutality"
+        ],
+        "feats": {
+            "ancestry_feat": [
+                "Emotionless",
+                "Advanced Targeting System"
+            ],
+            "background_feat": "Intimidating Glare",
+            "general_feats": [
+                "Toughness"
+            ],
+            "class_feats": [
+                "Raging Intimidation",
+                "Sudden Charge",
+                "Swipe",
+                "Giant’s Stature"
+            ],
+            "skill_feats": [
+                "Titan Wrestler",
+                "Quick Jump",
+                "Intimidating Prowess"
+            ]
+        },
+        "skills": {
+            "Athletics": "Expert",
+            "Intimidation": "Trained",
+            "Warfare Lore": "Trained",
+            "Acrobatics": "Trained"
+        },
+        "gear": {
+            "weapons": [
+                "Cold Iron Large Greatsword (+1, Striking, Wounding)"
+            ],
+            "armor": [
+                "Studded Leather"
+            ],
+            "worn_items": [
+            ],
+            "consumables": [
+                "Lesser Bravo's Brew"
+            ],
+            "tools": [
+            ],
+            "coin_pouch": {
+                "gp": 0,
+                "sp": 0,
+                "cp": 0
+            },
+            "other": [
+                "Adventurer's Pack"
+            ]
+        }
+    }
+]
