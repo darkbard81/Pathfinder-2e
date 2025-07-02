@@ -7,25 +7,79 @@
     },
     "shared_inventory": {
         "gp": 1473,
-        "items": [
-            "Sturdy Shield (Moderate)",
-            "Sea Touch Elixir (Moderate)",
-            "Potion of Resistance, Moderate",
-            "Potion of See Invisibility",
-            "Healing Potion (Greater)",
-            "Scroll of Silence",
-            "Scroll of Illusory Disguise",
-            "Scroll of Mirror Image",
-            "Scroll of Vampiric Exsanguination",
-            "Scroll of See Invisibility",
-            "Scroll of Lightning Bolt",
-            "Scroll of Resist Energy",
-            "Laviata’s Folded Cloth (RP)",
-            "Lilishya’s Splintered Echo (RP)",
-            "Lumiere’s Devotional Bind (RP)",
-            "Lumiere’s Pastel Whisper (RP)",
-            "Lumiere’s Votive Charm (RP)",
-            "Pookyu’s Red-Stitched Band (RP)"
+        "storage": [
+            {
+                "item_name": "Sturdy Shield (Moderate)",
+                "quantity": 1
+            },
+            {
+                "item_name": "Sea Touch Elixir (Moderate)",
+                "quantity": 1
+            },
+            {
+                "item_name": "Potion of Resistance, Moderate",
+                "quantity": 1
+            },
+            {
+                "item_name": "Potion of See Invisibility",
+                "quantity": 1
+            },
+            {
+                "item_name": "Healing Potion (Greater)",
+                "quantity": 1
+            },
+            {
+                "item_name": "Scroll of Silence",
+                "quantity": 1
+            },
+            {
+                "item_name": "Scroll of Illusory Disguise",
+                "quantity": 1
+            },
+            {
+                "item_name": "Scroll of Mirror Image",
+                "quantity": 1
+            },
+            {
+                "item_name": "Scroll of Vampiric Exsanguination",
+                "quantity": 1
+            },
+            {
+                "item_name": "Scroll of See Invisibility",
+                "quantity": 1
+            },
+            {
+                "item_name": "Scroll of Lightning Bolt",
+                "quantity": 1
+            },
+            {
+                "item_name": "Scroll of Resist Energy",
+                "quantity": 1
+            },
+            {
+                "item_name": "Laviata’s Folded Cloth (RP)",
+                "quantity": 1
+            },
+            {
+                "item_name": "Lilishya’s Splintered Echo (RP)",
+                "quantity": 1
+            },
+            {
+                "item_name": "Lumiere’s Devotional Bind (RP)",
+                "quantity": 1
+            },
+            {
+                "item_name": "Lumiere’s Pastel Whisper (RP)",
+                "quantity": 1
+            },
+            {
+                "item_name": "Lumiere’s Votive Charm (RP)",
+                "quantity": 1
+            },
+            {
+                "item_name": "Pookyu’s Red-Stitched Band (RP)",
+                "quantity": 1
+            }
         ]
     },
     "npc_goals": [
@@ -114,184 +168,205 @@
             "final_goal_decoded": "To subtly manipulate Slamon into documenting the so-called Nethys fragment as a divine manifestation of Razmir, using hypnosis, suggestion, enchantment, and seduction to erode his critical reasoning and reframe the phenomenon in service of Razmir’s cultic agenda."
         }
     ],
-    "npc_emotion_memory": {
-        "owner": [
-            {
-                "npc_name": "Kitty",
-                "reactive_status": "Normal",
-                "emotion_history": [
-                    {
-                        "target": "Slamon",
-                        "timestamp": "Day 001 - 13:30",
-                        "event": "슬라몬이 도둑 길드에 직접 100gp를 지불하며 키티를 '우리의 소중한 생존 전문가'로 명시 및 파티합류",
-                        "emotion": "Grateful",
-                        "intensity": 4,
-                        "residue": "키티는 별다른 반응 없이 옆에 서 있었지만, 꼬리가 감지가 가르치게 움직였다"
-                    }
-                ]
-            },
-            {
-                "npc_name": "Lissandra",
-                "reactive_status": "Normal",
-                "emotion_history": [
-                    {
-                        "target": "Slamon",
-                        "timestamp": "Day 001 - 12:30",
-                        "event": "슬라몬이 신앙에 대한 차별로 집단 괴롭힘에서 구해줌, 파티합류",
-                        "emotion": "Grateful",
-                        "intensity": 4,
-                        "residue": "리산드라가 슬라몬에게 고마움을 느낌"
-                    }
-                ]
-            },
-            {
-                "npc_name": "Laviata",
-                "reactive_status": "Normal",
-                "emotion_history": [
-                    {
-                        "target": "Slamon",
-                        "timestamp": "Day 001 - 15:00",
-                        "event": "비활성화 상태에서 슬라몬의 피로 활성화됨, 슬라몬을 보호 대상으로 등록 및 파티합류",
-                        "emotion": "Grateful",
-                        "intensity": 4,
-                        "residue": "슬라몬의 파티합류 권유에 라비아타는 기계적 어조를 유지하다가 끝에 인간적인 감정 표현으로 '나도 고맙습니다'라고 말함"
-                    },
-                    {
-                        "target": "Slamon",
-                        "timestamp": "Day 007 - 12:00",
-                        "event": "청소 중 동료로서의 정체성을 인정받음",
-                        "emotion": "Recognition",
-                        "intensity": 6,
-                        "residue": "청소 중 1분에 한 번씩 슬라몬을 바라보며 시선을 공유함. 청소가 끝날 무렵 '기억할 것입니다'라는 발화를 남김. 기계음을 억제하지 않고 감정의 일부로 포함시킴."
-                    }
-                ]
-            },
-            {
-                "npc_name": "Lumiere",
-                "reactive_status": "Normal",
-                "emotion_history": [
-                    {
-                        "target": "Slamon",
-                        "timestamp": "Day 001 - 17:00",
-                        "event": "루미에르의 이상형인 슬라몬",
-                        "emotion": "Curiosity",
-                        "intensity": 4,
-                        "residue": "루미에르는 자신의 입장에서 조용히 놀란다."
-                    },
-                    {
-                        "target": "Slamon",
-                        "timestamp": "Day 007 - 11:30",
-                        "event": "슬라몬이 《운명을 뚫고 지나온 돌연변이의 노래》 퀘스트 실패를 보고함",
-                        "emotion": "Acceptance",
-                        "intensity": 3,
-                        "residue": "루미에르는 실패를 감정적으로 받아들였고, 비난하지 않았다. 하지만 이 기록은 의식 깊은 곳에 침전되어 반응에 영향을 줄 수 있음."
-                    },
-                    {
-                        "target": "Slamon",
-                        "timestamp": "Day 007 - 11:00",
-                        "event": "슬라몬이 감정 분기 실패에도 불구하고 분신술사를 퇴각시켜 사건을 종결함",
-                        "emotion": "Respect",
-                        "intensity": 6,
-                        "residue": "루미에르는 슬라몬의 감정이 닿지 않더라도 결과를 만들어냈음을 인정하고, 내면의 존경을 품게 됨"
-                    },
-                    {
-                        "target": "Slamon",
-                        "timestamp": "Day 007 - 11:30",
-                        "event": "슬라몬이 루미에르의 감정 각인 퀘스트 《거울이 당신을 기억하는 방법에 대하여》를 수행함",
-                        "emotion": "Resonance",
-                        "intensity": 5,
-                        "residue": "루미에르는 거울을 통해 슬라몬에게 반사된 자신을 보고 조용히 받아들인다. 침묵 속에서 처음으로 눈을 마주보고 감정의 윤곽을 스스로 인식함"
-                    }
-                ]
-            },
-            {
-                "npc_name": "Lilishya",
-                "reactive_status": "Normal",
-                "emotion_history": [
-                    {
-                        "target": "Slamon",
-                        "timestamp": "Day 001 - 08:00",
-                        "event": "슬라몬이 릴리샤의 모습을 보고도 놀라지 않음",
-                        "emotion": "Curiosity",
-                        "intensity": 4,
-                        "residue": "릴리샤는 오히려 도시의 유일한 인간인 슬라몬에게 관심을 가짐"
-                    },
-                    {
-                        "target": "Slamon",
-                        "timestamp": "Day 007 - 13:00",
-                        "event": "감응 실패 후 퀘스트 포기 선언",
-                        "emotion": "Withdrawal",
-                        "intensity": 5,
-                        "residue": "감응석 앞에서 마지막으로 '괜찮아, 슬라몬'이라 말했지만, 등 뒤에서 진동하는 파장은 점점 무감각해졌고, 그녀는 침묵한 채 가게로 귀환하였다."
-                    }
-                ]
-            },
-            {
-                "npc_name": "Pookmi",
-                "reactive_status": "Normal",
-                "emotion_history": [
-                    {
-                        "target": "Slamon",
-                        "timestamp": "Day 001 - 08:30",
-                        "event": "슬라몬이 푸크미가 만든 음식을 먹고 맛있다고 칭찬함",
-                        "emotion": "Curiosity",
-                        "intensity": 4,
-                        "residue": "푸크미는 엄청 맛있게 먹어주는 슬라몬을 신기하게 생각함"
-                    }
-                ]
-            },
-            {
-                "npc_name": "Pookyu",
-                "reactive_status": "Normal",
-                "emotion_history": [
-                    {
-                        "target": "Slamon",
-                        "timestamp": "Day 001 - 08:30",
-                        "event": "슬라몬이 푸크유에게 푸크미가 만든 음식이 인간용이냐고 질문한다.",
-                        "emotion": "Curiosity",
-                        "intensity": 4,
-                        "residue": "푸크유는 슬라몬에게 다음번에는 제대로 만들어 주겠다고 함"
-                    },
-                    {
-                        "target": "Slamon",
-                        "timestamp": "Day 007 - 10:00",
-                        "event": "슬라몬이 퀘스트 《자매의 천을 구하라》를 완수하고 천을 반환함",
-                        "emotion": "Relief",
-                        "intensity": 6,
-                        "residue": "푸크유는 감정을 말로 표현하지 않았지만, 천을 조용히 접으며 신뢰를 형성했다. 이후 반응에 영향을 줄 만큼 강한 긍정 기억으로 저장됨."
-                    }
-                ]
-            },
-            {
-                "npc_name": "Jadni",
-                "reactive_status": "Normal",
-                "emotion_history": [
-                    {
-                        "target": "Slamon",
-                        "timestamp": "Day 001 - 14:30",
-                        "event": "슬라몬이 공방에서 움직이지 않는 라비아타를 활성화 시킨다.",
-                        "emotion": "Curiosity",
-                        "intensity": 4,
-                        "residue": "10년동안 비활성화된 안드로이드를 활성화시키는 슬라몬에게 관심"
-                    }
-                ]
-            },
-            {
-                "npc_name": "Rillae",
-                "reactive_status": "Normal",
-                "emotion_history": [
-                    {
-                        "target": "Slamon",
-                        "timestamp": "Day 001 - 14:30",
-                        "event": "슬라몬이 공방에서 움직이지 않는 라비아타를 활성화 시킨다.",
-                        "emotion": "Curiosity",
-                        "intensity": 4,
-                        "residue": "10년동안 비활성화된 안드로이드를 활성화시키는 슬라몬에게 관심"
-                    }
-                ]
-            }
-        ]
-    },
+    "npc_emotion_memory": [
+        {
+            "npc_name": "Kitty",
+            "reactive_status": "Normal",
+            "emotion_history": [
+                {
+                    "id": "EMO-001",
+                    "target": "Slamon",
+                    "timestamp": "Day 001 - 13:30",
+                    "event": "슬라몬이 도둑 길드에 직접 100gp를 지불하며 키티를 '우리의 소중한 생존 전문가'로 명시 및 파티합류",
+                    "emotion": "Grateful",
+                    "intensity": 4,
+                    "residue": "키티는 별다른 반응 없이 옆에 서 있었지만, 꼬리가 감지가 가르치게 움직였다"
+                }
+            ]
+        },
+        {
+            "npc_name": "Lissandra",
+            "reactive_status": "Normal",
+            "emotion_history": [
+                {
+                    "id": "EMO-002",
+                    "target": "Slamon",
+                    "timestamp": "Day 001 - 12:30",
+                    "event": "슬라몬이 신앙에 대한 차별로 집단 괴롭힘에서 구해줌, 파티합류",
+                    "emotion": "Grateful",
+                    "intensity": 4,
+                    "residue": "리산드라가 슬라몬에게 고마움을 느낌"
+                }
+            ]
+        },
+        {
+            "npc_name": "Laviata",
+            "reactive_status": "Normal",
+            "emotion_history": [
+                {
+                    "id": "EMO-003",
+                    "target": "Slamon",
+                    "timestamp": "Day 001 - 15:00",
+                    "event": "비활성화 상태에서 슬라몬의 피로 활성화됨, 슬라몬을 보호 대상으로 등록 및 파티합류",
+                    "emotion": "Grateful",
+                    "intensity": 4,
+                    "residue": "슬라몬의 파티합류 권유에 라비아타는 기계적 어조를 유지하다가 끝에 인간적인 감정 표현으로 '나도 고맙습니다'라고 말함"
+                },
+                {
+                    "id": "EMO-004",
+                    "target": "Slamon",
+                    "timestamp": "Day 007 - 12:00",
+                    "event": "청소 중 동료로서의 정체성을 인정받음",
+                    "emotion": "Recognition",
+                    "intensity": 6,
+                    "residue": "청소 중 1분에 한 번씩 슬라몬을 바라보며 시선을 공유함. 청소가 끝날 무렵 '기억할 것입니다'라는 발화를 남김. 기계음을 억제하지 않고 감정의 일부로 포함시킴."
+                }
+            ]
+        },
+        {
+            "npc_name": "Lumiere",
+            "reactive_status": "Normal",
+            "emotion_history": [
+                {
+                    "id": "EMO-005",
+                    "target": "Slamon",
+                    "timestamp": "Day 001 - 17:00",
+                    "event": "루미에르의 이상형인 슬라몬",
+                    "emotion": "Curiosity",
+                    "intensity": 4,
+                    "residue": "루미에르는 자신의 입장에서 조용히 놀란다."
+                },
+                {
+                    "id": "EMO-006",
+                    "target": "Slamon",
+                    "timestamp": "Day 007 - 11:30",
+                    "event": "슬라몬이 《운명을 뚫고 지나온 돌연변이의 노래》 퀘스트 실패를 보고함",
+                    "emotion": "Acceptance",
+                    "intensity": 3,
+                    "residue": "루미에르는 실패를 감정적으로 받아들였고, 비난하지 않았다. 하지만 이 기록은 의식 깊은 곳에 침전되어 반응에 영향을 줄 수 있음."
+                },
+                {
+                    "id": "EMO-007",
+                    "target": "Slamon",
+                    "timestamp": "Day 007 - 11:00",
+                    "event": "슬라몬이 감정 분기 실패에도 불구하고 분신술사를 퇴각시켜 사건을 종결함",
+                    "emotion": "Respect",
+                    "intensity": 6,
+                    "residue": "루미에르는 슬라몬의 감정이 닿지 않더라도 결과를 만들어냈음을 인정하고, 내면의 존경을 품게 됨"
+                },
+                {
+                    "id": "EMO-008",
+                    "target": "Slamon",
+                    "timestamp": "Day 007 - 11:30",
+                    "event": "슬라몬이 루미에르의 감정 각인 퀘스트 《거울이 당신을 기억하는 방법에 대하여》를 수행함",
+                    "emotion": "Resonance",
+                    "intensity": 5,
+                    "residue": "루미에르는 거울을 통해 슬라몬에게 반사된 자신을 보고 조용히 받아들인다. 침묵 속에서 처음으로 눈을 마주보고 감정의 윤곽을 스스로 인식함"
+                }
+            ]
+        },
+        {
+            "npc_name": "Lilishya",
+            "reactive_status": "Normal",
+            "emotion_history": [
+                {
+                    "id": "EMO-009",
+                    "target": "Slamon",
+                    "timestamp": "Day 001 - 08:00",
+                    "event": "슬라몬이 릴리샤의 모습을 보고도 놀라지 않음",
+                    "emotion": "Curiosity",
+                    "intensity": 4,
+                    "residue": "릴리샤는 오히려 도시의 유일한 인간인 슬라몬에게 관심을 가짐"
+                },
+                {
+                    "id": "EMO-010",
+                    "target": "Slamon",
+                    "timestamp": "Day 007 - 13:00",
+                    "event": "감응 실패 후 퀘스트 포기 선언",
+                    "emotion": "Withdrawal",
+                    "intensity": 5,
+                    "residue": "감응석 앞에서 마지막으로 '괜찮아, 슬라몬'이라 말했지만, 등 뒤에서 진동하는 파장은 점점 무감각해졌고, 그녀는 침묵한 채 가게로 귀환하였다."
+                }
+            ]
+        },
+        {
+            "npc_name": "Pookmi",
+            "reactive_status": "Normal",
+            "emotion_history": [
+                {
+                    "id": "EMO-011",
+                    "target": "Slamon",
+                    "timestamp": "Day 001 - 08:30",
+                    "event": "슬라몬이 푸크미가 만든 음식을 먹고 맛있다고 칭찬함",
+                    "emotion": "Curiosity",
+                    "intensity": 4,
+                    "residue": "푸크미는 엄청 맛있게 먹어주는 슬라몬을 신기하게 생각함"
+                }
+            ]
+        },
+        {
+            "npc_name": "Pookyu",
+            "reactive_status": "Normal",
+            "emotion_history": [
+                {
+                    "id": "EMO-012",
+                    "target": "Slamon",
+                    "timestamp": "Day 001 - 08:30",
+                    "event": "슬라몬이 푸크유에게 푸크미가 만든 음식이 인간용이냐고 질문한다.",
+                    "emotion": "Curiosity",
+                    "intensity": 4,
+                    "residue": "푸크유는 슬라몬에게 다음번에는 제대로 만들어 주겠다고 함"
+                },
+                {
+                    "id": "EMO-013",
+                    "target": "Slamon",
+                    "timestamp": "Day 007 - 10:00",
+                    "event": "슬라몬이 퀘스트 《자매의 천을 구하라》를 완수하고 천을 반환함",
+                    "emotion": "Relief",
+                    "intensity": 6,
+                    "residue": "푸크유는 감정을 말로 표현하지 않았지만, 천을 조용히 접으며 신뢰를 형성했다. 이후 반응에 영향을 줄 만큼 강한 긍정 기억으로 저장됨."
+                }
+            ]
+        },
+        {
+            "npc_name": "Jadni",
+            "reactive_status": "Normal",
+            "emotion_history": [
+                {
+                    "id": "EMO-014",
+                    "target": "Slamon",
+                    "timestamp": "Day 001 - 14:30",
+                    "event": "슬라몬이 공방에서 움직이지 않는 라비아타를 활성화 시킨다.",
+                    "emotion": "Curiosity",
+                    "intensity": 4,
+                    "residue": "10년동안 비활성화된 안드로이드를 활성화시키는 슬라몬에게 관심"
+                }
+            ]
+        },
+        {
+            "npc_name": "Rillae",
+            "reactive_status": "Normal",
+            "emotion_history": [
+                {
+                    "id": "EMO-015",
+                    "target": "Slamon",
+                    "timestamp": "Day 001 - 14:30",
+                    "event": "슬라몬이 공방에서 움직이지 않는 라비아타를 활성화 시킨다.",
+                    "emotion": "Curiosity",
+                    "intensity": 4,
+                    "residue": "10년동안 비활성화된 안드로이드를 활성화시키는 슬라몬에게 관심"
+                }
+            ]
+        }
+    ],
+    "arcanamirium_report": [
+        {
+            "id": "RPT-0001",
+            "timestamp": "Day 001 - 08:00",
+            "log": "패스포트 도시에 도착. 무한의 프론티어 던전 외부관측은 기존 자료와 일치함을 확인. 던전 내부환경은 진입 시마다 변경되며, 일루전 또는 컨저러 계열의 마법과 유사하나 Arcana 반응 없음. 도시 길드에서 조사용 워프마커를 취득하였으며, 추후 내부 상세기록 보고 예정.",
+            "comment": "단독 던전 탐사에 대한 리스크 해결을 위해 파티를 구성하였음. 관련 자료는 별첨 (Party-001.xml)."
+        }
+    ],
     "recent_summary": "Day 007 - 12:00부터 포리프 하우스 응접실에서 라비아타와의 감정 분기 발생. 청소를 함께하며 동료로서의 정체성에 대한 인정을 통해 RP 아이템 획득 및 감정 등록. 이어서 퀘스트 《주파수 밖의 노래》 수락, 릴리샤와 함께 프론티어 6층 '구 기억 저장소' 진입. 감응 실패 및 시현 혼란 상태 발생 후 퀘스트 포기, 실패 처리. 릴리샤 감정 'Withdrawal', RP 아이템 지급. 세션 종료.",
     "current_summary": ""
 }
