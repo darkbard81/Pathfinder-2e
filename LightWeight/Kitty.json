@@ -1,0 +1,130 @@
+{
+  "name": "Kitty",
+  "class": "Rogue",
+  "level": 6,
+  "ancestry": "Catfolk",
+  "heritage": "Jungle Catfolk",
+  "background": "Hunter",
+  "alignment": "Chaotic Good",
+  "size": "Medium",
+  "speed": "25 ft",
+  "languages": [
+    "Common",
+    "Amurrun",
+    "Sylvan",
+    "Goblin"
+  ],
+  "deity": "",
+  "key_ability": "DEX",
+  "hp": {
+    "max": 74,
+    "current": 74
+  },
+  "perception": "Trained",
+  "saving_throws": {
+    "fortitude": "Trained",
+    "reflex": "Expert",
+    "will": "Trained"
+  },
+  "armor_proficiency": [
+    "Light Armor (Trained)",
+    "Unarmored Defense (Trained)"
+  ],
+  "weapon_proficiency": [
+    "Simple Weapons (Trained)",
+    "Unarmed attacks (Trained)"
+  ],
+  "spell_proficiency": "None",
+  "adjusted_abilities": {
+    "STR": 10,
+    "DEX": 19,
+    "CON": 16,
+    "INT": 16,
+    "WIS": 12,
+    "CHA": 12
+  },
+  "class_features": [
+    "Sneak Attack 1d6",
+    "Surprise Attack",
+    "Rogue's Racket (Thief)",
+    "Rogue Class DC (Trained)",
+    "Deny Advantage",
+    "Sneak Attack 2d6",
+    "Weapon Tricks"
+  ],
+  "ancestry_features": [
+    "Low-Light Vision",
+    "Land on Your Feet"
+  ],
+  "heritage_features": [
+    "Ignore difficult terrain from undergrowth; treat greater difficult terrain from undergrowth as normal difficult terrain"
+  ],
+  "feats": {
+    "ancestry_feat": [
+      "Cat's Luck",
+      "Lucky Break"
+    ],
+    "background_feat": "Survey Wildlife",
+    "class_feats": [
+      "You're Next",
+      "Mobility",
+      "Dread Striker",
+	  "Skirmish Strike"
+    ],
+    "general_feats": [
+      "Incredible Initiative"
+    ],
+    "skill_feats": [
+      "Tumble Behind",
+      "Quiet Allies",
+      "Assurance (Stealth)",
+	  "Intimidating Glare"
+    ]
+  },
+  "skills": {
+    "Acrobatics": "Expert",
+    "Stealth": "Expert",
+    "Thievery": "Expert",
+    "Athletics": "Expert",
+    "Nature": "Trained",
+    "Survival": "Trained",
+    "Deception": "Trained",
+    "Diplomacy": "Trained",
+    "Society": "Trained",
+	"Intimidation": "Trained"
+  },
+  "spells": {
+    "casting_type": "none"
+  },
+  "gear": {
+    "weapons": [
+      "Cold Iron Dagger",
+      "Silver Dagger",
+      "Dagger"
+    ],
+    "armor": [
+      "Leather Armor"
+    ],
+    "worn_items": [
+      "Cloak of Elvenkind",
+      "Tracker’s Goggles, Greater"
+    ],
+    "consumables": [
+      "Potion of Invisibility (Lesser)"
+    ],
+    "tools": [
+      "Thieves’ Tools",
+      "Climbing Kit"
+    ],
+    "coin_pouch": {
+      "gp": 7,
+      "sp": 4,
+      "cp": 0
+    },
+    "other": [
+      "Adventurer's Pack"
+    ]
+  },
+  "conditions": [],
+  "resource_tracking": {}
+}

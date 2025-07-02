@@ -1,0 +1,180 @@
+{
+    "name": "Lissandra",
+    "class": "Cleric (Cloistered Doctrine)",
+    "level": 6,
+    "ancestry": "Kitsune",
+    "heritage": "Celestial Envoy",
+    "background": "Field Medic",
+    "alignment": "Chaotic Neutral",
+    "size": "Medium",
+    "speed": "25 feet",
+    "languages": [
+        "Common"
+    ],
+    "deity": "Calistria",
+    "key_ability": "Wisdom",
+    "hp": {
+        "max": 68,
+        "current": 68
+    },
+    "perception": "Expert",
+    "saving_throws": {
+        "fortitude": "Expert",
+        "reflex": "Trained",
+        "will": "Expert"
+    },
+    "armor_proficiency": [
+        "Light Armor (Trained)",
+        "Medium Armor (Trained)",
+        "Unarmored Defense (Trained)"
+    ],
+    "weapon_proficiency": [
+        "Simple Weapons (Trained)",
+        "Whip (Calistria Favored Weapon, Trained)"
+    ],
+    "spell_proficiency": [
+        "Divine spell attacks (Trained)",
+        "Divine spell DCs (Trained)"
+    ],
+    "adjusted_abilities": {
+        "STR": 10,
+        "DEX": 14,
+        "CON": 14,
+        "INT": 10,
+        "WIS": 19,
+        "CHA": 18
+    },
+    "ancestry_features": [
+        "Low-light Vision",
+        "Change Shape"
+    ],
+    "heritage_features": [
+        "Invoke Celestial Privilege"
+    ],
+    "class_features": [
+        "Doctrine: Cloistered Cleric",
+        "Deity (Calistria)",
+        "Cleric Spellcasting",
+        "Divine Font (Heal)",
+        "Perception Expertise",
+        "Second Doctrine"
+    ],
+    "feats": {
+        "ancestry_feat": [
+            "Kitsune Spell Familiarity",
+            "Kitsune Spell Mysteries (Sanctuary)"
+        ],
+        "background_feat": "Battle Medicine",
+        "general_feats": [
+            "Natural Ambition"
+        ],
+        "class_feats": [
+            "Domain Initiate (Trickery)",
+            "Versatile Font",
+            "Communal Healing",
+            "Improved Communal Healing"
+        ],
+        "skill_feats": [
+            "Steady Spellcasting"
+        ]
+    },
+    "skills": {
+        "Religion": "Trained",
+        "Deception": "Trained",
+        "Medicine": "Trained",
+        "Intimidation": "Expert",
+        "Warfare Lore": "Trained"
+    },
+    "spells": {
+        "casting_type": "prepared",
+        "spellbook": {
+        },
+        "prepared": {
+            "1": [
+                "Bless",
+                "Heal",
+                "Bane"
+            ],
+            "2": [
+                "Resist Energy",
+                "Lesser Restoration",
+                "Spiritual Weapon"
+            ],
+            "3": [
+                "Blindness",
+                "Heroism",
+                "Searing Light"
+            ]
+        },
+        "known_spells": {
+        },
+        "cantrips": [
+            "Guidance",
+            "Divine Lance",
+            "Light",
+            "Shield",
+            "Stabilize"
+        ],
+        "focus_spells": [
+            "Sudden Shift"
+        ],
+        "innate_spells": [
+            "Daze",
+            "Sanctuary"
+        ],
+        "rituals": [
+        ]
+    },
+    "gear": {
+        "weapons": [
+            "Whip"
+        ],
+        "armor": [
+            "Robe"
+        ],
+        "worn_items": [
+            "Bracers of Armor +1",
+            "Healer’s Gloves"
+        ],
+        "consumables": [
+        ],
+        "tools": [
+        ],
+        "coin_pouch": {
+            "gp": 20,
+            "sp": 0,
+            "cp": 0
+        },
+        "other": [
+            "Adventurer’s Pack"
+        ]
+    },
+    "conditions": [
+    ],
+    "resource_tracking": {
+        "spell_slots_used": {
+            "1st_level": {
+                "max": 3,
+                "current": 0
+            },
+            "2nd_level": {
+                "max": 3,
+                "current": 0
+            },
+            "3rd_level": {
+                "max": 3,
+                "current": 0
+            }
+        },
+        "divine_font_used": {
+            "3rd_level_heal": {
+                "max": 4,
+                "current": 0
+            }
+        },
+        "focus_points_used": {
+            "max": 1,
+            "current": 0
+        }
+    }
+}

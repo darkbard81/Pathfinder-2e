@@ -1,0 +1,193 @@
+{
+  "name":"Slamon",
+  "class":"Magus",
+  "level":6,
+  "ancestry":"Human",
+  "heritage":"Versatile Heritage",
+  "background":"Scholar",
+  "alignment":"Lawful Evil",
+  "size":"Medium",
+  "speed":"25 feet",
+  "languages":[
+    "Common",
+    "Draconic",
+    "Dwarven",
+    "Elven",
+    "Orcish",
+    "Undercommon"
+  ],
+  "deity":"",
+  "key_ability":"Dexterity",
+  "hp":{
+    "max":65,
+    "current":65
+  },
+  "perception":"Trained",
+  "saving_throws":{
+    "fortitude":"Expert",
+    "reflex":"Trained",
+    "will":"Expert"
+  },
+  "armor_proficiency":[
+    "Light Armor (Trained)",
+    "Medium Armor (Trained)",
+    "Unarmored Defense (Trained)"
+  ],
+  "weapon_proficiency":[
+    "Simple Weapons (Expert)",
+    "Martial Weapons (Expert)",
+    "Unarmed attacks (Expert)"
+  ],
+  "spell_proficiency":[
+    "Trained in arcane spell attacks",
+    "Trained in arcane spell DCs"
+  ],
+  "adjusted_abilities":{
+    "STR":10,
+    "DEX":16,
+    "CON":14,
+    "INT":19,
+    "WIS":14,
+    "CHA":12
+  },
+  "class_features":[
+    "Arcane Spellcasting",
+    "Spellstrike",
+    "Arcane Cascade",
+    "Hybrid Study (Sparkling Targe)",
+    "Confulx Spell"
+  ],
+  "feats":{
+    "ancestry_feat":[
+      "Natural Ambition",
+      "General Training",
+      "General Training",
+      "General Training"
+    ],
+    "background_feat":"Assurance (Arcana)",
+    "class_feats":[
+      "Magus’s Analysis",
+      "Expansive Spellstrike",
+      "Emergency Targe",
+	  "Knowledge Is Power"
+    ],
+    "general_feats":[
+      "Ancestral Paragon",
+      "Toughness"
+    ],
+    "skill_feats":[
+      "Recognize Spell",
+      "Magical Crafting",
+	  "Automatic Knowledge"
+    ]
+  },
+  "skills":{
+    "Arcana":"Expert",
+    "Crafting":"Expert",
+    "Occultism":"Trained",
+    "Athletics":"Trained",
+    "Society":"Trained",
+    "Diplomacy":"Trained",
+    "Nature":"Trained",
+	"Academia Lore":"Trained"
+  },
+  "spells":{
+    "casting_type":"prepared",
+    "spellbook":{
+      "1st_level":[
+        "Shocking Grasp",
+        "Grease",
+        "Snowball",
+        "Burning Hands",
+        "Horizon Thunder Sphere",
+        "Ray of Enfeeblement"
+      ],
+      "2nd_level":[
+        "Touch of Idiocy",
+        "Scorching Ray",
+        "Mirror Image"
+      ],
+      "3rd_level":[
+        "Vampiric Touch",
+        "Blindness",
+        "Paralyze"
+      ]
+    },
+    "prepared":{
+      "2nd_level":[
+        "Acid Arrow",
+        "Burning Hands(+1)"
+      ],
+      "3rd_level":[
+        "Vampiric Touch",
+        "Horizon Thunder Sphere(+2)"
+      ]
+    },
+    "known_spells":{
+      
+    },
+    "cantrips":[
+      "Detect Magic",
+      "Shield",
+      "Gouging Claw",
+      "Produce Flame"
+    ],
+    "focus_spells":[
+      "Shielding Strike"
+    ],
+    "innate_spells":{
+      
+    },
+    "rituals":[
+      
+    ]
+  },
+  "gear":{
+    "weapons":[
+      "Cold Iron Rapier (+1, Striking)",
+      "Silver Rapier"
+    ],
+    "armor":[
+      "Leather Armor"
+    ],
+    "worn_items":[
+      "Ring of Minor Arcana"
+    ],
+    "consumables":[
+      "Minor Healing Potion",
+      "Wand of Mirror Image (2nd Level)"
+    ],
+    "tools":[
+      "Spellbook",
+      "Writing Set",
+      "Wayfinder"
+    ],
+    "coin_pouch":{
+      "gp":20,
+      "sp":0,
+      "cp":0
+    },
+    "other":[
+      "Adventurer’s Pack"
+    ]
+  },
+  "conditions":[
+    
+  ],
+  "resource_tracking":{
+    "spell_slots_used":{
+      "2nd_level":{
+        "max":2,
+        "current":0
+      },
+      "3rd_level":{
+        "max":2,
+        "current":0
+      }
+    },
+    "focus_points":{
+      "max":1,
+      "current":1
+    }
+  }
+}
