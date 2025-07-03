@@ -327,7 +327,8 @@
                 "Healer’s Gloves"
             ],
             "consumables": [
-            ],
+                "Wand of Heal (2nd-level, 1/day)"
+			],
             "tools": [
             ],
             "coin_pouch": {
