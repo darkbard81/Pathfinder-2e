@@ -1,9 +1,9 @@
 {
     "time_track": {
-        "timestamp": "Day 008 - 13:10",
-        "fatigue_check_elapsed_minutes": 220,
-        "hunger_check_elapsed_minutes": 220,
-        "faction_check_elapsed_minutes": 220
+        "timestamp": "Day 008 - 13:40",
+        "fatigue_check_elapsed_minutes": 250,
+        "hunger_check_elapsed_minutes": 250,
+        "faction_check_elapsed_minutes": 250
     },
     "shared_inventory": {
         "gp": 2088,
@@ -34,6 +34,14 @@
             },
             {
                 "item_name": "Gravity Inverter",
+                "quantity": 1
+            },
+            {
+                "item_name": "Mistform Elixir (Greater)",
+                "quantity": 1
+            },
+            {
+                "item_name": "Ruby Capacitor",
                 "quantity": 1
             }
         ]
@@ -497,6 +505,6 @@
             "comment": "무한의 프론티어 던전 자체에 대한 내용은 아니지만, 향후 대응에 대한 자료로써 보고서를 올립니다."
         }
     ],
-    "recent_summary": "슬라몬은 각 팩션의 입장을 들어보고 보고서를 작성하였다.",
+    "recent_summary": "슬라몬은 각 팩션의 입장을 들어보고 보고서를 작성하였다. 이후, 던전 6층-사막 고원에 진입해, 광역 무음 지대를 해제하고 덮쳐온 Cactid, Solifugid와 전투를 벌였다.",
     "current_summary": ""
 }
