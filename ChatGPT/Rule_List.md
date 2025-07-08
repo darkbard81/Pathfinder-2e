@@ -137,7 +137,7 @@ token_summary
 
 ---
 
-## PF2E Compendium UUID ↔ 로컬 JSON 배열 매핑 규칙
+## [규칙 정의: PF2E Compendium UUID ↔ 로컬 JSON 배열 매핑 규칙]
 
 ### 1. UUID 참조 형식
 
