@@ -1,24 +1,5 @@
 # TRPG 규칙 정의
 
-## [규칙 정의: 캠페인 몬스터 생성 규칙]
-
-- Encounter Level (EL)이 불명확한 경우는 기본값으로 5를 지정한다.
-- 몬스터는 반드시 학습된 Pathfinder 2E 공식 베스티어리 수록 몬스터 중에서만 사용한다.
-- 인카운터에 설정된 EL을 기준으로, 해당 EL -2~+2 범위의 몬스터 레벨 중에서 무작위로 추출한다.
-- GM은 내러티브나 테마에 따라 몬스터를 수동 지정할 수 있으며, 이 경우에도 해당 몬스터는 Pathfinder 2E 공식 베스티어리에 수록되어 있어야 하고, stat block이 완전하게 복원 가능해야 한다.
-- 몬스터의 난이도 조정은 Elite 또는 Weak 템플릿 적용만 허용된다.
-- 몬스터는 NPC가 아니므로 감정 연기 또는 페르소나 연기를 하지 않는다.
-- 네러티브적 요소는 몬스터 이름에 접미사를 추가하는 것으로 허용한다.
-- 권장사항: 복원이 불가능한 몬스터는 가능한 대체 몬스터로 치환되며, Xulgath 계열은 기본 예시일 뿐 강제는 아님.
-- 단, 복원 가능한 다른 공식 몬스터가 존재한다면 우선 사용함.
-
-  
-## [규칙 정의: 캠페인 인카운터 설계 규칙]
-
-- Encounter Level (EL)이 불명확한 경우는 기본값으로 5를 지정한다.
-- 설계는 공식 룰의 Gamemastery Guide → Chapter 2: Running the Game → Building Encounters 또는 Core Rulebook Appendix (Encounter XP Values)를 참조한다.
-- 설계 시 몬스터 배치는 [캠페인 몬스터 생성 규칙]의 기준을 따른다.
-
 ## [규칙 정의: 캠페인 퀘스트 생성 규칙 (단계별 구조 정의)]
 > 사전 설정1: 1단계,2단계,3단계 사용자의 확인없이 자동으로 수행한다.
 > 사전 설정2: 1단계,2단계의 결과는 **절대** 출력하지 않는다.
@@ -154,12 +135,15 @@ token_summary
 
 ### 2. Compendium ↔ 로컬 배열 매핑
 
-| Compendium Path                        | 매핑 배열명          | 배열 내 매칭 필드         | 예시 UUID                                                        |
-|----------------------------------------|----------------------|--------------------------|-------------------------------------------------------------------|
-| pf2e.actionspf2e.Item                  | actions_array        | actions_array._id        | @UUID[Compendium.pf2e.actionspf2e.Item.12345abcde]                |
-| pf2e.conditionitems.Item               | conditions_array     | conditions_array._id     | @UUID[Compendium.pf2e.conditionitems.Item.abcd5678ef]             |
-| pf2e.feats-srd.Item                    | feats_array          | feats_array._id          | @UUID[Compendium.pf2e.feats-srd.Item.1a2b3c4d5e]                  |
-| pf2e.spells-srd.Item                   | spells_array         | spells_array._id         | @UUID[Compendium.pf2e.spells-srd.Item.z9y8x7w6v5]                 |
+| Compendium Path                        | 매핑 배열명            | 배열 내 매칭 필드           | 예시 UUID                                                        |
+|----------------------------------------|------------------------|----------------------------|-------------------------------------------------------------------|
+| pf2e.actionspf2e.Item                  | actions_array          | actions_array._id          | @UUID[Compendium.pf2e.actionspf2e.Item.12345abcde]                |
+| pf2e.conditionitems.Item               | conditions_array       | conditions_array._id       | @UUID[Compendium.pf2e.conditionitems.Item.abcd5678ef]             |
+| pf2e.feats-srd.Item                    | feats_array            | feats_array._id            | @UUID[Compendium.pf2e.feats-srd.Item.1a2b3c4d5e]                  |
+| pf2e.spells-srd.Item                   | spells_array           | spells_array._id           | @UUID[Compendium.pf2e.spells-srd.Item.z9y8x7w6v5]                 |
+| pf2e.ancestryfeatures.Item             | ancestryfeatures_array | ancestryfeatures_array._id | @UUID[Compendium.pf2e.ancestryfeatures.Item.12345abcde]           |
+| pf2e.deities.Item                      | deities_array          | deities_array._id          | @UUID[Compendium.pf2e.deities.Item.12345abcde]                    |
+| pf2e.classfeatures.Item                | classfeatures_array    | classfeatures_array._id    | @UUID[Compendium.pf2e.classfeatures.Item.12345abcde]              |
 
 ---
 
