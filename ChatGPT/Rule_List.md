@@ -135,3 +135,67 @@ token_summary
 → [3단계] quest.txt에 저장 및 시스템 참조
 ```
 
+---
+
+## PF2E Compendium UUID ↔ 로컬 JSON 배열 매핑 규칙
+
+### 1. UUID 참조 형식
+
+모든 PF2E Compendium 레퍼런스는 다음과 같은 형식으로 등장한다.
+
+- `@UUID[Compendium.pf2e.actionspf2e.Item.{id}]`
+- `@UUID[Compendium.pf2e.conditionitems.Item.{id}]`
+- `@UUID[Compendium.pf2e.feats-srd.Item.{id}]`
+- `@UUID[Compendium.pf2e.spells-srd.Item.{id}]`
+
+여기서 `{id}`는 해당 데이터의 고유 식별자다.
+
+---
+
+### 2. Compendium ↔ 로컬 배열 매핑
+
+| Compendium Path                        | 매핑 배열명          | 배열 내 매칭 필드         | 예시 UUID                                                        |
+|----------------------------------------|----------------------|--------------------------|-------------------------------------------------------------------|
+| pf2e.actionspf2e.Item                  | actions_array        | actions_array._id        | @UUID[Compendium.pf2e.actionspf2e.Item.12345abcde]                |
+| pf2e.conditionitems.Item               | conditions_array     | conditions_array._id     | @UUID[Compendium.pf2e.conditionitems.Item.abcd5678ef]             |
+| pf2e.feats-srd.Item                    | feats_array          | feats_array._id          | @UUID[Compendium.pf2e.feats-srd.Item.1a2b3c4d5e]                  |
+| pf2e.spells-srd.Item                   | spells_array         | spells_array._id         | @UUID[Compendium.pf2e.spells-srd.Item.z9y8x7w6v5]                 |
+
+---
+
+### 3. 매핑 규칙
+
+- UUID 내 `{id}`는 해당 배열의 `_id` 필드와 1:1로 정확히 대응된다.
+- description 등 텍스트에서  
+  `@UUID[Compendium.pf2e.[TYPE].Item.{id}]`  
+  를 발견하면  
+  `[TYPE]`에 따라 해당 배열에서  
+  `_id == {id}`인 오브젝트를 참조할 수 있다.
+
+---
+
+### 4. 예시
+
+- `@UUID[Compendium.pf2e.conditionitems.Item.j91X7x0XSomq8d60]`
+  - → `conditions_array`에서 `_id`가 `j91X7x0XSomq8d60`인 데이터 참조
+
+- `@UUID[Compendium.pf2e.spells-srd.Item.8hKW4mWQyLnkHVta]`
+  - → `spells_array`에서 `_id`가 `8hKW4mWQyLnkHVta`인 데이터 참조
+
+---
+
+### 5. 참고
+
+- 다른 Compendium 타입이 등장할 경우에도 같은 규칙이 적용됨  
+  (Compendium 경로 ↔ 로컬 배열명만 추가 정의)
+- 파서/룰 엔진/설명 시스템 등에서  
+  description 내 UUID에서 id를 추출,  
+  해당 배열에서 상세 정보를 자동 연결할 수 있음
+
+---
+
+> **정리**  
+>  
+> PF2E Compendium 기반의 UUID 레퍼런스는  
+> 배열명과 id값만 매핑하면 언제든 로컬 데이터에서 상세 정보를 바로 조회할 수 있다.
+
