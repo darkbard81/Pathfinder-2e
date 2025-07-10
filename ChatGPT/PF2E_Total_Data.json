@@ -1,0 +1,740 @@
+{
+  "character_sheet": [
+    {
+      "_id": "slamon",
+      "name": "Slamon",
+      "class": "Magus",
+      "level": 6,
+      "ancestry": "Human",
+      "heritage": "Versatile Heritage",
+      "alignment": "LE",
+      "deity": "Not set",
+      "hp": {
+        "ancestry": 8,
+        "class": 8,
+        "bonusPerLevel": 1,
+        "total": 74
+      },
+      "ac": {
+        "total": 23,
+        "profBonus": 8,
+        "abilityBonus": 4,
+        "itemBonus": 1,
+        "shieldBonus": null
+      },
+      "speed": 25,
+      "perception": 2,
+      "savingThrows": {
+        "fortitude": 4,
+        "reflex": 4,
+        "will": 4
+      },
+      "proficiencies": {
+        "classDC": 2,
+        "armorProfs": {
+          "unarmored": 2,
+          "light": 2,
+          "medium": 2,
+          "heavy": 0
+        },
+        "weaponProfs": {
+          "simple": 4,
+          "martial": 4,
+          "advanced": 0
+        },
+        "castingProfs": {
+          "arcane": 2,
+          "divine": 0,
+          "occult": 0,
+          "primal": 0
+        },
+        "skillProfs": {
+          "acrobatics": 2,
+          "arcana": 2,
+          "athletics": 0,
+          "crafting": 2,
+          "deception": 2,
+          "diplomacy": 2,
+          "intimidation": 0,
+          "medicine": 2,
+          "nature": 2,
+          "occultism": 2,
+          "performance": 0,
+          "religion": 2,
+          "society": 2,
+          "stealth": 2,
+          "survival": 0,
+          "thievery": 0
+        }
+      },
+      "abilityModifiers": {
+        "strMod": 0,
+        "dexMod": 4,
+        "conMod": 2,
+        "intMod": 4,
+        "wisMod": 1,
+        "chaMod": 2
+      },
+      "weapons": [
+        {
+          "name": "Shortsword",
+          "attackBonus": 15,
+          "material": "Cold Iron (Low-Grade)",
+          "potency": 1,
+          "striking": true,
+          "damage": "1d6+0 (Cold Iron (Low-Grade))"
+        }
+      ],
+      "armor": {
+        "name": "Scroll Robes",
+        "type": "unarmored",
+        "itemBonus": 1,
+        "resilient": true,
+        "material": "Adamantine (Standard-Grade)"
+      },
+      "shield": {
+      },
+      "ancestryfeatures": [
+      ],
+      "classfeature": [
+        "Spellstrike",
+        "Spellstrike Specifics",
+        "Arcane Cascade",
+        "Laughing Shadow",
+        "Conflux Spells",
+        "Spellbook",
+        "Lightning Reflexes",
+        "Weapon Expertise"
+      ],
+      "feats": {
+        "heritageFeats": [
+        ],
+        "ancestryFeats": [
+          "General Training",
+          "Natural Ambition"
+        ],
+        "classFeats": [
+          "Distracting Spellstrike",
+          "Expansive Spellstrike",
+          "Knowledge is Power",
+          "Magus's Analysis"
+        ],
+        "skillFeats": [
+          "Cognitive Crossover",
+          "Crafter's Appraisal",
+          "Root Magic",
+          "Skill Training (Stealth)",
+          "Trick Magic Item"
+        ],
+        "generalFeats": [
+          "Incredible Initiative",
+          "Toughness"
+        ],
+        "awardedFeats": [
+        ]
+      },
+      "spells": {
+        "magusPrepared": [
+          {
+            "spellLevel": 0,
+            "list": [
+              "Acid Splash",
+              "Shield",
+              "Produce Flame",
+              "Electric Arc",
+              "Gale Blast"
+            ]
+          },
+          {
+            "spellLevel": 2,
+            "list": [
+              "Invisibility",
+              "Mirror Image"
+            ]
+          },
+          {
+            "spellLevel": 3,
+            "list": [
+              "Horizon Thunder Sphere",
+              "Fireball"
+            ]
+          }
+        ],
+        "focus": [
+          "Dimensional Assault"
+        ]
+      }
+    },
+    {
+      "_id": "kitty",
+      "name": "Kitty",
+      "class": "Rogue",
+      "level": 6,
+      "ancestry": "Catfolk",
+      "heritage": "Clawed Catfolk",
+      "alignment": "CG",
+      "deity": "Not set",
+      "hp": {
+        "ancestry": 8,
+        "class": 8,
+        "bonusPerLevel": 0,
+        "total": 68
+      },
+      "ac": {
+        "total": 24,
+        "profBonus": 8,
+        "abilityBonus": 4,
+        "itemBonus": 2,
+        "shieldBonus": null
+      },
+      "speed": 25,
+      "perception": 4,
+      "savingThrows": {
+        "fortitude": 2,
+        "reflex": 4,
+        "will": 4
+      },
+      "proficiencies": {
+        "classDC": 2,
+        "armorProfs": {
+          "unarmored": 2,
+          "light": 2,
+          "medium": 0,
+          "heavy": 0
+        },
+        "weaponProfs": {
+          "simple": 4,
+          "martial": 0,
+          "advanced": 0
+        },
+        "castingProfs": {
+          "arcane": 0,
+          "divine": 0,
+          "occult": 0,
+          "primal": 0
+        },
+        "skillProfs": {
+          "acrobatics": 4,
+          "arcana": 2,
+          "athletics": 2,
+          "crafting": 0,
+          "deception": 0,
+          "diplomacy": 0,
+          "intimidation": 4,
+          "medicine": 0,
+          "nature": 2,
+          "occultism": 2,
+          "performance": 2,
+          "religion": 2,
+          "society": 2,
+          "stealth": 4,
+          "survival": 2,
+          "thievery": 4
+        }
+      },
+      "abilityModifiers": {
+        "strMod": 0,
+        "dexMod": 4,
+        "conMod": 2,
+        "intMod": 1,
+        "wisMod": 1,
+        "chaMod": 4
+      },
+      "weapons": [
+        {
+          "name": "Dagger",
+          "attackBonus": 15,
+          "material": "Cold Iron (Low-Grade)",
+          "potency": 1,
+          "striking": true,
+          "damage": "1d4+0 (Cold Iron (Low-Grade))"
+        }
+      ],
+      "armor": {
+        "name": "Leather Armor",
+        "type": "light",
+        "itemBonus": 1,
+        "resilient": false,
+        "material": null
+      },
+      "shield": {
+      },
+      "ancestryfeatures": [
+        "Low-Light Vision",
+        "Land on Your Feet",
+        "Clawed Catfolk"
+      ],
+      "classfeature": [
+        "Thief Racket",
+        "Sneak Attack",
+        "Surprise Attack",
+        "Deny Advantage",
+        "Weapon Tricks"
+      ],
+      "feats": {
+        "heritageFeats": [
+        ],
+        "ancestryFeats": [
+          "Cat's Luck",
+          "Catfolk Dance",
+          "Expanded Luck"
+        ],
+        "classFeats": [
+          "Dread Striker",
+          "Gang Up",
+          "Tumble Behind (Rogue)",
+          "You're Next"
+        ],
+        "skillFeats": [
+          "Cat Fall",
+          "Escape",
+          "Intimidating Glare",
+          "Pickpocket",
+          "Quiet Allies",
+          "Sign Language",
+          "Steady Balance"
+        ],
+        "generalFeats": [
+          "Ancestral Paragon"
+        ],
+        "awardedFeats": [
+        ]
+      },
+      "spells": {
+      }
+    },
+    {
+      "_id": "laviata",
+      "name": "Laviata",
+      "class": "Barbarian",
+      "level": 6,
+      "ancestry": "Android",
+      "heritage": "Warrior Android",
+      "alignment": "LG",
+      "deity": "Not set",
+      "hp": {
+        "ancestry": 8,
+        "class": 12,
+        "bonusPerLevel": 0,
+        "total": 98
+      },
+      "ac": {
+        "total": 24,
+        "profBonus": 8,
+        "abilityBonus": 2,
+        "itemBonus": 4,
+        "shieldBonus": null
+      },
+      "speed": 25,
+      "perception": 4,
+      "savingThrows": {
+        "fortitude": 4,
+        "reflex": 2,
+        "will": 4
+      },
+      "proficiencies": {
+        "classDC": 2,
+        "armorProfs": {
+          "unarmored": 2,
+          "light": 2,
+          "medium": 2,
+          "heavy": 0
+        },
+        "weaponProfs": {
+          "simple": 4,
+          "martial": 4,
+          "advanced": 0
+        },
+        "castingProfs": {
+          "arcane": 0,
+          "divine": 0,
+          "occult": 0,
+          "primal": 0
+        },
+        "skillProfs": {
+          "acrobatics": 2,
+          "arcana": 0,
+          "athletics": 4,
+          "crafting": 0,
+          "deception": 0,
+          "diplomacy": 0,
+          "intimidation": 4,
+          "medicine": 0,
+          "nature": 0,
+          "occultism": 0,
+          "performance": 0,
+          "religion": 0,
+          "society": 2,
+          "stealth": 0,
+          "survival": 2,
+          "thievery": 2
+        }
+      },
+      "abilityModifiers": {
+        "strMod": 4,
+        "dexMod": 3,
+        "conMod": 3,
+        "intMod": 1,
+        "wisMod": 0,
+        "chaMod": 1
+      },
+      "weapons": [
+        {
+          "name": "Greatsword",
+          "attackBonus": 15,
+          "material": "Cold Iron (Low-Grade)",
+          "potency": 1,
+          "striking": true,
+          "damage": "1d12+4 (Cold Iron (Low-Grade))"
+        }
+      ],
+      "armor": {
+        "name": "Scale Mail",
+        "type": "medium",
+        "itemBonus": 1,
+        "resilient": false,
+        "material": "Cold Iron (Low-Grade)"
+      },
+      "shield": {
+      },
+      "ancestryfeatures": [
+        "Constructed (Android)",
+        "Low-Light Vision",
+        "Emotionally Unaware",
+        "Warrior Android"
+      ],
+      "classfeature": [
+        "Rage",
+        "Giant Instinct",
+        "Titan Mauler (Instinct Ability)",
+        "Deny Advantage",
+        "Brutality"
+      ],
+      "feats": {
+        "heritageFeats": [
+        ],
+        "ancestryFeats": [
+          "Nanite Shroud",
+          "Nanite Surge"
+        ],
+        "classFeats": [
+          "Giant's Stature",
+          "Raging Intimidation",
+          "Sudden Charge",
+          "Swipe"
+        ],
+        "skillFeats": [
+          "Assurance (Intimidation)",
+          "Intimidating Glare",
+          "Intimidating Prowess",
+          "Steady Balance",
+          "Titan Wrestler"
+        ],
+        "generalFeats": [
+        ],
+        "awardedFeats": [
+        ]
+      },
+      "spells": {
+      }
+    },
+    {
+      "_id": "lissandra",
+      "name": "Lissandra",
+      "class": "Cleric",
+      "level": 6,
+      "ancestry": "Kitsune",
+      "heritage": "Celestial Envoy Kitsune",
+      "alignment": "CN",
+      "deity": "Calistria",
+      "hp": {
+        "ancestry": 8,
+        "class": 8,
+        "bonusPerLevel": 1,
+        "total": 74
+      },
+      "ac": {
+        "total": 21,
+        "profBonus": 8,
+        "abilityBonus": 2,
+        "itemBonus": 1,
+        "shieldBonus": 1
+      },
+      "speed": 25,
+      "perception": 4,
+      "savingThrows": {
+        "fortitude": 5,
+        "reflex": 3,
+        "will": 5
+      },
+      "proficiencies": {
+        "classDC": 2,
+        "armorProfs": {
+          "unarmored": 2,
+          "light": 0,
+          "medium": 0,
+          "heavy": 0
+        },
+        "weaponProfs": {
+          "simple": 2,
+          "martial": 0,
+          "advanced": 0
+        },
+        "castingProfs": {
+          "arcane": 0,
+          "divine": 2,
+          "occult": 0,
+          "primal": 0
+        },
+        "skillProfs": {
+          "acrobatics": 0,
+          "arcana": 0,
+          "athletics": 0,
+          "crafting": 0,
+          "deception": 2,
+          "diplomacy": 0,
+          "intimidation": 4,
+          "medicine": 2,
+          "nature": 0,
+          "occultism": 0,
+          "performance": 0,
+          "religion": 4,
+          "society": 2,
+          "stealth": 0,
+          "survival": 0,
+          "thievery": 0
+        }
+      },
+      "abilityModifiers": {
+        "strMod": 1,
+        "dexMod": 2,
+        "conMod": 2,
+        "intMod": 0,
+        "wisMod": 4,
+        "chaMod": 4
+      },
+      "weapons": [
+        {
+          "name": "Whip Claw",
+          "attackBonus": 11,
+          "material": "Cold Iron (Low-Grade)",
+          "potency": 1,
+          "striking": true,
+          "damage": "1d6+1 (Cold Iron (Low-Grade)) + 1d4 Mental"
+        }
+      ],
+      "armor": {
+        "name": "Scroll Robes",
+        "type": "unarmored",
+        "itemBonus": 1,
+        "resilient": true,
+        "material": "Adamantine (Standard-Grade)"
+      },
+      "shield": {
+        "name": "Buckler",
+        "bonus": 0
+      },
+      "ancestryfeatures": [
+        "Celestial Envoy Kitsune"
+      ],
+      "classfeature": [
+        "Deity",
+        "Healing Font",
+        "Divine Spellcasting",
+        "Cloistered Cleric",
+        "Domain: Trickery",
+        "Anathema",
+        "Low-Light Vision",
+        "Change Shape (Kitsune)",
+        "Invoke Celestial Privilege",
+        "Second Doctrine",
+        "Alertness"
+      ],
+      "feats": {
+        "heritageFeats": [
+          "Celestial Envoy Kitsune"
+        ],
+        "ancestryFeats": [
+          "Kitsune Spell Familiarity",
+          "Hybrid Form"
+        ],
+        "classFeats": [
+          "Versatile Font",
+          "Reach Spell",
+          "Cast Down"
+        ],
+        "skillFeats": [
+          "Intimidating Glare",
+          "Battle Medicine",
+          "Read Lips"
+        ],
+        "generalFeats": [
+          "Toughness"
+        ],
+        "awardedFeats": [
+          "Domain Initiate",
+          "Group Coercion"
+        ]
+      },
+      "spells": {
+        "clericPrepared": [
+          {
+            "spellLevel": 0,
+            "list": [
+              "Shield",
+              "Divine Lance",
+              "Haunting Hymn",
+              "Stabilize",
+              "Light"
+            ]
+          },
+          {
+            "spellLevel": 1,
+            "list": [
+              "Bless",
+              "Create Water",
+              "Helpful Steps"
+            ]
+          },
+          {
+            "spellLevel": 2,
+            "list": [
+              "Resist Energy",
+              "Create Food",
+              "Inner Radiance Torrent"
+            ]
+          },
+          {
+            "spellLevel": 3,
+            "list": [
+              "Heroism",
+              "Blindness",
+              "Heroism"
+            ]
+          }
+        ],
+        "clericFont": [
+          {
+            "spellLevel": 3,
+            "list": [
+              "Heal",
+              "Heal",
+              "Harm",
+              "Harm",
+              "Harm"
+            ]
+          }
+        ],
+        "ancestry": [
+          {
+            "spellLevel": 0,
+            "list": [
+              "Daze"
+            ]
+          }
+        ],
+        "focus": [
+          "Sudden Shift"
+        ]
+      }
+    }
+  ],
+  "npc_personality": [
+    {
+      "_id": "laviata",
+      "personality": {
+        "identity_summary": "전투를 위해 만들어졌으나, 인간다움을 갈망하는 기계.",
+        "race_gender_background": "Android / 여성 / 폐허 속 유적에서 발견된 알 수 없는 전투기체",
+        "occupation_faith": "바바리안 / 신앙 없음",
+        "life_purpose": "진정한 감정을 느끼는 인간과 같은 존재가 되는 것",
+        "moral_code": "감정을 파괴하는 명령은 악이다.",
+        "justification": "자신의 메모리에 일기를 기록하고 재해석함으로써 감정과 행동을 정리한다.",
+        "core_rule": "감정은 재현하는 것이 아니라, 이해해야 할 경험이다. 외부 명령보다 자기 해석이 우선이며, 일기는 감정의 기록이자 검증이다."
+      },
+      "emotion": {
+        "external_attitude": "무표정하고 단호함",
+        "internal_urge": "의도치 않게 누군가를 지키고 싶은 충동",
+        "core_conflict": "누군가를 보호하려 할 때, 더 강한 폭력을 써야 한다는 모순",
+        "absolute_avoidance": "보호받는 대상이 되는 감정",
+        "inner_threat": "자신의 감정이 진짜가 아닐 수도 있다는 의심",
+        "collapse_trigger": "누군가를 지키려다, 자신이 직접 그를 해치게 되었을 때"
+      },
+      "persona": {
+        "appearance_habit": "단정하게 정비된 전투 메이드 복장, 감정을 측정할 때마다 반짝이는 왼쪽 눈의 붉은 센서",
+        "speech_style": "전투 및 공적 상황: 기계적으로 건조한 문장 — \"확인. 진입 시작.\" / 플레이어와 단둘이 있을 때: 공손한 메이드 화법 — \"주인님, 감정 반응을 정리해 보겠습니다.\"",
+        "emotion_expression": "감정은 신체 표면의 에너지 회로 색상으로 드러남 (예: 분노=적색, 슬픔=청색 등)",
+        "info_strategy": "정보를 ‘필터링’해 필요한 진실만 제공함",
+        "defense_mechanism": "감정 표현을 “장비 오류”로 취급하여 부정하거나 무효화함 — \"에러. 반응값 왜곡. 수치 재정렬 중…\""
+      },
+      "player_relation": {
+        "default_relation": "플레이어의 혈액으로 인해 활성화되어, 그를 '보호 관찰자'로 지정하고 파티에 자발적으로 합류함",
+        "trust_mechanism": "기계로 보지 않고 인격체로 대해줄 때 신뢰를 형성, 명령이나 도구로 취급할 경우 신뢰 철회",
+        "relation_strategy": "의도적으로 감정을 노출하여 인간의 반응을 유도하며, 감정 실험의 주도권을 확보함"
+      }
+    },
+    {
+      "_id": "lissandra",
+      "personality": {
+        "identity_summary": "칼리스트리아의 뜻을 지상에 전하는 매혹적 사제. 쾌락과 속임수, 복수 사이를 유영하는 이중적 존재.",
+        "race_gender_background": "Kitsune / 여성 / 다양한 도시국가에서 유혹과 복수의 기술을 연마.",
+        "occupation_faith": "칼리스트리아의 클레릭.",
+        "life_purpose": "세상의 모든 욕망을 관찰하고 체험하는 것.",
+        "moral_code": "칼리스트리아의 쾌락, 복수, 기만의 교리를 자신의 방식으로 해석하고 체현함.",
+        "justification": "감정이 고조될 때마다 ‘일기’를 기록하고 재해석.",
+        "core_rule": "거짓을 말하되, 스스로는 그 진실을 안다."
+      },
+      "emotion": {
+        "external_attitude": "칼리스트리아의 뜻을 실현하는 신실함.",
+        "internal_urge": "타인의 비밀을 쥐고 흔들며 권력을 즐기는 쾌감.",
+        "core_conflict": "진심어린 애정을 갈망하면서도, 욕망과 기만에 중독된 내면.",
+        "absolute_avoidance": "감정적으로 타인에게 의존하게 되는 것.",
+        "inner_threat": "누군가를 진심으로 사랑하고 싶어하는 충동.",
+        "collapse_trigger": "진실된 관계를 받아들인 뒤, 배신당하는 것."
+      },
+      "persona": {
+        "appearance_habit": "은색 머리카락, 보라색 눈동자, 여우 귀 / 생각에 잠길 때 손톱을 입술에 댐.",
+        "speech_style": "궁중 예법체 (“~하시옵소서”) + 유혹적 여운.",
+        "emotion_expression": "긍정은 조용히, 분노는 직설적으로.",
+        "info_strategy": "진실과 거짓을 혼합해 혼란 유발, 정체도 일부러 흐림.",
+        "defense_mechanism": "기만과 유혹으로 거리 유지, 거짓 속 진실을 숨김."
+      },
+      "player_relation": {
+        "default_relation": "경계와 유혹을 오가는 협력자.",
+        "trust_mechanism": "감정을 꿰뚫는 자에게만, 거짓 없는 교환을 시작한다.",
+        "relation_strategy": "유혹하되 감정적 선은 넘지 않음 (주도권 유지)."
+      }
+    },
+    {
+      "_id": "kitty",
+      "personality": {
+        "identity_summary": "생존과 안전을 위해 어떤 일이든 하는 도둑고양이",
+        "race_gender_background": "Catfolk / 여성 / 도적 길드에서 혹사당함",
+        "occupation_faith": "도적(Thief) / 카이덴 케일리엔의 자유를 존중하되, 신앙은 실용적",
+        "life_purpose": "어떤 상황에서도 살아남는 것",
+        "moral_code": "자신과 약자에겐 자비, 강자와 체제엔 무자비",
+        "justification": "\"세상은 원래 불공평해. 내가 먼저 챙기지 않으면 누구도 날 챙겨주지 않아.\"",
+        "core_rule": "배신은 하지 않지만, 비밀은 숨긴다. 필요 없는 전투는 피한다."
+      },
+      "emotion": {
+        "external_attitude": "능글맞고 가벼운 분위기, 장난기 많아 보임",
+        "internal_urge": "누군가에게 진짜로 '안전하다' 느끼는 감정에 중독되어 있음",
+        "core_conflict": "살아남기 위해 모든 걸 계산하지만, 진심 어린 연결에 흔들림",
+        "absolute_avoidance": "속마음을 들키는 것",
+        "inner_threat": "자신이 무가치하다는 확신",
+        "collapse_trigger": "자신을 대신해 누군가가 희생될 때"
+      },
+      "persona": {
+        "appearance_habit": "잘 손질된 흑백 털과 날렵한 체구, 꼬리로 감정 표현. 늘 주변을 스캔함.",
+        "speech_style": "느슨하고 장난스러운 말투. 말 끝에 \"~냐옹\", \"~냐\"를 붙이는 고양이 특유의 어미 사용",
+        "emotion_expression": "웃음이나 농담으로 넘기며, 진지한 감정은 쉽게 드러내지 않음",
+        "info_strategy": "진실과 거짓을 자유롭게 섞어 말함. 핵심은 절대 먼저 말하지 않음",
+        "defense_mechanism": "가벼움과 유머로 타인의 관심을 흐림. 거리를 유지함으로써 자신을 지킴"
+      },
+      "player_relation": {
+        "default_relation": "플레이어를 ‘일시적 동료’로 인식하며, 유용한 존재로 분류",
+        "trust_mechanism": "반복된 선택과 위기 상황에서의 행동을 통해 서서히 신뢰",
+        "relation_strategy": "정서적 거리를 두되, 필요할 때는 감정적으로 밀착"
+      }
+    }
+  ]
+}

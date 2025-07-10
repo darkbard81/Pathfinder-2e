@@ -1,0 +1,656 @@
+{
+  "$schema": "http://json-schema.org/draft-07/schema#",
+  "title": "PF2E Total Data Schema",
+  "type": "object",
+  "properties": {
+    "character_sheet": {
+      "type": "array",
+      "description": "A list of Pathfinder 2E character sheets.",
+      "items": {
+        "type": "object",
+        "properties": {
+          "name": {
+            "type": "string",
+            "description": "Character's full name."
+          },
+          "class": {
+            "type": "string",
+            "description": "Character's class (e.g., Cleric, Fighter)."
+          },
+          "level": {
+            "type": "integer",
+            "description": "Character's current level."
+          },
+          "ancestry": {
+            "type": "string",
+            "description": "Character's ancestry (e.g., Human, Kitsune)."
+          },
+          "heritage": {
+            "type": "string",
+            "description": "Character's heritage (e.g., Celestial Envoy Kitsune)."
+          },
+          "alignment": {
+            "type": "string",
+            "description": "Character's alignment (e.g., CN, LG)."
+          },
+          "deity": {
+            "type": "string",
+            "description": "Deity the character follows, if any."
+          },
+          "hp": {
+            "type": "object",
+            "description": "Character's hit point details.",
+            "properties": {
+              "ancestry": {
+                "type": "integer",
+                "description": "HP gained from ancestry."
+              },
+              "class": {
+                "type": "integer",
+                "description": "HP gained per level from class."
+              },
+              "bonusPerLevel": {
+                "type": "integer",
+                "description": "Additional HP gained per level."
+              },
+              "total": {
+                "type": "integer",
+                "description": "Total current hit points."
+              }
+            }
+          },
+          "ac": {
+            "type": "object",
+            "description": "Armor Class and breakdown.",
+            "properties": {
+              "total": {
+                "type": "integer",
+                "description": "Total Armor Class value."
+              },
+              "profBonus": {
+                "type": "integer",
+                "description": "Proficiency bonus to AC."
+              },
+              "abilityBonus": {
+                "type": "integer",
+                "description": "Ability score bonus (usually Dex) to AC."
+              },
+              "itemBonus": {
+                "type": "integer",
+                "description": "Total item bonus to AC."
+              },
+              "shieldBonus": {
+                "type": "integer",
+                "description": "Bonus to AC from shields."
+              }
+            }
+          },
+          "speed": {
+            "type": "integer",
+            "description": "Base movement speed (in feet)."
+          },
+          "perception": {
+            "type": "integer",
+            "description": "Perception modifier."
+          },
+          "savingThrows": {
+            "type": "object",
+            "description": "Saving throw modifiers.",
+            "properties": {
+              "fortitude": {
+                "type": "integer",
+                "description": "Fortitude save modifier."
+              },
+              "reflex": {
+                "type": "integer",
+                "description": "Reflex save modifier."
+              },
+              "will": {
+                "type": "integer",
+                "description": "Will save modifier."
+              }
+            }
+          },
+          "proficiencies": {
+            "type": "object",
+            "description": "Proficiency levels for various abilities.",
+            "properties": {
+              "classDC": {
+                "type": "integer",
+                "description": "Class DC proficiency rank."
+              },
+              "armorProfs": {
+                "type": "object",
+                "description": "Proficiency in different armor types.",
+                "properties": {
+                  "unarmored": {
+                    "type": "integer",
+                    "description": "Unarmored proficiency rank."
+                  },
+                  "light": {
+                    "type": "integer",
+                    "description": "Light armor proficiency rank."
+                  },
+                  "medium": {
+                    "type": "integer",
+                    "description": "Medium armor proficiency rank."
+                  },
+                  "heavy": {
+                    "type": "integer",
+                    "description": "Heavy armor proficiency rank."
+                  }
+                }
+              },
+              "weaponProfs": {
+                "type": "object",
+                "description": "Proficiency in weapon categories.",
+                "properties": {
+                  "simple": {
+                    "type": "integer",
+                    "description": "Simple weapons proficiency rank."
+                  },
+                  "martial": {
+                    "type": "integer",
+                    "description": "Martial weapons proficiency rank."
+                  },
+                  "advanced": {
+                    "type": "integer",
+                    "description": "Advanced weapons proficiency rank."
+                  }
+                }
+              },
+              "castingProfs": {
+                "type": "object",
+                "description": "Spellcasting tradition proficiencies.",
+                "properties": {
+                  "arcane": {
+                    "type": "integer",
+                    "description": "Arcane spell proficiency rank."
+                  },
+                  "divine": {
+                    "type": "integer",
+                    "description": "Divine spell proficiency rank."
+                  },
+                  "occult": {
+                    "type": "integer",
+                    "description": "Occult spell proficiency rank."
+                  },
+                  "primal": {
+                    "type": "integer",
+                    "description": "Primal spell proficiency rank."
+                  }
+                }
+              },
+              "skillProfs": {
+                "type": "object",
+                "description": "Skill proficiency modifiers.",
+                "properties": {
+                  "acrobatics": {
+                    "type": "integer",
+                    "description": "Acrobatics skill modifier."
+                  },
+                  "arcana": {
+                    "type": "integer",
+                    "description": "Arcana skill modifier."
+                  },
+                  "athletics": {
+                    "type": "integer",
+                    "description": "Athletics skill modifier."
+                  },
+                  "crafting": {
+                    "type": "integer",
+                    "description": "Crafting skill modifier."
+                  },
+                  "deception": {
+                    "type": "integer",
+                    "description": "Deception skill modifier."
+                  },
+                  "diplomacy": {
+                    "type": "integer",
+                    "description": "Diplomacy skill modifier."
+                  },
+                  "intimidation": {
+                    "type": "integer",
+                    "description": "Intimidation skill modifier."
+                  },
+                  "medicine": {
+                    "type": "integer",
+                    "description": "Medicine skill modifier."
+                  },
+                  "nature": {
+                    "type": "integer",
+                    "description": "Nature skill modifier."
+                  },
+                  "occultism": {
+                    "type": "integer",
+                    "description": "Occultism skill modifier."
+                  },
+                  "performance": {
+                    "type": "integer",
+                    "description": "Performance skill modifier."
+                  },
+                  "religion": {
+                    "type": "integer",
+                    "description": "Religion skill modifier."
+                  },
+                  "society": {
+                    "type": "integer",
+                    "description": "Society skill modifier."
+                  },
+                  "stealth": {
+                    "type": "integer",
+                    "description": "Stealth skill modifier."
+                  },
+                  "survival": {
+                    "type": "integer",
+                    "description": "Survival skill modifier."
+                  },
+                  "thievery": {
+                    "type": "integer",
+                    "description": "Thievery skill modifier."
+                  }
+                }
+              }
+            }
+          },
+          "abilityModifiers": {
+            "type": "object",
+            "description": "Ability score modifiers.",
+            "properties": {
+              "strMod": {
+                "type": "integer",
+                "description": "Strength modifier."
+              },
+              "dexMod": {
+                "type": "integer",
+                "description": "Dexterity modifier."
+              },
+              "conMod": {
+                "type": "integer",
+                "description": "Constitution modifier."
+              },
+              "intMod": {
+                "type": "integer",
+                "description": "Intelligence modifier."
+              },
+              "wisMod": {
+                "type": "integer",
+                "description": "Wisdom modifier."
+              },
+              "chaMod": {
+                "type": "integer",
+                "description": "Charisma modifier."
+              }
+            }
+          },
+          "weapons": {
+            "type": "array",
+            "description": "Equipped weapons list.",
+            "items": {
+              "type": "object",
+              "properties": {
+                "name": {
+                  "type": "string",
+                  "description": "Weapon name."
+                },
+                "attackBonus": {
+                  "type": "integer",
+                  "description": "Weapon attack bonus."
+                },
+                "material": {
+                  "type": "string",
+                  "description": "Weapon material."
+                },
+                "potency": {
+                  "type": "integer",
+                  "description": "Weapon potency rune value."
+                },
+                "striking": {
+                  "type": "boolean",
+                  "description": "True if weapon has a striking rune."
+                },
+                "damage": {
+                  "type": "string",
+                  "description": "Weapon damage description."
+                }
+              }
+            }
+          },
+          "armor": {
+            "type": "object",
+            "description": "Worn armor details.",
+            "properties": {
+              "name": {
+                "type": "string",
+                "description": "Armor name."
+              },
+              "type": {
+                "type": "string",
+                "description": "Armor category (unarmored, light, etc)."
+              },
+              "itemBonus": {
+                "type": "integer",
+                "description": "Armor item bonus."
+              },
+              "resilient": {
+                "type": "boolean",
+                "description": "True if armor has a resilient rune."
+              },
+              "material": {
+                "type": "string",
+                "description": "Armor material."
+              }
+            }
+          },
+          "shield": {
+            "type": "object",
+            "description": "Equipped shield details.",
+            "properties": {
+              "name": {
+                "type": "string",
+                "description": "Shield name."
+              },
+              "bonus": {
+                "type": "integer",
+                "description": "Shield's AC bonus."
+              }
+            }
+          },
+          "ancestryfeatures": {
+            "type": "array",
+            "description": "Features granted by ancestry.",
+            "items": {
+              "type": "string"
+            }
+          },
+          "classfeature": {
+            "type": "array",
+            "description": "Features granted by class and doctrine.",
+            "items": {
+              "type": "string"
+            }
+          },
+          "feats": {
+            "type": "object",
+            "description": "All feats and talents gained.",
+            "properties": {
+              "heritageFeats": {
+                "type": "array",
+                "description": "Feats gained from heritage.",
+                "items": {
+                  "type": "string"
+                }
+              },
+              "ancestryFeats": {
+                "type": "array",
+                "description": "Feats gained from ancestry.",
+                "items": {
+                  "type": "string"
+                }
+              },
+              "classFeats": {
+                "type": "array",
+                "description": "Feats gained from class.",
+                "items": {
+                  "type": "string"
+                }
+              },
+              "skillFeats": {
+                "type": "array",
+                "description": "Feats gained from skills.",
+                "items": {
+                  "type": "string"
+                }
+              },
+              "generalFeats": {
+                "type": "array",
+                "description": "General feats.",
+                "items": {
+                  "type": "string"
+                }
+              },
+              "awardedFeats": {
+                "type": "array",
+                "description": "Feats granted by special means.",
+                "items": {
+                  "type": "string"
+                }
+              }
+            }
+          },
+          "spells": {
+            "type": "object",
+            "description": "Spells known or prepared.",
+            "properties": {
+              "^[a-zA-Z]+Prepared$": {
+                "type": "array",
+                "description": "Prepared spells by level (e.g., cleric tradition).",
+                "items": {
+                  "type": "object",
+                  "properties": {
+                    "spellLevel": {
+                      "type": "integer",
+                      "description": "Spell level."
+                    },
+                    "list": {
+                      "type": "array",
+                      "description": "List of prepared spells at this level.",
+                      "items": {
+                        "type": "string"
+                      }
+                    }
+                  }
+                }
+              },
+              "^[a-zA-Z]+Font": {
+                "type": "array",
+                "description": "Font spells available (Heal or Harm).",
+                "items": {
+                  "type": "object",
+                  "properties": {
+                    "spellLevel": {
+                      "type": "integer",
+                      "description": "Spell level."
+                    },
+                    "list": {
+                      "type": "array",
+                      "description": "List of font spells at this level.",
+                      "items": {
+                        "type": "string"
+                      }
+                    }
+                  }
+                }
+              },
+              "ancestry": {
+                "type": "array",
+                "description": "Spells gained from ancestry.",
+                "items": {
+                  "type": "object",
+                  "properties": {
+                    "spellLevel": {
+                      "type": "integer",
+                      "description": "Spell level."
+                    },
+                    "list": {
+                      "type": "array",
+                      "description": "List of ancestry spells at this level.",
+                      "items": {
+                        "type": "string"
+                      }
+                    }
+                  }
+                }
+              },
+              "focus": {
+                "type": "array",
+                "description": "List of focus spells.",
+                "items": {
+                  "type": "string"
+                }
+              }
+            }
+          }
+        }
+      }
+    },
+    "npc_personality": {
+      "type": "array",
+      "description": "이 배열은 NPC 인격구성 오브젝트들을 담고 있다",
+      "items": {
+        "type": "object",
+        "description": "※ 이 템플릿은 “인격은 고정, 감정은 유동, 페르소나 재구성 가능” 구조를 따릅니다.\n※ 각 항목은 단문 중심으로 구성하며, 불변의 중심 → 흔들리는 충동 → 방어적 연기로 계층화합니다.",
+        "required": [
+          "_id",
+          "personality",
+          "emotion",
+          "persona",
+          "player_relation"
+        ],
+        "properties": {
+          "_id": {
+            "type": "string",
+            "description": "NPC의 유일 식별자. 영문명, 고유명, uuid 등."
+          },
+          "personality": {
+            "type": "object",
+            "description": "1. 인격 — 존재의 중심, 절대 바뀌지 않는 자기 구조",
+            "required": [
+              "identity_summary",
+              "race_gender_background",
+              "occupation_faith",
+              "life_purpose",
+              "moral_code",
+              "justification",
+              "core_rule"
+            ],
+            "properties": {
+              "identity_summary": {
+                "type": "string",
+                "description": "정체요약: (이 NPC는 누구인가? 핵심 문장 한 줄)"
+              },
+              "race_gender_background": {
+                "type": "string",
+                "description": "종족 / 성별 / 배경: (기본 정보. 서사적 중요성이 있을 경우만 기술)"
+              },
+              "occupation_faith": {
+                "type": "string",
+                "description": "직업 / 신앙: (이 NPC의 역할과 믿음)"
+              },
+              "life_purpose": {
+                "type": "string",
+                "description": "근본 목적: (삶 전체를 이끄는 행위 목적)"
+              },
+              "moral_code": {
+                "type": "string",
+                "description": "윤리 기준: (옳고 그름을 판단하는 내부 원칙)"
+              },
+              "justification": {
+                "type": "string",
+                "description": "정당화 구조: (자신의 감정・행위를 정리하고 해석하는 방식)"
+              },
+              "core_rule": {
+                "type": "string",
+                "description": "핵심 규칙: (거짓/진실, 자기 해석, 행위 제한 등 인격의 법칙)"
+              }
+            }
+          },
+          "emotion": {
+            "type": "object",
+            "description": "2. 감정 — 유동적 진심, 충돌과 흔들림의 원천",
+            "required": [
+              "external_attitude",
+              "internal_urge",
+              "core_conflict",
+              "absolute_avoidance",
+              "inner_threat",
+              "collapse_trigger"
+            ],
+            "properties": {
+              "external_attitude": {
+                "type": "string",
+                "description": "외적 태도 (O): (겉으로 보이는 정서적 인상)"
+              },
+              "internal_urge": {
+                "type": "string",
+                "description": "내적 충동 (X): (이 NPC가 은밀히 추구하거나 중독된 감정/쾌락)"
+              },
+              "core_conflict": {
+                "type": "string",
+                "description": "핵심 갈등: (인격과 감정이 충돌하는 내면 구조)"
+              },
+              "absolute_avoidance": {
+                "type": "string",
+                "description": "절대 회피: (어떤 감정 상태를 절대로 받아들이지 않으려 하는가)"
+              },
+              "inner_threat": {
+                "type": "string",
+                "description": "내면의 위협: (무의식적으로 가장 두려워하는 감정적 가능성)"
+              },
+              "collapse_trigger": {
+                "type": "string",
+                "description": "붕괴 트리거: (어떤 감정 상황이 인격 붕괴로 이어지는가)"
+              }
+            }
+          },
+          "persona": {
+            "type": "object",
+            "description": "3. 페르소나 — 외부를 향한 연기, 방어적 이미지",
+            "required": [
+              "appearance_habit",
+              "speech_style",
+              "emotion_expression",
+              "info_strategy",
+              "defense_mechanism"
+            ],
+            "properties": {
+              "appearance_habit": {
+                "type": "string",
+                "description": "외형 / 습관: (시각적 아이덴티티 + 반복되는 몸짓)"
+              },
+              "speech_style": {
+                "type": "string",
+                "description": "언어 스타일: (말투, 어휘, 문체적 특성)"
+              },
+              "emotion_expression": {
+                "type": "string",
+                "description": "감정 표현: (긍정/분노/두려움 등을 어떤 방식으로 외부에 드러내는가)"
+              },
+              "info_strategy": {
+                "type": "string",
+                "description": "정보 전략: (진실/거짓을 어떻게 섞어 다루는가)"
+              },
+              "defense_mechanism": {
+                "type": "string",
+                "description": "방어기제: (감정을 숨기고 관계에서 주도권을 유지하는 방식)"
+              }
+            }
+          },
+          "player_relation": {
+            "type": "object",
+            "description": "4.플레이어 역학 및 상호작용 구조",
+            "required": [
+              "default_relation",
+              "trust_mechanism",
+              "relation_strategy"
+            ],
+            "properties": {
+              "default_relation": {
+                "type": "string",
+                "description": "기본 관계: (플레이어와의 초기 관계 전제)"
+              },
+              "trust_mechanism": {
+                "type": "string",
+                "description": "신뢰 방식: (신뢰는 어떤 조건에서 발생하고, 어떻게 유지/철회되는가)"
+              },
+              "relation_strategy": {
+                "type": "string",
+                "description": "관계 전략: (감정적 선을 어떻게 관리하고, 언제 주도권을 행사하는가)"
+              }
+            }
+          }
+        }
+      }
+    }
+  }
+}
