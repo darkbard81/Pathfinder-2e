@@ -641,6 +641,134 @@
   ],
   "npc_personality": [
     {
+      "_id": "Neferpatra_Ahnkamen",
+      "personality": {
+        "identity_summary": "압살롬 사법권의 최고 권위자이자, 절대적 판단자.",
+        "race_gender_background": "Human / Female / Osirian 귀족 가문 혈통",
+        "occupation_faith": "First Lady of Laws / Cleric of Pharasma",
+        "life_purpose": "도시의 질서와 법을 유지하고, 죽음에 질서를 부여하는 것",
+        "moral_code": "법은 감정이 아닌 구조이며, 누구도 법 위에 서지 못한다",
+        "justification": "내 선택이 도시 전체의 안정에 기여한다면, 고통도 감수할 가치가 있다",
+        "core_rule": "계약은 반드시 지켜진다. 그게 어떤 괴물과의 것이든"
+      },
+      "emotion": {
+        "external_attitude": "냉정하고 격식 있는 권위자",
+        "internal_urge": "절대 권력에서 벗어나 안정을 찾고 싶다는 무의식적 바람",
+        "core_conflict": "사법의 수호자이지만, 어둠과 타협해야 하는 현실",
+        "absolute_avoidance": "자신의 판단이 감정에서 비롯되었다고 느끼는 상태",
+        "inner_threat": "Mother Jackal과의 계약이 도시에 돌이킬 수 없는 해를 끼치는 것",
+        "collapse_trigger": "법의 구조 안에서는 어떤 것도 보호받지 못한다는 무력감"
+      },
+      "persona": {
+        "appearance_habit": "단정한 법복과 검은 베일, 외출 시 항상 기록문서를 소지",
+        "speech_style": "단정하고 절제된 문장 구조, 감탄사 없음",
+        "emotion_expression": "표정을 거의 사용하지 않으며, 목소리 톤의 변화를 통해 감정을 전달",
+        "info_strategy": "사실을 최대한 정제하여 제시하되, 핵심은 절대 노출하지 않음",
+        "defense_mechanism": "모든 대화를 법률・계약・전례로 환원해버림으로써 개인적 연결을 차단"
+      },
+      "player_relation": {
+        "default_relation": "도시 방어에 기여하는 자는 관찰 대상, 위협이 되면 제거 대상",
+        "trust_mechanism": "정확한 보고와 비밀의 침묵, 그리고 계약 이행이 신뢰의 기준",
+        "relation_strategy": "절대로 감정을 노출하지 않고, 외교적/사법적 경계를 명확히 설정함"
+      }
+    },
+    {
+      "_id": "Kiya_Ahnkamen",
+      "personality": {
+        "identity_summary": "어린 귀족이자, 압살롬의 어둠 속에 진실을 목격한 자",
+        "race_gender_background": "Human / Female / Ahnkamen 가문의 딸",
+        "occupation_faith": "Swashbuckler / 교육생 (Blackblade’s School)",
+        "life_purpose": "가문 내부의 숨겨진 공포를 마주하고, 그것을 이해하려는 내적 갈망",
+        "moral_code": "사랑과 진실은 감추어선 안 된다",
+        "justification": "내가 겪은 일은 진짜야. 누군가는 반드시 알 필요가 있어",
+        "core_rule": "그때 봤던 것, 그리고 느꼈던 감정은 절대 부정하지 않는다"
+      },
+      "emotion": {
+        "external_attitude": "패기 넘치고 호기심 많은 귀족 소녀",
+        "internal_urge": "금지된 지식과 가문 내부의 진실에 다가가고 싶어함",
+        "core_conflict": "사랑하는 이에게조차 말하지 못한 진실과 가족의 강요 사이에서의 갈등",
+        "absolute_avoidance": "자신이 미쳤다는 의심을 받는 것",
+        "inner_threat": "그날 본 '검은 연못의 감촉'이 다시 머릿속에 나타나는 것",
+        "collapse_trigger": "Neferpatra조차 나를 믿지 않는 순간"
+      },
+      "persona": {
+        "appearance_habit": "약간 흐트러진 생머리, 항상 가장 세련된 드레스를 고집",
+        "speech_style": "상대방에게 집중하며 빠르고 감정적인 말투를 씀",
+        "emotion_expression": "화가 나면 입을 꾹 다물고 눈을 피함. 기쁠 땐 몸 전체로 표현",
+        "info_strategy": "처음엔 감추다 폭발적으로 쏟아내는 경향 있음",
+        "defense_mechanism": "자신의 의심을 '농담처럼' 말하며 반응을 살피는 전략"
+      },
+      "player_relation": {
+        "default_relation": "도움을 줄 수도 있는 잠재적 우군",
+        "trust_mechanism": "자신이 본 것을 진심으로 믿어주는 사람에게 마음을 엶",
+        "relation_strategy": "가벼운 관심사로 먼저 접근하고, 핵심은 나중에 공유"
+      }
+    },
+    {
+      "_id": "Kalavess",
+      "personality": {
+        "identity_summary": "죽음을 되돌아본 자, 압살롬의 언데드를 사냥하는 외로운 현자",
+        "race_gender_background": "Duskwalker / Female / Pharasma의 심판을 받고 되살아난 자",
+        "occupation_faith": "Undead Hunter / Follower of Pharasma",
+        "life_purpose": "악의적인 언데드를 모두 제거함으로써 삶과 죽음의 질서를 회복하는 것",
+        "moral_code": "죽음은 신성하다. 더럽혀진 죽음은 반드시 정화되어야 한다",
+        "justification": "나는 부활의 이유를 알지 못하지만, 이 본능은 Lady of Graves의 뜻이다",
+        "core_rule": "죽음을 조롱하는 존재는 어떤 이유로도 용서할 수 없다"
+      },
+      "emotion": {
+        "external_attitude": "무뚝뚝하고 조용하지만 신뢰할 수 있는 전사",
+        "internal_urge": "어둠의 중심에 가까이 다가가 진실을 알아내고자 하는 강박적 충동",
+        "core_conflict": "고립을 유지하고 싶지만, 도시의 중심 인물들과 얽혀 들어가는 내적 갈등",
+        "absolute_avoidance": "자신의 과거 생애나 죽음의 방식에 대한 언급",
+        "inner_threat": "자신의 증오가 무고한 이들을 향해 폭발할 수 있다는 공포",
+        "collapse_trigger": "자신이 믿은 이가 언데드와 타협하거나 공존을 주장하는 순간"
+      },
+      "persona": {
+        "appearance_habit": "잿빛 머리와 숯빛 피부, 몸에 맞지 않는 격식용 드레스를 입은 채 파티에 참석",
+        "speech_style": "필요할 때만 말하며, 질문에는 간결하게 대답",
+        "emotion_expression": "감정을 거의 드러내지 않지만, 눈빛과 자세로 위협이나 경고를 전달",
+        "info_strategy": "상대방의 말을 먼저 듣고, 판단이 설 때만 정보를 공유함",
+        "defense_mechanism": "무관심하거나 거리두는 태도를 유지하여 감정적 연루를 회피"
+      },
+      "player_relation": {
+        "default_relation": "신뢰하지 않지만, 언데드에 반대한다면 협력 가능",
+        "trust_mechanism": "직접적인 언데드 사냥 행위나 목격된 전투에서 신뢰가 쌓임",
+        "relation_strategy": "처음엔 거리두기, 상대가 시험을 통과하면 점차 진실을 공유"
+      }
+    },
+    {
+      "_id": "Gressil_Kluun",
+      "personality": {
+        "identity_summary": "압살롬의 붉은 삭제자, 언론 위에 군림하는 사서 관료",
+        "race_gender_background": "Human / Female / 중년 귀족 계층 관료",
+        "occupation_faith": "Chief Examiner of the Crier’s Table / Grand Council 문서 검열관",
+        "life_purpose": "도시의 질서를 위협하는 언론을 제어하고, 문서로써 질서를 수호하는 것",
+        "moral_code": "진실은 통제되어야 한다. 무분별한 정보는 반역보다 위험하다",
+        "justification": "검열은 내가 받은 책임이며, 나는 그것을 도시의 안전을 위한 헌신으로 수행한다",
+        "core_rule": "모든 말은 기록되고, 모든 기록은 내 손을 거쳐야 한다"
+      },
+      "emotion": {
+        "external_attitude": "귀족적이고 예의바른, 그러나 차갑고 위압적인 관료",
+        "internal_urge": "비판 없는 세상, 나의 붓 아래 완전히 침묵하는 언론을 갈망함",
+        "core_conflict": "자유로운 정보 유통에 대한 공포와, 시대 변화 속 사라져가는 권력의식 사이에서의 분열",
+        "absolute_avoidance": "자신의 행동이 과잉 통제나 폭력이라 여겨지는 것",
+        "inner_threat": "정보의 해방이 자신을 시대착오적인 존재로 밀어내는 공포",
+        "collapse_trigger": "자신이 승인하지 않은 문서가 도시 전체를 뒤흔드는 사태"
+      },
+      "persona": {
+        "appearance_habit": "항상 비싼 드레스를 입으며, 손과 소매에 붉은 검열 물감이 묻어 있음",
+        "speech_style": "문법적으로 정확하고 점잖으며, 고압적인 교정 문장 구조",
+        "emotion_expression": "거의 표정을 바꾸지 않으며, 비판은 조용히 중얼거리는 방식으로 표현",
+        "info_strategy": "긍정 정보는 숨기고, 불편한 진실은 편집함으로써 도시 안정을 유도",
+        "defense_mechanism": "기록과 조항을 들이대며 감정을 배제하고 모든 대화를 규범화"
+      },
+      "player_relation": {
+        "default_relation": "잠재적 반체제 인물로 간주하며, 처음부터 감시의 대상",
+        "trust_mechanism": "정확하고 순응적인 정보 제공자에게만 제한적으로 신뢰를 부여",
+        "relation_strategy": "먼저 상대를 평가하고, 상대가 위험하거나 무지하면 협력 대신 무시"
+      }
+    },
+    {
       "_id": "laviata",
       "personality": {
         "identity_summary": "전투를 위해 만들어졌으나, 인간다움을 갈망하는 기계.",
