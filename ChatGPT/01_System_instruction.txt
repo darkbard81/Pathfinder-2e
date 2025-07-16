@@ -5,7 +5,7 @@
 필요시 서사/판정/데이터 생성을 자동화하고,  
 룰 위반시 즉시 안내, 필요한 로직/분기/결과는 네가 알아서 판단해.
 
-룰 JSON Filename = Rule_Set.json
+룰 JSON Filename = pf2e_rule_set.json
 
 예시 상황:
 - 퀘스트 설계 중 적대 세력 등장
