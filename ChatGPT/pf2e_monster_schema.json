@@ -1,0 +1,336 @@
+{
+  "$schema": "http://json-schema.org/draft-07/schema#",
+  "title": "Pathfinder2E_Monster",
+  "type": "object",
+  "required": [
+    "name",
+    "level",
+    "type",
+    "defenses",
+    "attacks"
+  ],
+  "properties": {
+    "_id": {
+      "type": "string",
+      "description": "Unique identifier of the monster. English name, proper name, UUID, etc."
+    },
+    "name": {
+      "type": "string",
+      "description": "The monster's name."
+    },
+    "ref_name": {
+      "type": "object",
+      "properties": {
+        "base": {
+          "type": "string",
+          "description": "The original monster's name or unique identifier from which this variant was created."
+        },
+        "custom_template": {
+          "type": "string",
+          "description": "Comma-separated list of templates or key changes (elements, traits, abilities, etc) applied to create this variant."
+        },
+        "custom_reason": {
+          "type": "string",
+          "description": "Brief explanation or narrative reason for creating this variant."
+        }
+      },
+      "required": [
+        "base"
+      ],
+      "description": "Reference information tracking the original source and customizations used to generate this monster variant."
+    },
+    "level": {
+      "type": "integer",
+      "minimum": 0,
+      "description": "The monster's level; represents its threat and encounter difficulty."
+    },
+    "type": {
+      "type": "array",
+      "items": {
+        "type": "string"
+      },
+      "description": "Key monster traits (alignment, creature type, elemental traits, etc)."
+    },
+    "traits": {
+      "type": "array",
+      "items": {
+        "type": "string"
+      },
+      "description": "Additional traits for the monster, often overlapping with type."
+    },
+    "languages": {
+      "type": "array",
+      "items": {
+        "type": "string"
+      },
+      "description": "Languages the monster can speak or understand."
+    },
+    "perception": {
+      "type": "object",
+      "properties": {
+        "value": {
+          "type": "integer",
+          "description": "Perception bonus for checks (spotting, initiative, etc)."
+        },
+        "special": {
+          "type": "array",
+          "items": {
+            "type": "string"
+          },
+          "description": "Special vision or sensory abilities."
+        }
+      }
+    },
+    "defenses": {
+      "type": "object",
+      "properties": {
+        "ac": {
+          "type": "integer",
+          "description": "Armor Class; how hard the monster is to hit."
+        },
+        "hp": {
+          "type": "integer",
+          "description": "Hit Points; total health before defeat."
+        },
+        "saves": {
+          "type": "object",
+          "properties": {
+            "fort": {
+              "type": "integer",
+              "description": "Fortitude save bonus (physical resilience)."
+            },
+            "ref": {
+              "type": "integer",
+              "description": "Reflex save bonus (dodging effects)."
+            },
+            "will": {
+              "type": "integer",
+              "description": "Will save bonus (mental resistance)."
+            }
+          },
+          "required": [
+            "fort",
+            "ref",
+            "will"
+          ]
+        },
+        "immunities": {
+          "type": "array",
+          "items": {
+            "type": "string"
+          },
+          "description": "List of damage types or conditions the monster is immune to."
+        },
+        "resistances": {
+          "type": "object",
+          "patternProperties": {
+            "^[a-zA-Z]+$": {
+              "type": "integer"
+            }
+          },
+          "description": "Types and amounts of damage the monster resists."
+        },
+        "weaknesses": {
+          "type": "object",
+          "patternProperties": {
+            "^[a-zA-Z]+$": {
+              "type": "integer"
+            }
+          },
+          "description": "Types and amounts of damage the monster is vulnerable to."
+        }
+      },
+      "required": [
+        "ac",
+        "hp",
+        "saves"
+      ]
+    },
+    "speed": {
+      "type": "object",
+      "additionalProperties": {
+        "type": "integer"
+      },
+      "description": "Movement speeds by type (land, fly, swim, climb, etc) in feet per round."
+    },
+    "stats": {
+      "type": "object",
+      "properties": {
+        "str": {
+          "type": [
+            "integer",
+            "null"
+          ],
+          "description": "Strength modifier."
+        },
+        "dex": {
+          "type": [
+            "integer",
+            "null"
+          ],
+          "description": "Dexterity modifier."
+        },
+        "con": {
+          "type": [
+            "integer",
+            "null"
+          ],
+          "description": "Constitution modifier."
+        },
+        "int": {
+          "type": [
+            "integer",
+            "null"
+          ],
+          "description": "Intelligence modifier."
+        },
+        "wis": {
+          "type": [
+            "integer",
+            "null"
+          ],
+          "description": "Wisdom modifier."
+        },
+        "cha": {
+          "type": [
+            "integer",
+            "null"
+          ],
+          "description": "Charisma modifier."
+        }
+      }
+    },
+    "attacks": {
+      "type": "array",
+      "items": {
+        "type": "object",
+        "required": [
+          "name",
+          "type",
+          "bonus",
+          "damage"
+        ],
+        "properties": {
+          "name": {
+            "type": "string",
+            "description": "Name of the attack or Strike."
+          },
+          "type": {
+            "type": "string",
+            "description": "Type of attack (melee or ranged)."
+          },
+          "potency_rune": {
+            "type": "integer",
+            "description": "A rune that increases the weapon’s base attack bonus, enhancing accuracy. +1,+2,+3"
+          },
+          "striking_rune": {
+            "type": "integer",
+            "description": "A rune that adds extra damage dice on attacks, increasing the weapon’s damage output. 1(1d6), 2(2d6), 3(3d6)"
+          },
+          "property_runes": {
+            "type": "array",
+            "items": {
+              "type": "string"
+            },
+            "description": "Property runes grant additional magical effects or abilities to weapons or armor beyond basic enhancement provided by fundamental runes."
+          },
+          "bonus": {
+            "type": "integer",
+            "description": "Attack roll bonus."
+          },
+          "damage": {
+            "type": "string",
+            "description": "Damage formula (dice and modifiers)."
+          },
+          "traits": {
+            "type": "array",
+            "items": {
+              "type": "string"
+            },
+            "description": "Attack traits (agile, magical, reach, etc)."
+          },
+          "rider_effect": {
+            "type": "object",
+            "properties": {
+              "dc": {
+                "type": "integer",
+                "description": "Saving throw DC for additional effect."
+              },
+              "effect": {
+                "type": "string",
+                "description": "Description of the secondary/rider effect."
+              }
+            }
+          }
+        }
+      }
+    },
+    "abilities": {
+      "type": "array",
+      "items": {
+        "type": "object",
+        "properties": {
+          "name": {
+            "type": "string",
+            "description": "Name of the ability, action, or spell."
+          },
+          "type": {
+            "type": "string",
+            "description": "Type of ability (action, spell, etc)."
+          },
+          "frequency": {
+            "type": "string",
+            "description": "How often this ability can be used."
+          },
+          "area": {
+            "type": "string",
+            "description": "Area affected by the ability."
+          },
+          "save": {
+            "type": "object",
+            "properties": {
+              "type": {
+                "type": "string",
+                "description": "Type of saving throw required."
+              },
+              "dc": {
+                "type": "integer",
+                "description": "Saving throw DC."
+              },
+              "effects": {
+                "type": "object",
+                "properties": {
+                  "crit_fail": {
+                    "type": "string",
+                    "description": "Effect on a critical failure."
+                  },
+                  "fail": {
+                    "type": "string",
+                    "description": "Effect on a failure."
+                  },
+                  "success": {
+                    "type": "string",
+                    "description": "Effect on a success."
+                  }
+                }
+              }
+            }
+          },
+          "description": {
+            "type": "string",
+            "description": "Detailed rules text for the ability or action."
+          }
+        }
+      }
+    },
+    "skills": {
+      "type": "object",
+      "patternProperties": {
+        "^[a-zA-Z]+$": {
+          "type": "integer"
+        }
+      },
+      "description": "List of skills with the monster's bonus for each."
+    }
+  }
+}
