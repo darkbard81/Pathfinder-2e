@@ -1,6 +1,10 @@
 # ChatGPT를 사용한 TRPG
 
-## json.load( )와 msearch
+## json 구조의 정확성을 보장
 
-- 프로젝트 파일은 초기에 index를 구성하지만 json구조에 맞는 indexing이 되어 있는것은 아님
-- json.load( )로 한번 읽어주면 이후, msearch의 정확도는 높아짐
+- 프로젝트 파일은 초기에 .json 파일은 단순한 텍스트 포맷으로 인식
+- json.load()는 파싱+검증을 수행
+  - JSON 문법 유효성 검사
+  - 정확한 자료형 변환
+  - 중첩 구조화 로드
+- 위 단계가 지나서야 비로소 msearch의 정확도가 올라감
