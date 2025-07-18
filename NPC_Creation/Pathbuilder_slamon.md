@@ -91,10 +91,25 @@
 
 ## Additional Specials
 
-- [Conflux Spells](https://2e.aonprd.com/Classes.aspx?ID=17)
-- [Hybrid Study (Laughing Shadow)](https://2e.aonprd.com/Classes.aspx?ID=17)
-- [Skilled (Deception)](https://2e.aonprd.com/)
-- [Skilled (Diplomacy)](https://2e.aonprd.com/)
-- [Skilled Heritage (Intimidation)](https://2e.aonprd.com/)
-- [Spellbook](https://2e.aonprd.com/Classes.aspx?ID=17)
-- [Spellstrike Specifics](https://2e.aonprd.com/Classes.aspx?ID=17)
+- **Conflux Spells [Magus Class Feature]**  
+  - **Description**: You learn a conflux spell from your chosen Hybrid Study. Conflux spells are magus-specific focus spells that cost 1 Focus Point. You start with a 1-point focus pool, which you refill daily or by using Refocus (10 minutes of study plus exercise)
+
+- **Hybrid Study (Laughing Shadow) [Magus Class Feature]**  
+  - **Description**: While in your Arcane Cascade stance, you gain a +5-foot status bonus to your speeds (or +10 feet if unarmored). If you have a free hand and target a flat‑footed enemy, your Arcane Cascade damage bonus increases: +3 normally, +5 with weapon specialization, or +7 with greater weapon specialization.
+  - **Conflux Spell**: Dimensional Assault
+
+- **Skilled (Deception) [Skill Feat]**  
+  - **Description**: The link points to Natural Skill [Feat 1, Human] feat for Deception.
+
+- **Skilled (Diplomacy) [Skill Feat]**  
+  - **Description**: The link points to Natural Skill [Feat 1, Human] feat for Description.
+
+- **Skilled Heritage (Intimidation) [Heritage Feat]**  
+  - **Description**: Your ingenuity allows you to train in a wide variety of skills. You become trained in one skill of your choice. At 5th level, you become an expert in the chosen skill(Intimidation).
+
+- **Spellbook [Magus Class Feature]**  
+  - **Description**: You begin with a spellbook containing eight arcane cantrips and four 1st-level arcane spells of your choice (costing 10 sp or less). As you level, you add new spells and can copy spells found in the world. You prepare spells from this book daily.
+
+- **Spellstrike Specifics [Magus Class Feature]**  
+  - **Description**: Spellstrike allows you to cast a 1‑ or 2‑action spell as part of a Strike. It counts as two attacks, with the multiple-attack penalty applied afterward. If you successfully hit, the spell takes effect on the target. You recharge Spellstrike by taking the 1‑action concentrate activity, or by casting a conflux spell (only those granted by Hybrid Study).
+
