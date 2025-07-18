@@ -67,8 +67,8 @@
 
 ### Divine Font Spells
 
-- [Heal(Heightened+2)](https://2e.aonprd.com/Spells.aspx?ID=148) ×3
-- [Harm(Heightened+2)](https://2e.aonprd.com/Spells.aspx?ID=146) ×2  
+- [Heal(Heightened+2)](https://2e.aonprd.com/Spells.aspx?ID=148&NoRedirect=1) ×3
+- [Harm(Heightened+2)](https://2e.aonprd.com/Spells.aspx?ID=146&NoRedirect=1) ×2  
 
 ### Divine Innate Spells
 
