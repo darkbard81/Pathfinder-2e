@@ -123,10 +123,30 @@
 
 ## Additional Specials
 
-- [Anathema](https://2e.aonprd.com/Classes.aspx?ID=5)
-- [Deity](https://2e.aonprd.com/Classes.aspx?ID=5&NoRedirect=1)
-- [Divine Font (Healing Font)](https://2e.aonprd.com/Classes.aspx?ID=5&NoRedirect=1)
-- [Divine Spellcasting](https://2e.aonprd.com/Classes.aspx?ID=5&NoRedirect=1)
-- [Doctrine (Cloistered Cleric)](https://2e.aonprd.com/Classes.aspx?ID=5&NoRedirect=1)
-- [Domain Initiate (Trickery)](https://2e.aonprd.com/Classes.aspx?ID=5&NoRedirect=1)
-- [Second Doctrine](https://2e.aonprd.com/Classes.aspx?ID=5&NoRedirect=1)
+- **Anathema [Cleric class feature]**
+  - **Description**: Acts that directly oppose your deity's ideals or alignment are anathema (e.g. casting spells contrary to the deity’s sanctification like creating undead for a non-unholy god). Committing anathema can sever your divine connection, potentially removing your spellcasting and divine font abilities until you atone.
+
+- **Deity [Cleric class feature]**
+  - **Description**: Choose a deity at 1st level. You gain trained proficiency in one deity-granted skill, proficiency with their favored weapon, access to spells from their spell list, and either the holy or unholy trait (“sanctification”) based on deity choice.
+
+- **Divine Font (Healing/Harmful Font)**
+  - **Description**: You gain extra spell slots at your highest spell level for either healing or harming spells, depending on your deity. You start with 4 slots at 1st level, increasing to 5 at 5th level and 6 at 15th.
+
+- **Divine Spellcasting**
+  - **Description**: You prepare and cast divine tradition spells using Wisdom. You start with two 1st‑rank spell slots and five cantrips at level 1. You gain higher‑level slots and more spells as you level up.
+
+- **Doctrine (Cloistered Cleric)**
+  - **Description**: If you choose Cloistered Cleric doctrine at 1st level:
+    - 1st Doctrine: gain the **Domain Initiate** feat  
+    - 3rd Doctrine: expert proficiency in Fortitude saves  
+    - 7th Doctrine: expert in spell attack rolls and DC  
+    - 11th Doctrine: expert in deity’s favored weapon, simple weapons, and unarmed; critical specialization uses spell DC  
+    - 15th Doctrine: master in spell attack rolls and DC  
+    - 19th Doctrine: legendary in spell attack rolls and DC
+
+- **Domain Initiate (Trickery)**
+  - **Description**: Likely refers to having taken the Domain Initiate feat for the Trickery domain, but the specific Trickery domain details weren’t present.
+
+- **Second Doctrine**
+  - **Description**: The specific term “Second Doctrine” appears to reference the 3rd-level benefit of a doctrine (e.g., fortitude proficiency for cloistered cleric), but no standalone feature under this exact name exists.
+
