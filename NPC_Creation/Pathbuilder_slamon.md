@@ -62,8 +62,8 @@
 
 ### Arcane Prepared Spells
 
-- **3rd**: [Fireball](https://2e.aonprd.com/Spells.aspx?ID=119), [Horizon Thunder Sphere (Heightened +2)](https://2e.aonprd.com/Spells.aspx?ID=1052)  
-- **2nd**: [Scorching Ray](https://2e.aonprd.com/Spells.aspx?ID=281), [Glitterdust](https://2e.aonprd.com/Spells.aspx?ID=136)  
+- **3rd**: [Fireball](https://2e.aonprd.com/Spells.aspx?ID=119&NoRedirect=1), [Horizon Thunder Sphere (Heightened +2)](https://2e.aonprd.com/Spells.aspx?ID=927)  
+- **2nd**: [Scorching Ray](https://2e.aonprd.com/Spells.aspx?ID=992&NoRedirect=1), [Glitterdust](https://2e.aonprd.com/Spells.aspx?ID=136&NoRedirect=1)  
 - **Cantrips**: [Acid Splash](https://2e.aonprd.com/Spells.aspx?ID=3), [Electric Arc](https://2e.aonprd.com/Spells.aspx?ID=97), [Ray of Frost](https://2e.aonprd.com/Spells.aspx?ID=245), [Produce Flame](https://2e.aonprd.com/Spells.aspx?ID=236), [Shield](https://2e.aonprd.com/Spells.aspx?ID=280)
 
 ### Focus Spells
