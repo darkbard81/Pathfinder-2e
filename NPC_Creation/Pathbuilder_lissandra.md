@@ -84,15 +84,42 @@
 
 ## Additional Feats
 
-- [Celestial Envoy Kitsune](https://2e.aonprd.com/Heritages.aspx?Ancestry=38)
-- [Domain Initiate](https://2e.aonprd.com/Feats.aspx?ID=265)
-- [Group Coercion](https://2e.aonprd.com/Feats.aspx?ID=788)
-- [Hybrid Form](https://2e.aonprd.com/Feats.aspx?ID=2623)
-- [Intimidating Glare](https://2e.aonprd.com/Feats.aspx?ID=796)
-- [Kitsune Spell Familiarity](https://2e.aonprd.com/Feats.aspx?ID=2619)
-- [Read Lips](https://2e.aonprd.com/Feats.aspx?ID=833)
-- [Toughness](https://2e.aonprd.com/Feats.aspx?ID=855)
-- [Versatile Font](https://2e.aonprd.com/Feats.aspx?ID=275&NoRedirect=1)
+- **Celestial Envoy Kitsune [Legacy Heritage]**
+  - **Invoke Celestial Privilege** [reaction]
+    - **Trigger**: You attempt a saving throw against a divine effect, before rolling.
+    - **Description**: You gain a +1 circumstance bonus to that triggering save and to any subsequent saves against divine effects until the start of your next turn.
+
+- **Domain Initiate [Feat 1, Cleric]**
+  - **Prerequisite**: Cleric
+  - **Description**: Choose one domain of your deity. You gain its initial domain spell as a focus spell (costs 1 Focus Point). You start with a 1‑point focus pool (refill by Refocus), and the spell is automatically heightened to half your level, rounded up. You can take this feat multiple times to gain spells from different domains.
+
+- **Group Coercion [Feat 1, General Skill]**
+  - **Prerequisite**: trained in Intimidation
+  - **Description**: You can Coerce multiple creatures at once—up to 5 if they’re trained, expert allows 10, master 25, and legendary 50. Each target resolves separately.
+
+- **Hybrid Form [Legacy Kitsune Feat 5]**
+  - **Prerequisite**: Kitsune
+  - **Description**: When you use Change Shape, you can retain elements of your kitsune form—such as ears, tail, unarmed attacks, or the ability to speak in fox form—even in your tailless (humanoid) form.
+
+- **Intimidating Glare [Feat 1, General Skill]**
+  - **Prerequisite**: trained in Intimidation
+  - **Description**: Your Demoralize can use a glare instead of a shout. It gains the visual trait, loses the auditory trait, and works even if the target doesn’t understand your language.
+
+- **Kitsune Spell Familiarity [Legacy Kitsune Feat 1]**
+  - **Prerequisite**: Kitsune (heritage)
+  - **Description**: Each day, choose one of the cantrips daze, forbidding ward, or ghost sound. You gain it as a divine innate cantrip (no verbal/somatic/focus cost) and it’s automatically heightened to half your level, rounded up.
+
+- **Read Lips [Feat 1, General Skill]**
+  - **Prerequisite**: trained in Society
+  - **Description**: You can understand visible speech by reading lips in a language you know. Typically automatic when idle. In combat or under difficult conditions, you must succeed at a Society check and risk becoming fascinated by concentrating. 
+
+- **Toughness [Feat 1, General]**
+  - **Description**: You gain maximum Hit Points equal to your level. Additionally, the DC for your recovery check decreases by 1.
+
+- **Versatile Font [Feat 2, Cleric]**
+  - **Prerequisites**: harmful font or healing font; your deity must allow both fonts
+  - **Description**: You can prepare either harm or heal spells in your divine font slots—no longer locked to just harmful or healing, depending on your deity’s granted font.
+
 
 ## Additional Specials
 
