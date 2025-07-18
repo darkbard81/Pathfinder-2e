@@ -64,12 +64,12 @@
 
 - **3rd**: [Fireball](https://2e.aonprd.com/Spells.aspx?ID=119&NoRedirect=1), [Horizon Thunder Sphere (Heightened +2)](https://2e.aonprd.com/Spells.aspx?ID=927)  
 - **2nd**: [Scorching Ray](https://2e.aonprd.com/Spells.aspx?ID=992&NoRedirect=1), [Glitterdust](https://2e.aonprd.com/Spells.aspx?ID=136&NoRedirect=1)  
-- **Cantrips**: [Acid Splash](https://2e.aonprd.com/Spells.aspx?ID=3), [Electric Arc](https://2e.aonprd.com/Spells.aspx?ID=97), [Ray of Frost](https://2e.aonprd.com/Spells.aspx?ID=245), [Produce Flame](https://2e.aonprd.com/Spells.aspx?ID=236), [Shield](https://2e.aonprd.com/Spells.aspx?ID=280)
+- **Cantrips**: [Acid Splash](https://2e.aonprd.com/Spells.aspx?ID=3&NoRedirect=1), [Electric Arc](https://2e.aonprd.com/Spells.aspx?ID=97&NoRedirect=1), [Ray of Frost](https://2e.aonprd.com/Spells.aspx?ID=245&NoRedirect=1), [Produce Flame](https://2e.aonprd.com/Spells.aspx?ID=236&NoRedirect=1), [Shield](https://2e.aonprd.com/Spells.aspx?ID=280&NoRedirect=1)
 
 ### Focus Spells
 
 - **Focus Points**: 1  
-- **[Dimensional Assault](https://2e.aonprd.com/Spells.aspx?ID=1046)** [1 Action]  
+- **[Dimensional Assault](https://2e.aonprd.com/Spells.aspx?ID=1037)** [1 Action]  
   - **Description**: You teleport to a space adjacent to a creature within 30 feet and Strike it. If the Strike hits, the target is flat-footed until the end of your next turn.
 
 
