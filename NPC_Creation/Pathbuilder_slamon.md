@@ -68,12 +68,26 @@
 
 ## Additional Feats
 
-- [Expansive Spellstrike](https://2e.aonprd.com/Feats.aspx?Traits=389)
-- [Incredible Initiative](https://2e.aonprd.com/Feats.aspx?ID=794)
-- [Lie to Me](https://2e.aonprd.com/Feats.aspx?ID=811)
-- [Natural Skill](https://2e.aonprd.com/Feats.aspx?ID=71)
-- [Seasoned](https://2e.aonprd.com/Feats.aspx?ID=2149)
-- [Skilled Heritage](https://2e.aonprd.com/Heritages.aspx?Ancestry=6)
+- **Expansive Spellstrike [Magus Feat]**
+  - **Prerequisite**: Spellstrike  
+  - **Description**: When you Spellstrike with a spell that has an area (burst, cone, or line), the spell creates that area instead of affecting only the target. You still Strike one creature, but the spell then hits all in the area. 
+
+- **Incredible Initiative [Feat 1, General]**
+  - **Description**: You react more quickly than others can. You gain a +2 circumstance bonus to Initiative rolls. 
+
+- **Lie to Me [Feat 1, Skill (Deception)]**
+  - **Prerequisite**: trained in Deception  
+  - **Description**: You can use Deception to trip up anyone trying to deceive you. In dialog, if your Deception DC is higher than your Perception DC, the deceiver uses that instead of their own check. Doesn't apply to long speeches. 
+
+- **Natural Skill [Feat 1, Human]**
+  - **Description**: Your ingenuity allows you to learn a wide variety of skills. You gain trained proficiency in two skills of your choice. 
+
+- **Seasoned [Feat 1, Skill (Crafting/Alcohol/Cooking)]**
+  - **Prerequisites**: trained in Crafting, Alcohol Lore, or Cooking Lore  
+  - **Description**: You’ve mastered preparing food and drink. You gain a +1 circumstance bonus to checks to Craft food and drink (including elixirs and potions). If you're master in one of the prerequisite skills, this bonus increases to +2. 
+
+- **Skilled Heritage [Heritage, Human]**
+  - **Description**: You become trained in one skill of your choice. At 5th level, you become an expert in that skill. 
 
 ## Additional Specials
 
