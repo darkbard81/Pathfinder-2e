@@ -57,3 +57,25 @@
   - **Requirements**: You have a deck of playing cards in your possession.
   - **Description**: A good getaway requires a good distraction. You Interact to draw a deck of cards and flip it in a fluttering explosion, causing you to become briefly hidde to all other creatures using vision as their precise sense, and then you Sneak. You have enough cover to Sneak until the end of your turn. This leaves all of the cards from the deck scattered about the room; collecting them into a deck again takes several minutes.
 
+## Additional Feats
+
+- [Cat Fall](https://2e.aonprd.com/Feats.aspx?ID=765)
+- [Clawed Catfolk](https://2e.aonprd.com/Heritages.aspx?Ancestry=17)
+- [Dread Striker](https://2e.aonprd.com/Feats.aspx?ID=561)
+- [Expanded Luck](https://2e.aonprd.com/Feats.aspx?ID=1259)
+- [Gang Up](https://2e.aonprd.com/Feats.aspx?ID=567)
+- [Intimidating Glare](https://2e.aonprd.com/Feats.aspx?ID=796)
+- [Pickpocket](https://2e.aonprd.com/Feats.aspx?ID=818)
+- [Quiet Allies](https://2e.aonprd.com/Feats.aspx?ID=831)
+- [Sign Language](https://2e.aonprd.com/Feats.aspx?ID=840)
+- [Steady Balance](https://2e.aonprd.com/Feats.aspx?ID=845)
+- [Tumble Behind (Rogue)](https://2e.aonprd.com/Feats.aspx?ID=2197)
+
+## Additional Specials
+
+- [Deny Advantage](https://2e.aonprd.com/Classes.aspx?ID=10)
+- [Land on Your Feet](https://2e.aonprd.com/Ancestries.aspx?ID=17)
+- [Rogue's Racket (Thief Racket)](https://2e.aonprd.com/Classes.aspx?ID=10)
+- [Sneak Attack](https://2e.aonprd.com/Classes.aspx?ID=10)
+- [Surprise Attack](https://2e.aonprd.com/Classes.aspx?ID=10)
+- [Weapon Tricks](https://2e.aonprd.com/Classes.aspx?ID=10)
