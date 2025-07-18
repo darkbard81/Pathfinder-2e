@@ -75,26 +75,73 @@
 - **Heightened (+1)**: The damage increases by 2d6.
 
 ##### [Horizon Thunder Sphere (Heightened +2)](https://2e.aonprd.com/Spells.aspx?ID=927)
-- **Traditions**: Arcane, Primal, Occult
-- **Cast**: [2 Actions] somatic, verbal
-- **Range**: 120 feet (Heightened +2: 150 feet)
-- **Saving Throw**: basic Reflex
-- **Description**:
-> You create a ball of crackling lightning and throw it. Make a spell attack roll. The sphere deals 3d6 electricity damage. If the attack is a critical success, the target is stunned 1.
-- **Heightened (+2)**: The damage increases by 3d6, and the range increases by 30 feet.
+- **Traditions**: Arcane, Primal
+- **Level**: 1
+- **Traits**: Attack, Electricity, Evocation
+- **Cast**: 2 actions, 3 actions, or 2 rounds (see below)
+- **Range**: varies by casting
+- **Targets**: 1 creature
+- **Saving Throw (Explosion)**: basic Reflex (only for 2-round cast)
+
+**Cast:**  
+- [2 Actions] somatic, verbal    
+> You create a ball of crackling lightning and throw it up to **30 feet**.  
+> **Effect**: Make a spell attack roll against a target.  
+> - **Hit**: 3d6 electricity damage.  
+> - **Critical Hit**: Double damage and the target is **dazzled** for 1 round.
+
+- [3 Actions] somatic, verbal, material  
+> You create and throw a more powerful sphere up to **60 feet**.  
+> **Effect**: Make a spell attack roll against a target.  
+> - **Hit**: 3d6 electricity damage.  
+> - **Critical Hit**: As above.  
+> - **Failure**: The target takes **half damage** (but not on critical failure).
+
+- [2 Rounds] somatic, verbal, material (the sphere)  
+> First Round: Spend **3 actions** casting the spell (as in 3-action casting), but you delay releasing it.  
+> Second Round: Spend another **3 actions** to unleash the enhanced spell.  
+> **Effect**: After the same single-target attack (like 3-action), the sphere **explodes**.  
+> - **Explosion**: 10-foot emanation deals **2d6 electricity damage** to all other creatures (basic Reflex save).  
+> - **Aura**: For **1 minute**, you spark with electricity, dealing **1 electricity damage** to creatures that Grab you or hit you with an unarmed Strike or non-reach melee weapon.
+
+- **Heightened (+1)**:  
+> - Increase direct damage by **+2d6**  
+> - Increase **explosion damage** (2-round version) by **+2d6**  
+> - Increase **aura damage** by **+1**
 
 #### 2nd Level Spells
 
 ##### [Scorching Ray](https://2e.aonprd.com/Spells.aspx?ID=992&NoRedirect=1)
+- **Level**: 2
 - **Traditions**: Arcane, Primal
-- **Cast**: [2 Actions] somatic, verbal
-- **Range**: 120 feet
-- **Targets**: 1 creature
-- **Description**:
-> You create one ray of heat and fire and shoot it at a target. Make a ranged spell attack roll. The ray deals 2d6 fire damage. If you get a critical hit, the target takes double damage and 1d10 persistent fire damage.
-- **Heightened (3rd)**: You create two rays and can target two different creatures. Make a separate spell attack roll for each ray. Each ray deals 2d6 fire damage.
-- **Heightened (4th)**: You create three rays, as above.
-- **Heightened (+1 above 4th)**: You create an additional ray.
+- **Traits**: Attack, Evocation, Fire
+- **Source**: Secrets of Magic pg. 127
+- **Cast**: [one-action] to [three-actions] somatic, verbal
+- **Range**: 60 feet
+- **Targets**: 1 or more creatures
+
+**Cast:**  
+- [1 Action]  
+> You fire a single ray of heat and flame. Make a spell attack roll against one creature.  
+> - **Hit**: 2d6 fire damage.  
+> - **Critical Hit**: Double damage.
+
+- [2 Actions]  
+> You fire two rays at different targets (or the same if you choose). Make separate spell attack rolls for each ray.  
+> - **Hit**: 4d6 fire damage per ray.  
+> - **Critical Hit**: Double damage.  
+> - You don't increase your multiple attack penalty until after all attack rolls are made.
+
+- [3 Actions]  
+> You fire three rays at up to three different targets.  
+> - Each ray: separate spell attack roll  
+> - **Hit**: 4d6 fire damage per ray.  
+> - **Critical Hit**: Double damage.  
+> - Multiple attack penalty applies after all rolls.
+
+**Heightened (+1)**:  
+> - **1-action version**: Damage increases by **1d6**.  
+> - **2- and 3-action versions**: Damage per ray increases by **2d6**.
 
 ##### [Glitterdust](https://2e.aonprd.com/Spells.aspx?ID=136&NoRedirect=1)
 - **Traditions**: Arcane, Divine, Occult, Primal
