@@ -60,10 +60,10 @@
 
 ### Divine Prepared Spells
 
-- **3rd**: [Heroism](https://2e.aonprd.com/Spells.aspx?ID=149), [Blindness](https://2e.aonprd.com/Spells.aspx?ID=26), [Heroism](https://2e.aonprd.com/Spells.aspx?ID=149)  
-- **2nd**: [Resist Energy](https://2e.aonprd.com/Spells.aspx?ID=256), [Create Food](https://2e.aonprd.com/Spells.aspx?ID=52), [Inner Radiance Torrent](https://2e.aonprd.com/SpellLists.aspx?Tradition=0)  
-- **1st**: [Bless](https://2e.aonprd.com/Spells.aspx?ID=25), [Create Water](https://2e.aonprd.com/Spells.aspx?ID=53), [Helpful Steps](https://2e.aonprd.com/SpellLists.aspx?Tradition=0)  
-- **Cantrips**: [Shield](https://2e.aonprd.com/Spells.aspx?ID=280), [Divine Lance](https://2e.aonprd.com/Spells.aspx?ID=84), [Haunting Hymn](https://2e.aonprd.com/SpellLists.aspx?Tradition=0), [Stabilize](https://2e.aonprd.com/Spells.aspx?ID=307), [Light](https://2e.aonprd.com/Spells.aspx?ID=171)
+- **3rd**: [Heroism](https://2e.aonprd.com/Spells.aspx?ID=149&NoRedirect=1), [Heroism](https://2e.aonprd.com/Spells.aspx?ID=149&NoRedirect=1), [Blindness](https://2e.aonprd.com/Spells.aspx?ID=26&NoRedirect=1)  
+- **2nd**: [Resist Energy](https://2e.aonprd.com/Spells.aspx?ID=256&NoRedirect=1), [Create Food](https://2e.aonprd.com/Spells.aspx?ID=52&NoRedirect=1), [Inner Radiance Torrent](https://2e.aonprd.com/Spells.aspx?ID=934)  
+- **1st**: [Bless](https://2e.aonprd.com/Spells.aspx?ID=25&NoRedirect=1), [Create Water](https://2e.aonprd.com/Spells.aspx?ID=53&NoRedirect=1), [Helpful Steps](https://2e.aonprd.com/Spells.aspx?ID=1286)  
+- **Cantrips**: [Shield](https://2e.aonprd.com/Spells.aspx?ID=280&NoRedirect=1), [Divine Lance](https://2e.aonprd.com/Spells.aspx?ID=84&NoRedirect=1), [Haunting Hymn](https://2e.aonprd.com/Spells.aspx?ID=924&NoRedirect=1), [Stabilize](https://2e.aonprd.com/Spells.aspx?ID=307&NoRedirect=1), [Light](https://2e.aonprd.com/Spells.aspx?ID=171&NoRedirect=1)
 
 ### Divine Font Spells
 
@@ -72,7 +72,7 @@
 
 ### Divine Innate Spells
 
-- **Cantrips**: [Daze](https://2e.aonprd.com/Spells.aspx?ID=61)
+- **Cantrips**: [Daze](https://2e.aonprd.com/Spells.aspx?ID=61&NoRedirect=1)
 
 ### Focus Spells
 
