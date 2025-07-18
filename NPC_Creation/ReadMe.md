@@ -1,3 +1,17 @@
+# Additional Feats
+
+- [Expansive Spellstrike](https://2e.aonprd.com/Feats.aspx?Traits=389)
+- [Incredible Initiative](https://2e.aonprd.com/Feats.aspx?ID=794)
+- [Lie to Me](https://2e.aonprd.com/Feats.aspx?ID=811)
+- [Natural Skill](https://2e.aonprd.com/Feats.aspx?ID=71)
+- [Seasoned](https://2e.aonprd.com/Feats.aspx?ID=2149)
+- [Skilled Heritage](https://2e.aonprd.com/Heritages.aspx?Ancestry=6)
+
+URL에서 해당 능력 설명을 가져와서 마크다운으로 정리해 줄래? 그리고 영어로 원문을 최대한 요약하지마 해당 링크에 원하는 정보가 없으면 description에 not found로 적어줘. 코드블럭에 출력해 예시는 다음과 같이. 
+- Read Lips [Passive]
+  - Description: blurablura~
+
+---
 
 # 🎭 고정 인격 기반 NPC 설계 템플릿
 > ※ 이 템플릿은 “인격은 고정, 감정은 유동, 페르소나 재구성 가능” 구조를 따릅니다.  
