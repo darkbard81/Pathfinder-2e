@@ -62,14 +62,150 @@
 
 ### Arcane Prepared Spells
 
-- **3rd**: [Fireball](https://2e.aonprd.com/Spells.aspx?ID=119&NoRedirect=1), [Horizon Thunder Sphere (Heightened +2)](https://2e.aonprd.com/Spells.aspx?ID=927)  
-- **2nd**: [Scorching Ray](https://2e.aonprd.com/Spells.aspx?ID=992&NoRedirect=1), [Glitterdust](https://2e.aonprd.com/Spells.aspx?ID=136&NoRedirect=1)  
-- **Cantrips**: [Acid Splash](https://2e.aonprd.com/Spells.aspx?ID=3&NoRedirect=1), [Electric Arc](https://2e.aonprd.com/Spells.aspx?ID=97&NoRedirect=1), [Ray of Frost](https://2e.aonprd.com/Spells.aspx?ID=245&NoRedirect=1), [Produce Flame](https://2e.aonprd.com/Spells.aspx?ID=236&NoRedirect=1), [Shield](https://2e.aonprd.com/Spells.aspx?ID=280&NoRedirect=1)
+#### 3rd Level Spells
+
+##### Fireball
+- **Traditions**: Arcane, Primal
+- **Cast**: [2 Actions] somatic, verbal
+- **Range**: 500 feet
+- **Area**: 20-foot burst
+- **Saving Throw**: basic Reflex
+- **Description**:
+> A roaring blast of fire appears at a spot you designate, dealing 6d6 fire damage to creatures in the area. Each creature must attempt a basic Reflex save. The fire spreads around corners and ignites flammable objects in the area that aren’t being worn or carried.
+- **Heightened (+1)**: The damage increases by 2d6.
+
+##### Horizon Thunder Sphere (Heightened +2)
+- **Traditions**: Arcane, Primal
+- **Level**: 1
+- **Traits**: Attack, Electricity, Evocation
+- **Cast**: 2 actions, 3 actions, or 2 rounds (see below)
+- **Range**: varies by casting
+- **Targets**: 1 creature
+- **Saving Throw (Explosion)**: basic Reflex (only for 2-round cast)
+
+**Cast:**  
+- [2 Actions] somatic, verbal    
+> You create a ball of crackling lightning and throw it up to **30 feet**.  
+> **Effect**: Make a spell attack roll against a target.  
+> - **Hit**: 3d6 electricity damage.  
+> - **Critical Hit**: Double damage and the target is **dazzled** for 1 round.
+
+- [3 Actions] somatic, verbal, material  
+> You create and throw a more powerful sphere up to **60 feet**.  
+> **Effect**: Make a spell attack roll against a target.  
+> - **Hit**: 3d6 electricity damage.  
+> - **Critical Hit**: As above.  
+> - **Failure**: The target takes **half damage** (but not on critical failure).
+
+- [2 Rounds] somatic, verbal, material (the sphere)  
+> First Round: Spend **3 actions** casting the spell (as in 3-action casting), but you delay releasing it.  
+> Second Round: Spend another **3 actions** to unleash the enhanced spell.  
+> **Effect**: After the same single-target attack (like 3-action), the sphere **explodes**.  
+> - **Explosion**: 10-foot emanation deals **2d6 electricity damage** to all other creatures (basic Reflex save).  
+> - **Aura**: For **1 minute**, you spark with electricity, dealing **1 electricity damage** to creatures that Grab you or hit you with an unarmed Strike or non-reach melee weapon.
+
+- **Heightened (+1)**:  
+> - Increase direct damage by **+2d6**  
+> - Increase **explosion damage** (2-round version) by **+2d6**  
+> - Increase **aura damage** by **+1**
+
+#### 2nd Level Spells
+
+##### Scorching Ray
+- **Level**: 2
+- **Traditions**: Arcane, Primal
+- **Traits**: Attack, Evocation, Fire
+- **Source**: Secrets of Magic pg. 127
+- **Cast**: [one-action] to [three-actions] somatic, verbal
+- **Range**: 60 feet
+- **Targets**: 1 or more creatures
+
+**Cast:**  
+- [1 Action]  
+> You fire a single ray of heat and flame. Make a spell attack roll against one creature.  
+> - **Hit**: 2d6 fire damage.  
+> - **Critical Hit**: Double damage.
+
+- [2 Actions]  
+> You fire two rays at different targets (or the same if you choose). Make separate spell attack rolls for each ray.  
+> - **Hit**: 4d6 fire damage per ray.  
+> - **Critical Hit**: Double damage.  
+> - You don't increase your multiple attack penalty until after all attack rolls are made.
+
+- [3 Actions]  
+> You fire three rays at up to three different targets.  
+> - Each ray: separate spell attack roll  
+> - **Hit**: 4d6 fire damage per ray.  
+> - **Critical Hit**: Double damage.  
+> - Multiple attack penalty applies after all rolls.
+
+- **Heightened (+1)**:  
+> - **1-action version**: Damage increases by **1d6**.  
+> - **2- and 3-action versions**: Damage per ray increases by **2d6**.
+
+##### Glitterdust
+- **Traditions**: Arcane, Divine, Occult, Primal
+- **Cast**: [2 Actions] somatic, verbal
+- **Range**: 120 feet
+- **Area**: 10-foot burst
+- **Saving Throw**: Will
+- **Description**:
+> Gold dust sprinkles over creatures in the area. Creatures become dazzled for 1 round. Each creature must attempt a Will save. On a failed save, the creature is also blinded for 1 round and cannot become hidden while blinded. If the save is a critical failure, blinded lasts for 1 minute.
+- **Heightened (+1)**: The duration of blinded on a failed save increases by 1 round.
+
+#### Cantrips
+
+##### Acid Splash
+- **Traditions**: Arcane, Occult, Primal
+- **Cast**: [2 Actions] somatic, verbal
+- **Range**: 30 feet
+- **Targets**: 1 creature or object
+- **Saving Throw**: basic Reflex
+- **Description**:
+> You splash a glob of acid that splatters. Make a ranged spell attack. If you hit, the target takes 1d6 acid damage plus 1 persistent acid damage. On a critical hit, the persistent acid damage increases to 2.
+- **Heightened (+1)**: The initial damage increases by 1d6, and the persistent damage increases by 1.
+
+##### Electric Arc
+- **Traditions**: Arcane, Primal, Occult
+- **Cast**: [2 Actions] somatic, verbal
+- **Range**: 30 feet
+- **Targets**: 1 or 2 creatures
+- **Saving Throw**: basic Reflex
+- **Description**:
+> You channel electricity to deal 1d4 electricity damage to one or two creatures. Each must attempt a basic Reflex save.
+- **Heightened (+1)**: The damage increases by 1d4.
+
+##### Ray of Frost
+- **Traditions**: Arcane, Primal
+- **Cast**: [2 Actions] somatic, verbal
+- **Range**: 120 feet
+- **Targets**: 1 creature
+- **Description**:
+> You blast an icy ray. Make a ranged spell attack. On a hit, the target takes 1d4 cold damage, and on a critical hit, the target takes double damage and a -10-foot status penalty to its Speed for 1 round.
+- **Heightened (+1)**: The damage increases by 1d4.
+
+##### Produce Flame
+- **Traditions**: Arcane, Primal
+- **Cast**: [2 Actions] somatic, verbal
+- **Range**: 30 feet
+- **Targets**: 1 creature
+- **Description**:
+> A small ball of flame appears in your hand and you hurl it at a target, making a ranged spell attack. On a hit, the target takes 1d4 fire damage and 1 persistent fire damage. On a critical hit, double the initial damage, and the persistent fire damage increases to 2.
+- **Heightened (+1)**: The initial damage increases by 1d4, and the persistent fire damage increases by 1.
+
+##### Shield
+- **Traditions**: Arcane, Divine, Occult
+- **Cast**: [1 Action] verbal
+- **Description**:
+> You raise a magical shield of force. This gives you a +1 circumstance bonus to AC until the start of your next turn. You can use the Shield Block reaction with this shield. If you use the reaction, the shield breaks and you can't cast Shield again for 10 minutes.
+- **Heightened (3rd)**: The shield has Hardness 10.
+- **Heightened (5th)**: The shield has Hardness 15.
+- **Heightened (7th)**: The shield has Hardness 20.
 
 ### Focus Spells
 
 - **Focus Points**: 1  
-- **[Dimensional Assault](https://2e.aonprd.com/Spells.aspx?ID=1037)** [1 Action]  
+- **Dimensional Assault** [1 Action]  
   - **Description**: You teleport to a space adjacent to a creature within 30 feet and Strike it. If the Strike hits, the target is flat-footed until the end of your next turn.
 
 
