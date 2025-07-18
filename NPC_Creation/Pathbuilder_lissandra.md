@@ -67,10 +67,8 @@
 
 ### Divine Font Spells
 
-- **3rd**: [Heal](https://2e.aonprd.com/Spells.aspx?ID=148) ×3, [Harm](https://2e.aonprd.com/Spells.aspx?ID=146) ×2  
-- **2nd**: —  
-- **1st**: —  
-- **Cantrips**: —
+- [Heal(Heightened+2)](https://2e.aonprd.com/Spells.aspx?ID=148) ×3
+- [Harm(Heightened+2)](https://2e.aonprd.com/Spells.aspx?ID=146) ×2  
 
 ### Divine Innate Spells
 
@@ -79,7 +77,7 @@
 ### Focus Spells
 
 - **Focus Points**: 1
-- **Sudden Shift** [Reaction]
+- **[Sudden Shift](https://2e.aonprd.com/Spells.aspx?ID=454&NoRedirect=1)** [Reaction]
 
 ## Additional Feats
 
@@ -96,9 +94,9 @@
 ## Additional Specials
 
 - [Anathema](https://2e.aonprd.com/Classes.aspx?ID=5)
-- [Deity](https://2e.aonprd.com/Classes.aspx?ID=5)
-- [Divine Font (Healing Font)](https://2e.aonprd.com/Classes.aspx?ID=5)
-- [Divine Spellcasting](https://2e.aonprd.com/Classes.aspx?ID=5)
-- [Doctrine (Cloistered Cleric)](https://2e.aonprd.com/Classes.aspx?ID=5)
-- [Domain Initiate (Trickery)](https://2e.aonprd.com/Classes.aspx?ID=5)
-- [Second Doctrine](https://2e.aonprd.com/Classes.aspx?ID=5)
+- [Deity](https://2e.aonprd.com/Classes.aspx?ID=5&NoRedirect=1)
+- [Divine Font (Healing Font)](https://2e.aonprd.com/Classes.aspx?ID=5&NoRedirect=1)
+- [Divine Spellcasting](https://2e.aonprd.com/Classes.aspx?ID=5&NoRedirect=1)
+- [Doctrine (Cloistered Cleric)](https://2e.aonprd.com/Classes.aspx?ID=5&NoRedirect=1)
+- [Domain Initiate (Trickery)](https://2e.aonprd.com/Classes.aspx?ID=5&NoRedirect=1)
+- [Second Doctrine](https://2e.aonprd.com/Classes.aspx?ID=5&NoRedirect=1)
