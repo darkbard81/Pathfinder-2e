@@ -77,7 +77,10 @@
 ### Focus Spells
 
 - **Focus Points**: 1
-- **[Sudden Shift](https://2e.aonprd.com/Spells.aspx?ID=454&NoRedirect=1)** [Reaction]
+- **Sudden Shift** [Reaction]
+  - **Trigger**: An enemy misses you with a melee attack.
+  - **Duration**: until the end of your next turn
+  - **Description**: You swiftly move from a dangerous spot and veil yourself. You Step and become concealed.
 
 ## Additional Feats
 
