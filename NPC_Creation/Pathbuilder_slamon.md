@@ -139,7 +139,7 @@
 > - **Critical Hit**: Double damage.  
 > - Multiple attack penalty applies after all rolls.
 
-**Heightened (+1)**:  
+- **Heightened (+1)**:  
 > - **1-action version**: Damage increases by **1d6**.  
 > - **2- and 3-action versions**: Damage per ray increases by **2d6**.
 
