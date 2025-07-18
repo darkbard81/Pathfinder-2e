@@ -92,7 +92,7 @@
 - [Kitsune Spell Familiarity](https://2e.aonprd.com/Feats.aspx?ID=2619)
 - [Read Lips](https://2e.aonprd.com/Feats.aspx?ID=833)
 - [Toughness](https://2e.aonprd.com/Feats.aspx?ID=855)
-- [Versatile Font](https://2e.aonprd.com/Feats.aspx?ID=275)
+- [Versatile Font](https://2e.aonprd.com/Feats.aspx?ID=275&NoRedirect=1)
 
 ## Additional Specials
 
