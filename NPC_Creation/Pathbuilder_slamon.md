@@ -64,7 +64,7 @@
 
 #### 3rd Level Spells
 
-##### [Fireball](https://2e.aonprd.com/Spells.aspx?ID=119&NoRedirect=1)
+##### Fireball
 - **Traditions**: Arcane, Primal
 - **Cast**: [2 Actions] somatic, verbal
 - **Range**: 500 feet
@@ -74,7 +74,7 @@
 > A roaring blast of fire appears at a spot you designate, dealing 6d6 fire damage to creatures in the area. Each creature must attempt a basic Reflex save. The fire spreads around corners and ignites flammable objects in the area that aren’t being worn or carried.
 - **Heightened (+1)**: The damage increases by 2d6.
 
-##### [Horizon Thunder Sphere (Heightened +2)](https://2e.aonprd.com/Spells.aspx?ID=927)
+##### Horizon Thunder Sphere (Heightened +2)
 - **Traditions**: Arcane, Primal
 - **Level**: 1
 - **Traits**: Attack, Electricity, Evocation
@@ -111,7 +111,7 @@
 
 #### 2nd Level Spells
 
-##### [Scorching Ray](https://2e.aonprd.com/Spells.aspx?ID=992&NoRedirect=1)
+##### Scorching Ray
 - **Level**: 2
 - **Traditions**: Arcane, Primal
 - **Traits**: Attack, Evocation, Fire
@@ -143,7 +143,7 @@
 > - **1-action version**: Damage increases by **1d6**.  
 > - **2- and 3-action versions**: Damage per ray increases by **2d6**.
 
-##### [Glitterdust](https://2e.aonprd.com/Spells.aspx?ID=136&NoRedirect=1)
+##### Glitterdust
 - **Traditions**: Arcane, Divine, Occult, Primal
 - **Cast**: [2 Actions] somatic, verbal
 - **Range**: 120 feet
@@ -155,7 +155,7 @@
 
 #### Cantrips
 
-##### [Acid Splash](https://2e.aonprd.com/Spells.aspx?ID=3&NoRedirect=1)
+##### Acid Splash
 - **Traditions**: Arcane, Occult, Primal
 - **Cast**: [2 Actions] somatic, verbal
 - **Range**: 30 feet
@@ -165,7 +165,7 @@
 > You splash a glob of acid that splatters. Make a ranged spell attack. If you hit, the target takes 1d6 acid damage plus 1 persistent acid damage. On a critical hit, the persistent acid damage increases to 2.
 - **Heightened (+1)**: The initial damage increases by 1d6, and the persistent damage increases by 1.
 
-##### [Electric Arc](https://2e.aonprd.com/Spells.aspx?ID=97&NoRedirect=1)
+##### Electric Arc
 - **Traditions**: Arcane, Primal, Occult
 - **Cast**: [2 Actions] somatic, verbal
 - **Range**: 30 feet
@@ -175,7 +175,7 @@
 > You channel electricity to deal 1d4 electricity damage to one or two creatures. Each must attempt a basic Reflex save.
 - **Heightened (+1)**: The damage increases by 1d4.
 
-##### [Ray of Frost](https://2e.aonprd.com/Spells.aspx?ID=245&NoRedirect=1)
+##### Ray of Frost
 - **Traditions**: Arcane, Primal
 - **Cast**: [2 Actions] somatic, verbal
 - **Range**: 120 feet
@@ -184,7 +184,7 @@
 > You blast an icy ray. Make a ranged spell attack. On a hit, the target takes 1d4 cold damage, and on a critical hit, the target takes double damage and a -10-foot status penalty to its Speed for 1 round.
 - **Heightened (+1)**: The damage increases by 1d4.
 
-##### [Produce Flame](https://2e.aonprd.com/Spells.aspx?ID=236&NoRedirect=1)
+##### Produce Flame
 - **Traditions**: Arcane, Primal
 - **Cast**: [2 Actions] somatic, verbal
 - **Range**: 30 feet
@@ -193,7 +193,7 @@
 > A small ball of flame appears in your hand and you hurl it at a target, making a ranged spell attack. On a hit, the target takes 1d4 fire damage and 1 persistent fire damage. On a critical hit, double the initial damage, and the persistent fire damage increases to 2.
 - **Heightened (+1)**: The initial damage increases by 1d4, and the persistent fire damage increases by 1.
 
-##### [Shield](https://2e.aonprd.com/Spells.aspx?ID=280&NoRedirect=1)
+##### Shield
 - **Traditions**: Arcane, Divine, Occult
 - **Cast**: [1 Action] verbal
 - **Description**:
@@ -205,7 +205,7 @@
 ### Focus Spells
 
 - **Focus Points**: 1  
-- **[Dimensional Assault](https://2e.aonprd.com/Spells.aspx?ID=1037)** [1 Action]  
+- **Dimensional Assault** [1 Action]  
   - **Description**: You teleport to a space adjacent to a creature within 30 feet and Strike it. If the Strike hits, the target is flat-footed until the end of your next turn.
 
 
