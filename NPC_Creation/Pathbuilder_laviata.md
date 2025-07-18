@@ -70,9 +70,9 @@
 
 ## Additional Specials
 
-- [Assurance (Intimidation)](https://2e.aonprd.com/)
-- [Constructed (Android)](https://2e.aonprd.com/)
+- [Assurance (Intimidation)](https://2e.aonprd.com/Feats.aspx?ID=756)
+- [Constructed](https://2e.aonprd.com/Ancestries.aspx?ID=27)
 - [Deny Advantage](https://2e.aonprd.com/Classes.aspx?ID=2)
-- [Emotionally Unaware](https://2e.aonprd.com/)
-- [Instinct (Giant Instinct)](https://2e.aonprd.com/Classes.aspx?ID=2)
-- [Titan Mauler (Instinct Ability)](https://2e.aonprd.com/)
+- [Emotionally Unaware](https://2e.aonprd.com/Ancestries.aspx?ID=27)
+- [Giant Instinct](https://2e.aonprd.com/Instincts.aspx?ID=4&NoRedirect=1)
+- [Titan Mauler (Instinct Ability)](https://2e.aonprd.com/Instincts.aspx?ID=4&NoRedirect=1)
