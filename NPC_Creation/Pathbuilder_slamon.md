@@ -57,14 +57,22 @@
 
 ## Spellcasting
 
-- **Arcane Prepared Spells** (DC 22, Attack +12):
-  - **3rd**: Fireball, Horizon Thunder Sphere (H+2)
-  - **2nd**: Scorching Ray, Glitterdust
-  - **1st**: *(none listed)*
-  - **Cantrips**: Acid Splash, Electric Arc, Ray of Frost, Produce Flame, Shield
+- **Spell DC**: 22  
+- **Spell Attack**: +12  
 
-- **Focus Spells** (1 point)
-  - **Dimensional Assault** [1 Action]
+### Arcane Prepared Spells
+
+- **3rd**: [Fireball](https://2e.aonprd.com/Spells.aspx?ID=119), [Horizon Thunder Sphere (Heightened +2)](https://2e.aonprd.com/Spells.aspx?ID=1052)  
+- **2nd**: [Scorching Ray](https://2e.aonprd.com/Spells.aspx?ID=281), [Glitterdust](https://2e.aonprd.com/Spells.aspx?ID=136)  
+- **1st**: *none listed*  
+- **Cantrips**: [Acid Splash](https://2e.aonprd.com/Spells.aspx?ID=3), [Electric Arc](https://2e.aonprd.com/Spells.aspx?ID=97), [Ray of Frost](https://2e.aonprd.com/Spells.aspx?ID=245), [Produce Flame](https://2e.aonprd.com/Spells.aspx?ID=236), [Shield](https://2e.aonprd.com/Spells.aspx?ID=280)
+
+### Focus Spells
+
+- **Focus Points**: 1  
+- **[Dimensional Assault](https://2e.aonprd.com/Spells.aspx?ID=1046)** [1 Action]  
+  - **Description**: You teleport to a space adjacent to a creature within 30 feet and Strike it. If the Strike hits, the target is flat-footed until the end of your next turn.
+
 
 ## Additional Feats
 
