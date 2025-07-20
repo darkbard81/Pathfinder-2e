@@ -1,0 +1,217 @@
+[
+  {
+    "name": "Acid Splash",
+    "type": "Cantrip",
+    "level": 1,
+    "traits": ["Acid", "Attack", "Cantrip", "Evocation"],
+    "casting_options": [
+      {
+        "actions": "2-actions",
+        "range": "30 feet",
+        "area": "",
+        "targets": "1 creature",
+        "description": "Make a spell attack. On hit, deal 1d6 acid damage plus 1 splash acid damage. On critical, target also takes 1 persistent acid damage."
+      }
+    ],
+    "heightened": {
+      "interval": 2,
+      "text": "3rd: initial damage 2d6, persistent 2; 5th: initial 3d6, persistent 3, splash 2; 7th: initial 4d6, persistent 4, splash 3; 9th: initial 5d6, persistent 5, splash 4."
+    }
+  },
+  {
+    "name": "Electric Arc",
+    "type": "Cantrip",
+    "level": 1,
+    "traits": ["Cantrip", "Concentrate", "Electricity", "Manipulate"],
+    "casting_options": [
+      {
+        "actions": "2-actions",
+        "range": "30 feet",
+        "area": "",
+        "targets": "1 or 2 creatures",
+        "description": "An arc of lightning leaps between up to two targets. Each target takes 2d4 electricity damage with a basic Reflex save."
+      }
+    ],
+    "saving_throw": "basic Reflex",
+    "heightened": {
+      "interval": 1,
+      "text": "Damage increases by 1d4."
+    }
+  },
+  {
+    "name": "Produce Flame",
+    "type": "Cantrip",
+    "level": 1,
+    "traits": ["Attack", "Cantrip", "Evocation", "Fire"],
+    "casting_options": [
+      {
+        "actions": "2-actions",
+        "range": "30 feet (melee or ranged)",
+        "area": "",
+        "targets": "1 creature",
+        "description": "Make a spell attack roll (ranged or melee). On success, deal 2d4 fire damage. On critical, double damage and 1d4 persistent fire damage."
+      }
+    ],
+    "heightened": {
+      "interval": 1,
+      "text": "Increase normal and persistent damage by 1d4 each."
+    }
+  },
+  {
+    "name": "Ray of Frost",
+    "type": "Cantrip",
+    "level": 1,
+    "traits": ["Attack", "Cantrip", "Cold", "Evocation"],
+    "casting_options": [
+      {
+        "actions": "2-actions",
+        "range": "120 feet",
+        "area": "",
+        "targets": "1 creature",
+        "description": "Make a spell attack roll. On success, deal 2d4 cold damage. On critical, double damage and target takes -10 ft. status penalty to Speeds for 1 round."
+      }
+    ],
+    "heightened": {
+      "interval": 1,
+      "text": "Damage increases by 1d4."
+    }
+  },
+  {
+    "name": "Shield",
+    "type": "Cantrip",
+    "level": 1,
+    "traits": ["Cantrip", "Concentrate", "Force"],
+    "casting_options": [
+      {
+        "actions": "1-action",
+        "range": "",
+        "area": "",
+        "targets": "Self",
+        "description": "Raise a magical shield of force; +1 circumstance bonus to AC until your next turn. Can use Shield Block reaction (Hardness 5). After Shield Block, spell ends and can't recast for 10 minutes."
+      }
+    ],
+    "duration": "until the start of your next turn",
+    "heightened": {
+      "interval": 2,
+      "text": "Hardness increases by 5."
+    }
+  },
+  {
+    "name": "Grease",
+    "type": "Spell",
+    "level": 1,
+    "traits": ["Concentrate", "Manipulate"],
+    "casting_options": [
+      {
+        "actions": "2-actions",
+        "range": "30 feet",
+        "area": "4 contiguous 5-foot squares",
+        "targets": "",
+        "description": "Area: Creatures standing on the greasy surface must Reflex save or Acrobatics check vs. spell DC or fall prone. Moving onto area during duration requires save/check. Target: Unattended or attended object becomes slippery; on fail, holder gets penalty or drops item."
+      }
+    ],
+    "duration": "1 minute"
+  },
+  {
+    "name": "Horizon Thunder Sphere",
+    "type": "Spell",
+    "level": 1,
+    "traits": ["Attack", "Evocation", "Electricity"],
+    "casting_options": [
+      {
+        "actions": "2-actions",
+        "range": "30 feet",
+        "area": "",
+        "targets": "1 creature",
+        "description": "Ranged spell attack. On hit: 3d6 electricity. Crit: double, dazzled 1 round."
+      },
+      {
+        "actions": "3-actions",
+        "range": "60 feet",
+        "area": "",
+        "targets": "1 creature",
+        "description": "Ranged spell attack. On hit: 3d6 electricity. Crit: double, dazzled 1 round. Failure: half damage (not crit fail)."
+      },
+      {
+        "actions": "2 rounds",
+        "range": "60 feet",
+        "area": "10-foot burst",
+        "targets": "1 creature",
+        "description": "After attack, the sphere explodes: 2d6 electricity to all others in 10 ft (basic Reflex). You spark for 1 min: deal 1 damage to Grab/unarmed/non-reach hits."
+      }
+    ],
+    "heightened": {
+      "interval": 1,
+      "text": "Hit and burst damage +2d6; sparking state damage +1."
+    }
+  },
+  {
+    "name": "Glitterdust",
+    "type": "Spell",
+    "level": 2,
+    "traits": ["Evocation"],
+    "casting_options": [
+      {
+        "actions": "2-actions",
+        "range": "120 feet",
+        "area": "10-foot burst",
+        "targets": "",
+        "description": "Each creature must Reflex save; success: invisibility negated for 2 rounds. Fail: dazzled 1 min, invisibility negated 1 min. Crit fail: blinded 1 round, dazzled 10 min, invisibility negated 10 min."
+      }
+    ],
+    "saving_throw": "Reflex"
+  },
+  {
+    "name": "Scorching Ray",
+    "type": "Spell",
+    "level": 2,
+    "traits": ["Attack", "Evocation", "Fire"],
+    "casting_options": [
+      {
+        "actions": "1-action",
+        "range": "60 feet",
+        "area": "",
+        "targets": "1 creature",
+        "description": "Ray attack; on hit, 2d6 fire damage (crit: double)."
+      },
+      {
+        "actions": "2-actions",
+        "range": "60 feet",
+        "area": "",
+        "targets": "up to 2 creatures",
+        "description": "Fire a second ray at a different target; each ray is a separate attack. Each hit deals 4d6 fire (crit: double)."
+      },
+      {
+        "actions": "3-actions",
+        "range": "60 feet",
+        "area": "",
+        "targets": "up to 3 creatures",
+        "description": "Fire a third ray at a third target; each hit deals 4d6 fire (crit: double)."
+      }
+    ],
+    "heightened": {
+      "interval": 1,
+      "text": "1-action: damage +1d6; 2/3-actions: damage +2d6 each."
+    }
+  },
+  {
+    "name": "Fireball",
+    "type": "Spell",
+    "level": 3,
+    "traits": ["Concentrate", "Fire", "Manipulate"],
+    "casting_options": [
+      {
+        "actions": "2-actions",
+        "range": "500 feet",
+        "area": "20-foot burst",
+        "targets": "",
+        "description": "Roaring blast of fire at point within range; deals 6d6 fire damage (basic Reflex save)."
+      }
+    ],
+    "saving_throw": "basic Reflex",
+    "heightened": {
+      "interval": 1,
+      "text": "Damage increases by 2d6."
+    }
+  }
+]
