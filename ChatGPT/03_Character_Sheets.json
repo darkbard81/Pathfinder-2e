@@ -193,12 +193,12 @@
         ],
         "2nd": [
           "Resist Energy",
-          "Create Food",
+          "Spiritual Weapon",
           "Inner Radiance Torrent"
         ],
         "1st": [
           "Bless",
-          "Create Water",
+          "Bane",
           "Helpful Steps"
         ],
         "cantrips": [
@@ -206,7 +206,7 @@
           "Divine Lance",
           "Haunting Hymn",
           "Stabilize",
-          "Light"
+          "Guidance"
         ]
       },
       "divine_font": {
