@@ -16,6 +16,8 @@
   - 중첩 구조화 로드
 - 위 단계가 지나서야 비로소 msearch의 정확도가 올라감
 
+- json to jsonl로 변환시 msearch가 아닌 프로젝트 인덱싱에서 지대한 영향을 미침 (예시, [Character_Abilities.json](https://github.com/darkbard81/Pathfinder-2e/edit/main/ChatGPTCharacter_Abilities.json))
+
 ## 🎯 전개 단계 공식 퀘스트 목록 (4종)
  - 서사적 목표 - Mother Jackal의 의식이 준비 중이라는 사실이 공공연하게 감지됨
 
