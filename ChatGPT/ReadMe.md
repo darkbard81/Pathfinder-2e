@@ -122,3 +122,18 @@ Spiral Shrine의 이중계약,
 발단은 끝났다.  
 각자는 연결되었고,  
 그 연결은 되돌릴 수 없다.
+
+문장 목적
+설계 가이드라인
+조건 제시
+“When you…” 또는 “If you… then…” 구문 구조 사용
+수치 명시
+“X equals Y” 또는 “deals (Nx)d6 damage” 같은 수식 서술 사용
+대상 명시
+“The target…” / “All other creatures in…” 처럼 주체 명확히 분리
+고위화 효과 분리
+“Heightened (+1): Add +1d6 to the base damage.” 처럼 절 단위 분리
+상태효과 서술
+“The target becomes Dazzled for 1 round.”처럼 독립 문장으로 기술
+
+
