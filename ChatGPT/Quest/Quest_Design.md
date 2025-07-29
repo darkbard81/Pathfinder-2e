@@ -1,26 +1,26 @@
-#🧩 퀘스트의 5단계 구조 (5-Stage Quest Structure)
+# 🧩 퀘스트의 5단계 구조 (5-Stage Quest Structure)
 
-1. Hook (후킹)
+## 1. Hook (후킹)
 	•	이유 부여 / 개입 유도
 	•	슬라몬과 에코라가 휘말릴 이유, 혹은 스스로 개입할 감정적 동기
 	•	예시: 언데드의 출현, 신탁의 반응, 에코라가 느끼는 감각 이상
 
-2. Investigation / Travel (탐색 또는 이동)
+## 2. Investigation / Travel (탐색 또는 이동)
 	•	정보 수집 / 이동 기반 사건 발생
 	•	Caliphas 내에서 흔적 추적, 혹은 외곽 유적지로의 여행
 	•	예시: 지하 묘지 조사, 마법학자들과의 대화, 파편이 깃든 자와의 조우
 
-3. Obstacle / Dungeon (장애물 또는 던전형 사건)
+## 3. Obstacle / Dungeon (장애물 또는 던전형 사건)
 	•	직접적인 위험 / 함정 / 퍼즐 / 전투
 	•	파편이 숨겨진 장소, 퍼즐과 덫이 엮인 미니던전
 	•	예시: 유리 묘지, 언데드 보스, 성적 감응 트랩 등
 
-4. Climax / Confrontation (클라이맥스 또는 대면)
+## 4. Climax / Confrontation (클라이맥스 또는 대면)
 	•	주요 적대자와의 전면 충돌, 중요한 전투 또는 선택
 	•	Whispering Way의 지도자, 혹은 에코라 자신의 감정과 대면
 	•	슬라몬이 과거 유물과 관련 있었다는 진실이 드러날 수도
 
-5. Resolution / Fallout (해결 및 후속 여파)
+## 5. Resolution / Fallout (해결 및 후속 여파)
 	•	결정의 결과가 반영됨
 	•	파편의 정화 여부
 	•	에코라의 성적・신앙적 자각
