@@ -1,1 +1,7 @@
-# Sora NPC portrait prompt
+# Sora prompt
+
+## NPC portrait 
+
+## MAP Grid
+
+## Monster 
