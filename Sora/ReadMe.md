@@ -1,0 +1,1 @@
+# Sora NPC portrait prompt
