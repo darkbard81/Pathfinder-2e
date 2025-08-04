@@ -18,7 +18,7 @@
 
 <details>
 <summary>접기/펼치기</summary>
-  
+
 ![initial](../Sora/Elegant%20Ritual%20Silhouette01.png)
 
 </details>
