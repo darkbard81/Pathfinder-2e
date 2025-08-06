@@ -17,6 +17,8 @@
   - Plasteline
   - Resin
 
+>  Perfect anatomy 두번
+
 ```
 Style: Diorama-anime-style figure display
 Body: Sculpt by hyper-realistic polyurethane leather texture, Perfact anatomy, A high pony tail, Dramatic pose.
