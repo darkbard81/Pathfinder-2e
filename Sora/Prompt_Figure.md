@@ -1,0 +1,25 @@
+# Figure Prompt관련
+
+- Style: 전체적인 분위기
+- Body: 재료(Material)
+  - polyurethane leather
+  - Super Sculpey
+  - Sculpey Premo
+  - Cosclay
+  - Epoxy Putty
+  - Epoxy Clay
+  - Oil Clay
+  - Plasteline
+  - Resin
+
+```
+Style: Sculpt inspired by ff7 anime style
+Body: Sculpt by hyper-realistic polyurethane leather texture, Perfact anatomy, A high pony tail.
+Outfit: Wearing a flowing, flowing sacred ritual dress made of silk tulle.
+Background: collectible figure base of ruined sacred altar.
+Lighting: Natural color gradients, Soft ambient shadows under overhead key lighting.
+Positive: Oversize chest, Perfect anatomy, Liberal fashion, Curvaceous and elegant silhouette, Unrealistic proportions, Alluring ambiance, Dewdrops, Large eyes
+Color: natural realistic skin tones, white dress, rich colors, lifelike palette, vibrant hues, excellent color separation between the character and the background.
+
+oops i see her secret moment
+```
