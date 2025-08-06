@@ -28,5 +28,5 @@ Lighting: Natural color gradients, Soft ambient shadows under overhead key light
 Positive: Oversize chest, Liberal fashion, Curvaceous and elegant silhouette, Perfect anatomy, Unrealistic proportions, Alluring ambiance, Dewdrops, Large eyes
 Color: natural realistic skin tones, white dress, rich colors, lifelike palette, vibrant hues, excellent color separation between the character and the background.
 
-oops! I see her secret moment
+"Bad time to show up"
 ```
