@@ -56,11 +56,11 @@
 (무거운 갑옷을 안 입고 있을 때만 가능해요)
 
 ## 🛠️ 특성 (Feat)
-- **Forager:** 어디서든 먹을 걸 잘 찾아요  
-- **Gloomseer:** 어두운 데서도 잘 보여요  
-- **Intimidating Glare:** 노려보면 무서워요  
-- **Raging Intimidation:** 화나면 더 무서워져요  
-- **Toughness:** 튼튼해서 잘 안 쓰러져요
+- 채집 전문가 (Forager): 어디서든 먹을 걸 잘 찾아요  
+- 어둠을 보는 눈 (Gloomseer): 어두운 데서도 잘 보여요  
+- 위협적인 눈빛 (Intimidating Glare): 노려보면 무서워요  
+- 분노의 위협 (Raging Intimidation): 화나면 더 무서워져요  
+- 강인함 (Toughness): 튼튼해서 잘 안 쓰러져요 
 
 ## 🌪️ 분노 본능
 - **Fury Instinct:** 아주아주 화가 나는 타입! 때릴 때 더 세게 때릴 수 있어요!
