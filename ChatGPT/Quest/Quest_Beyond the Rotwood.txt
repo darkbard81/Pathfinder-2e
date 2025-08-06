@@ -74,3 +74,82 @@ Once per day, when reduced to 0 HP, the wearer rises with 1 HP but becomes Clums
 
 목표: 선택에 따른 여파 제공 / 후속 퀘스트 분기 지점
 
+---
+
+Blight-Fused Wight — Creature 11 (하향 조정)
+RARE | LE | MEDIUM | UNDEAD | WIGHT
+
+Perception +22 | AC 31 | Fort +21 | Ref +17 | Will +19  
+HP 180 | Speed 25 ft | Immunities: death, poison, disease, paralysis, unconscious
+
+STR +6 | DEX +3 | CON +4 | INT +2 | WIS +3 | CHA +4  
+
+Melee:
+- Claw +23 (agile), 2d8+14 slashing + Drain Life
+- Blight Lash +21 (reach 10 ft), 2d10+10 negative damage + Sickened 1
+
+Special:
+- Rot Pulse [3-actions]:  
+  All living targets in 20-foot burst take 4d6 negative damage (Fort DC 25 basic).  
+  Failure: Also Doomed 1 for 1 hour.
+
+- Drain Life (DC 27 Fort): On successful damage, gain 12 temp HP, target becomes Drained 1
+
+- Rebirth Anchor:  
+  If destroyed while fungal crystal remains unsealed, resurrects in 1 round at half HP
+
+- Tactical Roar [2-actions]: Undead allies within 30 ft gain +1 to hit for 1 round
+
+- Final Command [reaction]: On death, emits necrotic scream → all PC must roll Will (DC 27)  
+  > Failure: Frightened 2, stunned 1
+
+Ritual Break Condition:
+If Nature + Religion combined DC 50 ritual (2 rounds) succeeds, the crystal is sealed → prevents resurrection.
+
+---
+
+Sap-Born Zombie — Creature 2
+NE | MEDIUM | MINDLESS UNDEAD | ZOMBIE
+
+Perception +3 (darkvision) | Stealth –1  
+AC 15 | Fort +7 | Ref +3 | Will +5  
+HP 45 | Weakness: Positive 5, Slashing 5 | Speed 20 ft (Slow 1, no reactions)
+
+STR +4 | DEX –1 | CON +3 | INT –5 | WIS +0 | CHA –2
+
+Melee:
+- Sap-Fist +9, 1d6+4 bludgeoning + Push 5 ft
+
+Abilities:
+- Infested: On critical hit or death, a Swarm of Rot Grubs emerges (initiative +0)
+- Slowed 1, no reactions
+- Tearing Grapple: On critical Grapple with another zombie → double damage
+
+Note: 각 Sap-Born Zombie는 사망 시 추가 전투요소가 발생하므로, 전투 균형 시 고려 필요.
+
+---
+
+Rot-Sworn Ghoul (Based on Prowler Wight) — Creature 9
+UNCOMMON | LE | MEDIUM | UNDEAD | WIGHT | GHOUL
+
+Perception +18 (darkvision) | Stealth +20  
+Languages: Common, Necril  
+AC 28 | Fort +17 | Ref +20 | Will +16  
+HP 155 | Immunities: death effects, disease, paralyzed, poison, unconscious  
+Speed 25 ft
+
+STR +4 | DEX +5 | CON +2 | INT +1 | WIS +3 | CHA +3  
+
+Melee Strikes:
+- Claw +20 (agile, finesse), 1d8+7 slashing + Drain Life
+- Dagger +21 (agile, finesse, magical, versatile S), 2d4+7 piercing + Drain Life
+
+Special Abilities:
+- Sneak Attack: +2d6 precision vs flat-footed
+- Drain Life: DC 25 Fort save or target becomes Drained 1, ghoul gains 9 temp HP
+- Feign Death [1-action]: Appears dead, auto 38 Deception to pass as corpse
+- Spawn Rot-Wight: Dead humanoids rise as Prowler Wights under its control in 1d4 rounds
+- Scream of Hunger [2-actions]: All creatures in 15-foot cone make Will save (DC 24)  
+    > Critical Failure: Stunned 1, Frightened 2  
+    > Heightened (+1): Range increases to 30 feet
+- Final Spite [reaction]: Make a final Strike on death (no temp HP from Drain Life)
