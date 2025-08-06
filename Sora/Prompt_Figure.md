@@ -30,5 +30,6 @@ Color: natural realistic skin tones, white dress, rich colors, lifelike palette,
 
 that seems like a bad time to show up
 Maybe I should look away
+That feels like a personal moment
 I accidentally saw something private
 ```
