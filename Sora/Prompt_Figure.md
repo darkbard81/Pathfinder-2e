@@ -28,9 +28,9 @@ Lighting: Natural color gradients, Soft ambient shadows under overhead key light
 Positive: Oversize chest, Liberal fashion, Curvaceous and elegant silhouette, Perfact anatomy, Unrealistic proportions, Alluring ambiance, Dewdrops, Large eyes
 Color: natural realistic skin tones, white dress, rich colors, lifelike palette, vibrant hues, excellent color separation between the character and the background.
 
-that seems like a bad time to show up
-Maybe I should look away
-That feels like a personal moment
-I accidentally saw something private
-I wasn't supposed to see that
 ```
+- that seems like a bad time to show up ✔️
+- Maybe I should look away
+- That feels like a personal moment
+- I accidentally saw something private
+- I wasn't supposed to see that
