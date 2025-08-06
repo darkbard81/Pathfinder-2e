@@ -18,7 +18,7 @@
   - Resin
 
 - Body: Dramatic pose 옵션
-
+- Native inspired sculpt 원주민 옵션 
 ```
 Style: Diorama-anime-style display
 Body: Sculpt by hyper-realistic polyurethane leather texture, Perfact anatomy, A high pony tail, Dramatic Pose.
