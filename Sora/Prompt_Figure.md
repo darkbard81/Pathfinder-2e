@@ -17,7 +17,7 @@
   - Plasteline
   - Resin
 
->  Perfect anatomy 두번
+- Body: Dramatic pose 옵션
 
 ```
 Style: Diorama-anime-style display
