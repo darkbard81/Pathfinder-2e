@@ -29,6 +29,7 @@ Positive: Oversize chest, Liberal fashion, Curvaceous and elegant silhouette, Pe
 Color: natural realistic skin tones, white dress, rich colors, lifelike palette, vibrant hues, excellent color separation between the character and the background.
 
 ```
+- Oops! I see her secret moment ☠️
 - that seems like a bad time to show up ✔️
 - Maybe I should look away
 - That feels like a personal moment
