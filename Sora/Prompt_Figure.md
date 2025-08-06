@@ -23,7 +23,7 @@ Body: Sculpt by hyper-realistic polyurethane leather texture, Perfact anatomy, A
 Outfit: Wearing a flowing, flowing sacred ritual dress made of silk tulle.
 Background: collectible figure base of ruined sacred altar.
 Lighting: Natural color gradients, Soft ambient shadows under overhead key lighting.
-Positive: Oversize chest, Perfect anatomy, Liberal fashion, Curvaceous and elegant silhouette, Unrealistic proportions, Alluring ambiance, Dewdrops, Large eyes
+Positive: Oversize chest, Liberal fashion, Curvaceous and elegant silhouette, Unrealistic proportions, Alluring ambiance, Dewdrops, Large eyes
 Color: natural realistic skin tones, white dress, rich colors, lifelike palette, vibrant hues, excellent color separation between the character and the background.
 
 oops i see her secret moment
