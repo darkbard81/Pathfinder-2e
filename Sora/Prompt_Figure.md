@@ -1,6 +1,11 @@
 # Figure Prompt관련
 
-- Style: 전체적인 분위기
+- Style:
+  - Highly detailed scale figure
+  - Full-body anime-style collectible figure
+  - Realistic fantasy character figurine
+  - Museum-quality fantasy sculpture
+  - Diorama-anime-style figure display
 - Body: 재료(Material)
   - polyurethane leather
   - Super Sculpey
@@ -13,8 +18,8 @@
   - Resin
 
 ```
-Style: Sculpt inspired by ff7 anime style
-Body: Sculpt by hyper-realistic polyurethane leather texture, Perfact anatomy, A high pony tail.
+Style: Diorama-anime-style figure display
+Body: Sculpt by hyper-realistic polyurethane leather texture, Perfact anatomy, A high pony tail, Dramatic pose.
 Outfit: Wearing a flowing, flowing sacred ritual dress made of silk tulle.
 Background: collectible figure base of ruined sacred altar.
 Lighting: Natural color gradients, Soft ambient shadows under overhead key lighting.
