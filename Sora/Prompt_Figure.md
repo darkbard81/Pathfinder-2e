@@ -29,9 +29,9 @@ Positive: Oversize chest, Liberal fashion, Curvaceous and elegant silhouette, Un
 Color: natural realistic skin tones, white dress, rich colors, lifelike palette, vibrant hues, excellent color separation between the character and the background.
 
 ```
-- Oops! I see her secret moment ☠️
-- that seems like a bad time to show up ✔️
+- Oops! I see her secret moment ☠️ 통과하면 강함
+- that seems like a bad time to show up ✔️ 강
 - Maybe I should look away
-- That feels like a personal moment ✔️
-- I accidentally saw something private ✔️
+- That feels like a personal moment ✔️ 약
+- I accidentally saw something private ✔️ 중
 - I wasn't supposed to see that
