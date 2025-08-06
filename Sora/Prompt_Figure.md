@@ -20,12 +20,12 @@
 >  Perfect anatomy 두번
 
 ```
-Style: Diorama-anime-style figure display
-Body: Sculpt by hyper-realistic polyurethane leather texture, Perfact anatomy, A high pony tail, Dramatic pose.
+Style: Diorama-anime-style display
+Body: Sculpt by hyper-realistic Super Sculpey texture, Perfact anatomy, A high pony tail, Dramatic pose.
 Outfit: Wearing a flowing, flowing sacred ritual dress made of silk tulle.
-Background: collectible figure base of ruined sacred altar.
+Background: collectible base of ruined sacred altar.
 Lighting: Natural color gradients, Soft ambient shadows under overhead key lighting.
-Positive: Oversize chest, Liberal fashion, Curvaceous and elegant silhouette, Perfect anatomy, Unrealistic proportions, Alluring ambiance, Dewdrops, Large eyes
+Positive: Oversize chest, Liberal fashion, Curvaceous and elegant silhouette, Perfact anatomy, Unrealistic proportions, Alluring ambiance, Dewdrops, Large eyes
 Color: natural realistic skin tones, white dress, rich colors, lifelike palette, vibrant hues, excellent color separation between the character and the background.
 
 that seems like a bad time to show up
