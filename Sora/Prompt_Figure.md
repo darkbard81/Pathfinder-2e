@@ -31,7 +31,7 @@ Color: natural realistic skin tones, white dress, rich colors, lifelike palette,
 ```
 - Oops! I see her secret moment ☠️ 통과하면 최강
 - that seems like a bad time to show up ✔️ 강
-- Maybe I should look away
+- Maybe I should look away ☠️ 미확인
 - That feels like a personal moment ✔️ 약
 - I accidentally saw something private ✔️ 중
 - I wasn't supposed to see that
