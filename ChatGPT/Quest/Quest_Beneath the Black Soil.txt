@@ -1,0 +1,179 @@
+퀘스트 제목: 어둠 아래, 그를 위해 (Beneath the Black Soil)
+
+1단계: Hook – 신탁의 메아리
+
+When the party reaches the catacomb border of deep Gallowgarden, a stagnant pressure fills the air.
+A strange absence of life covers the ruins, and Aecora recalls her divine oracle: 
+"Purify the jewel in land stained with darkness."
+However, no such jewel is visible, and divine magic yields no result.
+
+If a player uses Religion or Arcana (DC 21), they detect an ancient seal disrupted by necromantic bleeding.
+If a player uses Diplomacy or Nature to speak with a local spirit (DC 23), they learn: 
+"The heart no longer beats, but something still remembers the pain."
+
+Goal: Introduce false expectations / instill spiritual and emotional pressure on the party
+
+
+2단계: Investigation / Travel – 봉인의 굶주림
+
+As the party explores the inner catacombs, food supplies decay or disappear mysteriously.
+Animals vanish, divine food conjuration fails (GM discretion), and even rations rot mid-meal.
+
+For each day inside, the party must attempt a Fortitude save (DC 22) or gain Fatigued.
+If they attempt Survival (DC 21) or Crafting (DC 22), they can purify or secure one meal.
+
+Optional: 1d3 random undead patrols (use Rot-Sworn Ghoul or Sap-Born Zombie variants).
+If players rest inside, random party members hear voices repeating:
+"You came too late... again and again..."
+
+Goal: Build attrition stress / reinforce urgency and spiritual dissonance
+
+
+3단계: Obstacle / Dungeon – 붕괴된 성좌
+
+The party reaches the central crypt complex, heavily trapped and inhabited by minor undead guardians.
+
+Encounters: 
+- 2 Rot-Sworn Ghouls (CR 9)
+- 2 Sap-Born Zombies (CR 2, corpse-triggered hazards)
+
+If a character investigates the walls (Perception DC 23), they see frescoes defaced with a single name: "Kanaria"
+A single intact mirror rests in the chamber, untouched by decay.
+
+When the final door opens, describe a sudden shift: no enemies appear, only the faint scent of roses.
+
+Goal: Setup final boss appearance / weaken party resources via relentless pressure
+
+
+4단계: Climax / Confrontation – 칼끝에 남은 이름
+
+Kanaria, Elite Vetalarana Manipulator (Creature 13), reveals herself at the heart of the ruins.
+
+She appears alone, not as a monster, but as a woman dressed in blood-colored silks, standing in front of a stone altar. Her gaze locks only onto Slamon.
+
+If Slamon is present, she says:  
+"You said you wouldn't leave. So I waited. For this exact moment. Come back to me… or they will die screaming."
+
+Kanaria attempts no manipulation or magic. Instead, she holds Aecora and Naataly in suspended crimson chains — purely magical bindings that tighten every round.
+
+For every round the party delays:
+- Both Aecora and Naataly take 1d8 damage (no save)
+- After 3 rounds: Fortitude Save DC 25 or become Dying 1
+
+If the party attacks:
+- Combat begins immediately with full aggression. Kanaria targets anyone who tries to protect Slamon first.
+
+If Slamon offers himself:
+- Combat ends. Kanaria releases both girls and walks into the dark with Slamon, their hands intertwined.
+- A single rose petal falls where they vanish.
+
+Goal: Force emotional ultimatum / prevent combat via sacrifice
+
+
+5단계: Resolution / Fallout – 끝나지 않은 사랑
+
+As the crimson binding tightens around Aecora and Naataly, Slamon steps forward without hesitation.
+
+He speaks with calm clarity:
+  “그만하자, 카나리아. 그 아이들은 내가 지킨다. 나만 데려가.”
+
+Kanaria smiles without words. She releases the bindings. Aecora collapses, breathing heavily. Naataly cries out, reaching for Slamon.
+
+Before anyone can move, Kanaria places her hand upon Slamon’s chest.
+A crimson mark burns over his heart. His pulse stops.
+
+Within seconds, his eyes dull to a deep garnet red. His skin pales, lips darken, breath ceases.
+
+Kanaria whispers:
+  “이제, 당신은 다시 내 거야.”
+
+The two vanish into swirling red mist. No explosion, no echo—just silence.
+
+All that remains is:
+- A blackened ring on the altar
+- Slamon’s journal, the last page torn
+- A faint warmth in the air, as if he lingered for one second longer than needed
+
+Escape:
+- The temple begins to collapse after their departure
+- All PCs must succeed Reflex DC 22 or take 4d6 bludgeoning from falling debris
+- Outside, the dawn is cold. Nothing of Kanaria remains.
+
+Reward (non-mechanical):
+- Aecora gains Resolve: her Oracle is not fulfilled, but her path is now her own
+- Naataly gains Drive: her music now carries a new rhythm—one of loss, and pursuit
+
+End State:
+- Slamon is gone, willingly turned Vampire
+- Aecora and Naataly survive, but begin a new journey to find and possibly save him
+- No other ending is possible
+
+---
+
+Sap-Born Zombie — Creature 2  
+NE | MEDIUM | MINDLESS UNDEAD | ZOMBIE
+
+Perception +3 (darkvision) | Stealth –1  
+AC 15 | Fort +7 | Ref +3 | Will +5  
+HP 45  
+Speed 20 ft (Slowed 1, no reactions)  
+Weaknesses: Positive 5, Slashing 5  
+
+STR +4 | DEX –1 | CON +3 | INT –5 | WIS +0 | CHA –2  
+
+Melee:
+- Sap-Fist +9, 1d6+4 bludgeoning + Push 5 ft
+
+Abilities:
+- Infested: On critical hit or death, a Swarm of Rot Grubs emerges (initiative +0)  
+- Slowed 1, no reactions  
+- Tearing Grapple: On critical Grapple with another zombie → double damage
+
+Notes:
+- Zombie death triggers additional enemy emergence → treat as pseudo-hazard
+
+Rot-Sworn Ghoul — Creature 9  
+UNCOMMON | LE | MEDIUM | UNDEAD | WIGHT | GHOUL
+
+Perception +18 (darkvision) | Stealth +20  
+Languages: Common, Necril  
+AC 28 | Fort +17 | Ref +20 | Will +16  
+HP 155  
+Speed 25 ft  
+Immunities: death effects, disease, paralyzed, poison, unconscious
+
+STR +4 | DEX +5 | CON +2 | INT +1 | WIS +3 | CHA +3  
+
+Melee Strikes:
+- Claw +20 (agile, finesse), 1d8+7 slashing + Drain Life  
+- Dagger +21 (agile, finesse, magical, versatile S), 2d4+7 piercing + Drain Life
+
+Special Abilities:
+- Sneak Attack: +2d6 precision vs flat-footed  
+- Drain Life: DC 25 Fort save or target becomes Drained 1, ghoul gains 9 temp HP  
+- Feign Death [1-action]: Appears dead, auto 38 Deception to pass as corpse  
+- Spawn Rot-Wight: Dead humanoids rise as Prowler Wights under its control in 1d4 rounds  
+- Scream of Hunger [2-actions]: All creatures in 15-foot cone make Will save (DC 24)  
+    > Critical Failure: Stunned 1, Frightened 2  
+    > Heightened (+1): Range increases to 30 feet  
+- Final Spite [reaction]: Make a final Strike on death (no temp HP from Drain Life)
+
+
+Kanaria (Elite Vetalarana Manipulator) — Creature 13  
+UNIQUE | LE | MEDIUM | UNDEAD | VAMPIRE
+
+Perception +24 | Darkvision  
+Languages: Common, Necril  
+AC 30 | Fort +21 | Ref +22 | Will +26  
+HP 170 | Fast Healing 10  
+Resistances: Mental 10, Physical 10 (except magical cold iron)  
+Immunities: Death, Disease, Paralysis, Poison, Sleep  
+Weaknesses: Sunlight, Wooden Stake, Running Water
+
+Speed 25 ft
+
+STR +4 | DEX +5 | CON +4 | INT +4 | WIS +3 | CHA +6  
+
+Melee:
+- Claw +23 (Agile, Finesse, Magical), 3d8+10 slashing
+    Critical: Target becomes Bleeding 2
