@@ -60,12 +60,8 @@ For every round the party delays:
 - Both Aecora and Naataly take 1d8 damage (no save)
 - After 3 rounds: Fortitude Save DC 25 or become Dying 1
 
-If the party attacks:
-- Combat begins immediately with full aggression. Kanaria targets anyone who tries to protect Slamon first.
-
 If Slamon offers himself:
-- Combat ends. Kanaria releases both girls and walks into the dark with Slamon, their hands intertwined.
-- A single rose petal falls where they vanish.
+- Go on Step 5 Resolution / Fallout.
 
 Goal: Force emotional ultimatum / prevent combat via sacrifice
 
@@ -176,4 +172,5 @@ STR +4 | DEX +5 | CON +4 | INT +4 | WIS +3 | CHA +6
 
 Melee:
 - Claw +23 (Agile, Finesse, Magical), 3d8+10 slashing
+
     Critical: Target becomes Bleeding 2
