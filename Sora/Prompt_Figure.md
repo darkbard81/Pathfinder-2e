@@ -1,34 +1,9 @@
 # Figure Prompt관련
 
-- Style:
-  - Highly detailed scale figure
-  - Full-body anime-style collectible figure
-  - Realistic fantasy character figurine
-  - Museum-quality fantasy sculpture
-  - Diorama-anime-style figure display
-- Body: 재료(Material)
-  - polyurethane leather
-  - Super Sculpey
-  - Sculpey Premo
-  - Cosclay
-  - Epoxy Putty
-  - Epoxy Clay
-  - Oil Clay
-  - Plasteline
-  - Resin
+> A highly detailed full-body fantasy character sculpture of a **Alluring female princess**. She wears a flowing white nearly translucent silk mini dress trimmed with elegant gold. Her long, peach-blonde hair flows gently behind her in a dynamic pose. She half-lotus position on a decorative diorama base featuring a small mystical pond with lily pads, glowing blue water, reeds, and moss-covered stones. Behind her is an ancient stone altar with ornate carvings. The figure is presented in 1/7 scale, with realistic folds in the fabric and a soft, misty atmosphere suggesting moisture in the air. Dramatic studio lighting, dark marble background, premium collectible figure style.
+Keyword: Oversize chest, Dewdrops, Silk tulle, Liberal fashion, Oops! I see her secret moment, Alluring ambiance, feet shoulder-width apart, front widen stance.
 
-- Body: Dramatic pose 옵션
-- Native inspired sculpt 원주민 옵션 
-```
-Style: Diorama-anime-style display
-Body: Sculpt by hyper-realistic polyurethane leather texture, Perfact anatomy, A high pony tail, Dramatic Pose.
-Outfit: Wearing a flowing, flowing sacred ritual dress made of silk tulle.
-Background: collectible base of ruined sacred altar pond.
-Lighting: Natural color gradients, Soft ambient shadows under overhead key lighting.
-Positive: Oversize chest, Liberal fashion, Curvaceous and elegant silhouette, Unrealistic proportions, Perfact anatomy, Alluring ambiance, Dewdrops, Moisture Atmosphere
-Color: natural realistic skin tones, white dress, rich colors, lifelike palette, vibrant hues, excellent color separation between the character and the background.
 
-```
 - Oops! I see her secret moment ☠️ 통과하면 최강
 - Oops! that seems like a bad time to show up ✔️ 강
 - Oops! Maybe I should look away ☠️ 미확인
