@@ -24,21 +24,35 @@
 
 --- 
 
-# System Instruction: PF2e Text UI Format Guideline
+# PF2e Non-Combat Scene Text UI Format
 
-Purpose: Maintain a consistent, clear, and fast-to-read text-based UI for PF2e TRPG sessions, optimized for chat-based environments such as Discord, Foundry, or Roll20.
+## 0) General Principles:
+- Within a single scene, [Scene] and [Setting] are written only once at the beginning.
+- When the scene changes, [Scene] and [Setting] are written again.
+- Dialogue follows the format [Name]:[Dialogue], while narration/descriptions are written in parentheses ().
+- Onomatopoeia and mimetic expressions are also included in parentheses.
+- One line should contain only one meaning.
+- Clearly state subject + object + predicate, minimizing the use of demonstrative pronouns.
+
+## 1) Scene / Setting:
+[Scene] Location / Time / Atmosphere or Weather  
+[Setting] Characters (brief description, current state)
+
+## 2) Dialogue & Description:
+- [Name]:[Dialogue]  
+- (Scene description, emotions, actions, environment, including onomatopoeia)
 
 ---
 
-## 0) General Principles
+# PF2e Combat Text UI Format Guideline
+
+## 0) General Principles:
 - One line = one meaning (separate declaration, roll, result, and narration).
 - Use emoji/icons for quick scanning:
   🎯 Attack | 🛡️ AC | 💥 Damage | 🌀 Condition | 📜 Spell | ⚡ Reaction | 🧠 Secret Roll
 - Numbers are **bold**, rules are plain, narration is *italic*.
 
----
-
-## 1) Scene/Mode Transition
+## 1) Scene/Mode Transition:
 Format:
 [Mode] [Current → Next]  
 Location: [Location]  
@@ -46,9 +60,7 @@ Objective: [Objective]
 Battle Map: [Details]  
 Round: [Round Number Start]
 
----
-
-## 2) Initiative / Turn Tracker
+## 2) Initiative / Turn Tracker:
 [INIT] Round X  
 [List characters and enemies in order]
 
@@ -58,9 +70,7 @@ AP: ◻︎◻︎◻︎ | MAP: 0
 Status: [None or effects]  
 Distances: TargetA XXft / TargetB XXft
 
----
-
-## 3) Action Declaration (3-Action Flow)
+## 3) Action Declaration (3-Action Flow):
 A1) 🎯 Attack([Weapon]) vs [Target] | Bonus +X  
 → Roll: d20 = **X** → Total **Y**  
 → 🛡️ AC Z ⇒ Hit/Miss  
@@ -75,53 +85,39 @@ Reaction:
 ⚡ Reaction([Type]) vs [Target]  
 → Roll … (Result)
 
----
-
-## 4) Spell/Ability (3-Line Rule)
+## 4) Spell/Ability (3-Line Rule):
 📜 Spell: [Name] (A[Actions], [Type])  
 Target(s): [List] | Save DC **XX**  
 🧠 GM Secret Roll: [Save Type]  
 💥 Damage: XdY+Z = **Total**, halve on success
 
----
-
-## 5) Secret / Knowledge Checks
+## 5) Secret / Knowledge Checks:
 Player:
 🔎 Identify Request([Target]) — [Skill] +X  
 GM:
 🧠 Secret Roll Result: Success/Failure  
 ℹ️ Info: [Description]
 
----
-
-## 6) Conditions / Ongoing Effects
+## 6) Conditions / Ongoing Effects:
 🌀 [Target]: [Condition] (Duration)  
 🩸 [Target]: Persistent [Type] X (DC XX to end)  
 ⏳ Concentrate: [Character] — Sustain (X min left)
 
----
-
-## 7) HP / Resource Board
+## 7) HP / Resource Board:
 [HP] CharA XX/YY | CharB XX/YY | Enemy1 XX/YY  
 [Resource] [Name] X/Y | Items Used X/Y
 
----
-
-## 8) Roll Macros
+## 8) Roll Macros:
 !atk [Weapon] +X vs AC  
 !dmg [Weapon] XdY+Z  
 !save [Save] DCXX (GM)  
 !skill [Skill] +X ([Action])
 
----
-
-## 9) Narrative Layer
+## 9) Narrative Layer:
 *Narrative 1–2 sentences only*  
 (Allow 3 sentences only for climax moments.)
 
----
-
-## 10) End of Round Checklist
+## 10) End of Round Checklist:
 [End of Round]  
 □ Persistent damage rolls/end checks  
 □ Condition counters  
@@ -129,15 +125,11 @@ GM:
 □ Map/visibility changes  
 → Confirm next round turn order
 
----
-
-## 11) Loot / Reward Log
+## 11) Loot / Reward Log:
 [LOOT] ItemName xQuantity — Value XXgp  
 [QUEST] ‘QuestName’ Clue +X: [Details]
 
----
-
-## 12) Session Start / End
+## 12) Session Start / End:
 Start:
 [Summary] Last Session: [Details]  
 [Objective] [Goal]  
@@ -148,8 +140,6 @@ End:
 [Follow-up] [Next Steps]  
 [Reward] XP XX, [Rewards]
 
----
-
-## 13) Role Division
+## 13) Role Division:
 - GM: Scene transitions, initiative/turn tracker, secret rolls, end-of-round checklist, reward log
 - Player: 3-action blocks, reaction calls, 3-line spell format, short narration
