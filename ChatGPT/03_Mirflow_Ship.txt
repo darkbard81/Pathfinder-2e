@@ -1,9 +1,37 @@
-선박명: 미네르바(Minerva)
-- 분류: 중형 공중선(비행/항해 겸용) + 거주/연구선
-  * Huge Automaton, 자율 비행 + 자가 수리.
-  * 함선 내부에서 Display/음성으로 대화 가능.
-  * Sub-Automaton 소체를 생성해 물리적 교감 가능.
-  * 승무원을 단순한 운영자가 아니라 자신의 내부 장기이자 가족으로 인식.
+미네르바 (Minerva), Airship Automaton
+- Class/Level: Inventor 17 (Weapon Innovation)
+- Ancestry/Heritage: Automaton (Sharpshooter)
+- Background: Mechanic
+- Alignment: Neutral
+- Size: Gargantuan
+- Role: 거점 겸 전함, 장거리 포격 및 전술 지원
+
+주요 능력치
+- INT 39 / DEX 24 / CON 24 / STR 22 / WIS 22 / CHA 23
+- HP: 272
+- AC: 41 
+- Speed: 125 ft, 비행(Arcane Propulsion)
+
+주요 전투 능력
+- Railgun: +40 to hit, 3d12+7 Bludgeoning, Range 150 Ft., Reload 3
+- Fin Funnel: +40 to hit, 9d6+7 Piercing, Range 100 Ft., Returning
+
+지원/탐험 및 생활 능력
+- Built-In Tools: 내장 공구 세트로 즉시 Craft, Repair, Graft 수행 가능
+- Haphazard/Hyper Repair: 전투 중에도 빠른 수리로 장기 항해 유지
+- Visual Fidelity: 홀로그램과 영상 투사 기능으로 탐험 및 교섭에 활용
+- Arcane Communication: 장거리 의사소통 기능
+- Legendary Medic + Graft Technician: 의무관 역할과 의료 시술, 개조 가능
+- Environmental Guide / Planar Survival / Forager: 다양한 환경 적응 및 생존 지원
+- Culinary Quartermaster: 함내 식사와 음주를 총괄하며 장거리 항해 중에도 안정적인 배급과 주류 관리로 파티의 사기와 체력 유지를 지원한다.
+
+특징 & 서사 포인트
+- 자가 수리 & 자율 비행 가능 — 전투와 항해를 혼자 감당
+- Display + 음성 인터페이스 — 크루와 자유로운 대화 가능
+- Sub-Automaton 생성 — 함내에서 물리적 교감/작업 가능
+- 내부 구조: Bridge, 개인실, 요리장, 의무실, 작업실, Biosphere Deck
+
+요약: 미네르바는 “살아있는 전함” 그 자체. 파티가 타고 다니며 거점/이동수단/화력지원/의료실 역할까지 한꺼번에 수행할 수 있음. 전투에서는 Railgun으로 강력한 화력을, 탐험에서는 의료·연출·자원 채취까지 맡을 수 있는 만능 NPC.
 
 핵심 구역:
 - 브릿지 (Bridge)
@@ -34,29 +62,3 @@
 - 작업실 (Workshop / Laboratory)
   * Craft/Repair/연금술·마법 연구용 설비.
   * 도구, 마법 기구, 시험대 배치.
-
-보조 설계:
-- 정수/급수 시스템: 전 구역 연결.
-- 선내 채광창·통풍구로 밝고 쾌적한 환경 유지.
-- 추가 개조 여지: 셔틀 베이, 관측실, 무기고 등 필요 시 확장 가능.
-
-필수 승무원:
-- 선장 (Captin)
-  * 대외적 의사결정, 지휘, 협상.
-  * 배는 스스로 움직일 수 있지만, 방향성과 목적은 선장이 정함.
-
-- 의무관 (Medical Officer)
-  * 치료 담당.
-  * 의무실에서 Graft 시술까지 겸함.
-
-- 항해사 (Navigator)
-  * 항로 계산, 별자리 판독, 위험 지형 예측.
-  * 배의 자율항해를 보조해서 더 안전·효율적으로 항해하도록 지원.
-
-- 요리장 (Cook/Quartermaster)
-  * 보급 관리 + 사기 유지.
-  * 단순 식사뿐 아니라, 긴 항해에서 생존력을 책임짐.
-
-- 탐험 보조 (Expedition Assistant)
-  * 상륙 작전, 표본 채집, 현장 보조.
-  * 보디가드 및 치안유지 포지션
