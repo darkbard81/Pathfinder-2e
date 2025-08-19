@@ -1,0 +1,162 @@
+[슬라몬 전투 프로필]
+Level: 9
+HP: 62  
+AC: 24  
+Sorcerer DC: 25
+Spell DC: 27 (Attack +17)
+Perception: +15
+Fortitude: +13
+Reflex: +16
+Will: +15
+
+Weapon:  
+- Magic Dart | 🎯 +14 to hit | 💥 2d4 P  
+  Traits: Agile, Thrown, Magical, Finesse, Returning, Striking  
+
+Shield: 없음 (Unarmored)  
+
+Skills:  
+- Deception +17 | Diplomacy +17 | Intimidation +15  
+- Arcana +14 | Occultism +14 | Society +14 | Crafting +14  
+- Acrobatics +14 | Stealth +14 | Athletics +11  
+- Lore (Alcohol) +14 | Medicine +13 | Nature +13 
+- Religion +13 | Survival +13 | Thievery +14  
+
+Tactics:  
+- SelfBurst  
+  Trigger: Safeguard Spell to Self + Fireball(Self)  
+  Effect: Allies take no damage
+
+[에코라 전투 프로필]
+Level: 9
+HP: 127  
+AC: 30  
+Champion DC: 27
+Spell DC: 26 (Attack +16)
+Perception: +16
+Fortitude: +18
+Reflex: +15
+Will: +17
+
+Weapon:  
+- EarthDeck (Trident) | 🎯 +18 to hit | 💥 2d8+6 P  
+  Traits: Thrown 20 ft., Magical, Reach, Trip, Shove, Sweep, Deadly d8, Jousting d6, Ghost Touch, Cold Iron, Striking  
+
+Shield: Adamantine Shield | Raise +2 AC | HP 40 | BT 20  
+
+Skills:  
+- Acrobatics +12 | Athletics +19 | Intimidation +14 
+- Nature +14 | Religion +14 | Survival +16 
+- Plant Lore +14 
+
+Tactics:  
+- Practiced Brawn  
+  Effect: +1 circumstance bonus to Athletics (Force Open, Shove), +1 vs fatigue Fort saves, Shove success counts as critical.  
+- Retributive Strike  
+  Trigger: An enemy damages your ally within aura.  
+  Effect: Ally gains resistance (2+LVL), make melee Strike if enemy is in reach.
+
+Focus Spells:
+Dazzling Flash
+Shields of the Spirit
+Sun Blade
+Localized Quake
+
+[나탈리 전투 프로필]
+Level: 9
+HP: 96  
+AC: 23  
+Bard DC: 25
+Spell DC: 27 (Attack +17)
+Perception: +17
+Fortitude: +15
+Reflex: +16
+Will: +17
+
+Weapon: 없음 (Unarmored)  
+
+Shield: 없음  
+
+Skills:  
+- Deception +15 | Diplomacy +15 | Intimidation +15  
+- Occultism +13 | Performance +17 | Crafting +15
+- Acrobatics +14 | Stealth +14 | Survival +13  
+- Cooking Lore +15   
+  
+Tactics:  
+- Lingering Courage  
+  Trigger: Courageous Anthem + Lingering Composition + Fortissimo Composition  
+  Effect: Allies gain status bonus to attack, damage, and saves vs fear.  
+  Critical Success: 4 rounds, +3 bonus, 3 FP consumed  
+  Success: 3 rounds, +2 bonus, 3 FP consumed  
+  Failure: 1 round, +1 bonus, 1 FP consumed  
+  Critical Failure: No effect, FP not consumed
+
+[아데샤 전투 프로필]
+Level: 9
+HP: 136   
+AC: 27  
+Monk DC: 27  
+Spell DC: 25  
+Perception: +15  
+Fortitude: +16  
+Reflex: +17  
+Will: +17  
+
+Weapon:  
+- Fist | 🎯 +17 to hit | 💥 1d6+5 Magical  
+  Traits: Unarmed, Agile, Finesse, Monk, Nonlethal  
+- Nagaji's Tail | 🎯 +17 to hit | 💥 1d6+5 Magical  
+  Traits: Unarmed, Monk, Agile, Finesse, Reach  
+
+Shield: Steel Shield | Raise +2 AC | HP 20 | BT 10  
+
+Skills:  
+- Acrobatics +19 | Athletics +18 | Intimidation +11  
+- Stealth +15 | Thievery +15 | Warfare Lore +11  
+
+Tactics:  
+- Flurry of Blows  
+  Effect: Two Strikes with -2 MAP, both count toward MAP.  
+- Stunning Fist  
+  Trigger: Flurry hit → Target must Fort save (DC 28) or Stunned 1.  
+- One-Inch Punch  
+  Effect: Gather power, next Strike +2d6 damage.  
+- Wild Winds Stance  
+  Effect: Gain ranged unarmed Strikes (30 ft, 1d6+5 B).  
+- Shield Block  
+  Trigger: Take damage while shield raised → Reduce damage by shield Hardness.  
+
+[벨리아 전투 프로필]
+Level: 9
+HP: 116
+AC: 25  
+Kineticist DC: 27  
+Perception: +17  
+Fortitude: +19  
+Reflex: +17 
+Will: +15  
+
+Weapon:  
+- Elemental Blast (Water) | 🎯 +17 to hit | 💥 2d8+4 B or P  
+  Traits: Impulse, Kinetic, Magical, Versatile (B/P), Range 30 ft  
+
+Shield: 없음  
+
+Skills:  
+- Medicine +17 | Nature +17 | Acrobatics +15 
+- Stealth +15 | Warfare Lore +11  
+
+Tactics:  
+- Ocean’s Balm  
+  Effect: Heal ally in aura for 1d8+Con; targets with persistent bleed get +2 circumstance bonus to recovery checks.  
+- Winter’s Clutch  
+  Effect: Target in 30 ft must Fort save vs immobilization (DC 27).  
+- Winter Sleet  
+  Effect: 20-ft burst → Difficult terrain + concealment until end of next turn.  
+- Call the Hurricane  
+  Effect: Cone 30 ft; creatures must Fort save vs being pushed back and knocked prone.  
+- Driving Rain  
+  Effect: 60-ft aura of concealment vs ranged attacks; allies gain +1 status to AC.  
+- Return to the Sea  
+  Effect: Gain swim Speed equal to land Speed; allies within aura swim as well.  
