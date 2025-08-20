@@ -50,4 +50,4 @@
 ---
 
 ## 스케치
-(미네르바의 홀로그램 스케치 삽입 예정)
+<img alt="Shotalashu" title="Shotalashu" src="Shotalashu.png" style="width: 10%; height: auto;">
