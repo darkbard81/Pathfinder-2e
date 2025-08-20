@@ -2,6 +2,7 @@
 Level: 9
 HP: 62  
 AC: 24  
+Speed: Land 5 feet (다리부상)
 Sorcerer DC: 25
 Spell DC: 27 (Attack +17)
 Perception: +15
@@ -31,6 +32,7 @@ Tactics:
 Level: 9
 HP: 127  
 AC: 30  
+Speed: Land 25 feet
 Champion DC: 27
 Spell DC: 26 (Attack +16)
 Perception: +16
@@ -66,6 +68,7 @@ Localized Quake
 Level: 9
 HP: 96  
 AC: 23  
+Speed: Land 20 feet / Fly 25 feet (Energize Wings)
 Bard DC: 25
 Spell DC: 27 (Attack +17)
 Perception: +17
@@ -96,6 +99,7 @@ Tactics:
 Level: 9
 HP: 136   
 AC: 27  
+Speed: Land 40 feet
 Monk DC: 27  
 Spell DC: 25  
 Perception: +15  
@@ -131,6 +135,7 @@ Tactics:
 Level: 9
 HP: 116
 AC: 25  
+Speed: Land 25 feet (Shore Gift) / Swim 25 feet
 Kineticist DC: 27  
 Perception: +17  
 Fortitude: +19  
@@ -160,3 +165,4 @@ Tactics:
   Effect: 60-ft aura of concealment vs ranged attacks; allies gain +1 status to AC.  
 - Return to the Sea  
   Effect: Gain swim Speed equal to land Speed; allies within aura swim as well.  
+
