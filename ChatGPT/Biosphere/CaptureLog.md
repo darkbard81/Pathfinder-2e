@@ -50,4 +50,4 @@
 ---
 
 ## 스케치
-<img alt="Shotalashu" title="Shotalashu" src="Shotalashu.png" style="width: 10%; height: auto;">
+<img alt="Shotalashu" title="Shotalashu" src="Shotalashu.PNG" style="width: 10%; height: auto;">
