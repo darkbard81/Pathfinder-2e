@@ -9,21 +9,23 @@
 주요 능력치
 - INT 39 / DEX 24 / CON 24 / STR 22 / WIS 22 / CHA 23
 - HP: 272
-- AC: 41 
-- Speed: 125 ft, 비행(Arcane Propulsion)
+- AC: 41 ( Raise +10 AC )
+- Speed: 125 ft, Fly(Arcane Propulsion)
 
 주요 전투 능력
-- Railgun: +40 to hit, 3d12+7 Bludgeoning, Range 150 Ft., Reload 3
-- Fin Funnel: +40 to hit, 9d6+7 Piercing, Range 100 Ft., Returning
+- Railgun: +40 to hit, 3d12+7 Bludgeoning, Fatal d12, Deadly d8, Modular (B/P/S), Range 150 Ft., Reload 3
+- Fin Funnel: +40 to hit, 9d6+7 Piercing, Range 100 Ft., ( Shielding Drone, Returning, Hardness 20, HP 60, BT 30)
 
 지원/탐험 및 생활 능력
 - Built-In Tools: 내장 공구 세트로 즉시 Craft, Repair, Graft 수행 가능
-- Haphazard/Hyper Repair: 전투 중에도 빠른 수리로 장기 항해 유지
+  * Gadget Specialist | Alchemical Crafting | Snare Crafting | Magical Crafting
+  * Monster Crafting | Impeccable Crafting | Signature Crafting | Craft Anything
+- Improvised & Quick Repair: 전투 중에도 빠른 수리로 장기 항해 유지
 - Visual Fidelity: 홀로그램과 영상 투사 기능으로 탐험 및 교섭에 활용
 - Arcane Communication: 장거리 의사소통 기능
 - Legendary Medic + Graft Technician: 의무관 역할과 의료 시술, 개조 가능
 - Environmental Guide / Planar Survival / Forager: 다양한 환경 적응 및 생존 지원
-- Culinary Quartermaster: 함내 식사와 음주를 총괄하며 장거리 항해 중에도 안정적인 배급과 주류 관리로 파티의 사기와 체력 유지를 지원한다.
+- Seasoned, Cooking & Alcohol Lore: 함내 식사와 음주를 총괄하며 장거리 항해 중에도 안정적인 배급과 주류 관리로 파티의 사기와 체력 유지를 지원한다.
 
 특징 & 서사 포인트
 - 자가 수리 & 자율 비행 가능 — 전투와 항해를 혼자 감당
@@ -45,6 +47,7 @@
 - 개인실 (Crew Quarters)
   * 침대/책상/보관함 갖춘 소형 선실군.
   * 창문/채광창 배치 가능.
+  * 현재 슬라몬만 사용 (다른 NPC는 모두 Biosphere Deck)
 
 - 요리장·식당 (Galley & Mess)
   * 주방과 공동 식당.
