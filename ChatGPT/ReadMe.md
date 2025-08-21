@@ -11,19 +11,6 @@
 - 아무리 세션단위로 나뉘어도 문장자체가 길어져버리면 chunk구성에 실패함
 - 효과적인 구성은 json이며, 아래에서 더 자세히 다룬다.
 
-## json 구조의 정확성을 보장
-
-- 프로젝트 파일은 초기에 .json 파일은 단순한 텍스트 포맷으로 인식
-  - json.load() 전에는 구조의 정확성은 절대 보장할 수 없다.
-  - 파일명, 이전 경험, 포맷 힌트 등으로 구조를 추정할 수는 있지만 보장할 수는 없음
-- json.load()는 파싱+검증을 수행
-  - JSON 문법 유효성 검사
-  - 정확한 자료형 변환
-  - 중첩 구조화 로드
-- 위 단계가 지나서야 비로소 msearch의 정확도가 올라감
-
-- json to jsonl로 변환시 msearch가 아닌 프로젝트 인덱싱에서 지대한 영향을 미침 (예시, [Character_Abilities.json](https://github.com/darkbard81/Pathfinder-2e/blob/main/ChatGPT/Character_Abilities.json))
-
 ## Chunk 구성시 문맥 정의용 
 
 문장 목적
@@ -38,5 +25,3 @@
 “Heightened (+1): Add +1d6 to the base damage.” 처럼 절 단위 분리
 상태효과 서술
 “The target becomes Dazzled for 1 round.”처럼 독립 문장으로 기술
-
-
