@@ -4,8 +4,8 @@
 
 - 기본 정보
   * **분류**:
-  ![Rarity](https://badgen.net/badge/Rarity/UNCOMMON/purple?icon=github&labelColor=&scale=)
-  ![Size](https://badgen.net/badge/Size/LARGE/green?icon=github&labelColor=&scale=)
+  ![Rarity](https://badgen.net/badge/Rarity/UNCOMMON/blue?icon=chrome&labelColor=&scale=)
+  ![Size](https://badgen.net/badge/Size/LARGE/green?icon=gnome&labelColor=&scale=)
   ![Traits](https://badgen.net/badge/Traits/BEAST/orange?icon=github&labelColor=&scale=)
   * **발견 장소**: 코르토스 섬 리븐 힐즈, 원산지 카스트로벨
   * **위협 등급**: 중급
