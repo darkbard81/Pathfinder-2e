@@ -30,4 +30,18 @@
 
 - 스케치
 >(미네르바 홀로그램 삽입 예정)
->A semi-realistic fantasy anime style humanoid grace female inspired by a monster name
+>[캐릭터 기본 구조]  
+A semi-realistic fantasy anime style humanoid [생물명] woman with [특징].  
+She has a human female face and body, her entire form covered in the same smooth, [생물명]-like skin texture with a unified tone across both face and body.  
+Her silhouette is streamlined and hydrodynamic, with [추가 생물적 특징: ex. dorsal fin, gill marks].  
+She has [머리카락 묘사].  
+[의상]  
+She wears a sleek outfit made of [생물명]-skin-like material, blending naturally with her aesthetic.  
+[디테일]  
+Her mouth reveals a hint of sharp, serrated teeth [또는 다른 포인트].  
+[배경]  
+The scene is [환경: ex. underwater in a tropical coastal sea, in a jungle swamp, etc.], with [빛/분위기 묘사].  
+[구도]  
+Centered, mid-to-full body framing; vertical composition; minimal background beyond [환경].  
+ratio 4:6  
+
