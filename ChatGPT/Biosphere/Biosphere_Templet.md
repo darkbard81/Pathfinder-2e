@@ -30,3 +30,4 @@
 
 - 스케치
 >(미네르바 홀로그램 삽입 예정)
+>humanoid female inspired by a goblin shark
