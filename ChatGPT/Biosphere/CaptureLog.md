@@ -1,4 +1,4 @@
-# 포획도감 기록 — 쇼탈라슈 (Shotalashu)
+# 쇼탈라슈 (Shotalashu)
 
 ---
 
@@ -37,7 +37,7 @@
 
 ---
 
-# 포획도감 기록 — 고블린 샤크 (Goblin Shark)
+# 고블린 샤크 (Goblin Shark)
 
 - 기본 정보  
   * **분류**: 
