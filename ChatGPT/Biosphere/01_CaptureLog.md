@@ -45,7 +45,7 @@
   ![Size](https://badgen.net/badge/Size/LARGE/green?icon=gnome&labelColor=&scale=0.8)
   ![Traits](https://badgen.net/badge/Traits/ANIMAL%20AQUATIC/orange?icon=github&labelColor=&scale=0.8)
   * **발견 장소**: 압살롬 인근 해저 협곡  
-  * **위협 등급**: 중급  
+  * **위협 등급**: 상급(수중)
   * **교배 적합도**: 중간  
 
 ---
