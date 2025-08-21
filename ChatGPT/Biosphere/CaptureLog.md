@@ -30,4 +30,4 @@
 ---
 
 - 스케치
-  <img alt="Shotalashu" title="Shotalashu" src="Shotalashu.PNG" style="width: 25%; height: auto;">
+><img alt="Shotalashu" title="Shotalashu" src="Shotalashu.PNG" style="width: 25%; height: auto;">
