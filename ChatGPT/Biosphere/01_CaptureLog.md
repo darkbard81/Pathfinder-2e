@@ -80,7 +80,7 @@
   * **분류**:
   ![Rarity](https://badgen.net/badge/Rarity/RARE/blue?icon=chrome&labelColor=&scale=0.8)
   ![Size](https://badgen.net/badge/Size/HUGE/green?icon=gnome&labelColor=&scale=0.8)
-  ![Traits](https://badgen.net/badge/Traits/ANIMAL%20PREDATOR/orange?icon=github&labelColor=&scale=0.8
+  ![Traits](https://badgen.net/badge/Traits/ANIMAL%20PREDATOR/orange?icon=github&labelColor=&scale=0.8)
   * **발견 장소**: 무앙기 밀림 늪지와 강  
   * **위협 등급**: 상급 (Creature 6)  
   * **교배 적합도**: 높음  
