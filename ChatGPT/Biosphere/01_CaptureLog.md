@@ -109,4 +109,4 @@
 ---
 
 - 스케치  
-> (미네르바 홀로그램 삽입 예정)
+> <img alt="Thornmaw Crocodile" title="Thornmaw Crocodile" src="Thornmaw Crocodile.png" style="width: 25%; height: auto;">
