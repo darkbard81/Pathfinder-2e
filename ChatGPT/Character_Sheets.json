@@ -218,5 +218,72 @@
     ],
     "build_tags": ["remaster-compatible", "frontline-tank", "shield-user"]
   }
+},
+  {
+  "character_block": "Naataly",
+  "level": 9,
+  "class": "Bard",
+  "ancestry": "Sprite",
+  "heritage": "Luminous Sprite",
+  "size": "Tiny",
+  "traits": ["Humanoid", "Sprite"],
+  "perception": { "modifier": 15, "initiative": 2, "senses": ["Low-Light Vision"] },
+  "languages": ["Common", "Fey"],
+  "skills": {
+    "Acrobatics": 14,
+    "Athletics": -1,
+    "Crafting": 15,
+    "Deception": 15,
+    "Diplomacy": 15,
+    "Intimidation": 15,
+    "Lore: Cooking": 15,
+    "Occultism": 13,
+    "Performance": 19,
+    "Stealth": 14,
+    "Survival": 13
+  },
+  "abilities": { "Str": -1, "Dex": 3, "Con": 2, "Int": 2, "Wis": 2, "Cha": 4 },
+  "items": ["Unarmored"],
+  "defenses": {
+    "ac": 24,
+    "fort": 15,
+    "ref": 16,
+    "will": 17,
+    "hp": 96
+  },
+  "features": ["Inspiring Resilience"],
+  "speed": { "land": 20, "fly": 25 },
+  "spellcasting": {
+    "tradition": "Occult",
+    "dc": 27,
+    "attack": 17,
+    "spells": {
+      "5th": ["Synaptic Pulse", "Aberrant Form (2 slots)"],
+      "4th": ["Whispers of the Void", "Luring Wail", "Fly (3 slots)"],
+      "3rd": ["Heroism", "Distracting Chatter", "Enthrall (3 slots)"],
+      "2nd": ["Sonata Span", "Humanoid Form", "Blistering Invective (3 slots)"],
+      "1st": ["Liberating Command", "Biting Words", "Command", "Soothe ☆ (3 slots)"],
+      "cantrips": [
+        "Summon Instrument",
+        "Telekinetic Projectile",
+        "Haunting Hymn",
+        "Prestidigitation",
+        "Musical Accompaniment"
+      ]
+    }
+  },
+  "focus_spells": [
+    "Counter Performance",
+    "Courageous Anthem",
+    "Lingering Composition",
+    "Hymn of Healing",
+    "Song of Marching",
+    "Fortissimo Composition"
+  ],
+  "feats": 
+    "Seasoned",
+    "Talent Envy",
+    "Virtuosic Performer"
+  ]
 }
 ]
