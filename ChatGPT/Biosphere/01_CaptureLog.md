@@ -70,3 +70,43 @@
 - 스케치  
 ><img alt="Goblin Shark" title="Goblin Shark" src="Goblin Shark.png" style="width: 25%; height: auto;">
 
+---
+
+# 쏜마우 크로코다일 (Thornmaw Crocodile)
+
+---
+
+- 기본 정보  
+  * **분류**:
+  ![Rarity](https://badgen.net/badge/Rarity/RARE/blue?icon=chrome&labelColor=&scale=0.8)
+  ![Size](https://badgen.net/badge/Size/HUGE/green?icon=gnome&labelColor=&scale=0.8)
+  ![Traits](https://badgen.net/badge/Traits/ANIMAL%20PREDATOR/orange?icon=github&labelColor=&scale=0.8
+  * **발견 장소**: 무앙기 밀림 늪지와 강  
+  * **위협 등급**: 상급 (Creature 6)  
+  * **교배 적합도**: 높음  
+
+---
+
+- 외형 기록  
+  * **원본**:  
+  몸길이 6~8미터, 등과 꼬리에 골질 가시(thorn-like ridges)가 돋아난 악어.  
+  늪과 강에서 수 시간 잠수 가능하며, 잠복 후 기습을 주로 한다.  
+  꼬리 스윕 공격으로 다수의 적을 쓰러뜨리고 가시에 의한 출혈을 일으킨다.  
+
+  * **교배 Graft Ver.**:  
+  인간 여성의 실루엣을 기반으로, 매끈하면서도 단단한 악어 비늘 피부가 전신에 덮여 있다.  
+  등 뒤로 뻗은 가시 능선과 유선형 꼬리가 수중 전투 적합성을 더한다.  
+  목에는 아가미 흔적이 있으며, 수륙 양용의 매혹적 전사 실루엣으로 변형된다.  
+
+---
+
+- 교배 실험  
+  * **교배 방식**: 수중 제압 후 장시간 교합, 폐활량과 근력을 이용한 밀착적 교배.  
+  * **특이 반응**: Death Roll 동작이 교합 과정에도 반복되어 격렬한 결합으로 이어짐.  
+  * **예상 후대 특성**: 가시 피부, 강화된 근육, 수륙 양용 호흡 능력, 기습 본능.  
+  * **슬라몬 주석**: *“비늘의 질감은 단단하면서도 매끈하다. 수중 적응 라인을 구축하는 데 유용할 것이다.”*  
+
+---
+
+- 스케치  
+> (미네르바 홀로그램 삽입 예정)
