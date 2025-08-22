@@ -185,74 +185,80 @@
     "build_tags": ["remaster-compatible","frontline-tank","shield-user"]
   }
 },
-  {
+ {
   "character_block": "Naataly",
-  "level": 9,
-  "class": "Bard",
-  "ancestry": "Sprite",
-  "heritage": "Luminous Sprite",
-  "size": "Tiny",
-  "traits": ["Humanoid", "Sprite"],
-  "perception": { "modifier": 15, "initiative": 2, "senses": ["Low-Light Vision"] },
-  "languages": ["Common", "Fey"],
-  "skills": {
-    "Acrobatics": 14,
-    "Athletics": -1,
-    "Crafting": 15,
-    "Deception": 15,
-    "Diplomacy": 15,
-    "Intimidation": 15,
-    "Lore: Cooking": 15,
-    "Occultism": 13,
-    "Performance": 19,
-    "Stealth": 14,
-    "Survival": 13
+  "identity": {
+    "name": "Naataly",
+    "level": 9,
+    "class": "Bard",
+    "key_ability": "CHA",
+    "size": "Tiny",
+    "traits": ["Humanoid", "Sprite"],
+    "ancestry": "Sprite",
+    "heritage": "Luminous Sprite"
   },
-  "abilities": { "Str": -1, "Dex": 3, "Con": 2, "Int": 2, "Wis": 2, "Cha": 4 },
-  "items": ["Unarmored"],
-  "defenses": {
-    "ac": 24,
-    "fort": 15,
-    "ref": 16,
-    "will": 17,
-    "hp": 96
+  "senses_languages": {
+    "perception": 15,
+    "initiative_bonus": 2,
+    "senses": ["Low-Light Vision"],
+    "languages": ["Common","Fey"]
   },
-  "features": ["Inspiring Resilience"],
-  "speed": { "land": 20, "fly": 25 },
-  "spellcasting": {
-    "tradition": "Occult",
-    "dc": 27,
-    "attack": 17,
-    "spells": {
-      "5th": ["Synaptic Pulse", "Aberrant Form (2 slots)"],
-      "4th": ["Whispers of the Void", "Luring Wail", "Fly (3 slots)"],
-      "3rd": ["Heroism", "Distracting Chatter", "Enthrall (3 slots)"],
-      "2nd": ["Sonata Span", "Humanoid Form", "Blistering Invective (3 slots)"],
-      "1st": ["Liberating Command", "Biting Words", "Command", "Soothe ☆ (3 slots)"],
-      "cantrips": [
-        "Summon Instrument",
-        "Telekinetic Projectile",
-        "Haunting Hymn",
-        "Prestidigitation",
-        "Musical Accompaniment"
-      ]
+  "abilities_skills": {
+    "abilities": { "str": -1, "dex": 3, "con": 2, "int": 2, "wis": 2, "cha": 4 },
+    "skills": {
+      "acrobatics": 14, "athletics": -1, "crafting": 15, "deception": 15,
+      "diplomacy": 15, "intimidation": 15, "lore_cooking": 15,
+      "occultism": 13, "performance": 19, "stealth": 14, "survival": 13
     }
   },
-  "focus_spells": [
-    "Counter Performance",
-    "Courageous Anthem",
-    "Lingering Composition",
-    "Hymn of Healing",
-    "Song of Marching",
-    "Fortissimo Composition"
-  ],
-  "feats": [
-    "Seasoned",
-    "Assurance (Performance)",
-"Fascinating Performance",
-"Impressive Performance",
-    "Talent Envy",
-    "Virtuosic Performer"
-  ]
+  "defense_movement": {
+    "ac": 24,
+    "saves": {"fort": 15, "ref": 16, "will": 17},
+    "hp": 96,
+    "speed": 20,
+    "other_movement": ["Evanescent Wings"]
+  },
+  "offense_equipment": {
+    "armor": "Unarmored",
+    "weapons": []
+  },
+  "feats_actions": {
+    "class_features_actions": ["Inspiring Resilience"],
+    "additional_feats": [
+      "Assurance","Energize Wings","Fascinating Performance","Fortissimo Composition",
+      "Hero's Wings","Hymn of Healing","Impressive Performance","Incredible Initiative",
+      "Lingering Composition","Luminous Sprite","Seasoned","Song of Marching",
+      "Talent Envy","Virtuosic Performer"
+    ]
+  },
+  "spellcasting_occult": {
+    "tradition": "occult",
+    "casting_type": "spontaneous",
+    "save_dc": 27,
+    "attack_mod": 17,
+    "signature_spells": ["Soothe"],
+    "spell_repertoire": {
+      "5": {"slots": 2, "spells": ["Synaptic Pulse","Aberrant Form"]},
+      "4": {"slots": 3, "spells": ["Whispers of the Void","Luring Wail","Fly"]},
+      "3": {"slots": 3, "spells": ["Heroism","Distracting Chatter","Enthrall"]},
+      "2": {"slots": 3, "spells": ["Sonata Span","Humanoid Form","Blistering Invective"]},
+      "1": {"slots": 3, "spells": ["Liberating Command","Biting Words","Command", {"name":"Soothe","signature":true}]},
+      "cantrips": ["Summon Instrument","Telekinetic Projectile","Haunting Hymn","Prestidigitation","Musical Accompaniment"]
+    }
+  },
+  "focus_spells": {
+    "focus_points": {"current": 3, "max": 3},
+    "focus_spells": [
+      "Counter Performance","Courageous Anthem","Lingering Composition",
+      "Hymn of Healing","Song of Marching","Fortissimo Composition"
+    ]
+  },
+  "notes_flags": {
+    "assumptions": [
+      "Soothe는 시그니처 스펠 ☆",
+      "Sprite 특성상 Tiny 크기로 인한 무기/운반 제한 주의"
+    ],
+    "build_tags": ["remaster-compatible","support-bard","sprite-flight"]
+  }
 }
 ]
