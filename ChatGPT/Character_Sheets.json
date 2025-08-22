@@ -342,5 +342,89 @@
     ],
     "build_tags": ["remaster-compatible","martial-monk","nagaji","mobile-defender"]
   }
+},
+  {
+  "character_block": "Velia",
+  "identity": {
+    "name": "Velia",
+    "level": 9,
+    "class": "Kineticist",
+    "key_ability": "CON",
+    "size": "Medium",
+    "traits": ["Humanoid", "Merfolk"],
+    "ancestry": "Merfolk",
+    "heritage": "Sailfish"
+  },
+  "senses_languages": {
+    "perception": 15,
+    "initiative_bonus": 2,
+    "senses": ["Low-Light Vision"],
+    "languages": ["Common"]
+  },
+  "abilities_skills": {
+    "abilities": { "str": 0, "dex": 4, "con": 4, "int": 0, "wis": 2, "cha": 3 },
+    "skills": {
+      "acrobatics": 15,
+      "athletics": 0,
+      "lore_warfare": 11,
+      "medicine": 17,
+      "nature": 17,
+      "stealth": 15
+    }
+  },
+  "defense_movement": {
+    "ac": 25,
+    "saves": { "fort": 19, "ref": 17, "will": 15 },
+    "hp": 116,
+    "speed": 5
+  },
+  "offense_equipment": {
+    "weapons": [],
+    "armor": "Unarmored",
+    "notes": [
+      "Kineticist의 주 공격은 무기 대신 'Elemental Blast' 사용"
+    ]
+  },
+  "feats_actions": {
+    "class_features_actions": [
+      "Channel Elements",
+      "Elemental Blast",
+      "Base Kinesis",
+      "Extract Element",
+      "Winter's Clutch",
+      "Ocean's Balm",
+      "Shore Gift",
+      "Winter Sleet",
+      "Torrent in the Blood",
+      "Call the Hurricane",
+      "Driving Rain",
+      "Return to the Sea",
+      "Battle Medicine"
+    ],
+    "additional_feats": [
+      "Extended Kinesis",
+      "Godless Healing",
+      "Graft Technician",
+      "Healing Flesh",
+      "Incredible Initiative",
+      "Kinetic Activation",
+      "Robust Health",
+      "Sailfish Merfolk",
+      "Slippery Prey",
+      "Swimmer's Guidance",
+      "Ward Medic"
+    ]
+  },
+  "focus_spells": {
+    "focus_points": { "current": 0, "max": 0 },
+    "focus_spells": []
+  },
+  "notes_flags": {
+    "assumptions": [
+      "Elemental Blast의 정확한 피해 주사위/속성은 선택한 원소·임펄스에 따라 달라짐",
+      "Sailfish Merfolk의 수중 기동성은 환경에 따라 별도 적용될 수 있음"
+    ],
+    "build_tags": ["remaster-compatible", "kineticist", "water-wind-theme", "support-healing"]
+  }
 }
 ]
