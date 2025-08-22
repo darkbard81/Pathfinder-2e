@@ -1,4 +1,4 @@
-{
+[{
   "character_block": "Slamon",
   "identity": {
     "name": "Slamon",
@@ -101,4 +101,122 @@
     ],
     "build_tags": ["remaster-compatible", "nonlethal-control-ready"]
   }
+},
+{
+  "character_block": "Aecora",
+  "identity": {
+    "name": "Aecora",
+    "level": 9,
+    "class": "Champion",
+    "key_ability": "CHA",
+    "size": "Large",
+    "traits": ["Humanoid", "Centaur"],
+    "ancestry": "Centaur",
+    "heritage": "Stoutheart"
+  },
+  "senses_languages": {
+    "perception": 14,
+    "initiative_bonus": 2,
+    "senses": ["Darkvision"],
+    "languages": ["Common", "Fey"]
+  },
+  "abilities_skills": {
+    "abilities": {
+      "str": 4, "dex": 1, "con": 2, "int": 0, "wis": 3, "cha": 3
+    },
+    "skills": {
+      "acrobatics": 12,
+      "athletics": 19,
+      "intimidation": 14,
+      "lore_plant": 11,
+      "nature": 14,
+      "religion": 14,
+      "survival": 16
+    }
+  },
+  "defense_movement": {
+    "ac": 30,
+    "ac_with_shield_raised": 32,
+    "saves": {"fort": 18, "ref": 15, "will": 17},
+    "hp": 127,
+    "speed": 25,
+    "reactions": ["Shield Block", "Retributive Strike", "I Defy You!"]
+  },
+  "offense_equipment": {
+    "melee_weapons": [
+      {
+        "name": "+1 Striking Ghost Touch Cold Iron (Low-Grade) Trident",
+        "attack_mod": 18,
+        "damage": {"dice": "2d8+6", "type": "piercing"},
+        "traits": [
+          "thrown 20 ft.",
+          "magical",
+          "reach",
+          "trip",
+          "shove",
+          "sweep",
+          "deadly d8",
+          "jousting d6",
+          "ghost-touch",
+          "cold-iron (low-grade)"
+        ],
+        "runes": {"potency": 1, "striking": true, "property": ["ghost-touch"]},
+        "materials": ["cold-iron (low-grade)"]
+      }
+    ],
+    "armor": {
+      "name": "+1 Armor Resilient Half Plate",
+      "runes": {"potency": 1, "resilient": 1}
+    },
+    "shield": {
+      "name": "Adamantine Shield (Standard-Grade)",
+      "hardness": 10,
+      "hp": 40,
+      "bt": 20,
+      "material": "adamantine"
+    }
+  },
+  "feats_actions": {
+    "class_features_actions": [
+      "Defensive Advance",
+      "Smite",
+      "Shield Block",
+      "Retributive Strike",
+      "I Defy You!"
+    ],
+    "additional_feats": [
+      "Accommodating Mount",
+      "Advanced Deity's Domain",
+      "Deity's Domain",
+      "Forager",
+      "Incredible Initiative",
+      "Intimidating Glare",
+      "Natural Medicine",
+      "Practiced Brawn",
+      "Steady Balance",
+      "Stoutheart Centaur",
+      "Stubborn Defiance",
+      "Sun Blade",
+      "Titan Wrestler",
+      "Toughness"
+    ]
+  },
+  "spellcasting_focus": {
+    "tradition": "divine",
+    "focus_points": {"current": 3, "max": 3},
+    "focus_spells": [
+      "Dazzling Flash",
+      "Shields of the Spirit",
+      "Sun Blade",
+      "Localized Quake"
+    ]
+  },
+  "notes_flags": {
+    "assumptions": [
+      "언어 'Fey'는 실제 자료에서 'Sylvan'으로 표기될 수 있음",
+      "무기 'reach'는 대형 체구와 더불어 실제 도달 거리 계산 시 주의"
+    ],
+    "build_tags": ["remaster-compatible", "frontline-tank", "shield-user"]
+  }
 }
+]
