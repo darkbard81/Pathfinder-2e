@@ -102,7 +102,7 @@
     "build_tags": ["remaster-compatible", "nonlethal-control-ready"]
   }
 },
-{{
+{
   "character_block": "Aecora",
   "identity": {
     "name": "Aecora",
