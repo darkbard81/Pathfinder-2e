@@ -36,7 +36,7 @@ She has a human female face and body, her entire form covered in the same smooth
 Her silhouette is streamlined and hydrodynamic, with [추가 생물적 특징: ex. dorsal fin, gill marks].  
 She has [머리카락 묘사].  
 [의상]  
-She wears a sleek full-body suit made of [생물명]-skin-like material, blending naturally with her aesthetic, with the neckline fading softly into her neck so the boundary is faint.  
+She wears a sleek full-body suit made of [생물명]-skin-like material, designed so the neckline blends gradually into her throat and collar with a smooth transition, making the boundary almost invisible.  
 [디테일]  
 Her mouth reveals a hint of sharp, serrated teeth [또는 다른 포인트].  
 [배경]  
@@ -44,5 +44,6 @@ The scene is [환경: ex. underwater in a tropical coastal sea, in a jungle swam
 [구도]  
 Centered, mid-to-full body framing; vertical composition; minimal background beyond [환경].  
 ratio 4:6  
+
 
 
