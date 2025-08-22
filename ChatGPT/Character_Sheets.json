@@ -1,0 +1,104 @@
+{
+  "character_block": "Slamon",
+  "identity": {
+    "name": "Slamon",
+    "level": 9,
+    "class": "Sorcerer",
+    "key_ability": "CHA",
+    "size": "Medium",
+    "traits": ["Humanoid"],
+    "ancestry": "Human",
+    "heritage": "Skilled Human"
+  },
+  "senses_languages": {
+    "perception": 13,
+    "initiative_bonus": 2,
+    "languages": ["Aklo", "Common", "Fey", "Nagaji", "Necril"]
+  },
+  "abilities_skills": {
+    "abilities": {
+      "str": 0, "dex": 3, "con": 0, "int": 3, "wis": 2, "cha": 4
+    },
+    "skills": {
+      "acrobatics": 14, "arcana": 14, "athletics": 11, "crafting": 14,
+      "deception": 17, "diplomacy": 19, "intimidation": 15, "lore_alcohol": 14,
+      "medicine": 13, "nature": 13, "occultism": 14, "performance": 15,
+      "religion": 13, "society": 14, "stealth": 14, "survival": 13, "thievery": 14
+    }
+  },
+  "defense_movement": {
+    "ac": 24,
+    "saves": {"fort": 13, "ref": 16, "will": 15},
+    "hp": 62,
+    "speed": 25
+  },
+  "offense_equipment": {
+    "ranged_weapons": [
+      {
+        "name": "+1 Striking Returning Dart",
+        "attack_mod": 15,
+        "damage": {"dice": "2d4", "type": "piercing"},
+        "traits": ["agile", "thrown", "magical", "finesse", "returning"],
+        "runes": {"potency": 1, "striking": true, "property": ["returning"]}
+      }
+    ],
+    "worn_armor": "Robe"
+  },
+  "feats_actions": {
+    "general_actions_feats": [
+      "Anoint Ally",
+      "Trick Magic Item",
+      "Safeguard Spell",
+      "Widen Spell"
+    ]
+  },
+  "spellcasting_arcane": {
+    "tradition": "arcane",
+    "casting_type": "spontaneous",
+    "save_dc": 27,
+    "attack_mod": 17,
+    "signature_spells": ["Horizon Thunder Sphere"],
+    "spell_repertoire": {
+      "5": {
+        "slots": 3,
+        "spells": ["Hallucination", "Subconscious Suggestion", "Scouting Eye"]
+      },
+      "4": {
+        "slots": 4,
+        "spells": ["Ice Storm", "Coral Eruption", "Rust Cloud", "Translocate"]
+      },
+      "3": {
+        "slots": 4,
+        "spells": ["Gravity Well", "Cave Fangs", "Fireball", "Haste"]
+      },
+      "2": {
+        "slots": 4,
+        "spells": ["Resist Energy", "Enlarge", "Shrink", "Dispel Magic"]
+      },
+      "1": {
+        "slots": 4,
+        "spells": [
+          "Grease",
+          "Horizon Thunder Sphere",
+          "Gentle Landing",
+          "Force Barrage"
+        ]
+      },
+      "cantrips": [
+        "Caustic Blast", "Spout", "Ignition", "Electric Arc",
+        "Frostbite", "Shield", "Detect Magic"
+      ]
+    }
+  },
+  "focus_spells": {
+    "focus_points": {"current": 1, "max": 1},
+    "focus_spells": ["Ancestral Memories"]
+  },
+  "notes_flags": {
+    "assumptions": [
+      "☆ 표시는 Horizon Thunder Sphere가 시그니처 스펠임",
+      "언어 'Fey'는 실제로는 'Sylvan'일 수 있음"
+    ],
+    "build_tags": ["remaster-compatible", "nonlethal-control-ready"]
+  }
+}
