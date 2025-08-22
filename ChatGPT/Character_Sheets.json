@@ -260,5 +260,87 @@
     ],
     "build_tags": ["remaster-compatible","support-bard","sprite-flight"]
   }
+},
+  {
+  "character_block": "Adesha",
+  "identity": {
+    "name": "Adesha",
+    "level": 9,
+    "class": "Monk",
+    "key_ability": "DEX",
+    "size": "Medium",
+    "traits": ["Humanoid", "Nagaji"],
+    "ancestry": "Nagaji",
+    "heritage": "Sacred Nagaji"
+  },
+  "senses_languages": {
+    "perception": 15,
+    "senses": ["Low-Light Vision","Darkvision"],
+    "languages": ["Common","Nagaji"]
+  },
+  "abilities_skills": {
+    "abilities": { "str": 3, "dex": 4, "con": 3, "int": 0, "wis": 2, "cha": 0 },
+    "skills": {
+      "acrobatics": 19, "athletics": 18, "intimidation": 11,
+      "lore_warfare": 11, "stealth": 15, "thievery": 15
+    }
+  },
+  "defense_movement": {
+    "ac": 27,
+    "ac_with_shield_raised": 29,
+    "saves": {"fort": 16, "ref": 17, "will": 17},
+    "hp": 136,
+    "speed": 40
+  },
+  "offense_equipment": {
+    "melee_weapons": [
+      {
+        "name": "+1 Striking Fist",
+        "attack_mod": 18,
+        "damage": {"dice": "2d8+5", "type": "bludgeoning"},
+        "traits": ["agile","finesse","nonlethal","unarmed","magical"],
+        "runes": {"potency": 1, "striking": true}
+      },
+      {
+        "name": "+1 Striking Nagaji's Tail",
+        "attack_mod": 18,
+        "damage": {"dice": "2d6+5", "type": "bludgeoning, piercing or slashing"},
+        "traits": ["agile","finesse","nonlethal","unarmed","magical","brawling"],
+        "runes": {"potency": 1, "striking": true}
+      }
+    ],
+    "armor": "Kimono",
+    "shield": {
+      "name": "Steel Shield",
+      "hardness": 5,
+      "hp": 20,
+      "bt": 10
+    }
+  },
+  "feats_actions": {
+    "class_features_actions": [
+      "Shield Block",
+      "Hypnotic Lure",
+      "One-Inch Punch",
+      "Flurry of Blows"
+    ],
+    "additional_feats": [
+      "Assurance","Flurry of Maneuvers","Hypnotic Gaze","Naga Goddess' Light",
+      "Qi Spells","Sacred Nagaji","Slippery Prey","Stunning Blows","Titan Wrestler",
+      "Toughness","Underwater Marauder","Water Sprint","Wild Winds Initiate"
+    ]
+  },
+  "focus_spells": {
+    "focus_points": {"current": 2, "max": 2},
+    "focus_spells": ["Inner Upheaval","Wild Winds Stance"]
+  },
+  "notes_flags": {
+    "assumptions": [
+      "Nagaji의 꼬리 무기는 전통적 Monk 무기 취급",
+      "Unarmored Defense 적용",
+      "Tail Strike는 상황에 따라 B/P/S 타입 전환 가능"
+    ],
+    "build_tags": ["remaster-compatible","martial-monk","nagaji","mobile-defender"]
+  }
 }
 ]
