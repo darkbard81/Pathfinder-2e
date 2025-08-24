@@ -77,7 +77,10 @@
 ---
 
 - 기본 정보  
-  * **분류**: 일반 희귀 / Small / Plant  
+  * **분류**:
+   ![Rarity](https://badgen.net/badge/Rarity/UNCOMMON/blue?icon=chrome&labelColor=&scale=0.8)
+  ![Size](https://badgen.net/badge/Size/SMALL/green?icon=gnome&labelColor=&scale=0.8)
+  ![Traits](https://badgen.net/badge/Traits/Elemental%20Plant%20Wood/orange?icon=github&labelColor=&scale=0.8)
   * **발견 장소**: 밀폐 온실, 열대성 습윤 기후, 마법적 재배 지대  
   * **위협 등급**: 하급  
   * **교배 적합도**: 중간  
@@ -111,4 +114,4 @@
 ---
 
 - 스케치  
->(미네르바 홀로그램 삽입 예정)
+><img alt="Vegetable Lamb" title="Vegetable Lamb" src="Vegetable Lamb.png" style="width: 25%; height: auto;">
