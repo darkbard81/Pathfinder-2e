@@ -111,7 +111,126 @@ Only the following fields from the original JSON are used:
 - `system.attributes.speed.value` → `speed.land`
 - `system.attributes.speed.otherSpeeds[]` → `speed.other[]`
 
-### Attacks (Unified: melee, ranged, action, spellcastingEntry, spell)
+### Attacks (Unified: melee, weapon, actions, spellcastingEntry, spell)
+Output container:
+- Create an `attacks` object.
+- Inside `attacks`, include ONLY the following keys that actually have qualifying data:
+  - "melee"                // object, at most 1
+  - "weapon"               // object, at most 1  (NOTE: singular)
+  - "actions"              // array, at most 3 entries
+  - "spell"                // object, at most 1
+  - "spellcastingEntry"    // object, at most 1
+- If a section has no qualifying item(s), OMIT that section (do not include empty objects/arrays).
+
+--------------------------------------------------------------------
+GENERAL SELECTION & FIELD MAPPING
+--------------------------------------------------------------------
+1) “First” = the first element by the original order in the creature’s `items` array (lowest index).
+
+2) Accessing the first damage roll when keys are unknown:
+   - Let R = item.system.damageRolls (an object keyed by arbitrary IDs).
+   - Sort R’s keys as strings ascending and take the first key.
+   - Use that entry for `damage` and `damageType`.
+
+3) Field mappings (omit a field if missing on the source item):
+   - name        := item.name
+   - bonus       := item.system.bonus.value
+   - damage      := firstKey(item.system.damageRolls).damage
+   - damageType  := firstKey(item.system.damageRolls).damageType
+   - traits[]    := item.system.traits.value (array; default to [])
+
+--------------------------------------------------------------------
+MELEE  (0–1 entry)
+--------------------------------------------------------------------
+Select:
+- If there exists any item with item.type == "melee", take the FIRST such item.
+- Otherwise, do not define `attacks.melee`.
+
+Output (when selected):
+attacks.melee = {
+  "name": <name>,
+  "bonus": <bonus>,
+  "damage": <damage>,
+  "damageType": <damageType>,
+  "traits": <traits[]>
+}
+
+--------------------------------------------------------------------
+WEAPON  (0–1 entry)   // singular
+--------------------------------------------------------------------
+Select:
+- If there exists any item with item.type == "weapon", take the FIRST such item.
+- Otherwise, do not define `attacks.weapon`.
+
+Output (when selected):
+attacks.weapon = {
+  "name": <name>,
+  "bonus": <bonus>,
+  "damage": <damage>,
+  "damageType": <damageType>,
+  "traits": <traits[]>
+}
+
+--------------------------------------------------------------------
+ACTIONS (0–3 entries)  // offensive + action-type only
+--------------------------------------------------------------------
+Filter:
+- Include ONLY items with ALL of the following:
+  - item.type == "action"
+  - item.system.category == "offensive"
+  - item.system.actionType.value == "action"
+
+Order & limit:
+- Preserve original `items` order.
+- Take up to the FIRST THREE qualifying actions.
+
+For each included action, build:
+base = {
+  "name": item.name,
+  "actionType": item.system.actionType.value,   // will be "action"
+  "traits": item.system.traits.value || []
+}
+
+Then parse item.system.description.value (HTML/markup) and EXTRACT ONLY these tokens:
+- All @Template[...]
+- All @Damage[...]
+- All @Check[...]
+For each token type, append the raw bracket contents (inside [...]) to arrays:
+- base.template = [ "<contents1>", ... ]     // from @Template[...]
+- base.damage   = [ "<contents1>", ... ]     // from @Damage[...]
+- base.check    = [ "<contents1>", ... ]     // from @Check[...]
+Omit any of these keys that would be empty.
+DO NOT include the original description string.
+
+attacks.actions = [ base, ... ]   // up to 3 entries
+
+--------------------------------------------------------------------
+SPELL  (0–1 entry)
+--------------------------------------------------------------------
+Select:
+- Take the FIRST item with item.type == "spell".
+- Otherwise, omit `attacks.spell`.
+
+Output (when selected):
+attacks.spell = {
+  "name": item.name,
+  "level": item.system.level.value,
+  "traits": item.system.traits.value || []
+}
+
+--------------------------------------------------------------------
+SPELLCASTING ENTRY  (0–1 entry)
+--------------------------------------------------------------------
+Select:
+- Take the FIRST item with item.type == "spellcastingEntry".
+- Otherwise, omit `attacks.spellcastingEntry`.
+
+Output (when selected):
+attacks.spellcastingEntry = {
+  "name": item.name,
+  "tradition": item.system.tradition.value,
+  "dc": item.system.spelldc.value
+}
 
 
 ### Search Blob
