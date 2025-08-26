@@ -241,7 +241,7 @@ A concatenated lowercase string built from:
 - `defenses.immunities`, `defenses.resistances`, `defenses.weaknesses`
 - `attacks.melee` or `attacks.weapon` info (name, bonus, damage, damageType, traits)
 - `level`, `defenses.ac`, `defenses.hp.max`
-- first 200 characters of `publicNotes_text`
+- `attacks.spellcastingEntry`
 - All punctuation replaced by spaces, multiple spaces collapsed.
 
 ---
