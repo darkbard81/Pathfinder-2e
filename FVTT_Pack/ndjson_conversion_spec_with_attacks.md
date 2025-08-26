@@ -125,7 +125,8 @@ Output container:
 --------------------------------------------------------------------
 GENERAL SELECTION & FIELD MAPPING
 --------------------------------------------------------------------
-1) “First” = the first element by the original order in the creature’s `items` array (lowest index).
+1) “First” = For the types `melee`, `weapon`, `spell`, and `spellcastingEntry`, select only the first item in the creature’s `items` array. For the type `actions`, include up to the first three items.
+
 
 2) Accessing the first damage roll when keys are unknown:
    - Let R = item.system.damageRolls (an object keyed by arbitrary IDs).
