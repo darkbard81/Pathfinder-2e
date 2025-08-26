@@ -239,7 +239,7 @@ A concatenated lowercase string built from:
 - `languages.list`, `languages.details`
 - `perception.senses[]`
 - `defenses.immunities`, `defenses.resistances`, `defenses.weaknesses`
-- `attacks.melee` or `attacks.range` info (name, bonus, damage, damageType, traits)
+- `attacks.melee` or `attacks.weapon` info (name, bonus, damage, damageType, traits)
 - `level`, `defenses.ac`, `defenses.hp.max`
 - first 200 characters of `publicNotes_text`
 - All punctuation replaced by spaces, multiple spaces collapsed.
