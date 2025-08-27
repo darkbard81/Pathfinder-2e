@@ -1,0 +1,124 @@
+PF2E SPELL MINIMAL FLAT CONVERSION & CHUNK RULES
+Version: 2.0 (flat + chunk-ready)
+
+========================
+1) INPUT → OUTPUT KEYS
+========================
+Source (PF2e-like JSON)            → Flat Output
+- _id                              → id (string)
+- name                             → name (string)
+- system.level.value               → level (number)
+- system.traits.rarity             → rarity (string | null)
+- system.traits.traditions[]       → traditions (string[])
+- system.traits.value[]            → traits (string[])
+- system.time.value                → time (string | null)
+- system.range.value               → range (string | null)
+- system.area.type                 → area_type (string | null)
+- system.area.value                → area_value (string | null)
+- system.target.value              → target (string | null)
+- system.publication               → publication (object → kept flat-minimal; see §2)
+- system.description.value         → description (string, HTML stripped → plaintext)
+
+Notes
+- Only the above fields are extracted; ignore the rest.
+- If a source key is missing or empty string → set to null (except arrays → []).
+
+=====================
+2) PUBLICATION FIELD
+=====================
+Keep a minimal, flat subset:
+- publication = {
+    "title": <string|null>,
+    "license": <string|null>,
+    "remaster": <boolean|null>
+  }
+Mapping
+- system.publication.title    → publication.title
+- system.publication.license  → publication.license
+- system.publication.remaster → publication.remaster
+If system.publication is absent → publication = null.
+
+=======================
+3) NORMALIZATION RULES
+=======================
+3.1 Strings
+- Trim leading/trailing whitespace.
+- Convert "" (empty) to null.
+- For description, strip ALL HTML tags and entity-decode:
+  - Remove <p>, <em>, <strong>, <hr>, <ul>/<ol>/<li>, <br>, etc.
+  - Replace block tags (p, li) with newline separators.
+  - Collapse 3+ consecutive newlines to max 2.
+  - Remove PF2e inline tokens like @UUID[...] and @Localize[...] entirely.
+  - Replace smart quotes/dashes with standard ASCII where possible.
+
+3.2 Arrays
+- traits: ensure array of strings; deduplicate; stable sort (case-insensitive).
+
+3.3 Numbers
+- level must be a number. If not parseable → set to null (do not invent).
+
+3.4 Time/Range/Target
+- time, range, target remain raw plaintext from source after trimming (no parsing).
+- If a value is effectively “varies/—/n/a” in source text → keep as-is (string), do NOT change to null.
+
+3.5 Locale
+- Keep text as-is (English source stays English). Do not auto-translate.
+
+===========================
+Concatenate Rules for `search_blob`
+===========================
+New key: `"search_blob": "<string>"`
+
+Source Fields
+- `name` (string)
+- `level` (number → `"level-<n>"`)
+- `rarity` (string, e.g. "common" | "uncommon" | "rare" | "unique")
+- `traditions` (array of strings)
+- `traits` (array of strings)
+
+Slug Rules
+1. **Lowercase all values.**
+2. **Strip non-alphanumeric characters** except hyphen (`-`).
+   - Spaces, punctuation → replace with `-`.
+   - Collapse multiple hyphens into one.
+3. **No leading/trailing hyphens.**
+
+Field Transformations
+- **name**: slugify spell name.
+  - `"Fireball"` → `"fireball"`
+  - `"Create Demiplane"` → `"create-demiplane"`
+- **level**: always output as `"level-<n>"`
+  - level 2 → `"level-2"`
+- **rarity**: slugify if present, else omit.
+- **traditions**: slugify each element (arcane, divine, occult, primal).
+- **traits**: slugify each trait (fire, concentrate, manipulate, etc.).
+
+- Concatenate all available parts with single spaces.
+- Omit missing fields silently.
+
+===========================
+5) OUTPUT DOCUMENT SHAPE
+===========================
+Per spell (flat, chunk-agnostic):
+{
+  "id": "<string|null>",
+  "name": "<string|null>",
+  "level": <number|null>,
+  "rarity": "<string|null>",
+  "traditions": ["<string>", ...],
+  "traits": ["<string>", ...],
+  "time": "<string|null>",
+  "range": "<string|null>",
+  "area_type": "<string|null>",
+  "area_value": "<string|null>",
+  "target": "<string|null>",
+  "publication": {
+    "title": "<string|null>",
+    "license": "<string|null>",
+    "remaster": <true|false|null>
+  } | null,
+  "search_blob": "<string|null>",
+  "description": "<plaintext|null>"
+}
+
+NDJSON: one JSON object per line.
