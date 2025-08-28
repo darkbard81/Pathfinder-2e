@@ -12,6 +12,12 @@
 - 아무리 세션단위로 나뉘어도 문장자체가 길어져버리면 chunk구성에 실패함
 - 효과적인 구성은 json이며, 아래에서 더 자세히 다룬다.
 
+## ChatGPT가 읽기 쉬운 Json문서 방침
+- flat구조의 key list: deep구조로 해봐야 이해하지 않는다. 문장구조 및 keyword로 파악하기 때문
+- 검색용 key값을 정의해 두는게 좋다. 여러 조건을 복합적으로 찾을 때, slug형식으로 "search_blob"이란 key에 값을 연결해 놓으면 용이하다.
+- NDjson(Newline Delimited JSON) format이 객체별로 개행문자로 구별되어 용량 및 구분시 편리하지만 format자체가 지원안함
+- NDjson으로 생성후 개행문자를 `"\n,"`로 변경하여 일반 json으로 만드는게 도움이 된다.
+
 ## Chunk 구성시 문맥 정의용 
 
 문장 목적
