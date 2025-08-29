@@ -45,5 +45,7 @@ The scene is [환경: ex. underwater in a tropical coastal sea, in a jungle swam
 Centered, mid-to-full body framing; vertical composition; minimal background beyond [환경].  
 ratio 4:6  
 
+- Remaix
+>Turn this image into a realistic photo of a ultra-high-detailed collectible figure with decorative diorama base, placed on a white marble desk, with its packaging box visible in the background.
 
 
