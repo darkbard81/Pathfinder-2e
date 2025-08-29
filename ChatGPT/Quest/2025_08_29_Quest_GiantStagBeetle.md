@@ -5,6 +5,7 @@
 - **파티 권장**: 레벨 9 / 3인  
 - **전투 여부**: 선택(비전투만으로도 완결 가능)  
 - **보상(Primary)**: **Giant Stag Beetle ×1** — *스탯은 원문 그대로 유지, 보상용 개체에 humanoid trait 부여 후 미네르바 생태 덱에 수용*
+- **위치**: Shining Kingdoms-Andoran-Arthfell Forest
 
 ---
 
