@@ -30,22 +30,18 @@
 1. **UUID 치환**
    - `@UUID[...] {텍스트}` → `텍스트`
    - `@UUID[...]` → 제거
-2. **강조 태그 치환**
+2. **기타 토큰 보존**
+   - @Damage[...], @Template[...] 등은 원문 그대로 보존 (예시 출력도 그대로 둠)
+3. **강조 태그 치환**
    - `<strong>…</strong>`, `<b>…</b>` → **대문자 + 콜론** (`TRIGGER:`)
-3. **HTML 제거**
+4. **HTML 제거**
    - `<p>`, `<div>` 등 블록 태그 → 줄바꿈 추가
    - `<br>` → 줄바꿈
    - `<hr>` → `---`
    - 나머지 태그는 제거
-4. **공백 정리**
+5. **공백 정리**
    - 연속 공백/개행 축소
    - 텍스트 앞뒤 공백 제거
 
 ---
 
-## 출력 예시
-입력:
-```html
-<p><strong>Trigger</strong> You succeed at a saving throw to disbelieve an illusion.</p>
-<hr />
-<p>You can cut through illusions …</p>
