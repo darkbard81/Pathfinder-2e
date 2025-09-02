@@ -50,7 +50,7 @@ ratio 4:6
 
 >smallbreasts/flatchest-작은가슴/거의없는가슴
 •mediumbreasts/perkybreasts-중간정도,자연스러운형태
-• large breasts / big breasts / voluptuous chest → $ 7€
+•large breasts / big breasts / voluptuous chest → $ 7€
 •hugebreasts/massivebust/enormouschest-매우큰가
 •round,firmbreasts-둥글고탄탄한
 •soft,naturalbreasts-부드럽고자연스러운
