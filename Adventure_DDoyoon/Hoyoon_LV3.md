@@ -1,5 +1,8 @@
 # 🐉 바바리안 호윤 (3레벨) 
-**중간 크기 인간 (용의 피, 인간형)**  
+  ![Rarity](https://badgen.net/badge/크기/중간/blue?icon=chrome&labelColor=&scale=1)
+    ![Rarity](https://badgen.net/badge/종족/인간/orange?icon=ruby&labelColor=&scale=1)
+    ![Rarity](https://badgen.net/badge/혈통/드래곤후예/purple?icon=threads&labelColor=&scale=1)
+ 
 
 ---
 
