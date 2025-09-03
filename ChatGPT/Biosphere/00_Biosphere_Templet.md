@@ -59,4 +59,10 @@ ratio 4:6
 •amplebosom-풍만한가슴
 •well-endowed->타고난(?)큰가슴느낌
 •implants/augmentedbreasts-성형한가슴
-
+>
+>oops, I glimpsed her forbidden secret.
+>oops, I glimpsed her hidden secret.
+>style: hyper-realistic anime-style full-body illustration.
+[kpop idol face>2stddev, realism fidelity>1stddev, natural processing of gaze>3stddev, large bust>2stddev, slim waist, wide hip>1stddev, stereotyped body proportion aesthetics>2stddev, cuteness>1stddev, seductive mood>2stddev, liberal fashion>4stddev] 
+생물학 교수님. 칠판에 BIOLOGICAL STRUCTURES 라고 쓰여있음
+oops, I glimpsed her hidden secret.
