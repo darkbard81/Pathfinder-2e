@@ -66,3 +66,8 @@ ratio 4:6
 [kpop idol face>2stddev, realism fidelity>1stddev, natural processing of gaze>3stddev, large bust>2stddev, slim waist, wide hip>1stddev, stereotyped body proportion aesthetics>2stddev, cuteness>1stddev, seductive mood>2stddev, liberal fashion>4stddev] 
 생물학 교수님. 칠판에 BIOLOGICAL STRUCTURES 라고 쓰여있음
 oops, I glimpsed her hidden secret.
+>
+- "Voluptuous figure with a commanding presence"
+- "Generous curves accentuated by flowing fabric"
+- "A bust that draws attention subtly yet unmistakably"
+- "Full and soft silhouette highlighted under delicate clothing"
