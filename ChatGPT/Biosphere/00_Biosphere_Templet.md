@@ -30,6 +30,7 @@
 
 - 스케치
 >(미네르바 홀로그램 삽입 예정)
+
 >[캐릭터 기본 구조]  
 A semi-realistic fantasy anime style humanoid [생물명] woman with [특징].  
 She has a human female face and body, her entire form covered in the same smooth, [생물명]-like skin texture with a unified tone across both face and body.  
