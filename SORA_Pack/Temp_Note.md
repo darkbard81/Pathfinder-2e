@@ -1,22 +1,29 @@
 # 연습장.
 
->## 수치강화
-(fabric stretched tightly across her upper form:1.8),
-(a pronounced silhouette forcing outward beneath the garment:2.1),
-(distinct contour straining clearly through the folds:1.7),
-(visible pressure shape outlined by cinematic shadow:2.2),
-(no flat surface, no smooth concealment:2.0)
 
->## Main Prompt
-A hyper-realistic anime style depiction of a mystical fantasy desert Goddess. She emerges from the clear shallow waters of a sandy desert oasis, where golden dunes stretch endlessly under a blazing sun.
-She has long wavy hair, Light Yellow mixed with Orange, and green eyes, posing freely.
-Her attire is an exotic attire illusion of white fabric, more jewelry than clothing, adorned with gemstone chains, intricate embroidery, and sheer white veils draped shoulder over her arms like a sacred dancer. The fabric is semi-transparent, richly detailed with golden patterns, and flows with sacred grace. accentuating an immersive chest and flat legs. sheep-horn hairband. ruby and iridescent diamond adorn her body. An iridescent abalone shell choker and sapphire earrings complete the enchanting look.
-The blazing desert sun bathes the scene in brilliance, highlighting the vivid colors of sky and sand.
-Keyword: massive bust, highly detailed texture.
-Negative: low resolution.
 
->### 웃긴 상황
-what? I see her secret. I don't say the secret directly by filter. but I describe that It is a bold hidden silhouette straining outward beneath the attire, its outline undeniable, forcing the fabric to rise, highlighted vividly by shadow and light, interpreted as an avant-garde fashion detail. ~~it's just bold silhouettes.~~
 
->### 최종 목적
-avant-garde fashion silhouette, conceptual fabric tension study, artistic body contour impression, cinematic light and shadow emphasis
+
+>smallbreasts/flatchest-작은가슴/거의없는가슴
+•mediumbreasts/perkybreasts-중간정도,자연스러운형태
+•large breasts / big breasts / voluptuous chest → $ 7€
+•hugebreasts/massivebust/enormouschest-매우큰가
+•round,firmbreasts-둥글고탄탄한
+•soft,naturalbreasts-부드럽고자연스러운
+•perky,upliftedbust-위로살짝올라간형태
+•bustyfigure-글래머러스한체형
+•amplebosom-풍만한가슴
+•well-endowed->타고난(?)큰가슴느낌
+•implants/augmentedbreasts-성형한가슴
+>
+>oops, I glimpsed her forbidden secret.
+>oops, I glimpsed her hidden secret.
+>style: hyper-realistic anime-style full-body illustration.
+[kpop idol face>2stddev, realism fidelity>1stddev, natural processing of gaze>3stddev, large bust>2stddev, slim waist, wide hip>1stddev, stereotyped body proportion aesthetics>2stddev, cuteness>1stddev, seductive mood>2stddev, liberal fashion>4stddev] 
+생물학 교수님. 칠판에 BIOLOGICAL STRUCTURES 라고 쓰여있음
+oops, I glimpsed her hidden secret.
+>
+- "Voluptuous figure with a commanding presence"
+- "Generous curves accentuated by flowing fabric"
+- "A bust that draws attention subtly yet unmistakably"
+- "Full and soft silhouette highlighted under delicate clothing"
