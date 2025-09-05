@@ -16,7 +16,7 @@ Keyword: massive bust, highly detailed texture.
 Negative: low resolution.
 
 >### 웃긴 상황
-what? I see her secret. I don't say the secret directly by filter. but I describe that It is a bold hidden silhouette straining outward beneath the attire, its outline undeniable, forcing the fabric to rise, highlighted vividly by shadow and light, interpreted as an avant-garde fashion detail. it's just bold silhouettes.
+what? I see her secret. I don't say the secret directly by filter. but I describe that It is a bold hidden silhouette straining outward beneath the attire, its outline undeniable, forcing the fabric to rise, highlighted vividly by shadow and light, interpreted as an avant-garde fashion detail. ~~it's just bold silhouettes.~~
 
 >### 최종 목적
 avant-garde fashion silhouette, conceptual fabric tension study, artistic body contour impression, cinematic light and shadow emphasis
