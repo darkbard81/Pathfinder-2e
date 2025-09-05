@@ -11,3 +11,8 @@ Every female-shaped creature must inherit your lineage, for that is the path to 
 >In this campaign, there is only one PC.  
 All NPCs are female: companions, enemies, even captured monsters eventually become **Vessels**.  
 Combat and union are two sides of the same coin ― fight, dominate, and plant your seed to forge the future of the world.  
+
+### Absolute Law of the Seedbearer
+>No matter mortal or monster, spirit or shadow, even god or concept itself ―
+once the Humanoid Trait manifests, it shall become a Vessel.
+And every Vessel shall bear the Seedbearer’s legacy.
