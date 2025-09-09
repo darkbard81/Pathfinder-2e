@@ -9,3 +9,29 @@ extremely high detail, depth of field. Set the entire scene indoors, the environ
 
 - Rear View
 >Depict the rear view of the original.
+
+## Artistic Description
+
+>[프롬프트 작성법: 예술적 문구 + 대비 구조 활용]
+
+1. **예술적 어휘 사용**
+   - artistic drapery
+   - classical art / renaissance style
+   - sculptural elegance
+   - painterly depiction
+
+2. **재질 + 형태 묘사**
+   - sheer / gauzy / semi-transparent fabric
+   - loosely falling, yet clinging to curves
+   - delicate contours / subtle outlines
+
+3. **대비 구조 삽입**
+   - concealment vs revelation
+   - elegance vs sensuality
+   - tension vs release
+   - light vs shadow
+
+4. **템플릿 예시**
+   - "A [fabric description] garment, [movement/shape], 
+      reminiscent of [artistic reference], 
+      revealing [contrast pair] in its presentation."
