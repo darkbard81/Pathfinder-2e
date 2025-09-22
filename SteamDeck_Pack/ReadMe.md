@@ -1,4 +1,4 @@
-# 🔹 RustDesk 서버 Podman 설치/실행 정리
+ㅡ# 🔹 RustDesk 서버 Podman 설치/실행 정리
 
 # 1. 컨테이너 실행 (Podman, host 네트워크 모드)
 sudo podman run -d --name rustdesk-hbbs \
@@ -66,3 +66,5 @@ krdp_client
 krdp160915
 sudo tcpdump -i wlan0 icmp
 125.177.78.44
+
+vbtk8LjaeQFBrAUHXytUWZDSzRlxoBiNG03FiRTVdSs=
