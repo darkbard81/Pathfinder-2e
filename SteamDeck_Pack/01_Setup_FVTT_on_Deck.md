@@ -1,5 +1,5 @@
 # 🚢 Foundry VTT 운영 전략 (Podman 선택)
->ALKZ-BMKK-UHFC-RJA5-G0BO-QQLW
+
 
 ## 1. 개발 vs 운영
 - **개발·테스트** → Node.js 직행이 편리 (저장→F5 즉시 반영).
