@@ -48,3 +48,15 @@
 - 외부 모듈이 얽히는 실서비스라면 Podman 쪽이 맞다.
 
 >5CWl8jFJU3ufMNdoHsWfz5K2I0FTZ9CIOatORUd67os=
+
+~~~
+sudo podman run -d --name rustdesk-hbbs \
+  --network host \
+  --restart always \
+  docker.io/rustdesk/rustdesk-server hbbs
+
+sudo podman run -d --name rustdesk-hbbr \
+  --network host \
+  --restart always \
+  docker.io/rustdesk/rustdesk-server hbbr
+~~~
