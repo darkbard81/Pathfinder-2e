@@ -46,3 +46,5 @@
 - **Podman = 서비스용 안정 선택**
 - **Node.js = 개발용 빠른 루프**
 - 외부 모듈이 얽히는 실서비스라면 Podman 쪽이 맞다.
+
+>5CWl8jFJU3ufMNdoHsWfz5K2I0FTZ9CIOatORUd67os=
