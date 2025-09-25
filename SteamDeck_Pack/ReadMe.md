@@ -1,5 +1,8 @@
 # 🎯 Steam Deck (Arch Linux) 현재 RustDesk 서버 상황 정리
 
+>sudo steamos-readonly disable
+
+
 1. 실행 환경
    - RustDesk 서버(hbbs, hbbr)를 **Podman 컨테이너 (root 권한)** 으로 실행 중
    - 컨테이너 상태 확인은 `sudo podman ps` 로 가능
