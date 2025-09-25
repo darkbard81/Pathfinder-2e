@@ -40,6 +40,7 @@ node main.mjs --dataPath=/data --port=30000
 
 ## 5. HTTPS Caddy Setting
 - sudo pacman -S caddy
+- Caddy의 기본 설정 위치는 /etc/caddy/Caddyfile
 ~~~
 krdp.ddns.net {
     reverse_proxy 127.0.0.1:30000
