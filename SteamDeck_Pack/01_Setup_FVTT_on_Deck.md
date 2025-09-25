@@ -37,3 +37,12 @@ node main.mjs --dataPath=/data --port=30000
 - FoundryVTT 13.348 (Node 버전) 정상 실행 중  
 - Admin Password 및 PF2e 시스템 설치 완료  
 - 새 월드 생성 + Gamemaster 계정 로그인까지 확인됨  
+
+## 5. HTTPS Caddy Setting
+- sudo pacman -S caddy
+~~~
+krdp.ddns.net {
+    reverse_proxy 127.0.0.1:30000
+}
+~~~
+- sudo systemctl enable --now caddy
