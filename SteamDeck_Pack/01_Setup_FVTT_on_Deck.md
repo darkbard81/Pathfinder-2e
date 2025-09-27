@@ -31,6 +31,17 @@ node main.mjs --dataPath=/data --port=30000
 - LAN: `http://<SteamDeck_IP>:30000`  
 - 외부: `http://krdp.ddns.net:30000` (공유기 포트포워딩 필요)  
 
+## 5. 그냥 실행
+```bash
+podman run -it \
+  --name fvtt-dev \
+  -p 30000:30000 \
+  -v ~/foundryvtt:/app \
+  -v ~/foundry_data:/data \
+  node:20 \
+  bash -c "cd /app && node main.mjs --dataPath=/data --port=30000"
+```
+
 ---
 
 ✅ 현재 상태:  
