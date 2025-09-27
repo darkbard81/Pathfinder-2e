@@ -31,7 +31,8 @@ node main.mjs --dataPath=/data --port=30000
 - LAN: `http://<SteamDeck_IP>:30000`  
 - 외부: `http://krdp.ddns.net:30000` (공유기 포트포워딩 필요)  
 
-## 5. 그냥 실행
+## 5. 업데이트
+- 그냥 실행
 ```bash
 podman run -it \
   --name fvtt-dev \
@@ -41,6 +42,22 @@ podman run -it \
   node:20 \
   bash -c "cd /app && node main.mjs --dataPath=/data --port=30000"
 ```
+
+- 정지
+```bash
+podman stop fvtt-dev
+```
+
+- 재실행
+```bash
+podman restart fvtt-dev
+```
+
+- 로그 연속 출력
+```bash
+podman logs -f fvtt-dev
+```
+
 
 ---
 
