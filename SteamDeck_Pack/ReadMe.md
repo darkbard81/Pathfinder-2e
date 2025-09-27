@@ -45,3 +45,5 @@ sudo podman start rustdesk-hbbs rustdesk-hbbr
 
 # 삭제 후 재생성(새 Key 생성됨)
 sudo podman rm -f rustdesk-hbbs rustdesk-hbbr
+
+# 원격 해상도 스케일링
