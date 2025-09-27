@@ -47,3 +47,13 @@ sudo podman start rustdesk-hbbs rustdesk-hbbr
 sudo podman rm -f rustdesk-hbbs rustdesk-hbbr
 
 # 원격 해상도 스케일링
+## 현재 연결된 출력 확인
+xrandr
+
+## 가상 해상도 확장 예시 (1280x800 패널 기준)
+xrandr --output eDP --scale 1.25x1.25   # 1600x1000 효과
+xrandr --output eDP --scale 1.5x1.5     # 1920x1200 효과
+xrandr --output eDP --scale 2x2         # 2560x1600 효과
+
+## 원래 상태(1280x800)로 복구
+xrandr --output eDP --scale 1x1
