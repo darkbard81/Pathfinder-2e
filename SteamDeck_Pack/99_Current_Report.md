@@ -38,7 +38,7 @@
 
 - 향후 목표 : 분리관리
 ```caddyfile
-yourdomain.com {
+krdp.ddns.net {
     # Foundry VTT (메인)
     handle / {
         reverse_proxy localhost:30000
