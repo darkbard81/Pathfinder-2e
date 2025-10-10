@@ -36,6 +36,34 @@
   ```
 - 목적: FVTT 서버 HTTPS 지원
 
+- 향후 목표 : 분리관리
+```caddyfile
+yourdomain.com {
+    # Foundry VTT (메인)
+    handle / {
+        reverse_proxy localhost:30000
+    }
+    
+    # RustDesk API
+    handle /rustdesk/api/* {
+        uri strip_prefix /rustdesk/api
+        reverse_proxy localhost:21114
+    }
+    
+    # RustDesk ID
+    handle /rustdesk/id/* {
+        uri strip_prefix /rustdesk/id
+        reverse_proxy localhost:21116
+    }
+    
+    # RustDesk 릴레이
+    handle /rustdesk/relay/* {
+        uri strip_prefix /rustdesk/relay
+        reverse_proxy localhost:21117
+    }
+}
+```
+
 ## 방화벽 상태 (firewalld)
 - 존: `public (default, active)`
 - 허용 서비스: `dhcpv6-client`, `http`, `https`, `ssh`
