@@ -57,3 +57,6 @@ xrandr --output eDP --scale 2x2         # 2560x1600 효과
 
 ## 원래 상태(1280x800)로 복구
 xrandr --output eDP --scale 1x1
+
+## VectorDB
+LanceDB
