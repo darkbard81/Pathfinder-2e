@@ -8,7 +8,7 @@
 ## 🌐 게이트웨이 / 네트워크
 - 게이트웨이 IP: `192.168.219.1`
 - 내부 서버 IP: `192.168.219.193`
-- DDNS 도메인: `fvtt.krpd.ddns.net`
+- DDNS 도메인: `fvtt.*.ddns.net`
 
 ## 🖥️ 서버 장비
 - **호스트 장치**: SteamDeck (Arch Linux / SteamOS, X11 세션)
@@ -17,7 +17,7 @@
   - **FVTT (Foundry VTT)**  
     - 포트: `30000` (Podman 컨테이너)
     - Caddy Reverse Proxy → HTTPS 제공
-    - 외부 접근: `https://fvtt.krpd.ddns.net`
+    - 외부 접근: `https://fvtt.*.ddns.net`
     - 내부 접근: `https://localhost` (Caddy 처리)
 
   - **RustDesk (원격 접속)**  
