@@ -106,6 +106,7 @@ This page provides an overview of applications that support the Model Context Pr
 ## Feature support matrix
 
 <div id="feature-support-matrix-wrapper">
+  
   | Client                                                     | [Resources] | [Prompts] | [Tools] | [Discovery] | [Sampling] | [Roots] | [Elicitation] | [Instructions] |
   | ---------------------------------------------------------- | ----------- | --------- | ------- | ----------- | ---------- | ------- | ------------- | -------------- |
   | [5ire][5ire]                                               | ❌           | ❌         | ✅       | ❓           | ❌          | ❌       | ❓             | ❓              |
@@ -201,6 +202,7 @@ This page provides an overview of applications that support the Model Context Pr
   | [Witsy][Witsy]                                             | ❌           | ❌         | ✅       | ❓           | ❌          | ❌       | ❓             | ❓              |
   | [Zed][Zed]                                                 | ❌           | ✅         | ✅       | ❌           | ❌          | ❌       | ❓             | ❓              |
   | [Zencoder][Zencoder]                                       | ❌           | ❌         | ✅       | ❌           | ❌          | ❌       | ❓             | ❓              |
+
 
   [Resources]: /docs/concepts/resources
 
