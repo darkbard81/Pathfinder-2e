@@ -34,9 +34,9 @@ node main.mjs --dataPath=/data --port=30000
 ## 5. 업데이트
 - 그냥 실행
 ```bash
-podman run -it \
+podman run -d \
   --name fvtt-dev \
-  -p 30000:30000 \
+  --network host \
   -v ~/foundryvtt:/app \
   -v ~/foundry_data:/data \
   node:20 \
