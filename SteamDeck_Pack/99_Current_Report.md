@@ -15,7 +15,7 @@
 - **컨테이너 런타임**: Podman (`--net host` 모드 사용)
 - **주요 서비스**:
   - **FVTT (Foundry VTT)**  
-    - 포트: `30000` (Podman 컨테이너)
+    - 포트: `30000` (`--net host` 모드 사용)
     - Caddy Reverse Proxy → HTTPS 제공
     - 외부 접근: `https://fvtt.*.ddns.net`
     - 내부 접근: `https://localhost` (Caddy 처리)
