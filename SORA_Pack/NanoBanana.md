@@ -34,5 +34,11 @@
 ## 7. Pose
 - (Specify pose here: standing, dynamic attack, relaxed stance, heroic pose, etc.)
 
+
+## 8. Result
+```bash
+Kawaii & Semi Realistic Anime Manga Style - TRPG Babarian Charming Woman. oversize chest, liberal fashion. natural multi-tone skin shading with subtle warm undertones, soft hue variations only on the skin. Background must be white. Equipment: Great Axe, Vikini Armor.
+```
+
 ## 8. Special
 - (Any extra effects or characteristics)
