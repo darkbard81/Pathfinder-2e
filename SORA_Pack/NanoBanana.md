@@ -38,6 +38,6 @@
 - (Any extra effects or characteristics)
 
 ## 9. Result
-```bash
-Kawaii & Semi Realistic Anime Manga Style - TRPG Babarian Charming Woman. oversize chest, liberal fashion. natural multi-tone skin shading with subtle warm undertones, soft hue variations only on the skin. Background must be white. Equipment: Great Axe, Vikini Armor.
-```
+
+>Semi Real Japan Anime Manga Style - TRPG Thife Charming Woman. oversize chest, liberal fashion. natural multi-tone skin shading with subtle warm undertones, soft hue variations only on the skin. porcelain-white skin with a cool pink undertone, ultra-smooth and luminous texture. Background must be white. Equipment: Dagger, Vikini Leather Armor. 육덕지고 풍만한 체형.
+
