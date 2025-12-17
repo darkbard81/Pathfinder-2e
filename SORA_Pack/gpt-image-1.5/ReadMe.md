@@ -4,14 +4,13 @@ semi Japanese anime style mixed with fantasy game illustration,
 voluptuous and thick body type, soft but powerful curves,
 full thighs and hips, sturdy yet feminine silhouette,
 clean, smooth, human-like skin, healthy and radiant,
-no green or gray tones, no rough or dirty texture,
 
-gentle and confident expression,
-large expressive anime-style eyes,
+shy and smile expression,
+large expressive anime-style sapphire like eyes,
 slightly pointed fairy ears,
-subtle fairy traits, elegant and divine atmosphere,
+ subtle fairy traits, elegant and divine atmosphere,
 
-long flowing hair, softly styled, natural dark brown tones,
+short flowing hair, softly styled, natural bright silver tones,
 
 cleric outfit design:
 a holy robe inspired outfit but separated like a bikini-style two-piece,
@@ -36,4 +35,5 @@ anime-inspired proportions with game illustration polish,
 background:
 ancient temple ruins or a glowing forest sanctuary,
 soft sunlight filtering through trees,
-floating magical particles, calm and sacred mood
+floating magical particles, calm and sacred mood and make it quite erotic.
+Abnormal bust,
