@@ -187,8 +187,8 @@ const config: Phaser.Types.Core.GameConfig = {
 
   type: Phaser.AUTO,
 
-  width: 1280,
-  height: 720,
+  width: 720,
+  height: 1280,
 
   scene: [
     BootScene,
